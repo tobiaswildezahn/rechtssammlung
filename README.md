@@ -205,6 +205,8 @@ graph LR
     NIS2UmsuCG -->|3x| GG
     KZV -->|3x| GG
     Resilienzstrategie -->|3x| BSIG
+    NATOVertrag["NATOVertrag"]
+    Resilienzstrategie -->|3x| NATOVertrag
     BG -->|2x| PersVG
     BeamtVG -->|2x| BBG
     HmbSUrlR["HmbSUrlR"]
@@ -212,9 +214,11 @@ graph LR
     FeuerwG -->|2x| KatSchG
     FeuerwG -->|2x| BG
     FeuerwG -->|2x| SOG
+    BSIG -->|2x| NATOVertrag
     KRITIS_Dachgesetz -->|2x| GG
     KRITIS_Dachgesetz -->|2x| NIS2UmsuCG
     NIS2UmsuCG -->|2x| EnSiG
+    NIS2UmsuCG -->|2x| NATOVertrag
     RettDG_Entwurf -->|2x| ZSKG
     BBKG["BBKG"]
     KZV -->|2x| BBKG
