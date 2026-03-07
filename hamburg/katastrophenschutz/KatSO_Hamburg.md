@@ -18,7 +18,7 @@ In der Fassung vom 15. September 1984
 
 #### Nr. 1
 
-- (1) Nach § 13 HmbKatSG hat jede Katastrophenschutzbehörde insbesondere
+- (1) Nach § 13 [HmbKatSG](KatSchG_HA.md) hat jede Katastrophenschutzbehörde insbesondere
   - a) den Leiter ihrer Katastrophenabwehr zu bestimmen, der für alle Abwehrmaßnahmen der Behörde verantwortlich ist; es bleibt der Behörde unbenommen, für einzelne Fachgebiete nachgeordnete Leiter der Katastrophenabwehr zu bestellen,
   - b) einen Stab einzurichten, der dem Leiter der Katastrophenabwehr zugeordnet ist,
   - c) die unverzügliche Einsatzbereitschaft ihres Leiters und Stabes sicherzustellen,
@@ -30,7 +30,7 @@ In der Fassung vom 15. September 1984
 {1}------------------------------------------------
 
 - (3) Die Einsatzpläne müssen auch Angaben über denkbare Maßnahmen der unterstellten Einsatzkräfte enthalten.
-- (4) Darüber hinaus haben die Katastrophenschutzbehörden die weiteren Aufgaben wahrzunehmen, die ihnen durch § 13 HmbKatSG zugewiesen worden sind.
+- (4) Darüber hinaus haben die Katastrophenschutzbehörden die weiteren Aufgaben wahrzunehmen, die ihnen durch § 13 [HmbKatSG](KatSchG_HA.md) zugewiesen worden sind.
 
 #### Nr. 2
 
@@ -66,7 +66,7 @@ Die Leiter der Katastrophenabwehr mit ihren Stäben lenken die Katastrophenabweh
 
 #### Nr. 5
 
-- (1) Die einheitliche Lenkung der Abwehrmaßnahmen mehrerer Behörden (§ 1 HmbKatSG) ist Aufgabe des für die Behörde für Inneres zuständigen Staatsrats; für ihn sind zwei Staatsräte zu Stellvertretern zu bestellen. Der Präses der Behörde für Inneres oder der Präsident des Senats können jederzeit die Lenkung der Abwehrmaßnahmen übernehmen.
+- (1) Die einheitliche Lenkung der Abwehrmaßnahmen mehrerer Behörden (§ 1 [HmbKatSG](KatSchG_HA.md)) ist Aufgabe des für die Behörde für Inneres zuständigen Staatsrats; für ihn sind zwei Staatsräte zu Stellvertretern zu bestellen. Der Präses der Behörde für Inneres oder der Präsident des Senats können jederzeit die Lenkung der Abwehrmaßnahmen übernehmen.
 - (2) Der Präsident des Senats, der Präses der Behörde für Inneres, der für die Behörde für Inneres zuständigen Staatsrat und seine Stellvertreter gemäß Absatz 1 werden nach § 22 Absatz 1 Buchstabe b der Geschäftsordnung des Senats ermächtigt, im Katastrophenfall allen hamburgischen Behörden durch Senatsbeschluss im Verfügungswege zur Abwehr unmittelbarer Gefahren Weisungen zu erteilen, wenn und solange Entscheidungen der Vollversammlung des Senats nicht oder nicht rechtzeitig herbeigeführt werden können. Die Urschrift dieser Beschlüsse verbleibt bei der Behörde für Inneres.
 
 #### Nr. 6
@@ -117,7 +117,7 @@ Alle Leiter, Stäbe und örtlichen Einsatzleitungen arbeiten eng zusammen. Sie h
 
 #### Nr. 13
 
-- (1) Der für die Behörde für Inneres zuständige Staatsrat oder seine Stellvertreter entscheiden über die Einberufung des ZKD. Sie ist insbesondere erforderlich, wenn die Bekämpfung der Katastrophe das Zusammenwirken mehrerer Behörden oder die Verstärkung der für den täglichen Dienst bestimmten Kräfte und Mittel durch Einheiten oder Einrichtungen i. S. von § 3 Absatz 1 Nr. 1 HmbKatSG notwendig erscheinen lässt.
+- (1) Der für die Behörde für Inneres zuständige Staatsrat oder seine Stellvertreter entscheiden über die Einberufung des ZKD. Sie ist insbesondere erforderlich, wenn die Bekämpfung der Katastrophe das Zusammenwirken mehrerer Behörden oder die Verstärkung der für den täglichen Dienst bestimmten Kräfte und Mittel durch Einheiten oder Einrichtungen i. S. von § 3 Absatz 1 Nr. 1 [HmbKatSG](KatSchG_HA.md) notwendig erscheinen lässt.
 - (2) Sind der für die Behörde für Inneres zuständige Staatsrat und seine Stellvertreter nicht erreichbar, so entscheidet der Leiter des ZKD und für den Fall, dass auch dieser und seine Vertreter nicht erreichbar sind, der Polizeiführer vom Dienst über die Einberufung des ZKD.
 - (3) Die Leiter der Katastrophenabwehr können ihre Stäbe und die ihnen unterstellten Einsatzkräfte auch einberufen, wenn die Alarmierung des ZKD noch nicht erfolgt ist.
 

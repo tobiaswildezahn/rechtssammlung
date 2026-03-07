@@ -55,43 +55,50 @@
     "SOG": {
       "path": "hamburg/SOG_HA.md",
       "aliases": [
-        "Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung"
+        "Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung",
+        "HmbSOG"
       ]
     },
     "BG": {
       "path": "hamburg/beamtenrecht/BG_HA_2009.md",
       "aliases": [
-        "Hamburgisches Beamtengesetz"
+        "Hamburgisches Beamtengesetz",
+        "HmbBG"
       ]
     },
     "BeamtVG": {
       "path": "hamburg/beamtenrecht/BeamtVG_HA.md",
       "aliases": [
-        "Hamburgisches Beamtenversorgungsgesetz"
+        "Hamburgisches Beamtenversorgungsgesetz",
+        "HmbBeamtVG"
       ]
     },
     "BesG": {
       "path": "hamburg/beamtenrecht/BesG_HA_2010.md",
       "aliases": [
-        "Hamburgisches Besoldungsgesetz"
+        "Hamburgisches Besoldungsgesetz",
+        "HmbBesG"
       ]
     },
     "DG": {
       "path": "hamburg/beamtenrecht/DG_HA.md",
       "aliases": [
-        "Hamburgisches Disziplinargesetz"
+        "Hamburgisches Disziplinargesetz",
+        "HmbDG"
       ]
     },
     "GleichstG": {
       "path": "hamburg/beamtenrecht/GleichstG_HA_2015.md",
       "aliases": [
-        "Hamburgisches Gleichstellungsgesetz"
+        "Hamburgisches Gleichstellungsgesetz",
+        "HmbGleichstG"
       ]
     },
     "PersVG": {
       "path": "hamburg/beamtenrecht/PersVG_HA_2014.md",
       "aliases": [
-        "Hamburgisches Personalvertretungsgesetz"
+        "Hamburgisches Personalvertretungsgesetz",
+        "HmbPersVG"
       ]
     },
     "DS-Anpassung-HH": {
@@ -104,7 +111,8 @@
       "path": "hamburg/katastrophenschutz/FeuerwG_HA.md",
       "aliases": [
         "Feuerwehrgesetz Hamburg",
-        "Hamburgisches Feuerwehrgesetz"
+        "Hamburgisches Feuerwehrgesetz",
+        "FeuerwG HA"
       ]
     },
     "KatSO": {
@@ -116,19 +124,22 @@
     "KatSchG": {
       "path": "hamburg/katastrophenschutz/KatSchG_HA.md",
       "aliases": [
-        "Hamburgisches Katastrophenschutzgesetz"
+        "Hamburgisches Katastrophenschutzgesetz",
+        "HmbKatSG"
       ]
     },
     "RettDG": {
       "path": "hamburg/katastrophenschutz/RettDG_HA_2019.md",
       "aliases": [
-        "Hamburgisches Rettungsdienstgesetz"
+        "Hamburgisches Rettungsdienstgesetz",
+        "HmbRettDG"
       ]
     },
     "KRITIS-Dachgesetz": {
       "path": "kritis/KRITIS-Dachgesetz_BT-Drucksache.md",
       "aliases": [
-        "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen"
+        "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen",
+        "KRITIS-Dachgesetz"
       ]
     },
     "NIS2UmsuCG": {
@@ -174,7 +185,8 @@
     "ESVG": {
       "path": "zivile-verteidigung/sicherstellungsgesetze/ESVG_Ernaehrungssicherstellungsgesetz.md",
       "aliases": [
-        "Ernaehrungssicherstellungsgesetz"
+        "Ernaehrungssicherstellungsgesetz",
+        "Ernährungssicherstellungsgesetz"
       ]
     },
     "EnSiG": {
@@ -187,7 +199,8 @@
     "PostG": {
       "path": "zivile-verteidigung/sicherstellungsgesetze/PostG_Postgesetz_inkl_Sicherstellung.md",
       "aliases": [
-        "Postgesetz inkl Sicherstellung"
+        "Postgesetz inkl Sicherstellung",
+        "Postgesetz"
       ]
     },
     "TKG": {
@@ -264,9 +277,24 @@
       "count": 4
     },
     {
+      "from": "BesG",
+      "to": "BeamtVG",
+      "count": 2
+    },
+    {
+      "from": "DG",
+      "to": "BeamtVG",
+      "count": 8
+    },
+    {
       "from": "DG",
       "to": "BeamtStG",
       "count": 6
+    },
+    {
+      "from": "GleichstG",
+      "to": "PersVG",
+      "count": 3
     },
     {
       "from": "DS-Anpassung-HH",
@@ -282,6 +310,11 @@
       "from": "DS-Anpassung-HH",
       "to": "GG",
       "count": 1
+    },
+    {
+      "from": "KatSO",
+      "to": "KatSchG",
+      "count": 4
     },
     {
       "from": "RettDG",
@@ -384,5 +417,5 @@
       "count": 1
     }
   ],
-  "graph_mermaid": "```mermaid\ngraph LR\n    BG[\"BG\"]\n    BeamtStG[\"BeamtStG\"]\n    BG -->|75x| BeamtStG\n    IfSG[\"IfSG\"]\n    GG[\"GG\"]\n    IfSG -->|15x| GG\n    KZV[\"KZV\"]\n    WiSiG[\"WiSiG\"]\n    KZV -->|9x| WiSiG\n    DG[\"DG\"]\n    DG -->|6x| BeamtStG\n    BeurtVO_Fw[\"BeurtVO-Fw\"]\n    BeurtVO_Fw -->|5x| BeamtStG\n    VerkSiG[\"VerkSiG\"]\n    KZV -->|5x| VerkSiG\n    BesG[\"BesG\"]\n    BesG -->|4x| BeamtStG\n    KRITIS_Dachgesetz[\"KRITIS-Dachgesetz\"]\n    TKG[\"TKG\"]\n    KRITIS_Dachgesetz -->|4x| TKG\n    RettDG_Entwurf[\"RettDG-Entwurf\"]\n    RettDG_Entwurf -->|4x| GG\n    ZSKG[\"ZSKG\"]\n    KZV -->|4x| ZSKG\n    Resilienzstrategie[\"Resilienzstrategie\"]\n    Resilienzstrategie -->|4x| KZV\n    Resilienzstrategie -->|4x| ZSKG\n    RettDG[\"RettDG\"]\n    RettDG_Entwurf -->|3x| RettDG\n    EnSiG[\"EnSiG\"]\n    KZV -->|3x| EnSiG\n    DS_Anpassung_HH[\"DS-Anpassung-HH\"]\n    KatSchG[\"KatSchG\"]\n    DS_Anpassung_HH -->|2x| KatSchG\n    DS_Anpassung_HH -->|2x| RettDG_Entwurf\n    NIS2UmsuCG[\"NIS2UmsuCG\"]\n    KRITIS_Dachgesetz -->|2x| NIS2UmsuCG\n    RettDG_Entwurf -->|2x| ZSKG\n    WasSiG[\"WasSiG\"]\n    KZV -->|2x| WasSiG\n    ASG[\"ASG\"]\n    KZV -->|2x| ASG\n    Resilienzstrategie -->|2x| GG\n    AGG[\"AGG\"]\n    AGG --> GG\n    BBG[\"BBG\"]\n    BBG --> GG\n    BeamtStG --> GG\n    BeurtVO_Fw --> BG\n    BG --> GG\n    DS_Anpassung_HH --> GG\n    RettDG --> RettDG_Entwurf\n    NIS2UmsuCG --> EnSiG\n    NIS2UmsuCG --> TKG\n    RettDG_Entwurf --> IfSG\n    KZV --> GG\n    VerkSiG --> ZSKG\n```"
+  "graph_mermaid": "```mermaid\ngraph LR\n    BG[\"BG\"]\n    BeamtStG[\"BeamtStG\"]\n    BG -->|75x| BeamtStG\n    IfSG[\"IfSG\"]\n    GG[\"GG\"]\n    IfSG -->|15x| GG\n    KZV[\"KZV\"]\n    WiSiG[\"WiSiG\"]\n    KZV -->|9x| WiSiG\n    DG[\"DG\"]\n    BeamtVG[\"BeamtVG\"]\n    DG -->|8x| BeamtVG\n    DG -->|6x| BeamtStG\n    BeurtVO_Fw[\"BeurtVO-Fw\"]\n    BeurtVO_Fw -->|5x| BeamtStG\n    VerkSiG[\"VerkSiG\"]\n    KZV -->|5x| VerkSiG\n    BesG[\"BesG\"]\n    BesG -->|4x| BeamtStG\n    KatSO[\"KatSO\"]\n    KatSchG[\"KatSchG\"]\n    KatSO -->|4x| KatSchG\n    KRITIS_Dachgesetz[\"KRITIS-Dachgesetz\"]\n    TKG[\"TKG\"]\n    KRITIS_Dachgesetz -->|4x| TKG\n    RettDG_Entwurf[\"RettDG-Entwurf\"]\n    RettDG_Entwurf -->|4x| GG\n    ZSKG[\"ZSKG\"]\n    KZV -->|4x| ZSKG\n    Resilienzstrategie[\"Resilienzstrategie\"]\n    Resilienzstrategie -->|4x| KZV\n    Resilienzstrategie -->|4x| ZSKG\n    GleichstG[\"GleichstG\"]\n    PersVG[\"PersVG\"]\n    GleichstG -->|3x| PersVG\n    RettDG[\"RettDG\"]\n    RettDG_Entwurf -->|3x| RettDG\n    EnSiG[\"EnSiG\"]\n    KZV -->|3x| EnSiG\n    BesG -->|2x| BeamtVG\n    DS_Anpassung_HH[\"DS-Anpassung-HH\"]\n    DS_Anpassung_HH -->|2x| KatSchG\n    DS_Anpassung_HH -->|2x| RettDG_Entwurf\n    NIS2UmsuCG[\"NIS2UmsuCG\"]\n    KRITIS_Dachgesetz -->|2x| NIS2UmsuCG\n    RettDG_Entwurf -->|2x| ZSKG\n    WasSiG[\"WasSiG\"]\n    KZV -->|2x| WasSiG\n    ASG[\"ASG\"]\n    KZV -->|2x| ASG\n    Resilienzstrategie -->|2x| GG\n    AGG[\"AGG\"]\n    AGG --> GG\n    BBG[\"BBG\"]\n    BBG --> GG\n    BeamtStG --> GG\n    BeurtVO_Fw --> BG\n    BG --> GG\n    DS_Anpassung_HH --> GG\n    RettDG --> RettDG_Entwurf\n    NIS2UmsuCG --> EnSiG\n    NIS2UmsuCG --> TKG\n    RettDG_Entwurf --> IfSG\n    KZV --> GG\n    VerkSiG --> ZSKG\n```"
 }
