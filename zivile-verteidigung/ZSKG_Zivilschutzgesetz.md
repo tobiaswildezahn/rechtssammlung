@@ -52,7 +52,7 @@ Das G wurde als Artikel 1 G v. 25.3.1997 I 726 (ZSNeuOG) vom Bundestag mit Zusti
 - 4. die Information der Bevölkerung über den Zivilschutz, insbesondere über Schutz- und Hilfeleistungsmöglichkeiten,
 - 5. die Aufgabenstellung für technisch-wissenschaftliche Forschung im Benehmen mit den Ländern, die Auswertung von Forschungsergebnissen sowie die Sammlung und Auswertung von Veröffentlichungen auf dem Gebiet der zivilen Verteidigung,
 - 6. die Prüfung von ausschließlich oder überwiegend für den Zivilschutz bestimmten Geräten und Mitteln sowie die Mitwirkung bei der Zulassung, Normung und Qualitätssicherung dieser Gegenstände.
-- (2) Die der Bundesregierung nach Artikel 85 Abs. 4 des Grundgesetzes auf dem Gebiet des Zivilschutzes zustehenden Befugnisse werden auf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen.
+- (2) Die der Bundesregierung nach Artikel 85 Abs. 4 des [Grundgesetzes](../grundgesetz/GG.md) auf dem Gebiet des Zivilschutzes zustehenden Befugnisse werden auf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen.
 
 # **Zweiter Abschnitt Selbstschutz**
 
@@ -92,7 +92,7 @@ Zum Schutz lebens- oder verteidigungswichtiger Anlagen und Einrichtungen können
 
 ### **§ 10 Aufenthaltsregelung**
 
-- (1) Zum Schutze vor den besonderen Gefahren, die der Bevölkerung im Verteidigungsfall drohen, oder für Zwecke der Verteidigung können die obersten Landesbehörden oder die von ihnen bestimmten oder nach Landesrecht zuständigen Stellen nach Maßgabe des Artikels 80a des Grundgesetzes anordnen, daß
+- (1) Zum Schutze vor den besonderen Gefahren, die der Bevölkerung im Verteidigungsfall drohen, oder für Zwecke der Verteidigung können die obersten Landesbehörden oder die von ihnen bestimmten oder nach Landesrecht zuständigen Stellen nach Maßgabe des Artikels 80a des [Grundgesetzes](../grundgesetz/GG.md) anordnen, daß
 - 1. der jeweilige Aufenthaltsort nur mit Erlaubnis verlassen oder ein bestimmtes Gebiet nicht betreten werden darf,
 
 - 2. die Bevölkerung besonders gefährdeter Gebiete vorübergehend evakuiert wird.
@@ -122,11 +122,11 @@ Die Aus- und Fortbildungsmaßnahmen des Bundesamtes für Bevölkerungsschutz und
 
 #### **§ 15 Aufgaben der Katastrophenschutzbehörde**
 
-Die für den Katastrophenschutz zuständige Behörde leitet und koordiniert alle Hilfsmaßnahmen in ihrem Bereich. Sie beaufsichtigt die Einheiten und Einrichtungen des Katastrophenschutzes bei der Durchführung der Aufgaben nach diesem Gesetz. Sie kann den Trägern der Einheiten in ihrem Bereich Weisungen zur Durchführung von Veranstaltungen zur ergänzenden Aus- und Fortbildung sowie zur Unterbringung und Pflege der ergänzenden Ausstattung erteilen. Bei Einsätzen und angeordneten Übungen nach diesem Gesetz unterstehen ihr auch die Einheiten und Einrichtungen der Bundesanstalt Technisches Hilfswerk, die nach § 1 Absatz 2 Nummer 1 des THW-Gesetzes in der jeweils geltenden Fassung beauftragt und ermächtigt ist, technische Hilfe im Zivilschutz zu leisten.
+Die für den Katastrophenschutz zuständige Behörde leitet und koordiniert alle Hilfsmaßnahmen in ihrem Bereich. Sie beaufsichtigt die Einheiten und Einrichtungen des Katastrophenschutzes bei der Durchführung der Aufgaben nach diesem Gesetz. Sie kann den Trägern der Einheiten in ihrem Bereich Weisungen zur Durchführung von Veranstaltungen zur ergänzenden Aus- und Fortbildung sowie zur Unterbringung und Pflege der ergänzenden Ausstattung erteilen. Bei Einsätzen und angeordneten Übungen nach diesem Gesetz unterstehen ihr auch die Einheiten und Einrichtungen der Bundesanstalt Technisches Hilfswerk, die nach § 1 Absatz 2 Nummer 1 des [THW-Gesetzes](THWG_THW-Gesetz.md) in der jeweils geltenden Fassung beauftragt und ermächtigt ist, technische Hilfe im Zivilschutz zu leisten.
 
 ### **§ 16 Koordinierungsmaßnahmen; Ressourcenmanagement**
 
-- (1) Die Einrichtungen und Vorhaltungen des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe, insbesondere im Bereich Lageerfassung und -bewertung sowie Nachweis und Vermittlung von Engpassressourcen, können auch im Rahmen der Amtshilfe nach Artikel 35 Abs. 1 des Grundgesetzes zur Unterstützung eines Landes verwendet werden.
+- (1) Die Einrichtungen und Vorhaltungen des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe, insbesondere im Bereich Lageerfassung und -bewertung sowie Nachweis und Vermittlung von Engpassressourcen, können auch im Rahmen der Amtshilfe nach Artikel 35 Abs. 1 des [Grundgesetzes](../grundgesetz/GG.md) zur Unterstützung eines Landes verwendet werden.
 - (2) Die Unterstützung nach Absatz 1 umfasst auch die Koordinierung von Hilfsmaßnahmen durch den Bund, wenn das betroffene Land oder die betroffenen Länder darum ersuchen. Die Festlegung, welche Maßnahmen vom Bund koordiniert werden, trifft der Bund im Einvernehmen mit dem betroffenen Land oder den betroffenen Ländern.
 - (3) Die Zuständigkeit der Länder für das operative Krisenmanagement bleibt unberührt.
 - (4) Der Bund hält Koordinierungsinstrumente vor. Der Aufruf bundeseigener Krisenmanagementstrukturen für die Erfüllung seiner eigenen Aufgaben bleibt unberührt.
@@ -175,14 +175,14 @@ Der Bund unterstützt das Ehrenamt als Grundlage des Zivil- und Katastrophenschu
 - 1. Einrichtungen der gesundheitlichen Versorgung ihre Leistungsfähigkeit auf die Anforderungen im Verteidigungsfall umzustellen, zu erweitern und ihre Einsatzbereitschaft herzustellen haben,
 - 2. den für den Katastrophenschutz zuständigen Behörden die Rettungsleitstellen ihres Bereiches unterstellt werden und daß diese die ihnen zugeordneten Dienste in ständiger Einsatzbereitschaft zu halten und unter ärztlicher Leitung die Belegung von stationären Einrichtungen zu regeln haben,
 - 3. jede der stationären Behandlung dienende Einrichtung der zuständigen Rettungsleitstelle anzuschließen ist.
-- (2) Zur Sicherstellung von Arbeitsleistungen in Einrichtungen der gesundheitlichen Versorgung wird die Bundesregierung ermächtigt, durch Rechtsverordnung zu bestimmen, daß sich Wehrpflichtige und Frauen, die nach § 2 Nr. 2 und 3 des Arbeitssicherstellungsgesetzes in ein Arbeitsverhältnis verpflichtet werden können, bei der zuständigen Agentur für Arbeit zu melden haben, soweit sie als Angehörige der Heil- und Heilhilfsberufe im Zeitpunkt des Eintritts der Meldepflicht seit weniger als zehn Jahren nicht in ihrem Beruf tätig sind. Die Rechtsverordnung regelt insbesondere den Beginn der Meldepflicht, die meldepflichtigen Berufsgruppen und die für die Verpflichtung erforderlichen meldepflichtigen Angaben sowie den Schutz von personenbezogenen Informationen unter Berücksichtigung des Grundsatzes der Zweckbindung.
+- (2) Zur Sicherstellung von Arbeitsleistungen in Einrichtungen der gesundheitlichen Versorgung wird die Bundesregierung ermächtigt, durch Rechtsverordnung zu bestimmen, daß sich Wehrpflichtige und Frauen, die nach § 2 Nr. 2 und 3 des [Arbeitssicherstellungsgesetzes](sicherstellungsgesetze/ASG_Arbeitssicherstellungsgesetz.md) in ein Arbeitsverhältnis verpflichtet werden können, bei der zuständigen Agentur für Arbeit zu melden haben, soweit sie als Angehörige der Heil- und Heilhilfsberufe im Zeitpunkt des Eintritts der Meldepflicht seit weniger als zehn Jahren nicht in ihrem Beruf tätig sind. Die Rechtsverordnung regelt insbesondere den Beginn der Meldepflicht, die meldepflichtigen Berufsgruppen und die für die Verpflichtung erforderlichen meldepflichtigen Angaben sowie den Schutz von personenbezogenen Informationen unter Berücksichtigung des Grundsatzes der Zweckbindung.
 
 (3) Die Rechtsverordnung nach Absatz 2 darf nur erlassen werden, wenn und soweit der Bedarf an Arbeitskräften nicht mehr auf freiwilliger Grundlage gedeckt werden kann. Sie ist aufzuheben, wenn Bundestag und Bundesrat es verlangen. Satz 2 gilt entsprechend für die Anordnungen nach Absatz 1.
 
 #### **§ 23 Sanitätsmaterialbevorratung**
 
 - (1) Der Bund stellt den Ländern für die gesundheitliche Versorgung der Bevölkerung im Verteidigungsfall ergänzend Sanitätsmaterial zur Verfügung. Dieses steht den Ländern für ihre Aufgaben im Bereich des Katastrophenschutzes zusätzlich zur Verfügung. Die Länder können das Sanitätsmaterial in ihre Katastrophenschutzvorsorge einplanen.
-- (2) Das Bundesministerium des Innern, für Bau und Heimat kann im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates anordnen, dass nach Maßgabe des Artikels 80a des Grundgesetzes ausreichend Sanitätsmaterial von Herstellungsbetrieben, Großhandlungen sowie öffentlichen und Krankenhausapotheken vorgehalten wird, um die Deckung von zusätzlichem Bedarf im Verteidigungsfall sicherzustellen. Die §§ 4, 8 und 13 bis 16 des Wirtschaftssicherstellungsgesetzes in der Fassung vom 31. Oktober 2006 sind entsprechend anzuwenden.
+- (2) Das Bundesministerium des Innern, für Bau und Heimat kann im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates anordnen, dass nach Maßgabe des Artikels 80a des [Grundgesetzes](../grundgesetz/GG.md) ausreichend Sanitätsmaterial von Herstellungsbetrieben, Großhandlungen sowie öffentlichen und Krankenhausapotheken vorgehalten wird, um die Deckung von zusätzlichem Bedarf im Verteidigungsfall sicherzustellen. Die §§ 4, 8 und 13 bis 16 des [Wirtschaftssicherstellungsgesetzes](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) in der Fassung vom 31. Oktober 2006 sind entsprechend anzuwenden.
 
 ### **§ 24 Erste-Hilfe-Ausbildung und Ausbildung von Pflegehilfskräften**
 
@@ -257,7 +257,7 @@ zuwiderhandelt.
 
 ### **§ 31 Einschränkungen von Grundrechten**
 
-Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
+Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des [Grundgesetzes](../grundgesetz/GG.md)), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des [Grundgesetzes](../grundgesetz/GG.md)), der Freizügigkeit (Artikel 11 Abs. 1 des [Grundgesetzes](../grundgesetz/GG.md)) und der Unverletzlichkeit der Wohnung (Artikel 13 des [Grundgesetzes](../grundgesetz/GG.md)) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 #### **§ 32 Stadtstaatenklausel**
 

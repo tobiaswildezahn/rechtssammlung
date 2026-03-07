@@ -105,91 +105,168 @@ Automatisch erkannte Referenzen zwischen Dokumenten (`lldr crossref`). Maschinen
 
 ```mermaid
 graph LR
+    NIS2UmsuCG["NIS2UmsuCG"]
+    BSIG["BSIG"]
+    NIS2UmsuCG -->|173x| BSIG
     BG["BG"]
     BeamtStG["BeamtStG"]
     BG -->|75x| BeamtStG
-    KRITIS_Dachgesetz["KRITIS-Dachgesetz"]
-    BSIG["BSIG"]
-    KRITIS_Dachgesetz -->|23x| BSIG
     IfSG["IfSG"]
     GG["GG"]
-    IfSG -->|15x| GG
+    IfSG -->|39x| GG
+    KRITIS_Dachgesetz["KRITIS-Dachgesetz"]
+    KRITIS_Dachgesetz -->|30x| BSIG
+    BeamtVG["BeamtVG"]
+    BeamtVG -->|28x| BG
+    RettDG_Entwurf["RettDG-Entwurf"]
+    RettDG["RettDG"]
+    RettDG_Entwurf -->|25x| RettDG
+    BeamtVG -->|22x| BeamtStG
+    DG["DG"]
+    DG -->|17x| BG
+    TKG["TKG"]
+    TKG -->|16x| BSIG
+    BesG["BesG"]
+    BeamtVG -->|15x| BesG
+    BeurtVO_Fw["BeurtVO-Fw"]
+    BeurtVO_Fw -->|13x| BG
+    BBG["BBG"]
+    BBG -->|11x| GG
+    DS_Anpassung_HH["DS-Anpassung-HH"]
+    DS_Anpassung_HH -->|11x| GG
+    ASG["ASG"]
+    ASG -->|11x| GG
+    GasSV["GasSV"]
+    EnSiG["EnSiG"]
+    GasSV -->|11x| EnSiG
+    RettDG -->|10x| RettDG_Entwurf
+    VerkSiG["VerkSiG"]
+    VerkSiG -->|10x| GG
+    BeamtStG -->|9x| GG
+    DG -->|9x| BeamtVG
     KZV["KZV"]
     WiSiG["WiSiG"]
     KZV -->|9x| WiSiG
-    DG["DG"]
-    BeamtVG["BeamtVG"]
-    DG -->|8x| BeamtVG
-    NIS2UmsuCG["NIS2UmsuCG"]
-    NIS2UmsuCG -->|7x| BSIG
-    DG -->|6x| BeamtStG
-    BeurtVO_Fw["BeurtVO-Fw"]
-    BeurtVO_Fw -->|5x| BeamtStG
+    BeamtVG -->|8x| GG
+    NIS2UmsuCG -->|8x| TKG
+    ZSKG["ZSKG"]
+    ZSKG -->|8x| GG
+    DG -->|7x| BeamtStG
+    DG -->|7x| GG
+    DS_Anpassung_HH -->|7x| RettDG_Entwurf
+    BSIG -->|7x| TKG
+    KRITIS_Dachgesetz -->|7x| TKG
+    WiSiG -->|7x| GG
+    BeurtVO_Fw -->|6x| BeamtStG
+    RettDG_Entwurf -->|6x| GG
+    PostG["PostG"]
+    PostG -->|6x| GG
+    BesG -->|5x| BeamtStG
+    BesG -->|5x| BG
+    DG -->|5x| BesG
+    PersVG["PersVG"]
+    PersVG -->|5x| BG
+    PersVG -->|5x| DG
+    KatSchG["KatSchG"]
+    DS_Anpassung_HH -->|5x| KatSchG
     VerkLG["VerkLG"]
     KZV -->|5x| VerkLG
-    VerkSiG["VerkSiG"]
     KZV -->|5x| VerkSiG
-    BesG["BesG"]
-    BesG -->|4x| BeamtStG
+    EnSiG -->|5x| GG
+    SOG["SOG"]
+    SOG -->|4x| GG
+    BG -->|4x| DG
+    GleichstG["GleichstG"]
+    GleichstG -->|4x| PersVG
+    FeuerwG["FeuerwG"]
+    FeuerwG -->|4x| GG
     KatSO["KatSO"]
-    KatSchG["KatSchG"]
     KatSO -->|4x| KatSchG
-    TKG["TKG"]
-    KRITIS_Dachgesetz -->|4x| TKG
-    RettDG_Entwurf["RettDG-Entwurf"]
-    RettDG_Entwurf -->|4x| GG
+    KZV -->|4x| EnSiG
     THWG["THWG"]
     KZV -->|4x| THWG
-    ZSKG["ZSKG"]
+    WasSiG["WasSiG"]
+    KZV -->|4x| WasSiG
     KZV -->|4x| ZSKG
     Resilienzstrategie["Resilienzstrategie"]
     Resilienzstrategie -->|4x| KZV
     Resilienzstrategie -->|4x| ZSKG
-    GleichstG["GleichstG"]
-    PersVG["PersVG"]
-    GleichstG -->|3x| PersVG
-    RettDG["RettDG"]
-    RettDG_Entwurf -->|3x| RettDG
-    EnSiG["EnSiG"]
-    KZV -->|3x| EnSiG
-    BesG -->|2x| BeamtVG
+    Resilienzstrategie -->|4x| GG
+    EltSV["EltSV"]
+    EltSV -->|4x| EnSiG
+    TKG -->|4x| GG
+    WasSiG -->|4x| GG
+    BG -->|3x| GG
+    BG -->|3x| BeamtVG
+    BG -->|3x| BesG
+    BesG -->|3x| BeamtVG
+    KatSchG -->|3x| GG
+    BSIG -->|3x| GG
+    NIS2UmsuCG -->|3x| GG
+    KZV -->|3x| GG
+    Resilienzstrategie -->|3x| BSIG
+    BG -->|2x| PersVG
+    BeamtVG -->|2x| BBG
     HmbSUrlR["HmbSUrlR"]
     HmbSUrlR -->|2x| BG
-    DS_Anpassung_HH["DS-Anpassung-HH"]
-    DS_Anpassung_HH -->|2x| KatSchG
-    DS_Anpassung_HH -->|2x| RettDG_Entwurf
+    FeuerwG -->|2x| KatSchG
+    FeuerwG -->|2x| BG
+    FeuerwG -->|2x| SOG
+    KRITIS_Dachgesetz -->|2x| GG
     KRITIS_Dachgesetz -->|2x| NIS2UmsuCG
+    NIS2UmsuCG -->|2x| EnSiG
     RettDG_Entwurf -->|2x| ZSKG
     BBKG["BBKG"]
     KZV -->|2x| BBKG
-    EltSV["EltSV"]
     KZV -->|2x| EltSV
-    GasSV["GasSV"]
     KZV -->|2x| GasSV
-    WasSiG["WasSiG"]
-    KZV -->|2x| WasSiG
-    ASG["ASG"]
+    KZV -->|2x| BSIG
     KZV -->|2x| ASG
-    Resilienzstrategie -->|2x| BSIG
-    Resilienzstrategie -->|2x| GG
+    ESVG["ESVG"]
+    ESVG -->|2x| GG
+    ESVG -->|2x| VerkSiG
+    EnSiG -->|2x| BSIG
+    ArbZG["ArbZG"]
+    PostG -->|2x| ArbZG
+    VerkSiG -->|2x| ZSKG
     AGG["AGG"]
     AGG --> GG
-    BBG["BBG"]
-    BBG --> GG
-    BeamtStG --> GG
-    BeurtVO_Fw --> BG
-    BG --> GG
-    DS_Anpassung_HH --> GG
-    RettDG --> RettDG_Entwurf
-    NIS2UmsuCG --> EnSiG
+    AGG --> BBG
+    ArbZG --> GG
+    BBG --> BeamtStG
+    BBG --> ASG
+    BeamtStG --> ASG
+    BeurtVO_Fw --> GG
+    SOG --> BeamtStG
+    SOG --> BG
+    BG --> BBG
+    BeamtVG --> DG
+    BesG --> DG
+    DG --> PersVG
+    PersVG --> BeamtVG
+    PersVG --> GG
+    PersVG --> BesG
+    FeuerwG --> BeamtStG
+    KatSchG --> SOG
+    KatSchG --> BeamtStG
+    KatSchG --> BG
+    RettDG --> KatSchG
+    RettDG --> GG
     NIS2UmsuCG --> GasSV
-    NIS2UmsuCG --> TKG
+    RettDG_Entwurf --> KatSchG
     RettDG_Entwurf --> IfSG
     BBKG --> ZSKG
-    KZV --> GG
-    KZV --> BSIG
-    GasSV --> EnSiG
-    VerkSiG --> ZSKG
+    KZV --> TKG
+    ZSKG --> THWG
+    ZSKG --> ASG
+    ZSKG --> WiSiG
+    ASG --> PostG
+    ASG --> TKG
+    ESVG --> VerkLG
+    PostG --> ZSKG
+    TKG --> ZSKG
+    VerkSiG --> PostG
+    VerkSiG --> TKG
 ```
 
 ## Neue Dokumente hinzufuegen

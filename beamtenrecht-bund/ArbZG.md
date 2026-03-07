@@ -248,7 +248,7 @@ wenn dem Arbeitgeber andere Vorkehrungen nicht zugemutet werden können.
 
 die mittelbar oder unmittelbar Auskunft über die Einhaltung des Arbeitszeitgesetzes geben, vorzulegen oder zur Einsicht einzusenden.
 
-- (5) Die Beauftragten der Aufsichtsbehörde sind berechtigt, die Arbeitsstätten während der Betriebs- und Arbeitszeit zu betreten und zu besichtigen; außerhalb dieser Zeit oder wenn sich die Arbeitsstätten in einer Wohnung befinden, dürfen sie ohne Einverständnis des Inhabers nur zur Verhütung von dringenden Gefahren für die öffentliche Sicherheit und Ordnung betreten und besichtigt werden. Der Arbeitgeber hat das Betreten und Besichtigen der Arbeitsstätten zu gestatten. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
+- (5) Die Beauftragten der Aufsichtsbehörde sind berechtigt, die Arbeitsstätten während der Betriebs- und Arbeitszeit zu betreten und zu besichtigen; außerhalb dieser Zeit oder wenn sich die Arbeitsstätten in einer Wohnung befinden, dürfen sie ohne Einverständnis des Inhabers nur zur Verhütung von dringenden Gefahren für die öffentliche Sicherheit und Ordnung betreten und besichtigt werden. Der Arbeitgeber hat das Betreten und Besichtigen der Arbeitsstätten zu gestatten. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des [Grundgesetzes](../grundgesetz/GG.md)) wird insoweit eingeschränkt.
 - (6) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 # Sechster Abschnitt Sonderregelungen

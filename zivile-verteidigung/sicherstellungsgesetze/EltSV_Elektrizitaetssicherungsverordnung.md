@@ -2,7 +2,7 @@
 
 ## Eingangsformel
 
-Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19. Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
+Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie des § 16 Nr. 2 Buchstabe a des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) 1975 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19. Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 ## § 1
 
@@ -30,14 +30,14 @@ Unternehmen und Betriebe, die über Anlagen zur Erzeugung von elektrischer Energ
 
 ## § 3
 
-Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) 1975 handelt, wer vorsätzlich oder fahrlässig
 
 1. einer vollziehbaren Verfügung nach § 1 Abs. 1 zuwiderhandelt oder
 2. eine Meldung nach § 2 nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 ## § 4
 
-Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975 ist die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
+Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) 1975 ist die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
 ## § 5
 
@@ -49,7 +49,7 @@ Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsge
 
 (2) Sie darf erst dann angewandt werden, wenn die Bundesregierung
 
-1. durch Verordnung festgestellt hat, daß die Energieversorgung im Sinne des § 1 Abs. 1 oder des § 2 Abs. 3 des Energiesicherungsgesetzes 1975 gefährdet oder gestört ist, und
+1. durch Verordnung festgestellt hat, daß die Energieversorgung im Sinne des § 1 Abs. 1 oder des § 2 Abs. 3 des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) 1975 gefährdet oder gestört ist, und
 2. die Anwendbarkeit durch Verordnung bestimmt.
 
 ## Anlage (zu § 2)

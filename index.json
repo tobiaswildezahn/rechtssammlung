@@ -289,29 +289,74 @@
       "count": 1
     },
     {
+      "from": "AGG",
+      "to": "BBG",
+      "count": 1
+    },
+    {
+      "from": "ArbZG",
+      "to": "GG",
+      "count": 1
+    },
+    {
       "from": "BBG",
       "to": "GG",
+      "count": 11
+    },
+    {
+      "from": "BBG",
+      "to": "BeamtStG",
+      "count": 1
+    },
+    {
+      "from": "BBG",
+      "to": "ASG",
       "count": 1
     },
     {
       "from": "BeamtStG",
       "to": "GG",
+      "count": 9
+    },
+    {
+      "from": "BeamtStG",
+      "to": "ASG",
       "count": 1
     },
     {
       "from": "IfSG",
       "to": "GG",
-      "count": 15
+      "count": 39
     },
     {
       "from": "BeurtVO-Fw",
       "to": "BG",
-      "count": 1
+      "count": 13
     },
     {
       "from": "BeurtVO-Fw",
       "to": "BeamtStG",
-      "count": 5
+      "count": 6
+    },
+    {
+      "from": "BeurtVO-Fw",
+      "to": "GG",
+      "count": 1
+    },
+    {
+      "from": "SOG",
+      "to": "GG",
+      "count": 4
+    },
+    {
+      "from": "SOG",
+      "to": "BeamtStG",
+      "count": 1
+    },
+    {
+      "from": "SOG",
+      "to": "BG",
+      "count": 1
     },
     {
       "from": "BG",
@@ -321,32 +366,117 @@
     {
       "from": "BG",
       "to": "GG",
+      "count": 3
+    },
+    {
+      "from": "BG",
+      "to": "BeamtVG",
+      "count": 3
+    },
+    {
+      "from": "BG",
+      "to": "DG",
+      "count": 4
+    },
+    {
+      "from": "BG",
+      "to": "BesG",
+      "count": 3
+    },
+    {
+      "from": "BG",
+      "to": "BBG",
+      "count": 1
+    },
+    {
+      "from": "BG",
+      "to": "PersVG",
+      "count": 2
+    },
+    {
+      "from": "BeamtVG",
+      "to": "BesG",
+      "count": 15
+    },
+    {
+      "from": "BeamtVG",
+      "to": "BeamtStG",
+      "count": 22
+    },
+    {
+      "from": "BeamtVG",
+      "to": "BG",
+      "count": 28
+    },
+    {
+      "from": "BeamtVG",
+      "to": "BBG",
+      "count": 2
+    },
+    {
+      "from": "BeamtVG",
+      "to": "GG",
+      "count": 8
+    },
+    {
+      "from": "BeamtVG",
+      "to": "DG",
       "count": 1
     },
     {
       "from": "BesG",
       "to": "BeamtStG",
-      "count": 4
+      "count": 5
+    },
+    {
+      "from": "BesG",
+      "to": "BG",
+      "count": 5
+    },
+    {
+      "from": "BesG",
+      "to": "DG",
+      "count": 1
     },
     {
       "from": "BesG",
       "to": "BeamtVG",
-      "count": 2
+      "count": 3
+    },
+    {
+      "from": "DG",
+      "to": "BG",
+      "count": 17
     },
     {
       "from": "DG",
       "to": "BeamtVG",
-      "count": 8
+      "count": 9
     },
     {
       "from": "DG",
       "to": "BeamtStG",
-      "count": 6
+      "count": 7
+    },
+    {
+      "from": "DG",
+      "to": "BesG",
+      "count": 5
+    },
+    {
+      "from": "DG",
+      "to": "GG",
+      "count": 7
+    },
+    {
+      "from": "DG",
+      "to": "PersVG",
+      "count": 1
     },
     {
       "from": "GleichstG",
       "to": "PersVG",
-      "count": 3
+      "count": 4
     },
     {
       "from": "HmbSUrlR",
@@ -354,19 +484,69 @@
       "count": 2
     },
     {
+      "from": "PersVG",
+      "to": "BeamtVG",
+      "count": 1
+    },
+    {
+      "from": "PersVG",
+      "to": "BG",
+      "count": 5
+    },
+    {
+      "from": "PersVG",
+      "to": "GG",
+      "count": 1
+    },
+    {
+      "from": "PersVG",
+      "to": "BesG",
+      "count": 1
+    },
+    {
+      "from": "PersVG",
+      "to": "DG",
+      "count": 5
+    },
+    {
       "from": "DS-Anpassung-HH",
       "to": "KatSchG",
-      "count": 2
+      "count": 5
     },
     {
       "from": "DS-Anpassung-HH",
       "to": "RettDG-Entwurf",
-      "count": 2
+      "count": 7
     },
     {
       "from": "DS-Anpassung-HH",
       "to": "GG",
+      "count": 11
+    },
+    {
+      "from": "FeuerwG",
+      "to": "KatSchG",
+      "count": 2
+    },
+    {
+      "from": "FeuerwG",
+      "to": "BeamtStG",
       "count": 1
+    },
+    {
+      "from": "FeuerwG",
+      "to": "BG",
+      "count": 2
+    },
+    {
+      "from": "FeuerwG",
+      "to": "GG",
+      "count": 4
+    },
+    {
+      "from": "FeuerwG",
+      "to": "SOG",
+      "count": 2
     },
     {
       "from": "KatSO",
@@ -374,19 +554,64 @@
       "count": 4
     },
     {
+      "from": "KatSchG",
+      "to": "SOG",
+      "count": 1
+    },
+    {
+      "from": "KatSchG",
+      "to": "GG",
+      "count": 3
+    },
+    {
+      "from": "KatSchG",
+      "to": "BeamtStG",
+      "count": 1
+    },
+    {
+      "from": "KatSchG",
+      "to": "BG",
+      "count": 1
+    },
+    {
       "from": "RettDG",
       "to": "RettDG-Entwurf",
+      "count": 10
+    },
+    {
+      "from": "RettDG",
+      "to": "KatSchG",
       "count": 1
+    },
+    {
+      "from": "RettDG",
+      "to": "GG",
+      "count": 1
+    },
+    {
+      "from": "BSIG",
+      "to": "TKG",
+      "count": 7
+    },
+    {
+      "from": "BSIG",
+      "to": "GG",
+      "count": 3
     },
     {
       "from": "KRITIS-Dachgesetz",
       "to": "BSIG",
-      "count": 23
+      "count": 30
     },
     {
       "from": "KRITIS-Dachgesetz",
       "to": "TKG",
-      "count": 4
+      "count": 7
+    },
+    {
+      "from": "KRITIS-Dachgesetz",
+      "to": "GG",
+      "count": 2
     },
     {
       "from": "KRITIS-Dachgesetz",
@@ -396,12 +621,22 @@
     {
       "from": "NIS2UmsuCG",
       "to": "BSIG",
-      "count": 7
+      "count": 173
     },
     {
       "from": "NIS2UmsuCG",
       "to": "EnSiG",
-      "count": 1
+      "count": 2
+    },
+    {
+      "from": "NIS2UmsuCG",
+      "to": "TKG",
+      "count": 8
+    },
+    {
+      "from": "NIS2UmsuCG",
+      "to": "GG",
+      "count": 3
     },
     {
       "from": "NIS2UmsuCG",
@@ -409,19 +644,19 @@
       "count": 1
     },
     {
-      "from": "NIS2UmsuCG",
-      "to": "TKG",
-      "count": 1
+      "from": "RettDG-Entwurf",
+      "to": "GG",
+      "count": 6
     },
     {
       "from": "RettDG-Entwurf",
       "to": "RettDG",
-      "count": 3
+      "count": 25
     },
     {
       "from": "RettDG-Entwurf",
-      "to": "GG",
-      "count": 4
+      "to": "KatSchG",
+      "count": 1
     },
     {
       "from": "RettDG-Entwurf",
@@ -451,7 +686,7 @@
     {
       "from": "KZV",
       "to": "EnSiG",
-      "count": 3
+      "count": 4
     },
     {
       "from": "KZV",
@@ -476,7 +711,7 @@
     {
       "from": "KZV",
       "to": "WasSiG",
-      "count": 2
+      "count": 4
     },
     {
       "from": "KZV",
@@ -491,11 +726,16 @@
     {
       "from": "KZV",
       "to": "GG",
-      "count": 1
+      "count": 3
     },
     {
       "from": "KZV",
       "to": "BSIG",
+      "count": 2
+    },
+    {
+      "from": "KZV",
+      "to": "TKG",
       "count": 1
     },
     {
@@ -504,9 +744,29 @@
       "count": 2
     },
     {
+      "from": "ZSKG",
+      "to": "GG",
+      "count": 8
+    },
+    {
+      "from": "ZSKG",
+      "to": "THWG",
+      "count": 1
+    },
+    {
+      "from": "ZSKG",
+      "to": "ASG",
+      "count": 1
+    },
+    {
+      "from": "ZSKG",
+      "to": "WiSiG",
+      "count": 1
+    },
+    {
       "from": "Resilienzstrategie",
       "to": "BSIG",
-      "count": 2
+      "count": 3
     },
     {
       "from": "Resilienzstrategie",
@@ -521,18 +781,118 @@
     {
       "from": "Resilienzstrategie",
       "to": "GG",
+      "count": 4
+    },
+    {
+      "from": "ASG",
+      "to": "GG",
+      "count": 11
+    },
+    {
+      "from": "ASG",
+      "to": "PostG",
+      "count": 1
+    },
+    {
+      "from": "ASG",
+      "to": "TKG",
+      "count": 1
+    },
+    {
+      "from": "ESVG",
+      "to": "GG",
+      "count": 2
+    },
+    {
+      "from": "ESVG",
+      "to": "VerkLG",
+      "count": 1
+    },
+    {
+      "from": "ESVG",
+      "to": "VerkSiG",
+      "count": 2
+    },
+    {
+      "from": "EltSV",
+      "to": "EnSiG",
+      "count": 4
+    },
+    {
+      "from": "EnSiG",
+      "to": "GG",
+      "count": 5
+    },
+    {
+      "from": "EnSiG",
+      "to": "BSIG",
       "count": 2
     },
     {
       "from": "GasSV",
       "to": "EnSiG",
+      "count": 11
+    },
+    {
+      "from": "PostG",
+      "to": "ArbZG",
+      "count": 2
+    },
+    {
+      "from": "PostG",
+      "to": "GG",
+      "count": 6
+    },
+    {
+      "from": "PostG",
+      "to": "ZSKG",
+      "count": 1
+    },
+    {
+      "from": "TKG",
+      "to": "GG",
+      "count": 4
+    },
+    {
+      "from": "TKG",
+      "to": "BSIG",
+      "count": 16
+    },
+    {
+      "from": "TKG",
+      "to": "ZSKG",
       "count": 1
     },
     {
       "from": "VerkSiG",
+      "to": "GG",
+      "count": 10
+    },
+    {
+      "from": "VerkSiG",
       "to": "ZSKG",
+      "count": 2
+    },
+    {
+      "from": "VerkSiG",
+      "to": "PostG",
       "count": 1
+    },
+    {
+      "from": "VerkSiG",
+      "to": "TKG",
+      "count": 1
+    },
+    {
+      "from": "WasSiG",
+      "to": "GG",
+      "count": 4
+    },
+    {
+      "from": "WiSiG",
+      "to": "GG",
+      "count": 7
     }
   ],
-  "graph_mermaid": "```mermaid\ngraph LR\n    BG[\"BG\"]\n    BeamtStG[\"BeamtStG\"]\n    BG -->|75x| BeamtStG\n    KRITIS_Dachgesetz[\"KRITIS-Dachgesetz\"]\n    BSIG[\"BSIG\"]\n    KRITIS_Dachgesetz -->|23x| BSIG\n    IfSG[\"IfSG\"]\n    GG[\"GG\"]\n    IfSG -->|15x| GG\n    KZV[\"KZV\"]\n    WiSiG[\"WiSiG\"]\n    KZV -->|9x| WiSiG\n    DG[\"DG\"]\n    BeamtVG[\"BeamtVG\"]\n    DG -->|8x| BeamtVG\n    NIS2UmsuCG[\"NIS2UmsuCG\"]\n    NIS2UmsuCG -->|7x| BSIG\n    DG -->|6x| BeamtStG\n    BeurtVO_Fw[\"BeurtVO-Fw\"]\n    BeurtVO_Fw -->|5x| BeamtStG\n    VerkLG[\"VerkLG\"]\n    KZV -->|5x| VerkLG\n    VerkSiG[\"VerkSiG\"]\n    KZV -->|5x| VerkSiG\n    BesG[\"BesG\"]\n    BesG -->|4x| BeamtStG\n    KatSO[\"KatSO\"]\n    KatSchG[\"KatSchG\"]\n    KatSO -->|4x| KatSchG\n    TKG[\"TKG\"]\n    KRITIS_Dachgesetz -->|4x| TKG\n    RettDG_Entwurf[\"RettDG-Entwurf\"]\n    RettDG_Entwurf -->|4x| GG\n    THWG[\"THWG\"]\n    KZV -->|4x| THWG\n    ZSKG[\"ZSKG\"]\n    KZV -->|4x| ZSKG\n    Resilienzstrategie[\"Resilienzstrategie\"]\n    Resilienzstrategie -->|4x| KZV\n    Resilienzstrategie -->|4x| ZSKG\n    GleichstG[\"GleichstG\"]\n    PersVG[\"PersVG\"]\n    GleichstG -->|3x| PersVG\n    RettDG[\"RettDG\"]\n    RettDG_Entwurf -->|3x| RettDG\n    EnSiG[\"EnSiG\"]\n    KZV -->|3x| EnSiG\n    BesG -->|2x| BeamtVG\n    HmbSUrlR[\"HmbSUrlR\"]\n    HmbSUrlR -->|2x| BG\n    DS_Anpassung_HH[\"DS-Anpassung-HH\"]\n    DS_Anpassung_HH -->|2x| KatSchG\n    DS_Anpassung_HH -->|2x| RettDG_Entwurf\n    KRITIS_Dachgesetz -->|2x| NIS2UmsuCG\n    RettDG_Entwurf -->|2x| ZSKG\n    BBKG[\"BBKG\"]\n    KZV -->|2x| BBKG\n    EltSV[\"EltSV\"]\n    KZV -->|2x| EltSV\n    GasSV[\"GasSV\"]\n    KZV -->|2x| GasSV\n    WasSiG[\"WasSiG\"]\n    KZV -->|2x| WasSiG\n    ASG[\"ASG\"]\n    KZV -->|2x| ASG\n    Resilienzstrategie -->|2x| BSIG\n    Resilienzstrategie -->|2x| GG\n    AGG[\"AGG\"]\n    AGG --> GG\n    BBG[\"BBG\"]\n    BBG --> GG\n    BeamtStG --> GG\n    BeurtVO_Fw --> BG\n    BG --> GG\n    DS_Anpassung_HH --> GG\n    RettDG --> RettDG_Entwurf\n    NIS2UmsuCG --> EnSiG\n    NIS2UmsuCG --> GasSV\n    NIS2UmsuCG --> TKG\n    RettDG_Entwurf --> IfSG\n    BBKG --> ZSKG\n    KZV --> GG\n    KZV --> BSIG\n    GasSV --> EnSiG\n    VerkSiG --> ZSKG\n```"
+  "graph_mermaid": "```mermaid\ngraph LR\n    NIS2UmsuCG[\"NIS2UmsuCG\"]\n    BSIG[\"BSIG\"]\n    NIS2UmsuCG -->|173x| BSIG\n    BG[\"BG\"]\n    BeamtStG[\"BeamtStG\"]\n    BG -->|75x| BeamtStG\n    IfSG[\"IfSG\"]\n    GG[\"GG\"]\n    IfSG -->|39x| GG\n    KRITIS_Dachgesetz[\"KRITIS-Dachgesetz\"]\n    KRITIS_Dachgesetz -->|30x| BSIG\n    BeamtVG[\"BeamtVG\"]\n    BeamtVG -->|28x| BG\n    RettDG_Entwurf[\"RettDG-Entwurf\"]\n    RettDG[\"RettDG\"]\n    RettDG_Entwurf -->|25x| RettDG\n    BeamtVG -->|22x| BeamtStG\n    DG[\"DG\"]\n    DG -->|17x| BG\n    TKG[\"TKG\"]\n    TKG -->|16x| BSIG\n    BesG[\"BesG\"]\n    BeamtVG -->|15x| BesG\n    BeurtVO_Fw[\"BeurtVO-Fw\"]\n    BeurtVO_Fw -->|13x| BG\n    BBG[\"BBG\"]\n    BBG -->|11x| GG\n    DS_Anpassung_HH[\"DS-Anpassung-HH\"]\n    DS_Anpassung_HH -->|11x| GG\n    ASG[\"ASG\"]\n    ASG -->|11x| GG\n    GasSV[\"GasSV\"]\n    EnSiG[\"EnSiG\"]\n    GasSV -->|11x| EnSiG\n    RettDG -->|10x| RettDG_Entwurf\n    VerkSiG[\"VerkSiG\"]\n    VerkSiG -->|10x| GG\n    BeamtStG -->|9x| GG\n    DG -->|9x| BeamtVG\n    KZV[\"KZV\"]\n    WiSiG[\"WiSiG\"]\n    KZV -->|9x| WiSiG\n    BeamtVG -->|8x| GG\n    NIS2UmsuCG -->|8x| TKG\n    ZSKG[\"ZSKG\"]\n    ZSKG -->|8x| GG\n    DG -->|7x| BeamtStG\n    DG -->|7x| GG\n    DS_Anpassung_HH -->|7x| RettDG_Entwurf\n    BSIG -->|7x| TKG\n    KRITIS_Dachgesetz -->|7x| TKG\n    WiSiG -->|7x| GG\n    BeurtVO_Fw -->|6x| BeamtStG\n    RettDG_Entwurf -->|6x| GG\n    PostG[\"PostG\"]\n    PostG -->|6x| GG\n    BesG -->|5x| BeamtStG\n    BesG -->|5x| BG\n    DG -->|5x| BesG\n    PersVG[\"PersVG\"]\n    PersVG -->|5x| BG\n    PersVG -->|5x| DG\n    KatSchG[\"KatSchG\"]\n    DS_Anpassung_HH -->|5x| KatSchG\n    VerkLG[\"VerkLG\"]\n    KZV -->|5x| VerkLG\n    KZV -->|5x| VerkSiG\n    EnSiG -->|5x| GG\n    SOG[\"SOG\"]\n    SOG -->|4x| GG\n    BG -->|4x| DG\n    GleichstG[\"GleichstG\"]\n    GleichstG -->|4x| PersVG\n    FeuerwG[\"FeuerwG\"]\n    FeuerwG -->|4x| GG\n    KatSO[\"KatSO\"]\n    KatSO -->|4x| KatSchG\n    KZV -->|4x| EnSiG\n    THWG[\"THWG\"]\n    KZV -->|4x| THWG\n    WasSiG[\"WasSiG\"]\n    KZV -->|4x| WasSiG\n    KZV -->|4x| ZSKG\n    Resilienzstrategie[\"Resilienzstrategie\"]\n    Resilienzstrategie -->|4x| KZV\n    Resilienzstrategie -->|4x| ZSKG\n    Resilienzstrategie -->|4x| GG\n    EltSV[\"EltSV\"]\n    EltSV -->|4x| EnSiG\n    TKG -->|4x| GG\n    WasSiG -->|4x| GG\n    BG -->|3x| GG\n    BG -->|3x| BeamtVG\n    BG -->|3x| BesG\n    BesG -->|3x| BeamtVG\n    KatSchG -->|3x| GG\n    BSIG -->|3x| GG\n    NIS2UmsuCG -->|3x| GG\n    KZV -->|3x| GG\n    Resilienzstrategie -->|3x| BSIG\n    BG -->|2x| PersVG\n    BeamtVG -->|2x| BBG\n    HmbSUrlR[\"HmbSUrlR\"]\n    HmbSUrlR -->|2x| BG\n    FeuerwG -->|2x| KatSchG\n    FeuerwG -->|2x| BG\n    FeuerwG -->|2x| SOG\n    KRITIS_Dachgesetz -->|2x| GG\n    KRITIS_Dachgesetz -->|2x| NIS2UmsuCG\n    NIS2UmsuCG -->|2x| EnSiG\n    RettDG_Entwurf -->|2x| ZSKG\n    BBKG[\"BBKG\"]\n    KZV -->|2x| BBKG\n    KZV -->|2x| EltSV\n    KZV -->|2x| GasSV\n    KZV -->|2x| BSIG\n    KZV -->|2x| ASG\n    ESVG[\"ESVG\"]\n    ESVG -->|2x| GG\n    ESVG -->|2x| VerkSiG\n    EnSiG -->|2x| BSIG\n    ArbZG[\"ArbZG\"]\n    PostG -->|2x| ArbZG\n    VerkSiG -->|2x| ZSKG\n    AGG[\"AGG\"]\n    AGG --> GG\n    AGG --> BBG\n    ArbZG --> GG\n    BBG --> BeamtStG\n    BBG --> ASG\n    BeamtStG --> ASG\n    BeurtVO_Fw --> GG\n    SOG --> BeamtStG\n    SOG --> BG\n    BG --> BBG\n    BeamtVG --> DG\n    BesG --> DG\n    DG --> PersVG\n    PersVG --> BeamtVG\n    PersVG --> GG\n    PersVG --> BesG\n    FeuerwG --> BeamtStG\n    KatSchG --> SOG\n    KatSchG --> BeamtStG\n    KatSchG --> BG\n    RettDG --> KatSchG\n    RettDG --> GG\n    NIS2UmsuCG --> GasSV\n    RettDG_Entwurf --> KatSchG\n    RettDG_Entwurf --> IfSG\n    BBKG --> ZSKG\n    KZV --> TKG\n    ZSKG --> THWG\n    ZSKG --> ASG\n    ZSKG --> WiSiG\n    ASG --> PostG\n    ASG --> TKG\n    ESVG --> VerkLG\n    PostG --> ZSKG\n    TKG --> ZSKG\n    VerkSiG --> PostG\n    VerkSiG --> TKG\n```"
 }

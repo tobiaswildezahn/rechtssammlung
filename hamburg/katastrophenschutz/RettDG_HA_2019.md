@@ -313,7 +313,7 @@ Die zuständige Behörde hat einen jederzeit erreichbaren öffentlichen Rettungs
 
 - (1) Die zuständige Behörde kann Leistungserbringer mit Aufgaben des öffentlichen Rettungsdienstes beauftragen. Hierbei kann sie den Kreis auf die Leistungserbringer beschränken, die
 - 1. gemeinnützige Organisationen im Sinne des § 107 Absatz 1 Nummer 4 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung vom 26. Juni 2013 (BGBl. I S. 1751, 3245), zuletzt geändert am 12. Juli 2018 (BGBl. I S. 1151, 1155), sind und
-- 2. deren Mitwirkung im Katastrophenschutz der Freien und Hansestadt Hamburg gemäß § 3 Absatz 1 Nummer 1 in Verbindung mit § 5 des Hamburgischen Katastrophenschutzgesetzes vom 16. Januar 1978 (HmbGVBI. S. 31), zuletzt geändert am 18. Mai 2018 (HmbGVBI. S. 182), die zuständige Behörde zugestimmt hat.
+- 2. deren Mitwirkung im Katastrophenschutz der Freien und Hansestadt Hamburg gemäß § 3 Absatz 1 Nummer 1 in Verbindung mit § 5 des [Hamburgischen Katastrophenschutzgesetzes](KatSchG_HA.md) vom 16. Januar 1978 (HmbGVBI. S. 31), zuletzt geändert am 18. Mai 2018 (HmbGVBI. S. 182), die zuständige Behörde zugestimmt hat.
 
 Der öffentliche Rettungsdienst kann mit öffentlichen Einrichtungen auf der Grundlage besonderer Vereinbarungen zur Wahrnehmung von Aufgaben des öffentlichen Rettungsdienstes kooperieren, wenn dafür ein öffentliches Interesse besteht und die Voraussetzungen des § 108 des Gesetzes gegen Wettbewerbsbeschränkungen in der jeweils geltenden Fassung erfüllt sind oder die Einrichtung im Rahmen ihrer gesetzlichen Befugnisse tätig wird.
 
@@ -610,14 +610,14 @@ Dies gilt auch für den Krankentransport mit Luft- und Wasserfahrzeugen (§§ 29
 
 ## § 34 Einschränkung von Grundrechten
 
-Durch dieses Gesetz wird das Grundrecht auf Unverletzlichkeit des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
+Durch dieses Gesetz wird das Grundrecht auf Unverletzlichkeit des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des [Grundgesetzes](../../grundgesetz/GG.md)) eingeschränkt.
 
 # Sechster Teil Übergangs- und Schlussvorschriften § 35 Übergangsregelungen
 
-- (1) Unternehmerinnen und Unternehmer, die Inhaberinnen oder Inhaber einer Genehmigung zur Notfallrettung nach § 4 Absatz 1 Satz 1 des Hamburgischen Rettungsdienstgesetzes in der am 15. November 2019 geltenden Fassung sind, dürfen bei Vorliegen der Genehmigungsvoraussetzungen gemäß § 12 des Hamburgischen Rettungsdienstgesetzes in der am 15. November 2019 geltenden Fassung von dieser Genehmigung bis zum Ablauf von vier Jahren nach Inkrafttreten dieses Gesetzes Gebrauch machen. Auf diese Genehmigungen finden die §§ 11 bis 20 und 25 unbeschadet des § 13 Absatz 3 des Hamburgischen Rettungsdienstgesetzes in der am 15. November 2019 geltenden Fassung Anwendung.
-- (2) Unternehmerinnen und Unternehmer, die Inhaberinnen oder Inhaber einer Genehmigung zum Krankentransport nach § 4 Absatz 1 Satz 1 des Hamburgischen Rettungsdienstgesetzes in der am 15. November 2019 geltenden Fassung, sind, dürfen bei Vorliegen der Genehmigungsvoraussetzungen gemäß § 12 des Hamburgischen Rettungsdienstgesetzes in der am 15. November 2019 geltenden Fassung, von dieser Genehmigung bis zu ihrem Ablauf Gebrauch machen. Auf diese Genehmigungen finden die §§ 11 bis 20 und 25 des Hamburgischen Rettungsdienstgesetzes in der am 15. November 2019 geltenden Fassung Anwendung.
-- (3) Hilfsorganisationen und Dritte, mit denen nach § 7 oder § 8 des Hamburgischen Rettungsdienstgesetzes in der am 15. November 2019 geltenden Fassung, ein öffentlich-rechtlicher Vertrag geschlossen worden ist, bleiben nach § 14 Absatz 1 dieses Gesetzes in den öffentlichen Rettungsdienst einbezogen, wenn und soweit der öffentlich-rechtliche Vertrag keine anderweitige Regelung trifft oder dieser fristgerecht gekündigt worden ist.
-- (4) Besteht zum Zeitpunkt des Inkrafttretens dieses Gesetzes eine Vereinbarung über die Gebühren für Leistungen des öffentlichen Rettungsdienstes nach § 10a des Hamburgischen Rettungsdienstgesetzes in der am 15. November 2019 geltenden Fassung, gilt diese bis zur Neufestsetzung der Gebühren fort.
+- (1) Unternehmerinnen und Unternehmer, die Inhaberinnen oder Inhaber einer Genehmigung zur Notfallrettung nach § 4 Absatz 1 Satz 1 des [Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) in der am 15. November 2019 geltenden Fassung sind, dürfen bei Vorliegen der Genehmigungsvoraussetzungen gemäß § 12 des [Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) in der am 15. November 2019 geltenden Fassung von dieser Genehmigung bis zum Ablauf von vier Jahren nach Inkrafttreten dieses Gesetzes Gebrauch machen. Auf diese Genehmigungen finden die §§ 11 bis 20 und 25 unbeschadet des § 13 Absatz 3 des [Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) in der am 15. November 2019 geltenden Fassung Anwendung.
+- (2) Unternehmerinnen und Unternehmer, die Inhaberinnen oder Inhaber einer Genehmigung zum Krankentransport nach § 4 Absatz 1 Satz 1 des [Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) in der am 15. November 2019 geltenden Fassung, sind, dürfen bei Vorliegen der Genehmigungsvoraussetzungen gemäß § 12 des [Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) in der am 15. November 2019 geltenden Fassung, von dieser Genehmigung bis zu ihrem Ablauf Gebrauch machen. Auf diese Genehmigungen finden die §§ 11 bis 20 und 25 des [Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) in der am 15. November 2019 geltenden Fassung Anwendung.
+- (3) Hilfsorganisationen und Dritte, mit denen nach § 7 oder § 8 des [Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) in der am 15. November 2019 geltenden Fassung, ein öffentlich-rechtlicher Vertrag geschlossen worden ist, bleiben nach § 14 Absatz 1 dieses Gesetzes in den öffentlichen Rettungsdienst einbezogen, wenn und soweit der öffentlich-rechtliche Vertrag keine anderweitige Regelung trifft oder dieser fristgerecht gekündigt worden ist.
+- (4) Besteht zum Zeitpunkt des Inkrafttretens dieses Gesetzes eine Vereinbarung über die Gebühren für Leistungen des öffentlichen Rettungsdienstes nach § 10a des [Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) in der am 15. November 2019 geltenden Fassung, gilt diese bis zur Neufestsetzung der Gebühren fort.
 
 {26}------------------------------------------------
 
@@ -630,7 +630,7 @@ Die Hamburgische Ausbildungs- und Prüfungsordnung für Rettungssanitäterinnen 
 
 ## § 37 Außerkrafttreten
 
-Das Hamburgische Rettungsdienstgesetz vom 9. Juni 1992 (HmbGVBI. S. 117) in der geltenden Fassung wird aufgehoben.
+Das [Hamburgische Rettungsdienstgesetz](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) vom 9. Juni 1992 (HmbGVBI. S. 117) in der geltenden Fassung wird aufgehoben.
 
 Ausgefertigt Hamburg, den 30. Oktober 2019.
 

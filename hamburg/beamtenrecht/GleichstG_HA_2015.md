@@ -133,7 +133,7 @@ Dieses Gesetz dient der Gleichstellung von Frauen und Männern sowie der Beseiti
 
 # § 2 Geltungsbereich
 
-- (1) Dieses Gesetz gilt für die Dienststellen im Sinne des § 6 des Hamburgischen Personalvertretungsgesetzes ([HmbPersVG](PersVG_HA_2014.md)) vom 8. Juli 2014 (HmbGVBI. S. 299) mit Ausnahme der auf Bundesrecht beruhenden juristischen Personen des öffentlichen Rechts sowie für deren Beschäftigte, insbesondere für solche mit Vorgesetzten- und Leitungsaufgaben.
+- (1) Dieses Gesetz gilt für die Dienststellen im Sinne des § 6 des [Hamburgischen Personalvertretungsgesetzes](PersVG_HA_2014.md) ([HmbPersVG](PersVG_HA_2014.md)) vom 8. Juli 2014 (HmbGVBI. S. 299) mit Ausnahme der auf Bundesrecht beruhenden juristischen Personen des öffentlichen Rechts sowie für deren Beschäftigte, insbesondere für solche mit Vorgesetzten- und Leitungsaufgaben.
 - (2) Soweit die Freie und Hansestadt Hamburg oder ihre staatlichen Hochschulen unmittelbar oder mittelbar Mehrheitsbeteiligungen an juristischen Personen des Privatrechts oder an Personengesellschaften halten oder erwerben, stellen sie sicher, dass dieses Gesetz sinngemäß angewendet wird. Bei Mehrheitsbeteiligungen an Aktiengesellschaften wirken sie darauf hin, dass dieses Gesetz sinngemäß angewendet wird.
 - (3) Soweit die Freie und Hansestadt Hamburg oder ihre staatlichen Hochschulen Minderheitsbeteiligungen an juristischen Personen des privaten Rechts oder an Personengesellschaften unmittelbar oder mittelbar halten oder erwerben, wirken sie darauf hin, dass dieses Gesetz sinngemäß angewendet wird.
 

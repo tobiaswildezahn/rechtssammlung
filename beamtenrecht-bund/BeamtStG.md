@@ -127,21 +127,21 @@ Für die Rechtsverhältnisse der Beamtinnen auf Zeit und Beamten auf Zeit gelten
 #### § 7 Voraussetzungen des Beamtenverhältnisses
 
 - (1) In das Beamtenverhältnis darf nur berufen werden, wer
-- Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes ist oder die Staatsangehörigkeit
+- Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des [Grundgesetzes](../grundgesetz/GG.md) ist oder die Staatsangehörigkeit
   - a) eines anderen Mitgliedstaates der Europäischen Union oder
   - b) eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder
   - c) eines Drittstaates, dem die Bundesrepublik Deutschland und die Europäische Union vertraglich einen entsprechenden Anspruch auf Anerkennung von Berufsqualifikationen eingeräumt haben,
 
 besitzt,
 
-- 2. die Gewähr dafür bietet, jederzeit für die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes einzutreten, und
+- 2. die Gewähr dafür bietet, jederzeit für die freiheitliche demokratische Grundordnung im Sinne des [Grundgesetzes](../grundgesetz/GG.md) einzutreten, und
 - 3. die nach Landesrecht vorgeschriebene Befähigung besitzt.
 
 {4}------------------------------------------------
 
 In das Beamtenverhältnis darf nicht berufen werden, wer unveränderliche Merkmale des Erscheinungsbilds aufweist, die mit der Erfüllung der Pflichten nach § 34 Absatz 2 nicht vereinbar sind.
 
-- (2) Wenn die Aufgaben es erfordern, darf nur eine Deutsche oder ein Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes in ein Beamtenverhältnis berufen werden.
+- (2) Wenn die Aufgaben es erfordern, darf nur eine Deutsche oder ein Deutscher im Sinne des Artikels 116 Absatz 1 des [Grundgesetzes](../grundgesetz/GG.md) in ein Beamtenverhältnis berufen werden.
 - (3) Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 können nur zugelassen werden, wenn
 - 1. für die Gewinnung der Beamtin oder des Beamten ein dringendes dienstliches Interesse besteht oder
 - 2. bei der Berufung von Hochschullehrerinnen und Hochschullehrern und anderen Mitarbeiterinnen und Mitarbeitern des wissenschaftlichen und künstlerischen Personals in das Beamtenverhältnis andere wichtige Gründe vorliegen.
@@ -290,7 +290,7 @@ neben dem neuen Dienst- oder Amtsverhältnis angeordnet oder durch Landesrecht e
 
 Im Fall des Satzes 1 Nr. 3 ist § 26 Abs. 2 entsprechend anzuwenden.
 
-- (2) Beamtinnen und Beamte können entlassen werden, wenn sie in Fällen des § 7 Abs. 2 die Eigenschaft als Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes verlieren.
+- (2) Beamtinnen und Beamte können entlassen werden, wenn sie in Fällen des § 7 Abs. 2 die Eigenschaft als Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des [Grundgesetzes](../grundgesetz/GG.md) verlieren.
 - (3) Beamtinnen auf Probe und Beamte auf Probe können entlassen werden,
 - 1. wenn sie eine Handlung begehen, die im Beamtenverhältnis auf Lebenszeit mindestens eine Kürzung der Dienstbezüge zur Folge hätte,
 - 2. wenn sie sich in der Probezeit nicht bewährt haben oder
@@ -306,7 +306,7 @@ Im Fall des Satzes 1 Nr. 2 ist § 26 Abs. 2 bei allein mangelnder gesundheitlich
 - 1. wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mindestens einem Jahr oder
 - 2. wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates, Landesverrat und Gefährdung der äußeren Sicherheit, Volksverhetzung oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht, Bestechlichkeit, strafbar ist, zu einer Freiheitsstrafe von mindestens sechs Monaten
 
-verurteilt wird, endet das Beamtenverhältnis mit der Rechtskraft des Urteils. Entsprechendes gilt, wenn die Fähigkeit zur Bekleidung öffentlicher Ämter aberkannt wird oder wenn die Beamtin oder der Beamte aufgrund einer Entscheidung des Bundesverfassungsgerichts nach Artikel 18 des Grundgesetzes ein Grundrecht verwirkt hat.
+verurteilt wird, endet das Beamtenverhältnis mit der Rechtskraft des Urteils. Entsprechendes gilt, wenn die Fähigkeit zur Bekleidung öffentlicher Ämter aberkannt wird oder wenn die Beamtin oder der Beamte aufgrund einer Entscheidung des Bundesverfassungsgerichts nach Artikel 18 des [Grundgesetzes](../grundgesetz/GG.md) ein Grundrecht verwirkt hat.
 
 {9}------------------------------------------------
 
@@ -370,7 +370,7 @@ Die Versetzung in den Ruhestand setzt die Erfüllung einer versorgungsrechtliche
 
 {11}------------------------------------------------
 
-- (1) Beamtinnen und Beamte dienen dem ganzen Volk, nicht einer Partei. Sie haben ihre Aufgaben unparteiisch und gerecht zu erfüllen und ihr Amt zum Wohl der Allgemeinheit zu führen. Beamtinnen und Beamte müssen sich durch ihr gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bekennen und für deren Erhaltung eintreten.
+- (1) Beamtinnen und Beamte dienen dem ganzen Volk, nicht einer Partei. Sie haben ihre Aufgaben unparteiisch und gerecht zu erfüllen und ihr Amt zum Wohl der Allgemeinheit zu führen. Beamtinnen und Beamte müssen sich durch ihr gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des [Grundgesetzes](../grundgesetz/GG.md) bekennen und für deren Erhaltung eintreten.
 - (2) Beamtinnen und Beamte haben bei politischer Betätigung diejenige Mäßigung und Zurückhaltung zu wahren, die sich aus ihrer Stellung gegenüber der Allgemeinheit und aus der Rücksicht auf die Pflichten ihres Amtes ergibt.
 
 #### § 34 Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild
@@ -453,7 +453,7 @@ Effektiver Mutterschutz und Elternzeit sind zu gewährleisten.
 #### § 47 Nichterfüllung von Pflichten
 
 - (1) Beamtinnen und Beamte begehen ein Dienstvergehen, wenn sie schuldhaft die ihnen obliegenden Pflichten verletzen. Ein Verhalten außerhalb des Dienstes ist nur dann ein Dienstvergehen, wenn es nach den Umständen des Einzelfalls in besonderem Maße geeignet ist, das Vertrauen in einer für ihr Amt bedeutsamen Weise zu beeinträchtigen.
-- (2) Bei Ruhestandsbeamtinnen und Ruhestandsbeamten oder früheren Beamtinnen mit Versorgungsbezügen und früheren Beamten mit Versorgungsbezügen gilt es als Dienstvergehen, wenn sie sich gegen die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes betätigen oder an Bestrebungen teilnehmen, die darauf abzielen, den Bestand oder die Sicherheit der Bundesrepublik Deutschland zu beeinträchtigen, oder wenn sie schuldhaft gegen die in den §§ 37, 41 und 42 bestimmten Pflichten verstoßen. Bei sonstigen früheren Beamtinnen und früheren Beamten gilt es als Dienstvergehen, wenn sie schuldhaft gegen die in den §§ 37, 41 und 42 bestimmten Pflichten verstoßen. Für Beamtinnen und Beamte nach den Sätzen 1 und 2 können durch Landesrecht weitere Handlungen festgelegt werden, die als Dienstvergehen gelten.
+- (2) Bei Ruhestandsbeamtinnen und Ruhestandsbeamten oder früheren Beamtinnen mit Versorgungsbezügen und früheren Beamten mit Versorgungsbezügen gilt es als Dienstvergehen, wenn sie sich gegen die freiheitliche demokratische Grundordnung im Sinne des [Grundgesetzes](../grundgesetz/GG.md) betätigen oder an Bestrebungen teilnehmen, die darauf abzielen, den Bestand oder die Sicherheit der Bundesrepublik Deutschland zu beeinträchtigen, oder wenn sie schuldhaft gegen die in den §§ 37, 41 und 42 bestimmten Pflichten verstoßen. Bei sonstigen früheren Beamtinnen und früheren Beamten gilt es als Dienstvergehen, wenn sie schuldhaft gegen die in den §§ 37, 41 und 42 bestimmten Pflichten verstoßen. Für Beamtinnen und Beamte nach den Sätzen 1 und 2 können durch Landesrecht weitere Handlungen festgelegt werden, die als Dienstvergehen gelten.
 - (3) Das Nähere über die Verfolgung von Dienstvergehen regeln die Disziplinargesetze.
 
 #### § 48 Pflicht zum Schadensersatz
@@ -510,7 +510,7 @@ Bei der Vorbereitung gesetzlicher Regelungen der beamtenrechtlichen Verhältniss
 
 ### § 55 Anwendungsbereich
 
-Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 56 bis 59 sind nur nach Maßgabe des Artikels 80a des Grundgesetzes zulässig. Sie sind auf Personen im Sinne des § 5 Abs. 1 des Arbeitssicherstellungsgesetzes nicht anzuwenden.
+Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 56 bis 59 sind nur nach Maßgabe des Artikels 80a des [Grundgesetzes](../grundgesetz/GG.md) zulässig. Sie sind auf Personen im Sinne des § 5 Abs. 1 des [Arbeitssicherstellungsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/ASG_Arbeitssicherstellungsgesetz.md) nicht anzuwenden.
 
 #### § 56 Dienstleistung im Verteidigungsfall
 

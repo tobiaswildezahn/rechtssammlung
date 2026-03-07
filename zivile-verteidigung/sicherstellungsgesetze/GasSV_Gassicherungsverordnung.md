@@ -2,7 +2,7 @@
 
 ## Eingangsformel
 
-Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19. Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
+Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie des § 16 Nr. 2 Buchstabe a des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) 1975 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19. Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 ## § 1 Lastverteilung
 
@@ -23,7 +23,7 @@ Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie de
 
 ## § 1a Digitale Plattform
 
-(1) Der Marktgebietsverantwortliche stellt für die Abwicklung von Maßnahmen nach § 1 Absatz 1 ab dem 1. Oktober 2022 eine digitale Plattform bereit, welche dem Zweck der Abwicklung von Maßnahmen nach § 1 und von Solidaritätsmaßnahmen nach § 2a des Energiesicherungsgesetzes dient.
+(1) Der Marktgebietsverantwortliche stellt für die Abwicklung von Maßnahmen nach § 1 Absatz 1 ab dem 1. Oktober 2022 eine digitale Plattform bereit, welche dem Zweck der Abwicklung von Maßnahmen nach § 1 und von Solidaritätsmaßnahmen nach § 2a des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) dient.
 
 (2) Die Bilanzkreisverantwortlichen nach § 2 Nummer 5 der Gasnetzzugangsverordnung und die Endverbraucher, die Betreiber von Gasspeicheranlagen nach § 3 Nummer 12 des Energiewirtschaftsgesetzes und die Nutzer von Gasspeicheranlagen sowie die Betreiber von Fernleitungsnetzen und die Betreiber von Gasverteilernetzen im Marktgebiet des Marktgebietsverantwortlichen (Plattformteilnehmer) sind verpflichtet, sich innerhalb eines Monats nach Bereitstellung der Plattform auf dieser zu registrieren. Endverbraucher im Sinne dieser Verordnung sind Anschlussnutzer von Marktlokationen mit einer technischen Anschlusskapazität in Höhe von mindestens 10 Megawattstunden pro Stunde.
 
@@ -33,7 +33,7 @@ Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie de
 
 (5) Zur Umsetzung von marktbasierten Solidaritätsmaßnahmen gemäß Artikel 13 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, zur Versorgung mit Erdgas der durch Solidarität geschützten Kunden im Sinne von Artikel 2 Nummer 6 der Verordnung (EU) 2017/1938 können Bilanzkreisverantwortliche und Endverbraucher Angebote für die Bereitstellung von Gas an den ersuchenden Mitgliedstaat der Europäischen Union gemäß den für die Plattform geltenden Geschäftsbedingungen abgeben und kann der um Solidaritätsmaßnahmen ersuchende Mitgliedstaat der Europäischen Union oder ein durch diesen beauftragter Dritter diese Angebote annehmen.
 
-(6) Plattformteilnehmer sind verpflichtet, unverzüglich nach Registrierung sämtliche auf der Plattform abgefragten Informationen, wie zum Beispiel Unternehmensdaten, Gasmengen, Preise und Identifikationsparameter, auf dieser anzugeben. Diese Angabe dient zur Vorbereitung und Ausführung von nicht marktbasierten Solidaritätsmaßnahmen gemäß Artikel 13 der Verordnung (EU) 2017/1938 sowie von Maßnahmen im Rahmen einer nationalen Gasnotfalllage in Fällen des § 1 des Energiesicherungsgesetzes. Die geforderten Informationen sind für alle Marktlokationen mit einer technischen Anschlusskapazität in Höhe von mindestens 10 Megawattstunden pro Stunde anzugeben. Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen kann die zur Erfüllung ihrer Aufgaben nach dem [Energiesicherungsgesetz](EnSiG_Energiesicherungsgesetz.md) notwendigen Informationen über die Plattform abfragen. Plattformteilnehmer müssen diese Informationen nach Feststellung gemäß § 7 Absatz 2 Satz 1 Nummer 1 oder auf Anforderung der Bundesnetzagentur fortlaufend aktualisieren.
+(6) Plattformteilnehmer sind verpflichtet, unverzüglich nach Registrierung sämtliche auf der Plattform abgefragten Informationen, wie zum Beispiel Unternehmensdaten, Gasmengen, Preise und Identifikationsparameter, auf dieser anzugeben. Diese Angabe dient zur Vorbereitung und Ausführung von nicht marktbasierten Solidaritätsmaßnahmen gemäß Artikel 13 der Verordnung (EU) 2017/1938 sowie von Maßnahmen im Rahmen einer nationalen Gasnotfalllage in Fällen des § 1 des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md). Die geforderten Informationen sind für alle Marktlokationen mit einer technischen Anschlusskapazität in Höhe von mindestens 10 Megawattstunden pro Stunde anzugeben. Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen kann die zur Erfüllung ihrer Aufgaben nach dem [Energiesicherungsgesetz](EnSiG_Energiesicherungsgesetz.md) notwendigen Informationen über die Plattform abfragen. Plattformteilnehmer müssen diese Informationen nach Feststellung gemäß § 7 Absatz 2 Satz 1 Nummer 1 oder auf Anforderung der Bundesnetzagentur fortlaufend aktualisieren.
 
 (7) Wurde bis zum Ablauf des 4. April 2023 einer Pflicht nach Absatz 2 Satz 1, Absatz 3 Satz 1, Absatz 4 Satz 1, Absatz 6 Satz 1 oder Absatz 6 Satz 5 nicht ordnungsgemäß nachgekommen, kann ein Bußgeldverfahren nur dann eingeleitet werden, wenn der Verstoß nicht innerhalb eines Monats nach dem 5. April 2023 behoben wurde.
 
@@ -41,7 +41,7 @@ Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie de
 
 (1) Unternehmen und Betriebe, die Gas gewinnen, herstellen oder einführen und in das Netz der öffentlichen Versorgung abgeben können, sind verpflichtet, der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen sowie der nach Landesrecht zuständigen Stelle Meldungen entsprechend der Anlage zu dieser Verordnung bis zum Zehnten jeden Monats zu erstatten. Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen und die nach Landesrecht zuständige Stelle können, wenn dies zur Sicherung der Energieversorgung notwendig ist, die Meldepflicht nach Satz 1 auf Unternehmen und Betriebe ausdehnen, die Gas im Inland beziehen und in das Netz der öffentlichen Versorgung abgeben können, und die Meldungen nach Satz 1 auch in kürzeren Zeitabständen verlangen.
 
-(2) Die zuständige Stelle kann im Interesse der Sicherung der Energieversorgung bereits vor der Feststellung der Bundesregierung, daß die Energieversorgung im Sinne des § 1 Abs. 1 oder § 2 Abs. 3 des Energiesicherungsgesetzes gefährdet oder gestört ist, Meldungen nach Absatz 1 verlangen.
+(2) Die zuständige Stelle kann im Interesse der Sicherung der Energieversorgung bereits vor der Feststellung der Bundesregierung, daß die Energieversorgung im Sinne des § 1 Abs. 1 oder § 2 Abs. 3 des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) gefährdet oder gestört ist, Meldungen nach Absatz 1 verlangen.
 
 ## § 3 Begriffsbestimmungen
 
@@ -51,9 +51,9 @@ Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie de
 
 ## § 4 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 Buchstabe a des Energiesicherungsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 1 Absatz 1 zuwiderhandelt.
+(1) Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 Buchstabe a des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 1 Absatz 1 zuwiderhandelt.
 
-(2) Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 Buchstabe b des Energiesicherungsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 Buchstabe b des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 1a Absatz 2 Satz 1 sich nicht oder nicht rechtzeitig registriert,
 2. entgegen § 1a Absatz 3 Satz 1 oder Absatz 6 Satz 1 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
@@ -64,7 +64,7 @@ Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie de
 
 ## § 5 Verwaltungsbehörde
 
-Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes ist die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
+Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) ist die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
 ## § 6
 
@@ -76,10 +76,10 @@ Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsge
 
 (2) Sie darf mit Ausnahme der §§ 1a, 2 Absatz 2 und § 5 sowie ab dem 5. April 2023 § 4 Absatz 2 Nummer 1 bis 4 und Nummer 6 erst dann angewandt werden, wenn die Bundesregierung
 
-1. durch Verordnung festgestellt hat, daß die Energieversorgung im Sinne des § 1 Absatz 1, des § 2 Absatz 3 oder des § 2a Absatz 1 des Energiesicherungsgesetzes gefährdet oder gestört ist, und
+1. durch Verordnung festgestellt hat, daß die Energieversorgung im Sinne des § 1 Absatz 1, des § 2 Absatz 3 oder des § 2a Absatz 1 des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) gefährdet oder gestört ist, und
 2. die Anwendbarkeit durch Verordnung bestimmt.
 
-In Fällen des § 2a des Energiesicherungsgesetzes tritt an die Stelle der in Satz 1 genannten Feststellung die Mitteilung des Bundesministeriums für Wirtschaft und Energie nach § 3 Absatz 6 Satz 1 Nummer 2 des Energiesicherungsgesetzes.
+In Fällen des § 2a des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md) tritt an die Stelle der in Satz 1 genannten Feststellung die Mitteilung des Bundesministeriums für Wirtschaft und Energie nach § 3 Absatz 6 Satz 1 Nummer 2 des [Energiesicherungsgesetzes](EnSiG_Energiesicherungsgesetz.md).
 
 ## Anlage (zu § 2)
 

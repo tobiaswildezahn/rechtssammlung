@@ -43,7 +43,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 | Artikel 16 | Änderung des Atomgesetzes                                                                                                                                   |
 | Artikel 17 | Änderung des Energiewirtschaftsgesetzes                                                                                                                     |
 | Artikel 18 | Änderung des Messstellenbetriebsgesetzes                                                                                                                    |
-| Artikel 19 | Änderung des Energiesicherungsgesetzes                                                                                                                      |
+| Artikel 19 | Änderung des [Energiesicherungsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md)                                                                                                                      |
 | Artikel 20 | Änderung des Wärmeplanungsgesetzes                                                                                                                          |
 | Artikel 21 | Änderung des Fünften Buches Sozialgesetzbuch                                                                                                                |
 | Artikel 22 | Änderung der Digitale Gesundheitsanwendungen-Verordnung                                                                                                     |
@@ -265,7 +265,7 @@ Im Sinne dieses Gesetzes ist oder sind
 - 31. "Protokolldaten" Steuerdaten eines informationstechnischen Protokolls zur Datenübertragung, die
   - a) zur Gewährleistung der Kommunikation zwischen Empfänger und Sender notwendig sind und
   - b) unabhängig vom Inhalt des Kommunikationsvorgangs übertragen oder auf den am Kommunikationsvorgang beteiligten Servern gespeichert werden;
-  - Protokolldaten können Verkehrsdaten nach § 3 Nummer 70 des Telekommunikationsgesetzes und Nutzungsdaten nach § 2 Absatz 2 Nummer 3 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes enthalten;
+  - Protokolldaten können Verkehrsdaten nach § 3 Nummer 70 des [Telekommunikationsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md) und Nutzungsdaten nach § 2 Absatz 2 Nummer 3 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes enthalten;
 - 32. "Protokollierungsdaten" Aufzeichnungen über technische Ereignisse oder Zustände innerhalb informationstechnischer Systeme;
 - 33. "qualifizierter Vertrauensdienst" ein qualifizierter Vertrauensdienst nach Artikel 3 Nummer 17 der Verordnung (EU) Nr. 910/2014
 - 34. "qualifizierter Vertrauensdiensteanbieter" ein qualifizierter Vertrauensdiensteanbieter nach Artikel 3 Nummer 20 der Verordnung (EU) Nr. 910/2014;
@@ -482,11 +482,11 @@ Das Bundesamt kann im Einzelfall gegenüber Einrichtungen der Bundesverwaltung M
 
 #### Bestandsdatenauskunft
 
-(1) Das Bundesamt darf zur Erfüllung seiner gesetzlichen Aufgabe nach § 3 Absatz 1 Satz 1 Nummer 1, 2, 20, 24 oder 25 von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten gemäß § 3 Nummer 6 des Telekommunikationsgesetzes und über die nach § 172 des Telekommunikationsgesetzes erhobenen Daten (§ 174 Absatz 1 Satz 1 des Telekommunikationsgesetzes) Auskunft verlangen. Die Auskunft nach Satz 1 darf nur verlangt werden zum Schutz der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 24 oder der öffentlichen Sicherheit, um damit eine Beeinträchtigung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme einer besonders wichtigen Einrichtung oder wichtigen Einrichtung abzuwenden, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, das auf die informationstechnischen Systeme bestimmbarer Infrastrukturen oder Unternehmen abzielen wird, und wenn die in die Auskunft aufzunehmenden Daten im Einzelfall erforderlich sind, um die Betroffenen nach Absatz 4 vor dieser Beeinträchtigung zu warnen, über diese Beeinträchtigung zu informieren oder bei der Beseitigung zu beraten oder zu unterstützen.
+(1) Das Bundesamt darf zur Erfüllung seiner gesetzlichen Aufgabe nach § 3 Absatz 1 Satz 1 Nummer 1, 2, 20, 24 oder 25 von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten gemäß § 3 Nummer 6 des [Telekommunikationsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md) und über die nach § 172 des [Telekommunikationsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md) erhobenen Daten (§ 174 Absatz 1 Satz 1 des [Telekommunikationsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md)) Auskunft verlangen. Die Auskunft nach Satz 1 darf nur verlangt werden zum Schutz der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 24 oder der öffentlichen Sicherheit, um damit eine Beeinträchtigung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme einer besonders wichtigen Einrichtung oder wichtigen Einrichtung abzuwenden, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, das auf die informationstechnischen Systeme bestimmbarer Infrastrukturen oder Unternehmen abzielen wird, und wenn die in die Auskunft aufzunehmenden Daten im Einzelfall erforderlich sind, um die Betroffenen nach Absatz 4 vor dieser Beeinträchtigung zu warnen, über diese Beeinträchtigung zu informieren oder bei der Beseitigung zu beraten oder zu unterstützen.
 
 {14}------------------------------------------------
 
-- (2) Die Auskunft nach Absatz 1 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des Telekommunikationsgesetzes). Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+- (2) Die Auskunft nach Absatz 1 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des [Telekommunikationsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md)). Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
 - (3) Der aufgrund eines Auskunftsverlangens Verpflichtete hat die zur Auskunftserteilung erforderlichen Daten unverzüglich und vollständig zu übermitteln.
 - (4) Nach erfolgter Auskunft weist das Bundesamt die besonders wichtige Einrichtung oder die wichtige Einrichtung auf die bei ihr drohenden Beeinträchtigungen hin. Nach Möglichkeit weist das Bundesamt die besonders wichtige Einrichtung oder die wichtige Einrichtung auf technische Mittel hin, mittels derer die festgestellten Beeinträchtigungen durch die besonders wichtige Einrichtung oder die wichtige Einrichtung selbst beseitigt werden können.
 - (5) Das Bundesamt kann personenbezogene Daten, die es im Rahmen dieser Vorschrift verarbeitet, entsprechend § 8 Absatz 6 und 7 übermitteln.
@@ -542,7 +542,7 @@ Stellen sich die an die Öffentlichkeit gegebenen Informationen im Nachhinein al
 - 1. um festzustellen, ob diese Schnittstellen unzureichend geschützt und dadurch in ihrer Sicherheit oder Funktionsfähigkeit gefährdet sein können, oder
 - 2. wenn die Einrichtungen der Bundesverwaltung, der besonders wichtigen oder der wichtigen Einrichtungen die entsprechenden Einrichtungen darum ersuchen.
 
-Erlangt das Bundesamt dabei Informationen, die durch Artikel 10 des Grundgesetzes geschützt sind, darf es diese nur zum Zwecke der Übermittlung nach § 8 Absatz 6 und 7 verarbeiten. Sofern die Voraussetzungen des § 8 Absatz 6 und 7 nicht vorliegen, sind Informationen, die durch Artikel 10 des Grundgesetzes geschützt sind, unverzüglich zu löschen.
+Erlangt das Bundesamt dabei Informationen, die durch Artikel 10 des [Grundgesetzes](../grundgesetz/GG.md) geschützt sind, darf es diese nur zum Zwecke der Übermittlung nach § 8 Absatz 6 und 7 verarbeiten. Sofern die Voraussetzungen des § 8 Absatz 6 und 7 nicht vorliegen, sind Informationen, die durch Artikel 10 des [Grundgesetzes](../grundgesetz/GG.md) geschützt sind, unverzüglich zu löschen.
 
 (2) Wird durch Abfragen gemäß Absatz 1 Satz 1 eine bekannte Schwachstelle oder ein anderes Sicherheitsrisiko eines informationstechnischen Systems erkannt, informiert das Bundesamt als allgemeine Meldestelle für die Sicherheit in der Informationstechnik nach § 5 darüber unverzüglich die für das informationstechnische System Verantwortlichen. Gehört das informationstechnische System zu einer Einrichtung der Bundesverwaltung, sind zugleich die Informationssicherheitsbeauftragten der betroffenen Einrichtung der Bundesverwaltung nach § 45 und des übergeordneten Ressorts nach § 46 zu informieren. Das Bundesamt soll dabei auf bestehende Möglichkeiten zur Abhilfe des Sicherheitsrisikos hinweisen. Sind dem Bundesamt die Verantwortlichen nicht bekannt oder ist ihre Identifikation nur mit unverhältnismäßigem Aufwand oder über eine Bestandsdatenabfrage nach § 12 möglich, so ist hilfsweise der betreibende Dienstleister des jeweiligen Netzes oder Systems unverzüglich zu benachrichtigen, wenn überwiegende Sicherheitsinteressen nicht entgegenstehen.
 
@@ -554,8 +554,8 @@ Erlangt das Bundesamt dabei Informationen, die durch Artikel 10 des Grundgesetze
 
 #### Anordnungen von Maßnahmen des Bundesamtes gegenüber Anbietern von Telekommunikationsdiensten
 
-- (1) Zur Abwehr erheblicher Gefahren für die in Absatz 3 genannten Schutzgüter kann das Bundesamt anordnen, dass ein Anbieter von öffentlich zugänglichen Telekommunikationsdiensten im Sinne des Telekommunikationsgesetzes
-- 1. die in § 169 Absatz 6 und 7 des Telekommunikationsgesetzes bezeichneten Maßnahmen trifft oder
+- (1) Zur Abwehr erheblicher Gefahren für die in Absatz 3 genannten Schutzgüter kann das Bundesamt anordnen, dass ein Anbieter von öffentlich zugänglichen Telekommunikationsdiensten im Sinne des [Telekommunikationsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md)
+- 1. die in § 169 Absatz 6 und 7 des [Telekommunikationsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md) bezeichneten Maßnahmen trifft oder
 - 2. technische Befehle zur Bereinigung von einem konkret benannten Schadprogramm an betroffene informationstechnische Systeme verteilt,
 
 sofern und soweit der Anbieter von öffentlich zugänglichen Telekommunikationsdiensten dazu technisch in der Lage und es ihm wirtschaftlich zumutbar ist. Vor der Anordnung der Maßnahmen nach Satz 1 Nummer 1 oder 2 durch das Bundesamt ist die Bundesnetzagentur ins Benehmen zu setzen. Vor der Anordnung der Maßnahme nach Satz 1 Nummer 2 durch das Bundesamt ist zusätzlich Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit herzustellen. Die Daten, auf die mit der Maßnahme nach Satz 1 Nummer 2 zugegriffen werden soll, sind in der Anordnung zu benennen. § 8 Absatz 8 Satz 2 bis 8 gilt entsprechend. Widerspruch und Anfechtungsklage gegen die Anordnungen nach Satz 1 haben keine aufschiebende Wirkung.
@@ -908,7 +908,7 @@ in Kenntnis. Die Unterrichtung nach Satz 1 kann auch durch eine Veröffentlichun
 
 Die Festlegung nach Satz 1 erfolgt durch eine öffentliche Mitteilung auf der Internetseite des Bundesamtes.
 
-(3) Abweichend von Absatz 1 Satz 1 legt das Bundesamt für Betreiber kritischer Anlagen, die bis zum Inkrafttreten dieses Gesetzes Betreiber Kritischer Infrastrukturen waren nach § 2 Absatz 10 des BSI-Gesetzes vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist, den Zeitpunkt der Nachweiserbringung auf frühestens drei Jahre nach Erbringung des letzten Nachweises nach § 8a Absatz 3 des BSI-Gesetzes vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist, fest. Betreiber kritischer Anlagen, die bis zum Inkrafttreten dieses Gesetzes Betreiber Kritischer Infrastrukturen waren, und deren Nachweisfrist nach § 8a Absatz 3 des BSI-Gesetzes vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist, innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes abgelaufen wäre, können in diesem Zeitraum einen Nachweis nach den bisher geltenden Vorgaben erbringen.
+(3) Abweichend von Absatz 1 Satz 1 legt das Bundesamt für Betreiber kritischer Anlagen, die bis zum Inkrafttreten dieses Gesetzes Betreiber Kritischer Infrastrukturen waren nach § 2 Absatz 10 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist, den Zeitpunkt der Nachweiserbringung auf frühestens drei Jahre nach Erbringung des letzten Nachweises nach § 8a Absatz 3 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist, fest. Betreiber kritischer Anlagen, die bis zum Inkrafttreten dieses Gesetzes Betreiber Kritischer Infrastrukturen waren, und deren Nachweisfrist nach § 8a Absatz 3 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist, innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes abgelaufen wäre, können in diesem Zeitraum einen Nachweis nach den bisher geltenden Vorgaben erbringen.
 
 #### § 40
 
@@ -1193,7 +1193,7 @@ Absatz 7 Satz 2 gilt entsprechend.
 
 #### Einschränkung von Grundrechten
 
-Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird durch die §§ 7, 8, 9, 11, 12, 15 und 16 eingeschränkt.
+Das Fernmeldegeheimnis (Artikel 10 des [Grundgesetzes](../grundgesetz/GG.md)) wird durch die §§ 7, 8, 9, 11, 12, 15 und 16 eingeschränkt.
 
 #### § 58
 
@@ -1487,7 +1487,7 @@ Sektoren besonders wichtiger und wichtiger Einrichtungen
 
 Das BND-Gesetz vom 20. Dezember 1990 (BGBI. I S. 2954, 2979), das zuletzt durch Artikel 4 des Gesetzes vom 6. Mai 2024 (BGBI. 2024 I Nr. 149) geändert worden ist, wird wie folgt geändert:
 
-In § 24 Absatz 5 Satz 2 wird die Angabe "§ 5 Absatz 7 Satz 2 bis 8 des BSI-Gesetzes" durch die Angabe "§ 8 Absatz 8 Satz 2 bis 8 des BSI-Gesetzes" ersetzt.
+In § 24 Absatz 5 Satz 2 wird die Angabe "§ 5 Absatz 7 Satz 2 bis 8 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 8 Absatz 8 Satz 2 bis 8 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 #### Artikel 3
 
@@ -1495,7 +1495,7 @@ In § 24 Absatz 5 Satz 2 wird die Angabe "§ 5 Absatz 7 Satz 2 bis 8 des BSI-Ges
 
 Die Sicherheitsüberprüfungsfeststellungsverordnung vom 6. Februar 2023 (BGBl. 2023 I Nr. 33) wird wie folgt geändert:
 
-In § 1 Nummer 8 wird die Angabe "§ 3 Absatz 1 Satz 2 Nummer 1, Nummer 13 Satz 1 Buchstabe b und c, Nummer 15 und Nummer 18 des BSI-Gesetzes" durch die Angabe "§ 3 Absatz 1 Satz 2 Nummer 1, 18 Buchstabe b und c, Nummer 22 und 25 des BSI-Gesetzes" ersetzt.
+In § 1 Nummer 8 wird die Angabe "§ 3 Absatz 1 Satz 2 Nummer 1, Nummer 13 Satz 1 Buchstabe b und c, Nummer 15 und Nummer 18 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 3 Absatz 1 Satz 2 Nummer 1, 18 Buchstabe b und c, Nummer 22 und 25 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 #### Artikel 4
 
@@ -1503,7 +1503,7 @@ In § 1 Nummer 8 wird die Angabe "§ 3 Absatz 1 Satz 2 Nummer 1, Nummer 13 Satz 
 
 Das Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz vom 23. Juni 2021 (BGBI. I S. 1982; 2022 I S. 1045), das zuletzt durch Artikel 44 des Gesetzes vom 12. Juli 2024 (BGBI. 2024 I Nr. 234) geändert worden ist, wird wie folgt geändert:
 
-In § 19 Absatz 4 Satz 4 wird die Angabe "§ 7d Satz 1 [BSI-Gesetz](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 17 Satz 1 des BSI-Gesetzes" ersetzt.
+In § 19 Absatz 4 Satz 4 wird die Angabe "§ 7d Satz 1 [BSI-Gesetz](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 17 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 #### Artikel 5
 
@@ -1511,7 +1511,7 @@ In § 19 Absatz 4 Satz 4 wird die Angabe "§ 7d Satz 1 [BSI-Gesetz](BSIG_BSI-Ges
 
 Die Gleichstellungsbeauftragtenwahlverordnung vom 17. Dezember 2015 (BGBI. I S. 2274), die durch Artikel 3 des Gesetzes vom 7. August 2021 (BGBI. I S. 3311) geändert worden ist, wird wie folgt geändert:
 
-In § 19 Absatz 9 wird die Angabe "§ 9 des BSI-Gesetzes" durch die Angabe "§ 52 des BSI-Gesetzes" ersetzt.
+In § 19 Absatz 9 wird die Angabe "§ 9 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 # Artikel 6
 
@@ -1521,7 +1521,7 @@ Das Zweite Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme v
 
 Artikel 6 Absatz 1 wird durch den folgenden Absatz 1 ersetzt:
 
-"(1) Das Bundesministerium des Innern, für Bau und Heimat berichtet dem Deutschen Bundestag unter Einbeziehung von wissenschaftlichem Sachverstand über die Wirksamkeit der in diesem Gesetz enthaltenen Maßnahmen für die Erreichung der mit diesem Gesetz verfolgten Ziele bis zum 1. Mai 2023 hinsichtlich des § 2 Absatz 10, der §§ 8a, 8b, 8d und 8e sowie § 10 Absatz 1 des BSI-Gesetzes (Artikel 1)."
+"(1) Das Bundesministerium des Innern, für Bau und Heimat berichtet dem Deutschen Bundestag unter Einbeziehung von wissenschaftlichem Sachverstand über die Wirksamkeit der in diesem Gesetz enthaltenen Maßnahmen für die Erreichung der mit diesem Gesetz verfolgten Ziele bis zum 1. Mai 2023 hinsichtlich des § 2 Absatz 10, der §§ 8a, 8b, 8d und 8e sowie § 10 Absatz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) (Artikel 1)."
 
 #### Artikel 7
 
@@ -1531,17 +1531,17 @@ Die BSI-Zertifizierungs- und -Anerkennungsverordnung vom 17. Dezember 2014 (BGBI
 
 1. Die Eingangsformel wird durch die folgende Eingangsformel ersetzt:
 
-"Auf Grund des § 56 Absatz 1 des BSI-Gesetzes vom 2. Dezember 2025 (BGBI. 2025 I Nr. 301, S. 2) verordnet das Bundesministerium des Innern nach Anhörung der betroffenen Wirtschaftsverbände im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:".
+"Auf Grund des § 56 Absatz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 2. Dezember 2025 (BGBI. 2025 I Nr. 301, S. 2) verordnet das Bundesministerium des Innern nach Anhörung der betroffenen Wirtschaftsverbände im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:".
 
 {49}------------------------------------------------
 
-- 2. In § 1 wird die Angabe "§ 9 des BSI-Gesetzes" durch die Angabe "§ 52 des BSI-Gesetzes" ersetzt.
-- 3. In § 12 Absatz 1 wird die Angabe "§ 9 Absatz 4 des BSI-Gesetzes" durch die Angabe "§ 52 Absatz 4 des BSI-Gesetzes" ersetzt.
-- 4. In § 15 Absatz 1 und § 18 Absatz 1 wird die Angabe "§ 9 Absatz 5 des BSI-Gesetzes" durch die Angabe "§ 52 Absatz 6 des BSI-Gesetzes" und die Angabe "§ 9 Absatz 4 Nummer 2 des BSI-Gesetzes" durch die Angabe "§ 52 Absatz 4 Nummer 2 des BSI-Gesetzes" ersetzt.
+- 2. In § 1 wird die Angabe "§ 9 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- 3. In § 12 Absatz 1 wird die Angabe "§ 9 Absatz 4 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 Absatz 4 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- 4. In § 15 Absatz 1 und § 18 Absatz 1 wird die Angabe "§ 9 Absatz 5 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 Absatz 6 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" und die Angabe "§ 9 Absatz 4 Nummer 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 Absatz 4 Nummer 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 - 5. § 21 wird wie folgt geändert:
-  - a) In Absatz 1 wird die Angabe "§ 9 Absatz 6 des BSI-Gesetzes" durch die Angabe "§ 52 Absatz 7 des BSI-Gesetzes" ersetzt.
-  - b) In Absatz 1 Nummer 2 wird die Angabe "§ 9 Absatz 6 Nummer 2 des BSI-Gesetzes" durch die Angabe "§ 52 Absatz 7 Satz 1 Nummer 2 des BSI-Gesetzes" ersetzt.
-  - c) In Absatz 4 Satz 1 wird die Angabe "§ 9 Absatz 6 Satz 2 des BSI-Gesetzes" durch die Angabe "§ 52 Absatz 7 Satz 2 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 1 wird die Angabe "§ 9 Absatz 6 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 Absatz 7 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+  - b) In Absatz 1 Nummer 2 wird die Angabe "§ 9 Absatz 6 Nummer 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 Absatz 7 Satz 1 Nummer 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+  - c) In Absatz 4 Satz 1 wird die Angabe "§ 9 Absatz 6 Satz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 Absatz 7 Satz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 #### **Artikel 8**
 
@@ -1557,22 +1557,22 @@ zur Bestimmung kritischer Anlagen nach dem [BSI-Gesetz](BSIG_BSI-Gesetz.md)".
 
 - 2. § 1 Absatz 1 wird wie folgt geändert:
   - a) Die Nummern 2 und 3 werden gestrichen.
-  - b) Nummer 4 wird zu Nummer 3 und die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" wird durch die Angabe "56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
+  - b) Nummer 4 wird zu Nummer 3 und die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" wird durch die Angabe "56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - c) Nummer 5 wird zu Nummer 4.
 - 3. § 2 wird wie folgt geändert:
-  - a) In Absatz 1 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt
+  - a) In Absatz 1 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt
   - b) In Absatz 6 in der Angabe vor Nummer 1 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" ersetzt.
 - 4. § 3 wird wie folgt geändert:
-  - a) In Absatz 1 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 1 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - b) In Absatz 4 in der Angabe vor Nummer 1 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" ersetzt.
 - 5. § 4 wird wie folgt geändert:
-  - a) In Absatz 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - b) In Absatz 3 in der Angabe vor Nummer 1 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" ersetzt.
 - 6. § 5 wird wie folgt geändert:
-  - a) In Absatz 1 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 1 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - b) In Absatz 4 in der Angabe vor Nummer 1 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" ersetzt.
 - 7. § 6 wird wie folgt geändert:
-  - a) In Absatz 1 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 1 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - b) In Absatz 4 in der Angabe vor Nummer 1 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" ersetzt.
 
 {50}------------------------------------------------
@@ -1583,7 +1583,7 @@ zur Bestimmung kritischer Anlagen nach dem [BSI-Gesetz](BSIG_BSI-Gesetz.md)".
 #### Sektor Finanzwesen".
 
 - b) Absatz 1 wird wie folgt geändert:
-  - aa) In der Angabe vor Nummer 1 wird die Angabe "Finanz- und Versicherungswesen" durch die Angabe "Finanzwesen" und die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
+  - aa) In der Angabe vor Nummer 1 wird die Angabe "Finanz- und Versicherungswesen" durch die Angabe "Finanzwesen" und die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - bb) In Nummer 4 wird die Angabe "Derivatgeschäften;" durch die Angabe "Derivatgeschäften." ersetzt.
   - cc) Nummer 5 wird gestrichen.
 - c) Absatz 6 wird gestrichen.
@@ -1600,12 +1600,12 @@ zur Bestimmung kritischer Anlagen nach dem [BSI-Gesetz](BSIG_BSI-Gesetz.md)".
 - 1. den in Anhang 9 Teil 2 Spalte B genannten Kategorien zuzuordnen sind und
 - 2. den Schwellenwert nach Anhang 9 Teil 2 Spalte D erreichen oder überschreiten."
 - 10. Der bisherige § 8 wird zu § 9 und wird wie folgt geändert:
-  - a) In Absatz 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - b) In Absatz 3 in der Angabe vor Nummer 1 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" ersetzt.
 - 11. Der bisherige § 9 wird zu § 10 und wird wie folgt geändert:
-  - a) In Absatz 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - b) In Absatz 3 in der Angabe vor Nummer 1 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" ersetzt.
-- 12. Der bisherige § 10 wird zu § 11 und in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des BSI-Gesetzes" und die Angabe "Betreiber Kritischer Infrastrukturen" durch die Angabe "Betreiber kritischer Anlagen" ersetzt.
+- 12. Der bisherige § 10 wird zu § 11 und in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 4 Satz 1 in Verbindung mit § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" und die Angabe "Betreiber Kritischer Infrastrukturen" durch die Angabe "Betreiber kritischer Anlagen" ersetzt.
 - 13. Anhang 1 wird wie folgt geändert:
   - a) In der Überschrift wird die Angabe "§ 1 Nummer 4 und 5" durch die Angabe "§ 1 Absatz 1 Nummer 2 und 3" ersetzt.
   - b) Teil 1 wird wie folgt geändert:
@@ -1707,18 +1707,18 @@ Anlagenkategorien und Schwellenwerte
 Die BSI-IT-Sicherheitskennzeichenverordnung vom 24. November 2021 (BGBI. I S. 4978), wird wie folgt geändert:
 
 - 1. Die Eingangsformel wird durch die folgende Eingangsformel ersetzt:
-  - "Auf Grund des § 56 Absatz 2 des BSI-Gesetzes vom 2. Dezember 2025 (BGBI. 2025 I Nr. 301, S. 2) verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit:".
-- 2. In § 2 Nummer 4 wird die Angabe "§ 9c Absatz 3 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 55 Absatz 3 Satz 1 des BSI-Gesetzes" ersetzt.
-- 3. In § 3 Absatz 1 Satz 1 wird die Angabe "§ 9c Absatz 2 des BSI-Gesetzes" durch die Angabe "§ 55 Absatz 2 des BSI-Gesetzes" ersetzt.
+  - "Auf Grund des § 56 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 2. Dezember 2025 (BGBI. 2025 I Nr. 301, S. 2) verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit:".
+- 2. In § 2 Nummer 4 wird die Angabe "§ 9c Absatz 3 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 55 Absatz 3 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- 3. In § 3 Absatz 1 Satz 1 wird die Angabe "§ 9c Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 55 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 - 4. In § 5 wird wie folgt geändert:
-  - a) In Absatz 4 wird die Angabe "[§ 9c Absatz 5 BSIG](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 55 Absatz 5 des BSI-Gesetzes" ersetzt
-  - b) In Absatz 5 Satz 1 Nummer 2 wird die Angabe "§§ 7 oder 7a des BSI-Gesetzes" durch die Angabe "§ 13 oder 14 des BSI-Gesetzes" und die Angabe "§ 9c Absatz 8 des BSI-Gesetzes" durch die Angabe "§ 55 Absatz 8 des BSI-Gesetzes" ersetzt.
-- 5. In § 6 Absatz 1 wird die Angabe "§ 9 des BSI-Gesetzes" durch die Angabe "§ 52 des BSI-Gesetzes" ersetzt.
-- 6. In § 7 Absatz 3 und § 9 Absatz 1 Satz 1 wird jeweils die Angabe "§ 9c des BSI-Gesetzes" durch die Angabe "§ 55 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 4 wird die Angabe "[§ 9c Absatz 5 BSIG](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 55 Absatz 5 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt
+  - b) In Absatz 5 Satz 1 Nummer 2 wird die Angabe "§§ 7 oder 7a des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 13 oder 14 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" und die Angabe "§ 9c Absatz 8 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 55 Absatz 8 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- 5. In § 6 Absatz 1 wird die Angabe "§ 9 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- 6. In § 7 Absatz 3 und § 9 Absatz 1 Satz 1 wird jeweils die Angabe "§ 9c des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 55 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 - 7. § 13 wird wie folgt geändert:
-  - a) In Satz 1 wird die Angabe "§ 9c Absatz 2 des BSI-Gesetzes" durch die Angabe "§ 55 Absatz 2 des BSI-Gesetzes" ersetzt.
-  - b) In Satz 2 wird die Angabe "§§ 7 oder 7a des BSI-Gesetzes" durch die Angabe "§ 13 oder 14 des BSI-Gesetzes" ersetzt.
-- In § 14 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 3 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 56 Absatz 2 des BSI-Gesetzes" ersetzt.
+  - a) In Satz 1 wird die Angabe "§ 9c Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 55 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+  - b) In Satz 2 wird die Angabe "§§ 7 oder 7a des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 13 oder 14 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- In § 14 in der Angabe vor Nummer 1 wird die Angabe "§ 10 Absatz 3 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 56 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 #### Artikel 10
 
@@ -1726,7 +1726,7 @@ Die BSI-IT-Sicherheitskennzeichenverordnung vom 24. November 2021 (BGBI. I S. 49
 
 Das De-Mail-Gesetz vom 28. April 2011 (BGBI. I S. 666), das zuletzt durch Artikel 10 des Gesetzes vom 6. Mai 2024 (BGBI. 2024 I Nr. 149) geändert worden ist, wird wie folgt geändert:
 
-In § 18 Absatz 3 Nummer 3 wird die Angabe "§ 9 Absatz 2 Satz 1 des Gesetzes über das Bundesamt für Sicherheit in der Informationstechnik" durch die Angabe "§ 52 Absatz 2 Satz 1 des BSI-Gesetzes" ersetzt.
+In § 18 Absatz 3 Nummer 3 wird die Angabe "§ 9 Absatz 2 Satz 1 des [Gesetzes über das Bundesamt für Sicherheit in der Informationstechnik](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 Absatz 2 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 # **Artikel 11**
 
@@ -1740,7 +1740,7 @@ Das E-Government-Gesetz vom 25. Juli 2013 (BGBI. I S. 2749; 2015 I S. 678), das 
 
 Die Passdatenerfassungs- und Übermittlungsverordnung vom 9. Oktober 2007 (BGBI. I S. 2312), die zuletzt durch Artikel 4 der Verordnung vom 30. Oktober 2023 (BGBI. 2023 I Nr. 290) geändert worden ist, wird wie folgt geändert:
 
-In § 4 Absatz 2 wird die Angabe "§ 9 des BSI-Gesetzes vom 14. August 2009 (BGBI. I S. 2821)" durch die Angabe "§ 52 des BSI-Gesetzes vom 2. Dezember 2025 (BGBI. 2025 I Nr. 301, S. 2)" ersetzt.
+In § 4 Absatz 2 wird die Angabe "§ 9 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821)" durch die Angabe "§ 52 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 2. Dezember 2025 (BGBI. 2025 I Nr. 301, S. 2)" ersetzt.
 
 {54}------------------------------------------------
 
@@ -1750,7 +1750,7 @@ In § 4 Absatz 2 wird die Angabe "§ 9 des BSI-Gesetzes vom 14. August 2009 (BGB
 
 Die Personalausweisverordnung vom 1. November 2010 (BGBI. I S. 1460), die zuletzt durch Artikel 3 der Verordnung vom 29. Oktober 2025 (BGBI. 2025 I Nr. 260) geändert worden ist, wird wie folgt geändert:
 
-In § 3 Absatz 2 wird die Angabe "§ 9 des BSI-Gesetzes vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 1 des Gesetzes vom 23. Juni 2017 (BGBI. I S. 1885) geändert worden ist," durch die Angabe "§ 52 des BSI-Gesetzes vom 2. Dezember 2025 (BGBI. 2025 I Nr. 301, S. 2)" ersetzt.
+In § 3 Absatz 2 wird die Angabe "§ 9 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 1 des Gesetzes vom 23. Juni 2017 (BGBI. I S. 1885) geändert worden ist," durch die Angabe "§ 52 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 2. Dezember 2025 (BGBI. 2025 I Nr. 301, S. 2)" ersetzt.
 
 #### Artikel 14
 
@@ -1758,7 +1758,7 @@ In § 3 Absatz 2 wird die Angabe "§ 9 des BSI-Gesetzes vom 14. August 2009 (BGB
 
 Das Hinweisgeberschutzgesetz vom 31. Mai 2023 (BGBI. 2023 I Nr. 140), das durch Artikel 16 des Gesetzes vom 27. Dezember 2024 (BGBI. 2024 I Nr. 438) geändert worden ist, wird wie folgt geändert:
 
-In § 2 Absatz 1 Nummer 3 Buchstabe q wird die Angabe "§ 2 Absatz 2 des BSI-Gesetzes" durch die Angabe "§ 2 Nummer 39 des BSI-Gesetzes" und die Angabe "Anbietern digitaler Dienste im Sinne des § 2 Absatz 12 des BSI-Gesetzes" durch die Angabe "besonders wichtigen Einrichtungen nach § 28 Absatz 1 des BSI-Gesetzes und wichtigen Einrichtungen nach § 28 Absatz 2 des BSI-Gesetzes, soweit diese den Einrichtungsarten nach Anhang 1 Nummer 6.1.4. oder Anhang 2 Nummern 6.1.1. oder 6.1.2 des BSI-Gesetzes zuzuordnen sind" ersetzt.
+In § 2 Absatz 1 Nummer 3 Buchstabe q wird die Angabe "§ 2 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 2 Nummer 39 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" und die Angabe "Anbietern digitaler Dienste im Sinne des § 2 Absatz 12 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "besonders wichtigen Einrichtungen nach § 28 Absatz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) und wichtigen Einrichtungen nach § 28 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md), soweit diese den Einrichtungsarten nach Anhang 1 Nummer 6.1.4. oder Anhang 2 Nummern 6.1.1. oder 6.1.2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) zuzuordnen sind" ersetzt.
 
 #### Artikel 15
 
@@ -1766,7 +1766,7 @@ In § 2 Absatz 1 Nummer 3 Buchstabe q wird die Angabe "§ 2 Absatz 2 des BSI-Ges
 
 Die Kassensicherungsverordnung vom 26. September 2017 (BGBI. I S. 3515), die zuletzt durch Artikel 2 der Verordnung vom 30. Juli 2021 (BGBI. I S. 3295) geändert worden ist, wird wie folgt geändert:
 
-In § 11 Absatz 1 Satz 1 wird die Angabe "§ 9 des BSI-Gesetzes" durch die Angabe "§ 52 des BSI-Gesetzes" ersetzt.
+In § 11 Absatz 1 Satz 1 wird die Angabe "§ 9 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 52 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 # Artikel 16
 
@@ -1774,7 +1774,7 @@ In § 11 Absatz 1 Satz 1 wird die Angabe "§ 9 des BSI-Gesetzes" durch die Angab
 
 Das Atomgesetz in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBI. I S. 1565), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2022 (BGBI. I S. 2153) geändert worden ist, wird wie folgt geändert: In § 44b Satz 2 wird die Angabe "§ 8b Absatz 1, 2 Nummer 1 bis 3, Nummer 4 Buchstabe a bis c und Absatz 7 des
 
-IN § 44b Satz 2 Wird die Angabe "§ 8b Absatz 1, 2 Nummer 1 bis 3, Nummer 4 Buchstabe a bis c und Absatz 7 des BSI-Gesetzes" durch die Angabe "§ 40 Absatz 1, 3 Nummer 1, 2, 3, 4 Buchstabe a, d und Absatz 6 des BSI-Gesetzes" ersetzt.
+IN § 44b Satz 2 Wird die Angabe "§ 8b Absatz 1, 2 Nummer 1 bis 3, Nummer 4 Buchstabe a bis c und Absatz 7 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 40 Absatz 1, 3 Nummer 1, 2, 3, 4 Buchstabe a, d und Absatz 6 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 # Artikel 17
 
@@ -1797,8 +1797,8 @@ Das Energiewirtschaftsgesetz vom 7. Juli 2005 (BGBI. I S. 1970, 3621), das zulet
 
 {55}------------------------------------------------
 
-- 2. der Betreiber einer Energieanlage, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder eine wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist und dessen Energieanlage an ein Energieversorgungsnetz angeschlossen ist, für Telekommunikationssysteme sowie für elektronische Datenverarbeitungssysteme, die für einen sicheren Betrieb der Energieanlage notwendig sind,
-- 3. der Betreiber eines digitalen Energiedienstes, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder eine wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist und der den digitalen Energiedienst an einer Energieanlage ausübt, die an ein Energieversorgungsnetz angeschlossen ist, für Telekommunikationssysteme sowie für elektronische Datenverarbeitungssysteme, die für einen sicheren Betrieb der Anlage notwendig sind.
+- 2. der Betreiber einer Energieanlage, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) oder eine wichtige Einrichtung nach § 28 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) ist und dessen Energieanlage an ein Energieversorgungsnetz angeschlossen ist, für Telekommunikationssysteme sowie für elektronische Datenverarbeitungssysteme, die für einen sicheren Betrieb der Energieanlage notwendig sind,
+- 3. der Betreiber eines digitalen Energiedienstes, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) oder eine wichtige Einrichtung nach § 28 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) ist und der den digitalen Energiedienst an einer Energieanlage ausübt, die an ein Energieversorgungsnetz angeschlossen ist, für Telekommunikationssysteme sowie für elektronische Datenverarbeitungssysteme, die für einen sicheren Betrieb der Anlage notwendig sind.
 
 Der angemessene Schutz nach Satz 1 ist bereits bei der Beschaffung von Anlagengütern und Dienstleistungen sicherzustellen.
 
@@ -1819,7 +1819,7 @@ Der angemessene Schutz nach Satz 1 ist bereits bei der Beschaffung von Anlageng�
 - 8. Konzepte und Verfahren für den Einsatz von Kryptografie und Verschlüsselung,
 - 9. die Sicherheit des Personals, Konzepte für die Zugriffskontrolle und das Management von Anlagen,
 - 10. die Verwendung von Lösungen zur Multi-Faktor-Authentifizierung oder kontinuierlichen Authentifizierung, gesicherte Sprach-, Video- und Textkommunikation sowie gegebenenfalls gesicherte Notfallkommunikationssysteme innerhalb der Einrichtung,
-- 11. den Einsatz von Systemen zur Angriffserkennung nach § 2 Nummer 41 des BSI-Gesetzes,
+- 11. den Einsatz von Systemen zur Angriffserkennung nach § 2 Nummer 41 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md),
 - 12. den Einsatz eines Elements oder einer Gruppe von Elementen eines Netz- oder Informationssystems (IKT-Produkt), eines Dienstes, der vollständig oder überwiegend aus der Übertragung, Speicherung, Abfrage oder Verarbeitung von Informationen mittels Netz- und Informationssystemen besteht (IKT-Dienst), und jeglicher Tätigkeiten, mit denen ein IKT-Produkt oder ein IKT-Dienst konzipiert, entwickelt, bereitgestellt oder gepflegt werden soll (IKT-Prozess), mit Cybersicherheitszertifizierung gemäß europäischer Schemata nach Artikel 49 der Verordnung (EU) 2019/881.
 
 {56}------------------------------------------------
@@ -1829,32 +1829,32 @@ Der angemessene Schutz nach Satz 1 ist bereits bei der Beschaffung von Anlageng�
 - 2. nähere Bestimmungen zur Behebung von Sicherheitsmängeln sowie
 - 3. Regelungen festlegen zur regelmäßigen Überprüfung der Erfüllung der Sicherheitsanforderungen.
 - (6) Die Bundesnetzagentur legt bis zum Ablauf des 6. Januar 2026 im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik durch Festlegung nach § 29 Absatz 1 in einem Katalog für den Betrieb von Energieversorgungsnetzen und Energieanlagen fest,
-- 1. welche Komponenten kritische Komponenten nach § 2 Nummer 23 Buchstabe c Doppelbuchstabe aa des BSI-Gesetzes sind oder
-- 2. welche Funktionen kritisch bestimmte Funktionen nach § 2 Nummer 23 Buchstabe c Doppelbuchstabe bb des BSI-Gesetzes sind.
+- 1. welche Komponenten kritische Komponenten nach § 2 Nummer 23 Buchstabe c Doppelbuchstabe aa des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) sind oder
+- 2. welche Funktionen kritisch bestimmte Funktionen nach § 2 Nummer 23 Buchstabe c Doppelbuchstabe bb des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) sind.
 
-Der Betreiber nach Absatz 1 Satz 1 Nummer 1 und 2, der zugleich eine kritische Anlage nach § 2 Nummer 22 des BSI-Gesetzes betreibt, hat die Vorgaben des Katalogs spätestens sechs Monate nach dessen in der Festlegung nach § 29 Absatz 1 bestimmten Inkrafttretens zu erfüllen, es sei denn, in dem Katalog ist eine davon abweichende Umsetzungsfrist festgelegt worden. Die Befugnis der Bundesnetzagentur nach Satz 1 besteht bis zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für den Sektor Energie fort. Eine von der Bundesnetzagentur auf der Grundlage von Satz 1 oder auf der Grundlage von § 11 Absatz 1a Satz 2 des Energiewirtschaftsgesetzes in der am 5. Dezember 2025 geltenden Fassung erlassene Allgemeinverfügung ist mit dem Inkrafttreten einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für Energieversorgungsnetze und Energieanlagen aufzuheben.
+Der Betreiber nach Absatz 1 Satz 1 Nummer 1 und 2, der zugleich eine kritische Anlage nach § 2 Nummer 22 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) betreibt, hat die Vorgaben des Katalogs spätestens sechs Monate nach dessen in der Festlegung nach § 29 Absatz 1 bestimmten Inkrafttretens zu erfüllen, es sei denn, in dem Katalog ist eine davon abweichende Umsetzungsfrist festgelegt worden. Die Befugnis der Bundesnetzagentur nach Satz 1 besteht bis zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) für den Sektor Energie fort. Eine von der Bundesnetzagentur auf der Grundlage von Satz 1 oder auf der Grundlage von § 11 Absatz 1a Satz 2 des Energiewirtschaftsgesetzes in der am 5. Dezember 2025 geltenden Fassung erlassene Allgemeinverfügung ist mit dem Inkrafttreten einer Rechtsverordnung nach § 56 Absatz 7 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) für Energieversorgungsnetze und Energieanlagen aufzuheben.
 
 #### § 5d
 
 #### Dokumentations-, Melde-, Registrierungspflicht
 
-- (1) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 hat die Einhaltung der Anforderungen des IT-Sicherheitskatalogs zu dokumentieren. Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 und der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 2 und 3, der jeweils eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes ist, hat die Dokumentation nach Satz 1 der Bundesnetzagentur unverzüglich nach der Erstellung zu übermitteln. Auf Verlangen der Bundesnetzagentur hat der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 einen Mängelbeseitigungsplan vorzulegen. Ergeben sich aus dem Mängelbeseitigungsplan Sicherheitsmängel, so kann die Bundesnetzagentur von dem Betreiber die Beseitigung dieser Mängel innerhalb einer gesetzten Frist verlangen. Der Betreiber hat der Bundesnetzagentur und den in deren Auftrag handelnden Personen zum Zweck der Überprüfung der Einhaltung des IT-Sicherheitskatalogs das Betreten der Geschäfts- und Betriebsräume während der üblichen Betriebszeiten zu gestatten und auf Verlangen die in Betracht kommenden Aufzeichnungen, Schriftstücke und sonstigen Unterlagen in geeigneter Weise vorzulegen. Er hat Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Für die Überprüfung erhebt die Bundesnetzagentur nur dann Gebühren und Auslagen, wenn die Bundesnetzagentur auf Grund von Anhaltspunkten tätig geworden ist, die berechtigte Zweifel an der Einhaltung der Anforderungen des IT-Sicherheitskatalogs begründen.
+- (1) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 hat die Einhaltung der Anforderungen des IT-Sicherheitskatalogs zu dokumentieren. Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 und der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 2 und 3, der jeweils eine besonders wichtige Einrichtung nach § 28 Absatz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) ist, hat die Dokumentation nach Satz 1 der Bundesnetzagentur unverzüglich nach der Erstellung zu übermitteln. Auf Verlangen der Bundesnetzagentur hat der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 einen Mängelbeseitigungsplan vorzulegen. Ergeben sich aus dem Mängelbeseitigungsplan Sicherheitsmängel, so kann die Bundesnetzagentur von dem Betreiber die Beseitigung dieser Mängel innerhalb einer gesetzten Frist verlangen. Der Betreiber hat der Bundesnetzagentur und den in deren Auftrag handelnden Personen zum Zweck der Überprüfung der Einhaltung des IT-Sicherheitskatalogs das Betreten der Geschäfts- und Betriebsräume während der üblichen Betriebszeiten zu gestatten und auf Verlangen die in Betracht kommenden Aufzeichnungen, Schriftstücke und sonstigen Unterlagen in geeigneter Weise vorzulegen. Er hat Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Für die Überprüfung erhebt die Bundesnetzagentur nur dann Gebühren und Auslagen, wenn die Bundesnetzagentur auf Grund von Anhaltspunkten tätig geworden ist, die berechtigte Zweifel an der Einhaltung der Anforderungen des IT-Sicherheitskatalogs begründen.
 - (2) Erlangt die Bundesnetzagentur Kenntnis über Hinweise oder Informationen, wonach ein Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 die Anforderungen des IT-Sicherheitskatalogs nicht oder nicht richtig umsetzt, so kann sie von dem Betreiber Informationen anfordern, um die Einhaltung des IT-Sicherheitskatalogs zu überprüfen. Absatz 1 Satz 3 bis 7 ist entsprechend anzuwenden.
-- (3) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 ist verpflichtet, der Meldestelle nach § 32 des BSI-Gesetzes folgende Informationen zu melden:
-- 1. unverzüglich, spätestens jedoch innerhalb von 24 Stunden nach Kenntniserlangung von einem erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des BSI-Gesetzes: eine frühe Erstmeldung, in der angegeben wird, ob der Verdacht besteht, dass der erhebliche Sicherheitsvorfall auf eine rechtswidrige oder eine böswillige Handlung zurückzuführen ist oder dass er grenzüberschreitende Auswirkungen haben könnte,
-- 2. unverzüglich, spätestens jedoch innerhalb von 72 Stunden nach Kenntniserlangung von einem erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des BSI-Gesetzes: eine Meldung über den erheblichen Sicherheitsvorfall, in der die in Nummer 1 genannten Informationen bestätigt oder aktualisiert werden und in der eine erste Bewertung des erheblichen Sicherheitsvorfalls vorgenommen wird, einschließlich der Bewertung seines Schweregrads und seiner Auswirkungen und einschließlich der Angabe der Kompromittierungsfaktoren,
+- (3) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 ist verpflichtet, der Meldestelle nach § 32 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) folgende Informationen zu melden:
+- 1. unverzüglich, spätestens jedoch innerhalb von 24 Stunden nach Kenntniserlangung von einem erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md): eine frühe Erstmeldung, in der angegeben wird, ob der Verdacht besteht, dass der erhebliche Sicherheitsvorfall auf eine rechtswidrige oder eine böswillige Handlung zurückzuführen ist oder dass er grenzüberschreitende Auswirkungen haben könnte,
+- 2. unverzüglich, spätestens jedoch innerhalb von 72 Stunden nach Kenntniserlangung von einem erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md): eine Meldung über den erheblichen Sicherheitsvorfall, in der die in Nummer 1 genannten Informationen bestätigt oder aktualisiert werden und in der eine erste Bewertung des erheblichen Sicherheitsvorfalls vorgenommen wird, einschließlich der Bewertung seines Schweregrads und seiner Auswirkungen und einschließlich der Angabe der Kompromittierungsfaktoren,
 - 3. auf Ersuchen des Bundesamtes für Sicherheit in der Informationstechnik eine Zwischenmeldung über relevante Statusaktualisierungen,
 
 {57}------------------------------------------------
 
-- 4. spätestens einen Monat nach Übermittlung der Meldung des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des BSI-Gesetzes eine Abschlussmeldung, die Folgendes enthält:
-  - a) eine ausführliche Beschreibung des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des BSI-Gesetzes, einschließlich seines Schweregrads und seiner Auswirkungen,
-  - b) Angaben zur Art der Bedrohung beziehungsweise zur Ursache, die wahrscheinlich den erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des BSI-Gesetzes ausgelöst hat,
+- 4. spätestens einen Monat nach Übermittlung der Meldung des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) eine Abschlussmeldung, die Folgendes enthält:
+  - a) eine ausführliche Beschreibung des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md), einschließlich seines Schweregrads und seiner Auswirkungen,
+  - b) Angaben zur Art der Bedrohung beziehungsweise zur Ursache, die wahrscheinlich den erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) ausgelöst hat,
   - c) Angaben zu den getroffenen und den laufenden Abhilfemaßnahmen zur Abwendung oder Behebung des erheblichen Sicherheitsvorfalls,
-  - d) gegebenenfalls die grenzüberschreitenden Auswirkungen des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des BSI-Gesetzes.
-- § 32 Absatz 2 bis 5 und § 36 des BSI-Gesetzes sind entsprechend anzuwenden. Bei Meldungen nach diesem Absatz trifft das Bundesamt für Sicherheit in der Informationstechnik Maßnahmen nach § 36 des BSI-Gesetzes im Benehmen mit der Bundesnetzagentur.
-- (4) Der Betreiber eines Energieversorgungsnetzes, der keine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder keine wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist, ist verpflichtet, spätestens bis zum Ablauf des 6. März 2026 dem Bundesamt für Sicherheit in der Informationstechnik die Angaben nach § 33 Absatz 1 Nummer 1 bis 4 des BSI-Gesetzes zur Registrierung zu übermitteln. § 33 Absatz 2 bis 5 des BSI-Gesetzes ist für den in Satz 1 genannten Betreiber entsprechend anzuwenden mit der Maßgabe, dass das Bundesamt für Sicherheit in der Informationstechnik die Registrierung auch selbst vornehmen und eine Kontaktstelle benennen kann, wenn der Betreiber seine Pflicht zur Registrierung nicht erfüllt. Nimmt das Bundesamt für Sicherheit in der Informationstechnik eine solche Registrierung selbst vor, so informiert es sowohl den betreffenden Betreiber als auch die Bundesnetzagentur darüber und übermittelt die damit verbundenen Kontaktdaten. Jeder Betreiber hat sicherzustellen, dass er über die von ihm benannte oder durch die durch das Bundesamt für Sicherheit in der Informationstechnik festgelegte Kontaktstelle jederzeit erreichbar ist. Für den Betreiber eines Energieversorgungsnetzes, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder eine wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist und für Betreiber nach § 5c Absatz 1 Satz 1 Nummer 2 und 3 ist § 33 des BSI-Gesetzes auch mit den in den Sätzen 2 bis 4 enthaltenen Maßgaben anzuwenden. Das Bundesamt für Sicherheit in der Informationstechnik übermittelt die durch die Registrierung der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 erhaltenen Daten sowie jede Änderung der Registrierungen unverzüglich an die Bundesnetzagentur. Die Übermittlung von Informationen durch das Bundesamt für Sicherheit in der Informationstechnik nach § 40 Absatz 3 Nummer 4 Buchstabe a des BSI-Gesetzes erfolgt an diese Kontaktstelle.
-- (5) Das Bundesamt für Sicherheit in der Informationstechnik hat die Hinweise oder Informationen nach Absatz 2 und solche Meldungen über Sicherheitsvorfälle nach § 32 des BSI-Gesetzes, bei denen das Bundesamt für Sicherheit in der Informationstechnik Kenntnis von einer Relevanz für die Energieversorgungssicherheit und die Erfüllung der Zwecke und Ziele nach § 1 erlangt, unverzüglich an die Bundesnetzagentur weiterzuleiten. Die Bundesnetzagentur führt unverzüglich eine Bewertung der Auswirkungen des nach Satz 1 übermittelten Sicherheitsvorfalls auf die Energieversorgungssicherheit durch und übermittelt ihre Ergebnisse an das Bundesamt für Sicherheit in der Informationstechnik. Die Bundesnetzagentur kann von dem betroffenen Unternehmen die Herausgabe der zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit notwendigen Informationen, einschließlich personenbezogener Daten, verlangen. Sie ist befugt, zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit erforderliche personenbezogene Daten zu erheben, zu speichern und zu verwenden. Das betroffene Unternehmen hat der Bundesnetzagentur die zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit notwendigen Informationen, einschließlich personenbezogener Daten, zu übermitteln. Die Bundesnetzagentur kann bei der Durchführung der Bewertung nach Satz 2 die Betreiber von Übertragungs-, von Fernleitungs- sowie von Verteilernetzen einbeziehen und ist befugt, ihnen die hierzu erforderlichen personenbezogenen Daten zu übermitteln. Die Betreiber von Übertragungs-, von Fernleitungssowie von Verteilernetzen sind befugt, die ihnen nach Satz 5 zum dort genannten Zweck übermittelten personenbezogenen Daten zu erheben, zu speichern und zu verwenden. Nach Erstellung der Bewertung sind die hierzu gespeicherten und verwendeten personenbezogenen Daten von der Bundesnetzagentur und den Betreibern von Übertragungs-, von Fernleitungs- sowie von Verteilernetzen unverzüglich zu löschen. Das Bundesamt für Sicherheit in der Informationstechnik berücksichtigt die Bewertung der Bundesnetzagentur bei der Erfüllung der Aufgaben nach § 40 Absatz 3 Nummer 2 des BSI-Gesetzes. Das Bundesamt für Sicherheit in der Informationstechnik und die Bundesnetzagentur haben jeweils sicherzustellen, dass die unbefugte Offenbarung der ihnen nach Satz 1 zur Kenntnis gelangten Hinweise und Meldungen ausgeschlossen wird. Zugang zu den Akten des Bundesamtes für Sicherheit in der Informationstechnik sowie zu den Akten der Bundesnetzagentur in Angelegenheiten nach § 5c Absatz 1 bis 5 und den Absätzen 1 bis 4 sowie dieses Absatzes wird nicht gewährt. § 29 des Verwaltungsverfahrensgesetzes bleibt unberührt.
+  - d) gegebenenfalls die grenzüberschreitenden Auswirkungen des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md).
+- § 32 Absatz 2 bis 5 und § 36 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) sind entsprechend anzuwenden. Bei Meldungen nach diesem Absatz trifft das Bundesamt für Sicherheit in der Informationstechnik Maßnahmen nach § 36 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) im Benehmen mit der Bundesnetzagentur.
+- (4) Der Betreiber eines Energieversorgungsnetzes, der keine besonders wichtige Einrichtung nach § 28 Absatz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) oder keine wichtige Einrichtung nach § 28 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) ist, ist verpflichtet, spätestens bis zum Ablauf des 6. März 2026 dem Bundesamt für Sicherheit in der Informationstechnik die Angaben nach § 33 Absatz 1 Nummer 1 bis 4 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) zur Registrierung zu übermitteln. § 33 Absatz 2 bis 5 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) ist für den in Satz 1 genannten Betreiber entsprechend anzuwenden mit der Maßgabe, dass das Bundesamt für Sicherheit in der Informationstechnik die Registrierung auch selbst vornehmen und eine Kontaktstelle benennen kann, wenn der Betreiber seine Pflicht zur Registrierung nicht erfüllt. Nimmt das Bundesamt für Sicherheit in der Informationstechnik eine solche Registrierung selbst vor, so informiert es sowohl den betreffenden Betreiber als auch die Bundesnetzagentur darüber und übermittelt die damit verbundenen Kontaktdaten. Jeder Betreiber hat sicherzustellen, dass er über die von ihm benannte oder durch die durch das Bundesamt für Sicherheit in der Informationstechnik festgelegte Kontaktstelle jederzeit erreichbar ist. Für den Betreiber eines Energieversorgungsnetzes, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) oder eine wichtige Einrichtung nach § 28 Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) ist und für Betreiber nach § 5c Absatz 1 Satz 1 Nummer 2 und 3 ist § 33 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) auch mit den in den Sätzen 2 bis 4 enthaltenen Maßgaben anzuwenden. Das Bundesamt für Sicherheit in der Informationstechnik übermittelt die durch die Registrierung der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 erhaltenen Daten sowie jede Änderung der Registrierungen unverzüglich an die Bundesnetzagentur. Die Übermittlung von Informationen durch das Bundesamt für Sicherheit in der Informationstechnik nach § 40 Absatz 3 Nummer 4 Buchstabe a des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) erfolgt an diese Kontaktstelle.
+- (5) Das Bundesamt für Sicherheit in der Informationstechnik hat die Hinweise oder Informationen nach Absatz 2 und solche Meldungen über Sicherheitsvorfälle nach § 32 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md), bei denen das Bundesamt für Sicherheit in der Informationstechnik Kenntnis von einer Relevanz für die Energieversorgungssicherheit und die Erfüllung der Zwecke und Ziele nach § 1 erlangt, unverzüglich an die Bundesnetzagentur weiterzuleiten. Die Bundesnetzagentur führt unverzüglich eine Bewertung der Auswirkungen des nach Satz 1 übermittelten Sicherheitsvorfalls auf die Energieversorgungssicherheit durch und übermittelt ihre Ergebnisse an das Bundesamt für Sicherheit in der Informationstechnik. Die Bundesnetzagentur kann von dem betroffenen Unternehmen die Herausgabe der zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit notwendigen Informationen, einschließlich personenbezogener Daten, verlangen. Sie ist befugt, zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit erforderliche personenbezogene Daten zu erheben, zu speichern und zu verwenden. Das betroffene Unternehmen hat der Bundesnetzagentur die zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit notwendigen Informationen, einschließlich personenbezogener Daten, zu übermitteln. Die Bundesnetzagentur kann bei der Durchführung der Bewertung nach Satz 2 die Betreiber von Übertragungs-, von Fernleitungs- sowie von Verteilernetzen einbeziehen und ist befugt, ihnen die hierzu erforderlichen personenbezogenen Daten zu übermitteln. Die Betreiber von Übertragungs-, von Fernleitungssowie von Verteilernetzen sind befugt, die ihnen nach Satz 5 zum dort genannten Zweck übermittelten personenbezogenen Daten zu erheben, zu speichern und zu verwenden. Nach Erstellung der Bewertung sind die hierzu gespeicherten und verwendeten personenbezogenen Daten von der Bundesnetzagentur und den Betreibern von Übertragungs-, von Fernleitungs- sowie von Verteilernetzen unverzüglich zu löschen. Das Bundesamt für Sicherheit in der Informationstechnik berücksichtigt die Bewertung der Bundesnetzagentur bei der Erfüllung der Aufgaben nach § 40 Absatz 3 Nummer 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md). Das Bundesamt für Sicherheit in der Informationstechnik und die Bundesnetzagentur haben jeweils sicherzustellen, dass die unbefugte Offenbarung der ihnen nach Satz 1 zur Kenntnis gelangten Hinweise und Meldungen ausgeschlossen wird. Zugang zu den Akten des Bundesamtes für Sicherheit in der Informationstechnik sowie zu den Akten der Bundesnetzagentur in Angelegenheiten nach § 5c Absatz 1 bis 5 und den Absätzen 1 bis 4 sowie dieses Absatzes wird nicht gewährt. § 29 des Verwaltungsverfahrensgesetzes bleibt unberührt.
 
 {58}------------------------------------------------
 
@@ -1882,19 +1882,19 @@ Der Betreiber nach Absatz 1 Satz 1 Nummer 1 und 2, der zugleich eine kritische A
   - b) Absatz 2 wird durch die folgenden Absätze 2 bis 8 ersetzt:
     - "(2) Die Ordnungswidrigkeit kann geahndet werden:
     - 1. in den Fällen des Absatzes 1 Nummer 3b bis 3e
-      - a) bei besonders wichtigen Einrichtungen nach § 28 Absatz 1 Satz 1 des BSI-Gesetzes mit einer Geldbuße bis zu zehn Millionen Euro und
-      - b) bei wichtigen Einrichtungen nach § 28 Absatz 2 Satz 1 des BSI-Gesetzes mit einer Geldbuße bis zu sieben Millionen Euro,
+      - a) bei besonders wichtigen Einrichtungen nach § 28 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) mit einer Geldbuße bis zu zehn Millionen Euro und
+      - b) bei wichtigen Einrichtungen nach § 28 Absatz 2 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) mit einer Geldbuße bis zu sieben Millionen Euro,
     - 2. in den Fällen des Absatzes 1 Nummer 3i bis 3I mit einer Geldbuße bis zu fünf Millionen Euro,
     - 3. in den Fällen des Absatzes 1 Nummer 1a, 1d, 3 Buchstabe b, Nummer 4 und 5 Buchstabe b, des Absätze 1b und 1c Nummer 2 und 6 mit einer Geldbuße bis zu einer Million Euro,
     - 4. in den Fällen des Absatzes 1 Nummer 5 Buchstabe f mit einer Geldbuße bis zu dreihunderttausend Euro,
     - 5. in den Fällen des Absatzes 1 Nummer 1, 1b, 1c, 2a, 2b, 3 Buchstabe a, Nummer 3a, 3f bis 3h, 4a bis 4c und 5 Buchstabe c und des Absatzes 1a Nummer 1, des Absatzes 1c Nummer 1, 3 bis 5 und 9 und der Absätze 1d und 1e mit einer Geldbuße bis zu hunderttausend Euro.
     - 6. in den Fällen des Absatzes 1 Nummer 2 und 5 Buchstabe e mit einer Geldbuße bis zu fünfzigtausend Euro und
     - 7. in den Fällen des Absatzes 1 Nummer 5 Buchstabe a, des Absatzes 1a Nummer 2 und des Absatzes 1c Nummer 7 und 8 mit einer Geldbuße bis zu zehntausend Euro.
-    - (3) Gegenüber einer besonders wichtigen Einrichtung im Sinne des § 28 Absatz 1 Satz 1 des BSI-Gesetzes mit einem Gesamtumsatz von mehr als 500 Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe a, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 2 Prozent des Gesamtumsatzes geahndet werden.
+    - (3) Gegenüber einer besonders wichtigen Einrichtung im Sinne des § 28 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) mit einem Gesamtumsatz von mehr als 500 Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe a, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 2 Prozent des Gesamtumsatzes geahndet werden.
 
 {59}------------------------------------------------
 
-- (4) Gegenüber einer wichtigen Einrichtung im Sinne des § 28 Absatz 2 Satz 1 des BSI-Gesetzes mit einem Gesamtumsatz von mehr als 500 Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe b, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 1,4 Prozent des Gesamtumsatzes geahndet werden.
+- (4) Gegenüber einer wichtigen Einrichtung im Sinne des § 28 Absatz 2 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) mit einem Gesamtumsatz von mehr als 500 Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe b, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 1,4 Prozent des Gesamtumsatzes geahndet werden.
 - (5) Gegenüber einem Transportnetzbetreiber oder einem vertikal integrierten Unternehmen mit einem Gesamtumsatz von mehr als zehn Millionen Euro kann abweichend von Absatz 2 Nummer 3, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3 Buchstabe b mit einer Geldbuße von bis zu 10 Prozent des Gesamtumsatzes geahndet werden.
 - (6) Gegenüber einem Transportnetzbetreiber oder einem vertikal integrierten Unternehmen mit einem Gesamtumsatz von mehr als 1 Million Euro kann abweichend von Absatz 2 Nummer 5, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1e mit einer Geldbuße von bis zu 10 Prozent des Gesamtumsatzes abzüglich der Umlagen nach § 12 des Energiefinanzierungsgesetzes geahndet werden.
 - (7) Gesamtumsatz im Sinne der Absätze 3 bis 6 ist die Summe aller Umsatzerlöse, die das Unternehmen, dem die besonders wichtige Einrichtung oder die wichtige Einrichtung angehört, der Transportnetzbetreiber oder das vertikal integrierte Unternehmen in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr weltweit erzielt hat. Der Gesamtumsatz kann geschätzt werden.
@@ -1908,7 +1908,7 @@ Der Betreiber nach Absatz 1 Satz 1 Nummer 1 und 2, der zugleich eine kritische A
 
 Das Messstellenbetriebsgesetz vom 29. August 2016 (BGBI. I S. 2034), das zuletzt durch Artikel 2 des Gesetzes vom 21. Februar 2025 (BGBI. 2025 I Nr. 51) geändert worden ist, wird wie folgt geändert:
 
-In § 24 Absatz 2 wird die Angabe "§ 9 des BSI-Gesetzes vom 14. August 2009 (BGBI. I S. 2821)" durch die Angabe "§ 52 des BSI-Gesetzes vom 2. Dezember 2025 (BGBI. I 2025 Nr. 301, S. 2) in der jeweils geltenden Fassung" ersetzt.
+In § 24 Absatz 2 wird die Angabe "§ 9 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821)" durch die Angabe "§ 52 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 2. Dezember 2025 (BGBI. I 2025 Nr. 301, S. 2) in der jeweils geltenden Fassung" ersetzt.
 
 # Artikel 19
 
@@ -1918,7 +1918,7 @@ Das [Energiesicherungsgesetz](../zivile-verteidigung/sicherstellungsgesetze/EnSi
 
 - 1. Nach § 10 Absatz 1 Satz 3 wird der folgende Satz eingefügt:
   - "Soweit Daten im Sinne des Satzes 3 für Maßnahmen nach § 1 der [Gassicherungsverordnung](../zivile-verteidigung/sicherstellungsgesetze/GasSV_Gassicherungsverordnung.md) vom 26. April 1982 (BGBI. I S. 517), die zuletzt durch Artikel 1 der Verordnung vom 31. März 2023 (BGBI. 2023 I Nr. 94) geändert worden ist, und für Solidaritätsmaßnahmen nach § 2a von der Bundesnetzagentur erlangt werden, übermittelt diese die Daten auf deren Ersuchen und soweit dies für die Erfüllung von deren Aufgaben erforderlich ist, an die Bundesanstalt für Finanzdienstleistungsaufsicht."
-- 2. In § 17 Absatz 1, § 18 Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1 wird jeweils die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" und jeweils die Angabe "§ 2 Absatz 10 des BSI-Gesetzes" durch die Angabe "§ 2 Nummer 22 des BSI-Gesetzes" ersetzt.
+- 2. In § 17 Absatz 1, § 18 Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1 wird jeweils die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" und jeweils die Angabe "§ 2 Absatz 10 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 2 Nummer 22 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 # Artikel 20
 
@@ -1926,7 +1926,7 @@ Das [Energiesicherungsgesetz](../zivile-verteidigung/sicherstellungsgesetze/EnSi
 
 Das Wärmeplanungsgesetz vom 20. Dezember 2023 (BGBI. 2023 I Nr. 394) wird wie folgt geändert:
 
-In § 11 Absatz 4 Satz 1 wird die Angabe "Kritischen Infrastrukturen" durch die Angabe "kritischen Anlagen" und die Angabe "§ 2 Absatz 10 des BSI-Gesetzes vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist" durch die Angabe "§ 2 Nummer 22 des BSI-Gesetzes vom 2. Dezember 2025 (BGBI. I 2025 Nr. 301, S. 2) in der jeweils geltenden Fassung" ersetzt.
+In § 11 Absatz 4 Satz 1 wird die Angabe "Kritischen Infrastrukturen" durch die Angabe "kritischen Anlagen" und die Angabe "§ 2 Absatz 10 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist" durch die Angabe "§ 2 Nummer 22 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 2. Dezember 2025 (BGBI. I 2025 Nr. 301, S. 2) in der jeweils geltenden Fassung" ersetzt.
 
 {60}------------------------------------------------
 
@@ -1937,11 +1937,11 @@ In § 11 Absatz 4 Satz 1 wird die Angabe "Kritischen Infrastrukturen" durch die 
 Das Fünfte Buch Sozialgesetzbuch – Gesetzliche Krankenversicherung – (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), das zuletzt durch Artikel 9 des Gesetzes vom 30. September 2025 (BGBl. 2025 I Nr. 231) geändert worden ist, wird wie folgt geändert:
 
 - 1. § 391 wird wie folgt geändert:
-  - a) In Absatz 4 wird die Angabe "§ 8a Absatz 2 des BSI-Gesetzes" durch die Angabe "§ 30 Absatz 8 des BSI-Gesetzes" ersetzt.
-  - b) In Absatz 5 wird die Angabe "Kritischer Infrastrukturen" durch die Angabe "kritischer Anlagen" und die Angabe "§ 8a des BSI-Gesetzes" durch die Angabe "den §§ 30, 31 und 39 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 4 wird die Angabe "§ 8a Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 30 Absatz 8 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+  - b) In Absatz 5 wird die Angabe "Kritischer Infrastrukturen" durch die Angabe "kritischer Anlagen" und die Angabe "§ 8a des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "den §§ 30, 31 und 39 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 - 2. § 392 wird wie folgt geändert:
-  - a) In Absatz 3 wird die Angabe "§ 8a Absatz 2 des BSI-Gesetzes" durch die Angabe "§ 30 Absatz 8 des BSI-Gesetzes" ersetzt.
-  - b) In Absatz 5 wird die Angabe "Kritischer Infrastrukturen" durch die Angabe "kritischer Anlagen" und die Angabe "§ 8a des BSI-Gesetzes" durch die Angabe "den §§ 30, 31 und 39 des BSI-Gesetzes" ersetzt.
+  - a) In Absatz 3 wird die Angabe "§ 8a Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 30 Absatz 8 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+  - b) In Absatz 5 wird die Angabe "Kritischer Infrastrukturen" durch die Angabe "kritischer Anlagen" und die Angabe "§ 8a des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "den §§ 30, 31 und 39 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 #### Artikel 22
 
@@ -1949,13 +1949,13 @@ Das Fünfte Buch Sozialgesetzbuch – Gesetzliche Krankenversicherung – (Artik
 
 Die Digitale Gesundheitsanwendungen-Verordnung vom 8. April 2020 (BGBI. I S. 768), die zuletzt durch Artikel 4 des Gesetzes vom 22. März 2024 (BGBI. 2024 I Nr. 101) geändert worden ist, wird wie folgt geändert:
 
-In Anlage 1 wird in dem Abschnitt "Datensicherheit", Unterabschnitt "Basisanforderungen, die für alle digitalen Gesundheitsanwendungen gelten" in Nummer 5 in der Spalte "Anforderung" die Angabe "§ 8 Absatz 1 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 44 Absatz 1 Satz 1 des BSI-Gesetzes" ersetzt.
+In Anlage 1 wird in dem Abschnitt "Datensicherheit", Unterabschnitt "Basisanforderungen, die für alle digitalen Gesundheitsanwendungen gelten" in Nummer 5 in der Spalte "Anforderung" die Angabe "§ 8 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 44 Absatz 1 Satz 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 #### Artikel 23
 
 # Änderung der Verordnung zum Barrierefreiheitsstärkungsgesetz
 
-Die Verordnung zum Barrierefreiheitsstärkungsgesetz vom 15. Juni 2022 (BGBI. I S. 928) wird wie folgt geändert: In § 2 Nummer 3 wird die Angabe "§ 2 Absatz 2 Satz 4 des BSI-Gesetzes vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist" durch die Angabe "§ 2 Nummer 39 des BSI-Gesetzes vom 2. Dezember 2025 (BGBI. I 2025 Nr. 301, S. 2)" ersetzt.
+Die Verordnung zum Barrierefreiheitsstärkungsgesetz vom 15. Juni 2022 (BGBI. I S. 928) wird wie folgt geändert: In § 2 Nummer 3 wird die Angabe "§ 2 Absatz 2 Satz 4 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist" durch die Angabe "§ 2 Nummer 39 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) vom 2. Dezember 2025 (BGBI. I 2025 Nr. 301, S. 2)" ersetzt.
 
 #### Artikel 24
 
@@ -1964,8 +1964,8 @@ Die Verordnung zum Barrierefreiheitsstärkungsgesetz vom 15. Juni 2022 (BGBI. I 
 Das Elfte Buch Sozialgesetzbuch – Soziale Pflegeversicherung – (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBI. I S. 1014, 1015), das zuletzt durch Artikel 4 des Gesetzes vom 30. Mai 2024 (BGBI. 2024 I Nr. 173) geändert worden ist, wird wie folgt geändert:
 
 - § 103a wird wie folgt geändert:
-- 1. In Absatz 3 wird die Angabe "§ 8a Absatz 2 des BSI-Gesetzes" durch die Angabe "§ 30 Absatz 8 des BSI-Gesetzes" ersetzt.
-- 2. In Absatz 5 wird die Angabe "Kritischer Infrastrukturen" durch die Angabe "kritischer Anlagen" und die Angabe "§ 8a des BSI-Gesetzes" durch die Angabe "den §§ 30, 31 und 39 des BSI-Gesetzes" ersetzt.
+- 1. In Absatz 3 wird die Angabe "§ 8a Absatz 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 30 Absatz 8 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- 2. In Absatz 5 wird die Angabe "Kritischer Infrastrukturen" durch die Angabe "kritischer Anlagen" und die Angabe "§ 8a des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "den §§ 30, 31 und 39 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 # Artikel 25
 
@@ -2005,7 +2005,7 @@ Das [Telekommunikationsgesetz](../zivile-verteidigung/sicherstellungsgesetze/TKG
   - a) Absatz 2 Satz 3 wird durch die folgenden Sätze ersetzt:
     - "Bei diesen Maßnahmen ist unter Berücksichtigung des Stands der Technik, der einschlägigen europäischen und internationalen Normen sowie der Umsetzungskosten ein Sicherheitsniveau der Netz- und Informationssysteme zu gewährleisten, das dem bestehenden Risiko angemessen ist. Bei der Bewertung, ob Maßnahmen dem bestehenden Risiko angemessen sind, sind das Ausmaß der Risikoexposition und die Größe des Betreibers oder des Anbieters sowie die Eintrittswahrscheinlichkeit und Schwere von Sicherheitsvorfällen sowie ihre gesellschaftlichen und wirtschaftlichen Auswirkungen zu berücksichtigen."
   - b) Nach Absatz 2 werden die folgenden Absätze 2a bis 2d eingefügt:
-    - "(2a) Maßnahmen nach Absatz 2 von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-Gesetzes sind, müssen auf einem gefahrenübergreifenden Ansatz beruhen, der darauf abzielt, die Netz- und Informationssysteme und die physische Umwelt dieser Systeme vor Sicherheitsvorfällen zu schützen, und zumindest Folgendes umfassen:
+    - "(2a) Maßnahmen nach Absatz 2 von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) sind, müssen auf einem gefahrenübergreifenden Ansatz beruhen, der darauf abzielt, die Netz- und Informationssysteme und die physische Umwelt dieser Systeme vor Sicherheitsvorfällen zu schützen, und zumindest Folgendes umfassen:
 
 {62}------------------------------------------------
 
@@ -2019,18 +2019,18 @@ Das [Telekommunikationsgesetz](../zivile-verteidigung/sicherstellungsgesetze/TKG
 - 8. Konzepte und Verfahren für den Einsatz von Kryptografie und Verschlüsselung,
 - 9. Sicherheit des Personals, Konzepte für die Zugriffskontrolle und Management von Anlagen,
 - 10. Verwendung von Lösungen zur Multi-Faktor-Authentifizierung oder kontinuierlichen Authentifizierung, gesicherte Sprach, Video- und Textkommunikation sowie gegebenenfalls gesicherte Notfallkommunikationssysteme innerhalb der Einrichtung.
-- (2b) Die Geschäftsleitungen von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-Gesetzes sind, sind verpflichtet, die von diesen Einrichtungen nach Absatz 2 zu ergreifenden Maßnahmen umzusetzen und ihre Umsetzung zu überwachen.
+- (2b) Die Geschäftsleitungen von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) sind, sind verpflichtet, die von diesen Einrichtungen nach Absatz 2 zu ergreifenden Maßnahmen umzusetzen und ihre Umsetzung zu überwachen.
 - (2c) Geschäftsleitungen, die ihre Pflichten nach Absatz 2b verletzen, haften ihrer Einrichtung für einen schuldhaft verursachten Schaden nach den auf die Rechtsform der Einrichtung anwendbaren Regeln des Gesellschaftsrechts. Nach diesem Gesetz haften sie nur, wenn die für die Einrichtung maßgeblichen gesellschaftsrechtlichen Bestimmungen keine Haftungsregelung nach Satz 1 enthalten.
-- (2d) Die Geschäftsleitungen von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-Gesetzes sind, müssen regelmäßig an Schulungen teilnehmen, um ausreichende Kenntnisse und Fähigkeiten zur Erkennung und Bewertung von Risiken sowie Risikomanagementpraktiken im Bereich der Sicherheit in der Informationstechnik zu erlangen sowie um die Auswirkungen von Risiken sowie Risikomanagementpraktiken auf die von der Einrichtung erbrachten Dienste beurteilen zu können."
-- c) In Absatz 3 Satz 1 wird die Angabe "§ 2 Absatz 9b des BSI-Gesetzes" durch die Angabe "§ 2 Nummer 41 des BSI-Gesetzes" ersetzt.
-- d) In Absatz 4 wird Angabe "§ 2 Absatz 13 des BSI-Gesetzes" durch die Angabe "§ 2 Nummer 23 des BSI-Gesetzes" ersetzt
+- (2d) Die Geschäftsleitungen von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) sind, müssen regelmäßig an Schulungen teilnehmen, um ausreichende Kenntnisse und Fähigkeiten zur Erkennung und Bewertung von Risiken sowie Risikomanagementpraktiken im Bereich der Sicherheit in der Informationstechnik zu erlangen sowie um die Auswirkungen von Risiken sowie Risikomanagementpraktiken auf die von der Einrichtung erbrachten Dienste beurteilen zu können."
+- c) In Absatz 3 Satz 1 wird die Angabe "§ 2 Absatz 9b des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 2 Nummer 41 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- d) In Absatz 4 wird Angabe "§ 2 Absatz 13 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 2 Nummer 23 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt
 - e) In Absatz 11 Satz 1 wird die Angabe "Artikel 9 der Richtlinie (EU) 2016/1148 des Europäischen Parlaments und des Rates vom 6. Juli 2016 über Maßnahmen zur Gewährleistung eines hohen gemeinsamen Sicherheitsniveaus von Netz- und Informationssystemen in der Union (ABI. L 194 vom 19.7.2016, S. 1; L 33 vom 7. Februar 2018, S. 5)" durch die Angabe "Artikel 10 der Richtlinie (EU) 2022/2555" ersetzt.
 - 12. § 167 wird wie folgt geändert:
   - a) Absatz 1 Satz 1 Nummer 2 wird wie folgt geändert:
-    - aa) Die Angabe "§ 2 Absatz 13 Satz 1 Nummer 3 Buchstabe b des BSI-Gesetzes" wird durch die Angabe "§ 2 Nummer 23 Buchstabe c Doppelbuchstabe bb des BSI-Gesetzes" ersetzt.
-    - bb) Die Angabe "§ 2 Absatz 13 des BSI-Gesetzes" wird durch die Angabe "§ 2 Nummer 23 des BSI-Gesetzes" ersetzt.
+    - aa) Die Angabe "§ 2 Absatz 13 Satz 1 Nummer 3 Buchstabe b des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" wird durch die Angabe "§ 2 Nummer 23 Buchstabe c Doppelbuchstabe bb des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+    - bb) Die Angabe "§ 2 Absatz 13 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" wird durch die Angabe "§ 2 Nummer 23 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
   - b) Nach Absatz 1 wird der folgende Absatz 2 eingefügt:
-    - "(2) Die Befugnis der Bundesnetzagentur nach Absatz 1 Nummer 2 besteht bis zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für den Sektor Informationstechnik und Telekommunikation im Sinne des § 2 Nummer 24 fort. Eine von der Bundesnetzagentur auf der Grundlage von Absatz 1 Satz 1 Nummer 2 erlassene Allgemeinverfügung ist mit dem Inkrafttreten einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für den Sektor Informationstechnik und Telekommunikation aufzuheben "
+    - "(2) Die Befugnis der Bundesnetzagentur nach Absatz 1 Nummer 2 besteht bis zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) für den Sektor Informationstechnik und Telekommunikation im Sinne des § 2 Nummer 24 fort. Eine von der Bundesnetzagentur auf der Grundlage von Absatz 1 Satz 1 Nummer 2 erlassene Allgemeinverfügung ist mit dem Inkrafttreten einer Rechtsverordnung nach § 56 Absatz 7 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md) für den Sektor Informationstechnik und Telekommunikation aufzuheben "
   - c) Der bisherige Absatz 2 wird zu Absatz 3.
 
 {63}------------------------------------------------
@@ -2065,12 +2065,12 @@ Das [Telekommunikationsgesetz](../zivile-verteidigung/sicherstellungsgesetze/TKG
 
 {64}------------------------------------------------
 
-- f) Der bisherige Absatz 6 wird zu Absatz 7 und in Satz 2 wird die Angabe "§ 8e des BSI-Gesetzes" wird durch die Angabe "§ 42 des BSI-Gesetzes" ersetzt.
+- f) Der bisherige Absatz 6 wird zu Absatz 7 und in Satz 2 wird die Angabe "§ 8e des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" wird durch die Angabe "§ 42 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 - g) Der bisherige Absatz 7 wird zu Absatz 8.
 - 14. § 174 wird wie folgt geändert:
   - a) § 174 Absatz 3 Nummer 8, Absatz 5 Nummer 8 wird jeweils die Angabe "Kritischen Infrastruktur" durch die Angabe "kritischen Anlage" ersetzt.
-  - b) In § 174 Absatz 3 Nummer 8 und Absatz 5 Nummer 8 wird jeweils die Angabe "Bereichen des § 2 Absatz 10 Satz 1 Nummer 1 des BSI-Gesetzes" durch die Angabe "Sektoren des § 2 Nummer 24 des BSI-Gesetzes" ersetzt.
-- 15. In § 214 Absatz 3 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" und die Angabe "§ 2 Absatz 10 des BSI-Gesetzes" durch die Angabe "§ 2 Nummer 22 des BSI-Gesetzes" ersetzt.
+  - b) In § 174 Absatz 3 Nummer 8 und Absatz 5 Nummer 8 wird jeweils die Angabe "Bereichen des § 2 Absatz 10 Satz 1 Nummer 1 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "Sektoren des § 2 Nummer 24 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- 15. In § 214 Absatz 3 wird die Angabe "Kritische Infrastrukturen" durch die Angabe "kritische Anlagen" und die Angabe "§ 2 Absatz 10 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 2 Nummer 22 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 - 16. In § 228 Absatz 2 Nummer 39 wird die Angabe "eine Mitteilung" durch die Angabe "eine Meldung oder Mitteilung" ersetzt.
 
 ### Artikel 26
@@ -2079,8 +2079,8 @@ Das [Telekommunikationsgesetz](../zivile-verteidigung/sicherstellungsgesetze/TKG
 
 Die Krankenhausstrukturfonds-Verordnung vom 17. Dezember 2015 (BGBI. I S. 2350), die zuletzt durch Artikel 4a des Gesetzes vom 5. Dezember 2024 (BGBI. 2024 I Nr. 400) geändert worden ist, wird wie folgt geändert:
 
-- 1. In § 11 Absatz 1 Nummer 4 Buchstabe a wird nach der Angabe "Anhangs 5 Teil 3 der BSI-Kritisverordnung" die Angabe "vom 22. April 2016 (BGBI. I S. 958), die zuletzt durch Artikel 1 der Verordnung vom 29. November 2023 (BGBI. 2023 I Nr. 339) geändert worden ist," eingefügt und die Angabe "an die Vorgaben von § 8a des BSI-Gesetzes" durch die Angabe "an die Anforderungen der §§ 30, 31 und 39 des BSI-Gesetzes" ersetzt.
-- 2. In § 14 Absatz 2 Nummer 8 wird die Angabe "an die Vorgaben von § 8a des BSI-Gesetzes" durch die Angabe "an die Anforderungen der §§ 30, 31 und 39 des BSI-Gesetzes" ersetzt.
+- 1. In § 11 Absatz 1 Nummer 4 Buchstabe a wird nach der Angabe "Anhangs 5 Teil 3 der BSI-Kritisverordnung" die Angabe "vom 22. April 2016 (BGBI. I S. 958), die zuletzt durch Artikel 1 der Verordnung vom 29. November 2023 (BGBI. 2023 I Nr. 339) geändert worden ist," eingefügt und die Angabe "an die Vorgaben von § 8a des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "an die Anforderungen der §§ 30, 31 und 39 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
+- 2. In § 14 Absatz 2 Nummer 8 wird die Angabe "an die Vorgaben von § 8a des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "an die Anforderungen der §§ 30, 31 und 39 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" ersetzt.
 
 #### Artikel 27
 
@@ -2090,7 +2090,7 @@ Die Außenwirtschaftsverordnung vom 2. August 2013 (BGBI. I S. 2865), die zuletz
 
 - § 55a Absatz 1 wird wie folgt geändert:
 - 1. In Nummer 1 wird die Angabe "Kritischen Infrastruktur" durch die Angabe "kritischen Anlage" ersetzt.
-- 2. In Nummer 2 wird die Angabe "§ 2 Absatz 13 des BSI-Gesetzes" durch die Angabe "§ 2 Nummer 23 des BSI-Gesetzes" und die Angabe "Kritischen Infrastrukturen" durch die Angabe "kritischen Anlagen" ersetzt.
+- 2. In Nummer 2 wird die Angabe "§ 2 Absatz 13 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 2 Nummer 23 des [BSI-Gesetzes](BSIG_BSI-Gesetz.md)" und die Angabe "Kritischen Infrastrukturen" durch die Angabe "kritischen Anlagen" ersetzt.
 
 # Artikel 28
 

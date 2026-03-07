@@ -66,7 +66,7 @@ Zum 14.11.2025 aktuellste verfügbare Fassung der Gesamtausgabe
 | § 27 - Übergangsvorschrift                                             | 01.01.2004 |
 | § 28 - Rechtsverordnungen                                              | 01.01.2004 |
 | § 29 - Einschränkung von Grundrechten                                  | 25.05.2018 |
-| § 30 - Änderung des Hamburgischen Katastrophenschutzgesetzes           | 01.01.2004 |
+| § 30 - Änderung des [Hamburgischen Katastrophenschutzgesetzes](KatSchG_HA.md)           | 01.01.2004 |
 | § 31 - Inkrafttreten                                                   | 01.01.2004 |
 
 Der Senat verkündet das nachstehende von der Bürgerschaft beschlossene Gesetz:
@@ -185,7 +185,7 @@ Die zuständige Behörde entscheidet unter Berücksichtigung der Erfordernisse d
 ### § 11 Rechtsstellung
 
 - (1) <sup>1</sup>Der Dienst in den Freiwilligen Feuerwehren ist ehrenamtlich. <sup>2</sup>Angehörige einer Freiwilligen Feuerwehr stehen in einem öffentlich-rechtlichen Sonderrechtverhältnis zur Freien und Hansestadt Hamburg.
-- (2) <sup>1</sup>Angehörige einer Freiwilligen Feuerwehr sind verpflichtet, ihren Dienst ordnungsgemäß, gewissenhaft und uneigennützig wahrzunehmen. <sup>2</sup>Die Vorschriften des § 35 Satz 2, §§ 36, 37 und 42 des Beamtenstatusgesetzes vom 17. Juni 2008 (BGBI. I S. 1010) sowie der §§ 57 und 101 des Hamburgischen Beamtengesetzes vom 15. Dezember 2009 (HmbGVBI. S. 405) in ihrer jeweils geltenden Fassung über die Gehorsamspflicht, die Eigenverantwortlichkeit, die Amtsverschwiegenheit, die Annahme von Belohnungen, die Dienstkleidung und über den Beschwerdeweg gelten entsprechend. <sup>3</sup>Den Angehörigen einer Freiwilligen Feuerwehr wird bei ihrer dienstlichen Tätigkeit und in ihrer ehrenamtlichen Stellung der erforderliche Schutz gewährt.
+- (2) <sup>1</sup>Angehörige einer Freiwilligen Feuerwehr sind verpflichtet, ihren Dienst ordnungsgemäß, gewissenhaft und uneigennützig wahrzunehmen. <sup>2</sup>Die Vorschriften des § 35 Satz 2, §§ 36, 37 und 42 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) vom 17. Juni 2008 (BGBI. I S. 1010) sowie der §§ 57 und 101 des [Hamburgischen Beamtengesetzes](../beamtenrecht/BG_HA_2009.md) vom 15. Dezember 2009 (HmbGVBI. S. 405) in ihrer jeweils geltenden Fassung über die Gehorsamspflicht, die Eigenverantwortlichkeit, die Amtsverschwiegenheit, die Annahme von Belohnungen, die Dienstkleidung und über den Beschwerdeweg gelten entsprechend. <sup>3</sup>Den Angehörigen einer Freiwilligen Feuerwehr wird bei ihrer dienstlichen Tätigkeit und in ihrer ehrenamtlichen Stellung der erforderliche Schutz gewährt.
 
 # § 12 Aus- und Fortbildung
 
@@ -237,8 +237,8 @@ Die zuständige Behörde entscheidet unter Berücksichtigung der Erfordernisse d
 - (1) <sup>1</sup>Die Freie und Hansestadt Hamburg hat den Angehörigen der Freiwilligen Feuerwehren auf Antrag Schäden zu ersetzen, die durch Ausübung oder aus Anlass des Dienstes an Sachen entstanden sind, die üblicherweise mitgeführt werden. <sup>2</sup>Der Anspruch ist ausgeschlossen, wenn den Angehörigen der Freiwilligen Feuerwehren bei der Entstehung des Schadens Vorsatz oder grobe Fahrlässigkeit zur Last fällt. <sup>3</sup>Beim Ersatz von Sachschäden, die aus Anlass der Alarmierung oder auf dem Wege von der Wohnung oder dem sonstigen Aufenthaltsort der Angehörigen der Freiwilligen Feuerwehren nach der Dienst- oder Einsatzstelle und zurück entstanden sind, ist § 254 BGB entsprechend anzuwenden. <sup>4</sup>Leistet die Freie und Hansestadt Hamburg den Geschädigten Ersatz und haben diese einen Ersatzanspruch gegen einen Dritten, so geht der Ersatzanspruch auf die Freie und Hansestadt Hamburg in Höhe des von ihr geleisteten Ersatzes über. <sup>5</sup>Der Übergang kann nicht zum Nachteil der Geschädigten geltend gemacht werden.
 - (2) Verursachen Angehörige der Freiwilligen Feuerwehren aus Anlass ihres Dienstes nach Alarmierung, insbesondere auf dem Hin- oder Rückweg zur Dienst- oder Einsatzstelle, Schäden an von ihnen mitgeführten Sachen Dritter, können diese im Einzelfall ganz oder teilweise ersetzt werden.
 - (3) <sup>1</sup>Verursachen Angehörige der Freiwilligen Feuerwehren in Ausübung oder aus Anlass ihres Dienstes oder durch Verletzung ihrer Obhutspflicht hinsichtlich ihnen anvertrauter Ausrüstungsgegenstände der Freien und Hansestadt Hamburg einen Schaden, so sind sie ersatzpflichtig, wenn ihnen Vorsatz oder grobe Fahrlässigkeit zur Last fällt. <sup>2</sup>Bei Handlung auf dienstliche Weisung besteht die Ersatzpflicht nur dann, wenn das aufgetragene Verhalten strafbar und die Strafbarkeit für die Angehörigen der Freiwilligen Feuerwehren erkennbar war. <sup>3</sup>Bei Vorliegen grober Fahrlässigkeit kann von der Geltendmachung des Schadenersatzanspruchs ganz oder teilweise abgesehen werden, wenn besondere Umstände des Einzelfalles beim Eintritt des Schadens oder die besonderen persönlichen Verhältnisse der Ersatzpflichtigen dies angezeigt erscheinen lassen. <sup>4</sup>§ 828 Absatz 2 Satz 1 BGB findet entsprechende Anwendung.
-- (4) Absatz 3 gilt entsprechend, wenn die Freie und Hansestadt Hamburg einem Dritten nach Artikel 34 Satz 1 des Grundgesetzes Schadenersatz geleistet hat.
-- (5) Für die Verjährung der Ansprüche gegen die Angehörigen der Freiwilligen Feuerwehren und den Übergang von Ersatzansprüchen auf sie gilt die Vorschrift des § 52 des Hamburgischen Beamtengesetzes entsprechend.
+- (4) Absatz 3 gilt entsprechend, wenn die Freie und Hansestadt Hamburg einem Dritten nach Artikel 34 Satz 1 des [Grundgesetzes](../../grundgesetz/GG.md) Schadenersatz geleistet hat.
+- (5) Für die Verjährung der Ansprüche gegen die Angehörigen der Freiwilligen Feuerwehren und den Übergang von Ersatzansprüchen auf sie gilt die Vorschrift des § 52 des [Hamburgischen Beamtengesetzes](../beamtenrecht/BG_HA_2009.md) entsprechend.
 
 ### § 17
 
@@ -313,8 +313,8 @@ Dritter Abschnitt Werkfeuerwehren
 
 #### Einsätze der Werkfeuerwehren außerhalb ihrer Betriebe
 
-- (1) Werkfeuerwehren sind, auch wenn die Voraussetzungen des § 10 Absatz 1 des Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung vom 14. März 1966 (Hamburgisches Gesetz- und Verordnungsblatt Seite 77) in der jeweils geltenden Fassung nicht vorliegen, auf Anforderung der zuständigen Behörde verpflichtet, bei öffentlichen Notständen außerhalb ihrer Betriebe oder Einrichtungen Hilfe, insbesondere Löschhilfe, zu leisten, soweit der abwehrende Brandschutz ihrer Betriebe oder Einrichtungen gesichert ist.
-- (2) Soweit eine Werkfeuerwehr in den in Absatz 1 genannten Fällen Hilfe leistet, gilt § 10 Absatz 3 des Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung in der jeweils geltenden Fassung entsprechend.
+- (1) Werkfeuerwehren sind, auch wenn die Voraussetzungen des § 10 Absatz 1 des [Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung](../SOG_HA.md) vom 14. März 1966 (Hamburgisches Gesetz- und Verordnungsblatt Seite 77) in der jeweils geltenden Fassung nicht vorliegen, auf Anforderung der zuständigen Behörde verpflichtet, bei öffentlichen Notständen außerhalb ihrer Betriebe oder Einrichtungen Hilfe, insbesondere Löschhilfe, zu leisten, soweit der abwehrende Brandschutz ihrer Betriebe oder Einrichtungen gesichert ist.
+- (2) Soweit eine Werkfeuerwehr in den in Absatz 1 genannten Fällen Hilfe leistet, gilt § 10 Absatz 3 des [Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung](../SOG_HA.md) in der jeweils geltenden Fassung entsprechend.
 
 ## § 22 Aufsicht und Rechtsverordnung
 
@@ -448,11 +448,11 @@ feuerwehr nicht besitzen, aktiven Feuerwehrdienst in einer Werkfeuerwehr leisten
 
 # § 29 Einschränkung von Grundrechten
 
-Durch dieses Gesetz werden die Grundrechte auf Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes) und Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) Unverletzlichkeit des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
+Durch dieses Gesetz werden die Grundrechte auf Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des [Grundgesetzes](../../grundgesetz/GG.md)) und Unverletzlichkeit der Wohnung (Artikel 13 des [Grundgesetzes](../../grundgesetz/GG.md)) Unverletzlichkeit des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des [Grundgesetzes](../../grundgesetz/GG.md)) eingeschränkt.
 
 ### § 30 Änderung des Hamburgischen Katastrophenschutzgesetzes
 
-Das Hamburgische Katastrophenschutzgesetz vom 16. Januar 1978 (Hamburgisches Gesetz- und Verordnungsblatt Seite 31) wird wie folgt geändert:
+Das [Hamburgische Katastrophenschutzgesetz](KatSchG_HA.md) vom 16. Januar 1978 (Hamburgisches Gesetz- und Verordnungsblatt Seite 31) wird wie folgt geändert:
 
 - Im Inhaltsverzeichnis wird nach § 27 eingefügt:
    »§ 27 a Kostenersatz«.

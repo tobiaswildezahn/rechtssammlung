@@ -127,7 +127,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 1 Vorrang des freien Arbeitsvertrags
 
-Das Grundrecht der freien Wahl des Arbeitsplatzes (Artikel 12 des Grundgesetzes) gilt auch in Spannungszeiten und im Verteidigungsfall. Von den in § 2 geregelten Verpflichtungsbefugnissen darf nur Gebrauch gemacht werden, wenn und soweit die in der genannten Vorschrift aufgeführten Arbeitsleistungen nicht auf der Grundlage der Freiwilligkeit sichergestellt werden können.
+Das Grundrecht der freien Wahl des Arbeitsplatzes (Artikel 12 des [Grundgesetzes](../../grundgesetz/GG.md)) gilt auch in Spannungszeiten und im Verteidigungsfall. Von den in § 2 geregelten Verpflichtungsbefugnissen darf nur Gebrauch gemacht werden, wenn und soweit die in der genannten Vorschrift aufgeführten Arbeitsleistungen nicht auf der Grundlage der Freiwilligkeit sichergestellt werden können.
 
 # § 2 Maßnahmen der Sicherstellung von Arbeitsleistungen
 
@@ -139,7 +139,7 @@ Für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung 
 
 # § 3 Voraussetzungen für die Sicherstellung von Arbeitsleistungen
 
-Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässig. Beschränkungen und Verpflichtungen nach § 2 Nr. 1 und 2 sind außerdem nach Maßgabe des Artikels 12a Abs. 5 Satz 1 und Abs. 6 Satz 2 des Grundgesetzes zulässig. Die Verpflichtung zu Ausbildungsveranstaltungen (§ 29) ist auch zulässig, wenn die Voraussetzungen der Sätze 1 und 2 nicht gegeben sind.
+Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässig. Beschränkungen und Verpflichtungen nach § 2 Nr. 1 und 2 sind außerdem nach Maßgabe des Artikels 12a Abs. 5 Satz 1 und Abs. 6 Satz 2 des [Grundgesetzes](../../grundgesetz/GG.md) zulässig. Die Verpflichtung zu Ausbildungsveranstaltungen (§ 29) ist auch zulässig, wenn die Voraussetzungen der Sätze 1 und 2 nicht gegeben sind.
 
 # § 4 Anwendungsbereich
 
@@ -159,13 +159,13 @@ Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässi
 - 5. in Krankenanstalten und anderen Einrichtungen, in denen pflegebedürftige Personen betreut werden,
 - 6. in Betrieben der Mineralöl-, Gas-, Kohle- und Wasserstoffversorgung,
 - 7. in Verkehrsunternehmen einschließlich Unternehmen des Personen- und Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
-- 8. bei der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
+- 8. bei der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel 12 des [Postgesetzes](PostG_Postgesetz_inkl_Sicherstellung.md) oder Teil 10 Abschnitt 2 des [Telekommunikationsgesetzes](TKG_Telekommunikationsgesetz.md) verpflichtet sind,
 - 9. bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten Flugsicherungsorganisation und, soweit die Flugsicherungsorganisationen hoheitliche Aufgaben betreffend den Luftraum über dem Hoheitsgebiet der Bundesrepublik Deutschland wahrnehmen, bei den nach § 31f Absatz 1, auch in Verbindung mit Absatz 2 Satz 2, des Luftverkehrsgesetzes oder durch internationale Vereinbarung beauftragten Flugsicherungsorganisationen,
 - 10. bei Betrieben, soweit sie Leistungen zur Sicherstellung der Funktionsfähigkeit oder der Sicherheit der Informationstechnik gegenüber Betrieben oder Dienststellen im Sinne der Nummern 1a bis 9 erbringen.
 
 Militärausrüstung im Sinne des Satzes 1 Nummer 1c ist jede Ausrüstung, die eigens zu militärischen Zwecken konzipiert oder für militärische Zwecke angepasst wird und zum Einsatz als Waffe, Munition oder Kriegsmaterial bestimmt ist.
 
-- (2) Über Absatz 1 hinaus kann die Bundesregierung nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) durch Rechtsverordnung bestimmen, daß Verpflichtungen und Beschränkungen auch in anderen Bereichen innerhalb des Anwendungsbereichs nach Artikel 12a Abs. 3, 4 und 6 des Grundgesetzes zulässig sind. Die Rechtsverordnung kann den Anwendungsbereich auch einschränken oder abgrenzen. Die Bundesregierung hat die Rechtsverordnung aufzuheben, wenn der Bundestag es verlangt.
+- (2) Über Absatz 1 hinaus kann die Bundesregierung nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) durch Rechtsverordnung bestimmen, daß Verpflichtungen und Beschränkungen auch in anderen Bereichen innerhalb des Anwendungsbereichs nach Artikel 12a Abs. 3, 4 und 6 des [Grundgesetzes](../../grundgesetz/GG.md) zulässig sind. Die Rechtsverordnung kann den Anwendungsbereich auch einschränken oder abgrenzen. Die Bundesregierung hat die Rechtsverordnung aufzuheben, wenn der Bundestag es verlangt.
 - (3) Verpflichtungen und Beschränkungen nach § 2 sind gegenüber deutschen Staatsangehörigen bei einem Beschäftigungsort außerhalb des Hoheitsgebietes der Bundesrepublik Deutschland auch zulässig zur Sicherstellung von Arbeitsleistungen
 - 1. nach Absatz 1 Satz 1 Nummer 1 sowie, wenn der versorgende Betrieb der Gesellschaft oder des Unternehmens seinen Sitz im Gebiet der Bundesrepublik Deutschland hat, nach Absatz 1 Satz 1 Nummer 1a und 1b und
 - 2. nach Absatz 1 Satz 1 Nummer 9.
@@ -410,7 +410,7 @@ Nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen 
 
 # § 31a Datenübermittlung von den Meldebehörden
 
-- (1) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall und nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die folgenden Daten aller männlichen Personen vom vollendeten 18. Lebensjahr bis zum Ablauf des Jahres, in dem die Person das 60. Lebensjahr vollendet, bei den Meldebehörden abzurufen:
+- (1) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall und nach Maßgabe von Artikel 80a Absatz 1 des [Grundgesetzes](../../grundgesetz/GG.md) die folgenden Daten aller männlichen Personen vom vollendeten 18. Lebensjahr bis zum Ablauf des Jahres, in dem die Person das 60. Lebensjahr vollendet, bei den Meldebehörden abzurufen:
 - 1. Familienname,
 - 2. Vornamen,
 - 3. Geburtsdatum und Geburtsort,
@@ -421,13 +421,13 @@ Nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen 
 
 # § 31b Datenübermittlung durch die Jobcenter; Verordnungsermächtigung
 
-Die Jobcenter sind verpflichtet, im Verteidigungsfall oder nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die zur Durchführung dieses Gesetzes erforderlichen Daten an die Bundesagentur für Arbeit zu übermitteln. Das Bundesministerium für Arbeit und Soziales legt durch Rechtsverordnung mit Zustimmung des Bundestages und des Bundesrates die erforderlichen Daten fest.
+Die Jobcenter sind verpflichtet, im Verteidigungsfall oder nach Maßgabe von Artikel 80a Absatz 1 des [Grundgesetzes](../../grundgesetz/GG.md) die zur Durchführung dieses Gesetzes erforderlichen Daten an die Bundesagentur für Arbeit zu übermitteln. Das Bundesministerium für Arbeit und Soziales legt durch Rechtsverordnung mit Zustimmung des Bundestages und des Bundesrates die erforderlichen Daten fest.
 
 ### § 31c Zweck der Verarbeitung und Löschung der Daten
 
 - (1) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b dieses Gesetzes erhobenen Daten dürfen durch die Bundesagentur für Arbeit ausschließlich zur Erfüllung der Aufgaben nach diesem Gesetz verarbeitet werden.
 - (2) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b dieses Gesetzes erhobenen Daten einer Person sind zu löschen, wenn die jeweilige Person das in § 31a Absatz 1 oder 2 genannte Lebensjahr vollendet hat.
-- (3) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b dieses Gesetzes erhobenen Daten einer Person sind nach Beendigung des Verteidigungsfalls oder eines Falls nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes zu löschen, soweit diese nicht für aufgrund dieses Gesetzes begründete individuelle Rechtsverhältnisse weiter erforderlich sind.
+- (3) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b dieses Gesetzes erhobenen Daten einer Person sind nach Beendigung des Verteidigungsfalls oder eines Falls nach Maßgabe von Artikel 80a Absatz 1 des [Grundgesetzes](../../grundgesetz/GG.md) zu löschen, soweit diese nicht für aufgrund dieses Gesetzes begründete individuelle Rechtsverhältnisse weiter erforderlich sind.
 
 # Siebter Abschnitt Schlussvorschriften
 
@@ -467,7 +467,7 @@ Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und Angestellte einschließl
 
 #### § 37 Öffentlich-rechtliche Dienstverhältnisse
 
-Soweit nach Artikel 12a Abs. 3 des Grundgesetzes öffentlich-rechtliche Dienstverhältnisse begründet werden können, werden diese nach den Vorschriften geregelt, die für die Dienstverhältnisse im jeweiligen Bereich gelten.
+Soweit nach Artikel 12a Abs. 3 des [Grundgesetzes](../../grundgesetz/GG.md) öffentlich-rechtliche Dienstverhältnisse begründet werden können, werden diese nach den Vorschriften geregelt, die für die Dienstverhältnisse im jeweiligen Bereich gelten.
 
 #### § 38 Rechtsverordnung
 
@@ -479,7 +479,7 @@ Soweit nach Artikel 12a Abs. 3 des Grundgesetzes öffentlich-rechtliche Dienstve
 
 # § 39 Einschränkung von Grundrechten
 
-Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des Grundgesetzes) und der freien Wahl des Arbeitsplatzes (Artikel 12 Abs. 1 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
+Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des [Grundgesetzes](../../grundgesetz/GG.md)), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des [Grundgesetzes](../../grundgesetz/GG.md)), der Freizügigkeit (Artikel 11 Abs. 1 des [Grundgesetzes](../../grundgesetz/GG.md)) und der freien Wahl des Arbeitsplatzes (Artikel 12 Abs. 1 des [Grundgesetzes](../../grundgesetz/GG.md)) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 #### § 40 Inkrafttreten
 

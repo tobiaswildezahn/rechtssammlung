@@ -416,7 +416,7 @@ Die Dienstzeit wird vom Zeitpunkt der ersten Berufung in das Beamtenverhältnis 
 
 nen. Satz 3 gilt nicht für Zeiten, die die Beamtin oder der Beamte vor dem 3. Oktober 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zurückgelegt hat.
 
-- (2) Der Anspruch auf Ruhegehalt entsteht mit dem Beginn des Ruhestandes, in den Fällen des § 5 des Hamburgischen Besoldungsgesetzes nach Ablauf der Zeit, für die Dienstbezüge gewährt werden.
+- (2) Der Anspruch auf Ruhegehalt entsteht mit dem Beginn des Ruhestandes, in den Fällen des § 5 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) nach Ablauf der Zeit, für die Dienstbezüge gewährt werden.
 - (3) Das Ruhegehalt wird auf der Grundlage der ruhegehaltfähigen Dienstbezüge und der ruhegehaltfähigen Dienstzeit berechnet.
 
 ## § 5 Ruhegehaltfähige Dienstbezüge
@@ -425,9 +425,9 @@ nen. Satz 3 gilt nicht für Zeiten, die die Beamtin oder der Beamte vor dem 3. O
 - 1. das Grundgehalt,
 - 2. der Familienzuschlag (§ 61 Absatz 1) der Stufe 1,
 - 3. sonstige Dienstbezüge, die im Besoldungsrecht als ruhegehaltfähig bezeichnet sind,
-- 4. Leistungsbezüge nach § 32 des Hamburgischen Besoldungsgesetzes, soweit sie nach §§ 38 und 41a des Hamburgischen Besoldungsgesetzes ruhegehaltfähig sind,
+- 4. Leistungsbezüge nach § 32 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md), soweit sie nach §§ 38 und 41a des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) ruhegehaltfähig sind,
 
-die der Beamtin oder dem Beamten in den Fällen der Nummern 1 und 3 zuletzt zugestanden haben oder in den Fällen der Nummer 2 nach dem Besoldungsrecht zustehen würden; das Grundgehalt vermindert sich in den Besoldungsgruppen A 4 bis A 8 um 165,82 Euro, in den Besoldungsgruppen A 9 bis A 16 sowie in den Besoldungsordnungen W, R und C und den fortgeltenden Besoldungsordnungen und Besoldungsgruppen der Hochschullehrerinnen und Hochschullehrer um 118,43 Euro. Bei Teilzeitbeschäftigung und Beurlaubung ohne Dienstbezüge (Freistellung) gelten als ruhegehaltfähige Dienstbezüge die dem letzten Amt entsprechenden vollen ruhegehaltfähigen Dienstbezüge. Satz 2 gilt entsprechend bei eingeschränkter Verwendung einer Beamtin oder eines Beamten wegen begrenzter Dienstfähigkeit nach § 27 des Beamtenstatusgesetzes.
+die der Beamtin oder dem Beamten in den Fällen der Nummern 1 und 3 zuletzt zugestanden haben oder in den Fällen der Nummer 2 nach dem Besoldungsrecht zustehen würden; das Grundgehalt vermindert sich in den Besoldungsgruppen A 4 bis A 8 um 165,82 Euro, in den Besoldungsgruppen A 9 bis A 16 sowie in den Besoldungsordnungen W, R und C und den fortgeltenden Besoldungsordnungen und Besoldungsgruppen der Hochschullehrerinnen und Hochschullehrer um 118,43 Euro. Bei Teilzeitbeschäftigung und Beurlaubung ohne Dienstbezüge (Freistellung) gelten als ruhegehaltfähige Dienstbezüge die dem letzten Amt entsprechenden vollen ruhegehaltfähigen Dienstbezüge. Satz 2 gilt entsprechend bei eingeschränkter Verwendung einer Beamtin oder eines Beamten wegen begrenzter Dienstfähigkeit nach § 27 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md).
 
 - (2) Ist die Beamtin oder der Beamte wegen Dienstunfähigkeit auf Grund eines Dienstunfalls im Sinne des § 34 in den Ruhestand versetzt worden, so ist das Grundgehalt der nach Absatz 1 Satz 1 Nummer 1, Absatz 3 oder Absatz 5 maßgebenden Besoldungsgruppe nach der Stufe zugrunde zu legen, die sie oder er bis zum Eintritt in den Ruhestand wegen Erreichens der Altersgrenze hätte erreichen können.
 - (3) Ist eine Beamtin oder ein Beamter aus einem Amt in den Ruhestand getreten oder versetzt worden, das nicht dem jeweiligen Einstiegsamt ihrer oder seiner Laufbahn oder das keiner Laufbahn angehört, und hat sie oder er die Dienstbezüge dieses oder eines mindestens gleichwertigen Amtes vor dem Eintritt oder der Versetzung in den Ruhestand nicht mindestens zwei Jahre erhalten, so sind ruhegehaltfähig nur die Bezüge des vorher bekleideten Amtes. Hat die Beamtin oder der Beamte vorher ein Amt nicht bekleidet, so setzt die oberste Dienstbehörde die ruhegehaltfähigen Dienstbezüge bis zur Höhe der ruhegehaltfähigen Dienstbezüge der nächstniedrigeren Besoldungsgruppe fest. In die Zweijahresfrist einzurechnen ist die innerhalb dieser Frist liegende Zeit einer Beurlaubung ohne Dienstbezüge, soweit sie als ruhegehaltfähig berücksichtigt worden ist.
@@ -444,7 +444,7 @@ die der Beamtin oder dem Beamten in den Fällen der Nummern 1 und 3 zuletzt zuge
 
 bekleidet wurde, hinzugerechnet.
 
-(8) Bei Beamtinnen und Beamten, denen ein Amt mit leitender Funktion im Beamtenverhältnis auf Zeit gemäß § 135a des Hamburgischen Beamtengesetzes in der Fassung vom 29. November 1977 (HmbGVBI. S. 367) in der bis zum 30. April 2008 geltenden Fassung verliehen wurde und die nach Ablauf der ersten Amtszeit im Beamtenverhältnis auf Zeit wieder in das vorherige Amt im Beamtenverhältnis auf Lebenszeit oder im Richterverhältnis auf Lebenszeit eingetreten sind, berechnen sich die ruhegehaltfähigen Dienstbezüge aus dem Beamtenverhältnis auf Lebenszeit oder aus dem Richterverhältnis auf Lebenszeit zuzüglich eines Unterschiedsbetrages zwischen diesen und den Dienstbezügen, die im Beamtenverhältnis auf Zeit ruhegehaltfähig wären. Der Unterschiedsbetrag wird gewährt in Höhe eines Viertels, wenn das Amt mindestens fünf Jahre, in Höhe der Hälfte, wenn das Amt mindestens fünf Jahre und zwei Amtszeiten übertragen war.
+(8) Bei Beamtinnen und Beamten, denen ein Amt mit leitender Funktion im Beamtenverhältnis auf Zeit gemäß § 135a des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) in der Fassung vom 29. November 1977 (HmbGVBI. S. 367) in der bis zum 30. April 2008 geltenden Fassung verliehen wurde und die nach Ablauf der ersten Amtszeit im Beamtenverhältnis auf Zeit wieder in das vorherige Amt im Beamtenverhältnis auf Lebenszeit oder im Richterverhältnis auf Lebenszeit eingetreten sind, berechnen sich die ruhegehaltfähigen Dienstbezüge aus dem Beamtenverhältnis auf Lebenszeit oder aus dem Richterverhältnis auf Lebenszeit zuzüglich eines Unterschiedsbetrages zwischen diesen und den Dienstbezügen, die im Beamtenverhältnis auf Zeit ruhegehaltfähig wären. Der Unterschiedsbetrag wird gewährt in Höhe eines Viertels, wenn das Amt mindestens fünf Jahre, in Höhe der Hälfte, wenn das Amt mindestens fünf Jahre und zwei Amtszeiten übertragen war.
 
 {13}------------------------------------------------
 
@@ -453,13 +453,13 @@ bekleidet wurde, hinzugerechnet.
 - 2. in einem Amt, das die Arbeitskraft der Beamtin oder des Beamten nur nebenbei beansprucht,
 - 3. einer ehrenamtlichen Tätigkeit,
 - 4. einer Beurlaubung ohne Dienstbezüge; die Zeit einer Beurlaubung ohne Dienstbezüge kann berücksichtigt werden, wenn spätestens bei Beendigung des Urlaubs schriftlich zugestanden worden ist, dass dieser öffentlichen Belangen oder dienstlichen Interessen dient und in Fällen einer Beurlaubung zur Ausübung einer Erwerbstätigkeit ein Versorgungszuschlag in Höhe von 30 vom Hundert der ohne die Beurlaubung jeweils zustehenden ruhegehaltfähigen Dienstbezüge zuzüglich der anteiligen jährlichen Sonderzahlung gezahlt wird; die oberste Dienstbehörde kann Ausnahmen von der Zahlung des Versorgungszuschlages zulassen,
-- 5. für die eine Abfindung aus öffentlichen Mitteln gewährt ist; bei einer Abfindung gemäß § 152 des Bundesbeamtengesetzes in der bis zum 31. Dezember 1976 geltenden Fassung oder entsprechendem Landesrecht ist die abgefundene Zeit ruhegehaltfähige Dienstzeit, wenn die Beamtin oder der Beamte innerhalb einer Ausschlussfrist von zwei Jahren nach erneuter Berufung in das Beamtenverhältnis die Abfindung zurückgezahlt hat.
+- 5. für die eine Abfindung aus öffentlichen Mitteln gewährt ist; bei einer Abfindung gemäß § 152 des [Bundesbeamtengesetzes](../../beamtenrecht-bund/BBG.md) in der bis zum 31. Dezember 1976 geltenden Fassung oder entsprechendem Landesrecht ist die abgefundene Zeit ruhegehaltfähige Dienstzeit, wenn die Beamtin oder der Beamte innerhalb einer Ausschlussfrist von zwei Jahren nach erneuter Berufung in das Beamtenverhältnis die Abfindung zurückgezahlt hat.
 
-Zeiten einer Teilzeitbeschäftigung sind nur zu dem Teil ruhegehaltfähig, der dem Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht; Zeiten einer Altersteilzeit nach beamten- oder richterrechtlichen Bestimmungen sind zu neun Zehnteln der Arbeitszeit ruhegehaltfähig, die der Bemessung der ermäßigten Arbeitszeit während der Altersteilzeit zugrunde gelegt worden ist. Zeiten der eingeschränkten Verwendung einer Beamtin oder eines Beamten wegen begrenzter Dienstfähigkeit nach § 27 des Beamtenstatusgesetzes sind nur zu dem Teil ruhegehaltfähig, der dem Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht, mindestens im Umfang des § 15 Absatz 1 Satz 1.
+Zeiten einer Teilzeitbeschäftigung sind nur zu dem Teil ruhegehaltfähig, der dem Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht; Zeiten einer Altersteilzeit nach beamten- oder richterrechtlichen Bestimmungen sind zu neun Zehnteln der Arbeitszeit ruhegehaltfähig, die der Bemessung der ermäßigten Arbeitszeit während der Altersteilzeit zugrunde gelegt worden ist. Zeiten der eingeschränkten Verwendung einer Beamtin oder eines Beamten wegen begrenzter Dienstfähigkeit nach § 27 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) sind nur zu dem Teil ruhegehaltfähig, der dem Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht, mindestens im Umfang des § 15 Absatz 1 Satz 1.
 
 #### (2) Nicht ruhegehaltfähig sind Dienstzeiten
 
-- 1. in einem Beamtenverhältnis, das durch eine Entscheidung der in § 24 Absatz 1 des Beamtenstatusgesetzes bezeichneten Art oder durch Disziplinarurteil beendet worden ist,
+- 1. in einem Beamtenverhältnis, das durch eine Entscheidung der in § 24 Absatz 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) bezeichneten Art oder durch Disziplinarurteil beendet worden ist,
 - 2. in einem Beamtenverhältnis auf Probe oder auf Widerruf, wenn die Beamtin oder der Beamte entlassen worden ist, weil sie oder er eine Handlung begangen hat, die bei einer Beamtin oder einem Beamten auf Lebenszeit mindestens eine Kürzung der Dienstbezüge zur Folge hätte,
 - 3. in einem Beamtenverhältnis, das durch Entlassung auf Antrag der Beamtin oder des Beamten beendet worden ist.
   - wenn ihr oder ihm ein Verfahren mit der Folge des Verlustes der Beamtenrechte oder der Entfernung aus dem Dienst drohte oder
@@ -521,7 +521,7 @@ Angehörige oder ein sonstiger Angehöriger, die oder der nach ärztlichem Gutac
 ## § 11 Sonstige Zeiten
 
 - (1) Die Zeit, während der eine Beamtin oder ein Beamter vor der Berufung in das Beamtenverhältnis
-- a) hauptberuflich im Dienst öffentlich-rechtlicher Religionsgesellschaften oder ihrer Verbände (Artikel 140 des Grundgesetzes) oder im öffentlichen oder nichtöffentlichen Schuldienst oder
+- a) hauptberuflich im Dienst öffentlich-rechtlicher Religionsgesellschaften oder ihrer Verbände (Artikel 140 des [Grundgesetzes](../../grundgesetz/GG.md)) oder im öffentlichen oder nichtöffentlichen Schuldienst oder
   - b) hauptberuflich im Dienst der Fraktionen des Bundestages oder der gesetzgebenden Körperschaft eines Landes oder kommunaler Vertretungskörperschaften oder
   - c) hauptberuflich im Dienst von kommunalen Spitzenverbänden oder ihren Landesverbänden sowie von Spitzenverbänden der Sozialversicherung oder ihren Landesverbänden
 
@@ -554,7 +554,7 @@ kann als ruhegehaltfähige Dienstzeit berücksichtigt werden, die Zeit einer Fac
 
 ## § 13 Nicht zu berücksichtigende Zeiten
 
-Zeiten, die nach § 30 des Hamburgischen Besoldungsgesetzes nicht berücksichtigt werden, sind nicht ruhegehaltfähig.
+Zeiten, die nach § 30 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) nicht berücksichtigt werden, sind nicht ruhegehaltfähig.
 
 ## § 14 Zeiten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
@@ -570,7 +570,7 @@ gesetzliche Rentenversicherung erfüllt ist. Rentenrechtliche Zeiten sind auch s
 
 ## Zurechnungszeit und Zeit gesundheitsschädigender Verwendung
 
-- (1) Wird die Beamtin oder der Beamte vor Vollendung des 60. Lebensjahres wegen Dienstunfähigkeit in den Ruhestand versetzt, wird die Zeit von der Versetzung in den Ruhestand bis zum Ablauf des Monats der Vollendung des 60. Lebensjahres, soweit diese nicht nach anderen Vorschriften als ruhegehaltfähig berücksichtigt wird, für die Berechnung des Ruhegehalts der ruhegehaltfähigen Dienstzeit zu zwei Dritteln hinzugerechnet (Zurechnungszeit). Ist die Beamtin oder der Beamte nach § 29 des Beamtenstatusgesetzes erneut in das Beamtenverhältnis berufen worden, so wird eine der Berechnung des früheren Ruhegehaltes zugrunde gelegene Zurechnungszeit insoweit berücksichtigt, als die Zahl der dem neuen Ruhegehalt zugrunde liegenden Dienstjahre hinter der Zahl der dem früheren Ruhegehalt zugrunde gelegenen Dienstjahre zurückbleibt.
+- (1) Wird die Beamtin oder der Beamte vor Vollendung des 60. Lebensjahres wegen Dienstunfähigkeit in den Ruhestand versetzt, wird die Zeit von der Versetzung in den Ruhestand bis zum Ablauf des Monats der Vollendung des 60. Lebensjahres, soweit diese nicht nach anderen Vorschriften als ruhegehaltfähig berücksichtigt wird, für die Berechnung des Ruhegehalts der ruhegehaltfähigen Dienstzeit zu zwei Dritteln hinzugerechnet (Zurechnungszeit). Ist die Beamtin oder der Beamte nach § 29 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) erneut in das Beamtenverhältnis berufen worden, so wird eine der Berechnung des früheren Ruhegehaltes zugrunde gelegene Zurechnungszeit insoweit berücksichtigt, als die Zahl der dem neuen Ruhegehalt zugrunde liegenden Dienstjahre hinter der Zahl der dem früheren Ruhegehalt zugrunde gelegenen Dienstjahre zurückbleibt.
 - (2) Die Zeit der Verwendung von Beamtinnen und Beamten in Ländern, in denen sie gesundheitsschädigenden klimatischen Einflüssen ausgesetzt sind, kann bis zum Doppelten als ruhegehaltfähige Dienstzeit berücksichtigt werden, wenn sie ununterbrochen mindestens ein Jahr gedauert hat. Entsprechendes gilt für beurlaubte Beamtinnen und Beamte, deren Tätigkeit in den in Satz 1 genannten Gebieten öffentlichen Belangen oder dienstlichen Interessen diente, wenn dies spätestens bei Beendigung des Urlaubs anerkannt worden ist.
 - (3) Sind sowohl die Voraussetzungen des Absatzes 1 als auch die Voraussetzungen des Absatzes 2 erfüllt, findet nur die für die Beamtin oder den Beamten günstigere Vorschrift Anwendung.
 
@@ -579,16 +579,16 @@ gesetzliche Rentenversicherung erfüllt ist. Rentenrechtliche Zeiten sind auch s
 - (1) Das Ruhegehalt beträgt für jedes Jahr ruhegehaltfähiger Dienstzeit 1,79375 vom Hundert der ruhegehaltfähigen Dienstbezüge (§ 5), insgesamt jedoch höchstens 71,75 vom Hundert (dieser Höchstruhegehaltssatz wird nach einer ruhegehaltfähigen Dienstzeit von 40 Jahren erreicht). Der Ruhegehaltssatz ist nach kaufmännischen Grundsätzen auf zwei Dezimalstellen auszurechnen. Zur Ermittlung der gesamten ruhegehaltfähigen Dienstjahre sind etwa anfallende Tage unter Benutzung des Nenners dreihundertfünfundsechzig umzurechnen; Satz 2 gilt entsprechend.
 - (2) Das Ruhegehalt vermindert sich um 3,6 vom Hundert für jedes Jahr, um das die Beamtin oder der Beamte
 - vor Ablauf des Monats, in dem sie oder er das 65. Lebensjahr vollendet, nach § 36 Absatz 1
-  Nummer 1 des Hamburgischen Beamtengesetzes (Antragsaltersgrenze bei Schwerbehinderung
+  Nummer 1 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) (Antragsaltersgrenze bei Schwerbehinderung
   im Sinne des § 2 Absatz 2 des Neunten Buches Sozialgesetzbuch) in den Ruhestand versetzt
   wird,
 
 {19}------------------------------------------------
 
-- 2. vor Ablauf des Monats, in dem sie oder er die jeweils geltende gesetzliche Altersgrenze erreicht, nach § 36 Absatz 1 Nummer 2 des Hamburgischen Beamtengesetzes (allgemeine Antragsaltersgrenze) in den Ruhestand versetzt wird,
+- 2. vor Ablauf des Monats, in dem sie oder er die jeweils geltende gesetzliche Altersgrenze erreicht, nach § 36 Absatz 1 Nummer 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) (allgemeine Antragsaltersgrenze) in den Ruhestand versetzt wird,
 - 3. vor Ablauf des Monats, in dem sie oder er das 65. Lebensjahr vollendet, wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, in den Ruhestand versetzt wird;
 
-die Minderung des Ruhegehalts darf 10,8 vom Hundert in den Fällen der Nummern 1 und 3 und 14,4 vom Hundert in den Fällen der Nummer 2 nicht übersteigen. Absatz 1 Sätze 2 und 3 gilt entsprechend. Gilt für die Beamtin oder den Beamten eine vor der Vollendung des 65. Lebensjahres liegende Altersgrenze, tritt sie in den Fällen des Satzes 1 Nummern 1 und 3 an die Stelle des 65. Lebensjahres. Ist für die Beamtin oder den Beamten der Eintritt in den Ruhestand nach § 35 Absatz 1 Satz 4 des Hamburgischen Beamtengesetzes geregelt, wird in den Fällen des Satzes 1 Nummer 2 nur die Zeit bis zum Ablauf des Monats berücksichtigt, in dem die Beamtin oder der Beamte die Altersgrenze nach § 35 Absatz 1 Satz 1 oder Absatz 2 des Hamburgischen Beamtengesetzes erreicht. Für Beamtinnen und Beamte, die vor dem 1. Januar 1964 geboren sind, sind die Sätze 1 bis 4 nach Maßgabe von § 89 Absätze 1 und 2 anzuwenden; für Beamtinnen und Beamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, vor dem 1. Januar 2024 in den Ruhestand versetzt werden, sind die Sätze 1 bis 4 nach Maßgabe von § 89 Absatz 3 anzuwenden. In den Fällen des Satzes 1 Nummer 2 ist anstelle des Ablaufs des Monats, in dem die gesetzliche Altersgrenze erreicht wird, der Ablauf des Monats maßgeblich, in dem das 65. Lebensjahr vollendet wird, wenn die Beamtin oder der Beamte zum Zeitpunkt der Versetzung in den Ruhestand mindestens 45 Jahre mit Zeiten gemäß Satz 8 zurückgelegt hat. In den Fällen des Satzes 1 Nummer 3 ist anstelle des Ablaufs des Monats, in dem das 65. Lebensjahr vollendet oder die in § 89 Absatz 3 genannte Altersgrenze erreicht wird, der Ablauf des Monats maßgeblich, in dem das 63. Lebensjahr vollendet wird, wenn die Beamtin oder der Beamte zum Zeitpunkt der Versetzung in den Ruhestand mindestens 40 Jahre mit Zeiten gemäß Satz 8 zurückgelegt hat. Zeiten nach den Sätzen 6 und 7 sind
+die Minderung des Ruhegehalts darf 10,8 vom Hundert in den Fällen der Nummern 1 und 3 und 14,4 vom Hundert in den Fällen der Nummer 2 nicht übersteigen. Absatz 1 Sätze 2 und 3 gilt entsprechend. Gilt für die Beamtin oder den Beamten eine vor der Vollendung des 65. Lebensjahres liegende Altersgrenze, tritt sie in den Fällen des Satzes 1 Nummern 1 und 3 an die Stelle des 65. Lebensjahres. Ist für die Beamtin oder den Beamten der Eintritt in den Ruhestand nach § 35 Absatz 1 Satz 4 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) geregelt, wird in den Fällen des Satzes 1 Nummer 2 nur die Zeit bis zum Ablauf des Monats berücksichtigt, in dem die Beamtin oder der Beamte die Altersgrenze nach § 35 Absatz 1 Satz 1 oder Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) erreicht. Für Beamtinnen und Beamte, die vor dem 1. Januar 1964 geboren sind, sind die Sätze 1 bis 4 nach Maßgabe von § 89 Absätze 1 und 2 anzuwenden; für Beamtinnen und Beamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, vor dem 1. Januar 2024 in den Ruhestand versetzt werden, sind die Sätze 1 bis 4 nach Maßgabe von § 89 Absatz 3 anzuwenden. In den Fällen des Satzes 1 Nummer 2 ist anstelle des Ablaufs des Monats, in dem die gesetzliche Altersgrenze erreicht wird, der Ablauf des Monats maßgeblich, in dem das 65. Lebensjahr vollendet wird, wenn die Beamtin oder der Beamte zum Zeitpunkt der Versetzung in den Ruhestand mindestens 45 Jahre mit Zeiten gemäß Satz 8 zurückgelegt hat. In den Fällen des Satzes 1 Nummer 3 ist anstelle des Ablaufs des Monats, in dem das 65. Lebensjahr vollendet oder die in § 89 Absatz 3 genannte Altersgrenze erreicht wird, der Ablauf des Monats maßgeblich, in dem das 63. Lebensjahr vollendet wird, wenn die Beamtin oder der Beamte zum Zeitpunkt der Versetzung in den Ruhestand mindestens 40 Jahre mit Zeiten gemäß Satz 8 zurückgelegt hat. Zeiten nach den Sätzen 6 und 7 sind
 
 - 1. ruhegehaltfähige Dienstzeiten nach den §§ 6 und 8 bis 10,
 - Zeiten eines Hochschulstudiums bis zu drei Jahren und eines öffentlich-rechtlichen Ausbildungsverhältnisses, sofern sie laufbahnrechtlich für die Zulassung zum Vorbereitungsdienst oder für die Berufung in das Beamtenverhältnis vorgeschrieben waren, soweit diese nicht bereits unter Nummer 1 oder 3 fallen,
@@ -610,9 +610,9 @@ nach Satz 2 erhöht sich um 30,68 Euro für die Ruhestandsbeamtin, den Ruhestand
 
 ## § 17 Vorübergehende Erhöhung des Ruhegehaltssatzes
 
-- (1) Der nach § 16 Absätze 1 und 6, § 40 Absatz 3 Satz 1, § 77 Absatz 2 und § 85 Absatz 3 berechnete Ruhegehaltssatz erhöht sich vorübergehend, wenn die Beamtin oder der Beamte vor Erreichen der gesetzlichen Altersgrenze (§ 35 Absatz 1 oder 2 des Hamburgischen Beamtengesetzes) in den Ruhestand getreten ist oder versetzt wurde und sie oder er
+- (1) Der nach § 16 Absätze 1 und 6, § 40 Absatz 3 Satz 1, § 77 Absatz 2 und § 85 Absatz 3 berechnete Ruhegehaltssatz erhöht sich vorübergehend, wenn die Beamtin oder der Beamte vor Erreichen der gesetzlichen Altersgrenze (§ 35 Absatz 1 oder 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md)) in den Ruhestand getreten ist oder versetzt wurde und sie oder er
 - 1. bis zum Beginn des Ruhestandes die Wartezeit von 60 Kalendermonaten für eine Rente der gesetzlichen Rentenversicherung erfüllt hat und vor dem Zeitpunkt in den Ruhestand getreten ist oder versetzt wurde, zu dem sie oder er Anspruch auf eine abschlagfreie Regelaltersrente hat,
-- 2. a) wegen Dienstunfähigkeit im Sinne des § 26 Absatz 1 des Beamtenstatusgesetzes in den Ruhestand versetzt worden ist oder
+- 2. a) wegen Dienstunfähigkeit im Sinne des § 26 Absatz 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) in den Ruhestand versetzt worden ist oder
   - b) wegen Erreichens einer besonderen Altersgrenze in den Ruhestand getreten ist,
 - 3. einen Ruhegehaltssatz von 66,97 vom Hundert noch nicht erreicht hat und
 
@@ -631,13 +631,13 @@ nach Satz 2 erhöht sich um 30,68 Euro für die Ruhestandsbeamtin, den Ruhestand
 
 ### Unterhaltsbeitrag für entlassene Beamtinnen und Beamte auf Lebenszeit und auf Probe
 
-Einer Beamtin oder einem Beamten auf Lebenszeit oder einer Beamtin oder einem Beamten auf Probe, die oder der vor Ableistung einer Dienstzeit von fünf Jahren (§ 4 Absatz 1 Satz 1 Nummer 1) wegen Erreichens der Altersgrenze nach § 22 Absatz 1 Nummer 2 des Beamtenstatusgesetzes entlassen ist oder wegen Dienstunfähigkeit nach § 23 Absatz 1 Satz 1 Nummer 3 des Beamtenstatusgesetzes zu entlassen ist, kann ein Unterhaltsbeitrag bis zur Höhe des Ruhegehaltes bewilligt werden.
+Einer Beamtin oder einem Beamten auf Lebenszeit oder einer Beamtin oder einem Beamten auf Probe, die oder der vor Ableistung einer Dienstzeit von fünf Jahren (§ 4 Absatz 1 Satz 1 Nummer 1) wegen Erreichens der Altersgrenze nach § 22 Absatz 1 Nummer 2 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) entlassen ist oder wegen Dienstunfähigkeit nach § 23 Absatz 1 Satz 1 Nummer 3 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) zu entlassen ist, kann ein Unterhaltsbeitrag bis zur Höhe des Ruhegehaltes bewilligt werden.
 
 #### § 19
 
 #### Beamtinnen und Beamte auf Probe in leitender Funktion
 
-(1) § 18 findet auf Beamtenverhältnisse auf Probe nach § 5 des Hamburgischen Beamtengesetzes keine Anwendung.
+(1) § 18 findet auf Beamtenverhältnisse auf Probe nach § 5 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) keine Anwendung.
 
 {22}------------------------------------------------
 
@@ -675,8 +675,8 @@ Die Hinterbliebenenversorgung (§§ 21 bis 31) umfasst
 
 - (1) Die Witwe eines Beamten auf Lebenszeit, der die Voraussetzungen des § 4 Absatz 1 erfüllt hat, oder eines Ruhestandsbeamten erhält Witwengeld. Dies gilt nicht, wenn
 - die Ehe mit dem Verstorbenen nicht mindestens ein Jahr gedauert hat, es sei denn, dass nach den besonderen Umständen des Falles die Annahme nicht gerechtfertigt ist, dass es der alleinige oder überwiegende Zweck der Heirat war, der Witwe eine Versorgung zu verschaffen, oder
-- 2. die Ehe erst nach dem Eintritt des Beamten in den Ruhestand geschlossen worden ist und der Ruhestandsbeamte zur Zeit der Eheschließung die Regelaltersgrenze nach § 35 Absatz 1 oder 2 des Hamburgischen Beamtengesetzes bereits erreicht hatte.
-- (2) Absatz 1 gilt auch für die Witwe eines Beamten auf Probe, der an den Folgen einer Dienstbeschädigung (§ 28 Absatz 1 des Beamtenstatusgesetzes) verstorben ist oder dem die Entscheidung nach § 28 Absatz 2 des Beamtenstatusgesetzes in Verbindung mit § 42 des Hamburgischen Beamtengesetzes zugestellt war.
+- 2. die Ehe erst nach dem Eintritt des Beamten in den Ruhestand geschlossen worden ist und der Ruhestandsbeamte zur Zeit der Eheschließung die Regelaltersgrenze nach § 35 Absatz 1 oder 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) bereits erreicht hatte.
+- (2) Absatz 1 gilt auch für die Witwe eines Beamten auf Probe, der an den Folgen einer Dienstbeschädigung (§ 28 Absatz 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md)) verstorben ist oder dem die Entscheidung nach § 28 Absatz 2 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) in Verbindung mit § 42 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) zugestellt war.
 - (3) Der Witwer einer Beamtin auf Lebenszeit oder auf Probe oder einer Ruhestandsbeamtin erhält nach den Absätzen 1 und 2 Witwergeld.
 
 #### § 24 Höhe des Witwen- oder Witwergeldes
@@ -727,11 +727,11 @@ Der Erziehung eines waisengeldberechtigten Kindes steht die Sorge für ein waise
 
 - 1. einer verstorbenen Beamtin oder eines verstorbenen Beamten auf Lebenszeit,
 - 2. einer verstorbenen Ruhestandsbeamtin oder eines verstorbenen Ruhestandsbeamten oder
-- 3. einer verstorbenen Beamtin oder eines verstorbenen Beamten auf Probe, die oder der an den Folgen einer Dienstbeschädigung (§ 28 Absatz 1 des Beamtenstatusgesetzes) verstorben ist oder dem die Entscheidung nach § 28 Absatz 2 des Beamtenstatusgesetzes in Verbindung mit § 42 des Hamburgischen Beamtengesetzes zugestellt war,
+- 3. einer verstorbenen Beamtin oder eines verstorbenen Beamten auf Probe, die oder der an den Folgen einer Dienstbeschädigung (§ 28 Absatz 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md)) verstorben ist oder dem die Entscheidung nach § 28 Absatz 2 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) in Verbindung mit § 42 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) zugestellt war,
 
 erhalten Waisengeld, wenn die Beamtin oder der Beamte die Voraussetzungen des § 4 Absatz 1 erfüllt hat.
 
-(2) Kein Waisengeld erhalten die Kinder einer verstorbenen Ruhestandsbeamtin oder eines verstorbenen Ruhestandsbeamten, wenn das Kindschaftsverhältnis durch Annahme als Kind begründet wurde und die Ruhestandsbeamtin oder der Ruhestandsbeamte in diesem Zeitpunkt bereits im Ruhestand war und die Regelaltersgrenze nach § 35 Absatz 1 oder 2 des Hamburgischen Beamtengesetzes bereits erreicht hatte. Es kann ihnen jedoch ein Unterhaltsbeitrag bis zur Höhe des Waisengeldes bewilligt werden.
+(2) Kein Waisengeld erhalten die Kinder einer verstorbenen Ruhestandsbeamtin oder eines verstorbenen Ruhestandsbeamten, wenn das Kindschaftsverhältnis durch Annahme als Kind begründet wurde und die Ruhestandsbeamtin oder der Ruhestandsbeamte in diesem Zeitpunkt bereits im Ruhestand war und die Regelaltersgrenze nach § 35 Absatz 1 oder 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) bereits erreicht hatte. Es kann ihnen jedoch ein Unterhaltsbeitrag bis zur Höhe des Waisengeldes bewilligt werden.
 
 #### § 28 Höhe des Waisengeldes
 
@@ -774,7 +774,7 @@ erhalten Waisengeld, wenn die Beamtin oder der Beamte die Voraussetzungen des §
 
 eines Jahres zu leisten; die nach Absatz 2 für den gleichen Zeitraum gewährten Bezüge sind anzurechnen.
 
-- (4) Ergibt sich, dass bei einer Beamtin oder einem Beamten die Voraussetzungen des § 11 des Hamburgischen Besoldungsgesetzes vorliegen, so können die nach Absatz 2 gezahlten Bezüge von ihr oder ihm zurückgefordert werden.
+- (4) Ergibt sich, dass bei einer Beamtin oder einem Beamten die Voraussetzungen des § 11 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) vorliegen, so können die nach Absatz 2 gezahlten Bezüge von ihr oder ihm zurückgefordert werden.
 - (5) Wird die oder der Verschollene für tot erklärt oder die Todeszeit gerichtlich festgestellt oder eine Sterbeurkunde über den Tod der oder des Verschollenen ausgestellt, so ist die Hinterbliebenenversorgung von dem ersten Tag des auf die Rechtskraft der gerichtlichen Entscheidung oder die Ausstellung der Sterbeurkunde folgenden Monats ab unter Berücksichtigung des festgestellten Todeszeitpunktes neu festzusetzen.
 
 #### Abschnitt 5 Unfallfürsorge
@@ -800,7 +800,7 @@ Im Fall von Absatz 1 Sätze 2 und 3 erhält das Kind der Beamtin Leistungen nach
 
 {29}------------------------------------------------
 
-der Begutachtung beauftragte Person berechtigt. § 44 des Hamburgischen Beamtengesetzes gilt entsprechend.
+der Begutachtung beauftragte Person berechtigt. § 44 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) gilt entsprechend.
 
 (4) Im Übrigen gelten die allgemeinen Vorschriften.
 
@@ -809,7 +809,7 @@ der Begutachtung beauftragte Person berechtigt. § 44 des Hamburgischen Beamteng
 - (1) Dienstunfall ist ein auf äußerer Einwirkung beruhendes, plötzliches, örtlich und zeitlich bestimmbares, einen Körperschaden verursachendes Ereignis, das in Ausübung oder infolge des Dienstes eingetreten ist. Zum Dienst gehören auch
 - 1. Dienstreisen, Dienstgänge und die dienstliche Tätigkeit am Bestimmungsort,
 - 2. die Teilnahme an dienstlichen Veranstaltungen und
-- 3. Nebentätigkeiten im öffentlichen Dienst oder in dem ihm gleichstehenden Dienst, zu deren Übernahme die Beamtin oder der Beamte gemäß § 71 des Hamburgischen Beamtengesetzes verpflichtet ist, oder Nebentätigkeiten, deren Wahrnehmung von ihr oder ihm im Zusammenhang mit den Dienstgeschäften erwartet wird, sofern die Beamtin oder der Beamte hierbei nicht in der gesetzlichen Unfallversicherung versichert ist (§ 2 des Siebten Buches Sozialgesetzbuch).
+- 3. Nebentätigkeiten im öffentlichen Dienst oder in dem ihm gleichstehenden Dienst, zu deren Übernahme die Beamtin oder der Beamte gemäß § 71 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) verpflichtet ist, oder Nebentätigkeiten, deren Wahrnehmung von ihr oder ihm im Zusammenhang mit den Dienstgeschäften erwartet wird, sofern die Beamtin oder der Beamte hierbei nicht in der gesetzlichen Unfallversicherung versichert ist (§ 2 des Siebten Buches Sozialgesetzbuch).
 - (2) Als Dienst gilt auch das Zurücklegen des mit dem Dienst zusammenhängenden Weges nach und von der Dienststelle; hat die Beamtin oder der Beamte wegen der Entfernung der ständigen Familienwohnung vom Dienstort an diesem oder in dessen Nähe eine Unterkunft, so gilt der erste Halbsatz auch für den Weg von und nach der Familienwohnung. Der Zusammenhang mit dem Dienst gilt als nicht unterbrochen, wenn die Beamtin oder der Beamte
 - 1. von dem unmittelbaren Weg zwischen der Wohnung und der Dienststelle in vertretbarem Umfang abweicht,
   - a) um ein eigenes Kind, für das ihr oder ihm dem Grunde nach Kindergeld zusteht, wegen ihrer oder seiner beruflichen Tätigkeit oder der beruflichen Tätigkeit beider Eheleute in fremde Obhut zu geben oder aus fremder Obhut abzuholen oder
@@ -1080,10 +1080,10 @@ Ansprüche anzurechnen; der Dienstherr, der Leistungen nach diesem Gesetz gewäh
 
 #### Abschnitt 6 Übergangsgeld, Ausgleich § 53 Übergangsgeld
 
-- (1) Beamtinnen und Beamte mit Dienstbezügen, die nicht auf eigenen Antrag entlassen werden, erhalten als Übergangsgeld nach vollendeter einjähriger Beschäftigungszeit das Einfache und bei längerer Beschäftigungszeit für jedes weitere volle Jahr ihrer Dauer die Hälfte, insgesamt höchstens das Sechsfache der Dienstbezüge (§ 2 Absatz 1 Nummern 1 bis 4 des Hamburgischen Besoldungsgesetzes) des letzten Monats. § 5 Absatz 1 Satz 2 gilt entsprechend. Das Übergangsgeld wird auch dann gewährt, wenn die Beamtinnen und Beamten im Zeitpunkt der Entlassung ohne Dienstbezüge beurlaubt waren. Maßgebend sind die Dienstbezüge, die die Beamtinnen und Beamten im Zeitpunkt der Entlassung erhalten hätten.
+- (1) Beamtinnen und Beamte mit Dienstbezügen, die nicht auf eigenen Antrag entlassen werden, erhalten als Übergangsgeld nach vollendeter einjähriger Beschäftigungszeit das Einfache und bei längerer Beschäftigungszeit für jedes weitere volle Jahr ihrer Dauer die Hälfte, insgesamt höchstens das Sechsfache der Dienstbezüge (§ 2 Absatz 1 Nummern 1 bis 4 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md)) des letzten Monats. § 5 Absatz 1 Satz 2 gilt entsprechend. Das Übergangsgeld wird auch dann gewährt, wenn die Beamtinnen und Beamten im Zeitpunkt der Entlassung ohne Dienstbezüge beurlaubt waren. Maßgebend sind die Dienstbezüge, die die Beamtinnen und Beamten im Zeitpunkt der Entlassung erhalten hätten.
 - (2) Als Beschäftigungszeit gilt die Zeit ununterbrochener hauptberuflicher entgeltlicher Tätigkeit (§ 10 Absatz 2) im Dienste desselben Dienstherrn oder der Verwaltung, deren Aufgaben der Dienstherr übernommen hat, sowie im Falle der Versetzung die entsprechende Zeit im Dienste des früheren Dienstherrn; die vor einer Beurlaubung ohne Dienstbezüge liegende Beschäftigungszeit wird mit berücksichtigt. Zeiten mit einer Ermäßigung der regelmäßigen Arbeitszeit sind nur zu dem Teil anzurechnen, der dem Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht.
 - (3) Das Übergangsgeld wird nicht gewährt, wenn
-- 1. die Beamtin oder der Beamte wegen eines Verhaltens im Sinne der § 22 Absatz 1 Nummer 1 und Absatz 2 und § 23 Absatz 1 Nummer 1, Absatz 2 und Absatz 3 Nummer 1 des Beamtenstatusgesetzes entlassen wird oder
+- 1. die Beamtin oder der Beamte wegen eines Verhaltens im Sinne der § 22 Absatz 1 Nummer 1 und Absatz 2 und § 23 Absatz 1 Nummer 1, Absatz 2 und Absatz 3 Nummer 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) entlassen wird oder
 - 2. ein Unterhaltsbeitrag nach § 18 bewilligt wird oder
 - 3. die Beschäftigungszeit als ruhegehaltfähige Dienstzeit angerechnet wird oder
 - 4. die Beamtin oder der Beamte mit der Berufung in ein Richterverhältnis oder mit der Ernennung zur Beamtin oder zum Beamten auf Zeit entlassen wird.
@@ -1097,10 +1097,10 @@ amte die für ihr oder sein Beamtenverhältnis bestimmte gesetzliche Altersgrenz
 
 ## § 54 Übergangsgeld für entlassene politische Beamtinnen und Beamte
 
-- (1) Eine Beamtin oder ein Beamter, die oder der aus einem Amt im Sinne des § 30 des Beamtenstatusgesetzes nicht auf eigenen Antrag entlassen wird, erhält ein Übergangsgeld in Höhe von 71,75 vom Hundert der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, in der sie oder er sich zur Zeit der Entlassung befunden hat. § 5 des Hamburgischen Besoldungsgesetzes gilt entsprechend.
+- (1) Eine Beamtin oder ein Beamter, die oder der aus einem Amt im Sinne des § 30 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) nicht auf eigenen Antrag entlassen wird, erhält ein Übergangsgeld in Höhe von 71,75 vom Hundert der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, in der sie oder er sich zur Zeit der Entlassung befunden hat. § 5 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) gilt entsprechend.
 - (2) Das Übergangsgeld wird für die Dauer der Zeit, die das Amt, aus dem die Beamtin oder der Beamte entlassen worden ist, übertragen war, mindestens für die Dauer von sechs Monaten, längstens für die Dauer von drei Jahren, gewährt.
 - (3) § 53 Absatz 3 Nummern 1 bis 4 und Absatz 4 gilt entsprechend.
-- (4) Bezieht die entlassene Beamtin oder der entlassene Beamte Erwerbs- oder Erwerbsersatzeinkommen im Sinne des § 64 Absatz 6, so verringern sich die in entsprechender Anwendung des § 5 des Hamburgischen Besoldungsgesetzes fortgezahlten Bezüge und das Übergangsgeld um den Betrag dieser Einkünfte; § 74 Nummer 11 findet keine Anwendung.
+- (4) Bezieht die entlassene Beamtin oder der entlassene Beamte Erwerbs- oder Erwerbsersatzeinkommen im Sinne des § 64 Absatz 6, so verringern sich die in entsprechender Anwendung des § 5 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) fortgezahlten Bezüge und das Übergangsgeld um den Betrag dieser Einkünfte; § 74 Nummer 11 findet keine Anwendung.
 - (5) In Versorgungsfällen, die vor dem 1. Januar 2012 eingetreten sind, gilt anstelle des in Absatz 1 genannten Vomhundertsatzes "71,75" der Vomhundertsatz "75". § 16 Absatz 6 Sätze 2 und 3 ist entsprechend anzuwenden.
 
 ## § 55 (aufgehoben)
@@ -1165,9 +1165,9 @@ Die §§ 249 und 249a des Sechsten Buches Sozialgesetzbuch gelten entsprechend, 
 
 ## § 59 Vorübergehende Gewährung von Zuschlägen
 
-- (1) Versorgungsempfängerinnen und Versorgungsempfänger, die vor Erreichen der gesetzlichen Altersgrenze gemäß § 35 Absatz 1 oder 2 des Hamburgischen Beamtengesetzes in den Ruhestand versetzt werden, erhalten vorübergehend Leistungen entsprechend den §§ 56 und 58 wenn
+- (1) Versorgungsempfängerinnen und Versorgungsempfänger, die vor Erreichen der gesetzlichen Altersgrenze gemäß § 35 Absatz 1 oder 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) in den Ruhestand versetzt werden, erhalten vorübergehend Leistungen entsprechend den §§ 56 und 58 wenn
 - 1. bis zum Beginn des Ruhestandes die allgemeine Wartezeit für eine Rente der gesetzlichen Rentenversicherung erfüllt ist,
-- 2. a) sie wegen Dienstunfähigkeit im Sinne des § 26 Absatz 1 des Beamtenstatusgesetzes in den Ruhestand versetzt worden sind oder
+- 2. a) sie wegen Dienstunfähigkeit im Sinne des § 26 Absatz 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) in den Ruhestand versetzt worden sind oder
   - b) sie wegen Erreichens einer besonderen Altersgrenze in den Ruhestand getreten sind und das 60. Lebensjahr vollendet haben,
 - 3. ihnen entsprechende Leistungen nach dem Sechsten Buch Sozialgesetzbuch dem Grunde nach zustehen, jedoch vor dem Erreichen der maßgebenden Altersgrenze noch nicht gewährt werden,
 - 4. sie einen Ruhegehaltssatz von 66,97 vom Hundert noch nicht erreicht haben,
@@ -1194,7 +1194,7 @@ Durch die Leistung nach Satz 1 darf der Betrag nicht überschritten werden, der 
 - (3) Entscheidungen in versorgungsrechtlichen Angelegenheiten oder in Angelegenheiten des Altersund Hinterbliebenenaltersgeldes, die eine grundsätzliche, über den Einzelfall hinausgehende Bedeutung haben, sind von der für das Beamtenversorgungsrecht zuständigen Behörde zu treffen; Absatz 1 Satz 2 gilt entsprechend.
 - (4) Die Versorgungsbezüge und das Alters- und Hinterbliebenenaltersgeld sind, soweit nichts anderes bestimmt ist, für die gleichen Zeiträume und im gleichen Zeitpunkt zu zahlen wie die Dienstbezüge der Beamtinnen und Beamten.
 - (5) Werden Versorgungsbezüge, Alters- und Hinterbliebenenaltersgeld nach dem Tag der Fälligkeit gezahlt, so besteht kein Anspruch auf Verzugszinsen.
-- (6) Haben Versorgungsberechtigte und Empfängerinnen und Empfänger von Alters- und Hinterbliebenenaltersgeld ihren Wohnsitz oder dauernden Aufenthalt außerhalb des Geltungsbereichs des Grundgesetzes, so kann die oberste Dienstbehörde oder die von ihr bestimmte Stelle die Zahlung der Versorgungsbezüge, des Alters- oder Hinterbliebenenaltersgeldes von der Bestellung einer empfangsbevollmächtigten Person im Geltungsbereich des Grundgesetzes abhängig machen.
+- (6) Haben Versorgungsberechtigte und Empfängerinnen und Empfänger von Alters- und Hinterbliebenenaltersgeld ihren Wohnsitz oder dauernden Aufenthalt außerhalb des Geltungsbereichs des [Grundgesetzes](../../grundgesetz/GG.md), so kann die oberste Dienstbehörde oder die von ihr bestimmte Stelle die Zahlung der Versorgungsbezüge, des Alters- oder Hinterbliebenenaltersgeldes von der Bestellung einer empfangsbevollmächtigten Person im Geltungsbereich des [Grundgesetzes](../../grundgesetz/GG.md) abhängig machen.
 - (7) Versorgungsberechtigte und Empfängerinnen und Empfänger von Alters- und Hinterbliebenenaltersgeld haben auf Verlangen eine Lebensbescheinigung vorzulegen.
 - (8) Für die Zahlung der Versorgungsbezüge, des Alters- oder Hinterbliebenenaltersgeldes hat die Empfängerin oder der Empfänger auf Verlangen der zuständigen Behörde ein Konto anzugeben oder
 
@@ -1243,7 +1243,7 @@ ist, dass es wegen auf die Versorgungsbezüge anzurechnender Sozialleistungen zu
 - (1) Beziehen Versorgungsberechtigte Erwerbs- oder Erwerbsersatzeinkommen (Absatz 6), erhalten sie daneben ihre Versorgungsbezüge nur bis zum Erreichen der in Absatz 2 bezeichneten Höchstgrenze.
 - (2) Als Höchstgrenze gelten
 - 1. für Ruhestandsbeamtinnen und -beamte, Witwen und Witwer die ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 61 Absatz 1; § 5 Absatz 1 Satz 1 zweiter Halbsatz ist nicht anzuwenden,
-- 2. für Ruhestandsbeamtinnen und Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, oder nach § 36 Absatz 1 Nummer 1 des Hamburgischen Beamtengesetzes (Antragsaltersgrenze bei Schwerbehinderung im Sinne des § 2 Absatz 2 des Neunten Buches Sozialgesetzbuch) in den Ruhestand versetzt wurden, bis zum Ablauf des Monats, in dem die Regelaltersgrenze nach § 35 Absatz 1 oder 2 des Hamburgischen Beamtengesetzes erreicht wird, 71,75 vom Hundert der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 vom Hundert des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des Erhöhungsbetrages nach § 61 Absatz 2a Satz 1 und des jeweils zustehenden Unterschiedsbetrages nach § 61 Absatz 1 sowie 556 Euro.
+- 2. für Ruhestandsbeamtinnen und Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, oder nach § 36 Absatz 1 Nummer 1 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) (Antragsaltersgrenze bei Schwerbehinderung im Sinne des § 2 Absatz 2 des Neunten Buches Sozialgesetzbuch) in den Ruhestand versetzt wurden, bis zum Ablauf des Monats, in dem die Regelaltersgrenze nach § 35 Absatz 1 oder 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) erreicht wird, 71,75 vom Hundert der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 vom Hundert des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des Erhöhungsbetrages nach § 61 Absatz 2a Satz 1 und des jeweils zustehenden Unterschiedsbetrages nach § 61 Absatz 1 sowie 556 Euro.
 
 {51}------------------------------------------------
 
@@ -1258,19 +1258,19 @@ ist, dass es wegen auf die Versorgungsbezüge anzurechnender Sozialleistungen zu
 - 5. steuerfreie Einnahmen für
   - a) Leistungen zur Grundpflege oder hauswirtschaftlichen Versorgung,
   - b) eine in der Zeit vom 1. März 2020 bis 31. März 2022 gewährte Leistung, die nach § 3 Nummer 11a des Einkommensteuergesetzes steuerfrei ist, bis zu einem Betrag von 1.500 Euro,
-- 6. Einkünfte aus Tätigkeiten, die einer schriftstellerischen, wissenschaftlichen, künstlerischen oder Vortragstätigkeit entsprechen, sofern sie nicht nach Art und Umfang bei einer Beamtin oder einem Beamten gemäß § 73 Absatz 2 des Hamburgischen Beamtengesetzes zu untersagen wären.
+- 6. Einkünfte aus Tätigkeiten, die einer schriftstellerischen, wissenschaftlichen, künstlerischen oder Vortragstätigkeit entsprechen, sofern sie nicht nach Art und Umfang bei einer Beamtin oder einem Beamten gemäß § 73 Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) zu untersagen wären.
 
 Erwerbsersatzeinkommen sind Leistungen, die auf Grund oder in entsprechender Anwendung öffentlich-rechtlicher Vorschriften kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen. Erwerbsund Erwerbsersatzeinkommen wird mit einem Zwölftel des im Kalenderjahr erzielten Einkommens berücksichtigt.
 
 {52}------------------------------------------------
 
-- (7) Nach Ablauf des Monats, in dem Versorgungsberechtigte die Regelaltersgrenze nach § 35 Absatz 1 Satz 1 oder Absatz 2 des Hamburgischen Beamtengesetzes erreichen, gelten die Absätze 1 bis 6 nur für Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst (Verwendungseinkommen). Dies ist jede Beschäftigung im Dienst von Körperschaften, Anstalten und Stiftungen des deutschen öffentlichen Rechts oder ihrer Verbände; ausgenommen ist die Beschäftigung bei öffentlich-rechtlichen Religionsgesellschaften oder ihren Verbänden. Der Verwendung im öffentlichen Dienst steht gleich die Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung, an der eine Körperschaft oder ein Verband im Sinne des Satzes 2 durch Zahlung von Beiträgen oder Zuschüssen oder in anderer Weise beteiligt ist. Ob die Voraussetzungen zutreffen, entscheidet auf Antrag der zuständigen Stelle oder der Versorgungsberechtigten die oberste Dienstbehörde oder die von ihr bestimmte Stelle.
+- (7) Nach Ablauf des Monats, in dem Versorgungsberechtigte die Regelaltersgrenze nach § 35 Absatz 1 Satz 1 oder Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) erreichen, gelten die Absätze 1 bis 6 nur für Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst (Verwendungseinkommen). Dies ist jede Beschäftigung im Dienst von Körperschaften, Anstalten und Stiftungen des deutschen öffentlichen Rechts oder ihrer Verbände; ausgenommen ist die Beschäftigung bei öffentlich-rechtlichen Religionsgesellschaften oder ihren Verbänden. Der Verwendung im öffentlichen Dienst steht gleich die Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung, an der eine Körperschaft oder ein Verband im Sinne des Satzes 2 durch Zahlung von Beiträgen oder Zuschüssen oder in anderer Weise beteiligt ist. Ob die Voraussetzungen zutreffen, entscheidet auf Antrag der zuständigen Stelle oder der Versorgungsberechtigten die oberste Dienstbehörde oder die von ihr bestimmte Stelle.
 - (8) Beziehen Beamtinnen und Beamte im einstweiligen Ruhestand Erwerbs- und Erwerbsersatzeinkommen nach Absatz 6, das nicht Verwendungseinkommen nach Absatz 7 ist, ruhen die Versorgungsbezüge um 50 vom Hundert des Betrages, um den sie und das Einkommen die Höchstgrenze übersteigen.
 - (9) Beziehen Versorgungsberechtigte Entschädigung, Übergangsgeld, Ruhegehalt oder Versorgung für Hinterbliebene nach dem Abgeordnetenstatut des Europäischen Parlaments, gilt § 29 Absatz 2 Satz 1 des Abgeordnetengesetzes in der Fassung vom 21. Februar 1996 (BGBI. I S. 327), zuletzt geändert am 3. April 2009 (BGBI. I S. 700, 717), in der jeweils geltenden Fassung sinngemäß mit der Maßgabe, dass an die Stelle der Abgeordnetenentschädigung nach § 11 des Abgeordnetengesetzes die Leistung nach dem Abgeordnetenstatut des Europäischen Parlaments tritt.
 - (10) Abweichend von Absatz 2 Nummer 1 gilt
 - für Ruhestandsbeamtinnen und Ruhestandsbeamte, die mit Erreichen der Altersgrenze gemäß
-   § 35 Absatz 1 Satz 1 oder Absatz 2 des Hamburgischen Beamtengesetzes oder später in den Ruhestand eingetreten sind sowie
-- 2. für Ruhestandsbeamtinnen und Ruhestandsbeamte, die mit einer besonderen Altersgrenze nach §§ 108, 114 und § 115 Absatz 2 des Hamburgischen Beamtengesetzes in den Ruhestand eingetreten sind, mit Ablauf des Monats, in dem sie die in § 35 Absatz 1 Satz 1 oder Absatz 2 des Hamburgischen Beamtengesetzes genannte Altersgrenze erreicht haben,
+   § 35 Absatz 1 Satz 1 oder Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) oder später in den Ruhestand eingetreten sind sowie
+- 2. für Ruhestandsbeamtinnen und Ruhestandsbeamte, die mit einer besonderen Altersgrenze nach §§ 108, 114 und § 115 Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) in den Ruhestand eingetreten sind, mit Ablauf des Monats, in dem sie die in § 35 Absatz 1 Satz 1 oder Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) genannte Altersgrenze erreicht haben,
 
 als Höchstgrenze das Eineinhalbfache der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 61 Absatz 1. § 5 Absatz 1 Satz 1 zweiter Halbsatz ist nicht anzuwenden.
 
@@ -1407,25 +1407,25 @@ begründet oder übertragen worden, werden nach Wirksamkeit dieser Entscheidung 
 #### Erlöschen der Versorgungsbezüge wegen Verurteilung
 
 - (1) Ruhestandsbeamtinnen und Ruhestandsbeamte,
-- 1. gegen die wegen einer vor Beendigung des Beamtenverhältnisses begangenen Tat eine Entscheidung ergangen ist, die nach § 24 des Beamtenstatusgesetzes zum Verlust der Beamtenrechte geführt hätte, oder
+- 1. gegen die wegen einer vor Beendigung des Beamtenverhältnisses begangenen Tat eine Entscheidung ergangen ist, die nach § 24 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) zum Verlust der Beamtenrechte geführt hätte, oder
 
 {60}------------------------------------------------
 
-- 2. die wegen einer nach Beendigung des Beamtenverhältnisses begangenen Tat durch ein deutsches Gericht im Geltungsbereich des Grundgesetzes im ordentlichen Strafverfahren
+- 2. die wegen einer nach Beendigung des Beamtenverhältnisses begangenen Tat durch ein deutsches Gericht im Geltungsbereich des [Grundgesetzes](../../grundgesetz/GG.md) im ordentlichen Strafverfahren
   - a) wegen einer vorsätzlichen Tat zu Freiheitsstrafe von mindestens zwei Jahren oder
   - b) wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten
 
 verurteilt worden sind,
 
-verlieren mit der Rechtskraft der Entscheidung ihre Rechte als Ruhestandsbeamtinnen und -beamte. Entsprechendes gilt, wenn Ruhestandsbeamtinnen und -beamte auf Grund einer Entscheidung des Bundesverfassungsgerichts gemäß Artikel 18 des Grundgesetzes ein Grundrecht verwirkt haben.
+verlieren mit der Rechtskraft der Entscheidung ihre Rechte als Ruhestandsbeamtinnen und -beamte. Entsprechendes gilt, wenn Ruhestandsbeamtinnen und -beamte auf Grund einer Entscheidung des Bundesverfassungsgerichts gemäß Artikel 18 des [Grundgesetzes](../../grundgesetz/GG.md) ein Grundrecht verwirkt haben.
 
-(2) Die §§ 33 und 34 des Hamburgisches Beamtengesetzes finden entsprechende Anwendung.
+(2) Die §§ 33 und 34 des [Hamburgisches Beamtengesetzes](BG_HA_2009.md) finden entsprechende Anwendung.
 
 #### § 71
 
 ## Erlöschen der Versorgungsbezüge bei Ablehnung einer erneuten Berufung
 
-Kommt eine Ruhestandsbeamtin oder ein Ruhestandsbeamter einer erneuten Berufung in das Beamtenverhältnis entgegen den Vorschriften von § 29 Absätze 2 und 3, § 30 Absatz 3 oder § 31 Absatz 2 des Beamtenstatusgesetzes und § 43 Absatz 2 des Hamburgischen Beamtengesetzes schuldhaft nicht nach, obwohl sie oder er auf die Folgen eines solchen Verhaltens schriftlich hingewiesen worden ist, so verliert sie oder er für diese Zeit ihre oder seine Versorgungsbezüge. Die oberste Dienstbehörde stellt den Verlust der Versorgungsbezüge fest. Eine disziplinarrechtliche Verfolgung wird dadurch nicht ausgeschlossen.
+Kommt eine Ruhestandsbeamtin oder ein Ruhestandsbeamter einer erneuten Berufung in das Beamtenverhältnis entgegen den Vorschriften von § 29 Absätze 2 und 3, § 30 Absatz 3 oder § 31 Absatz 2 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) und § 43 Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) schuldhaft nicht nach, obwohl sie oder er auf die Folgen eines solchen Verhaltens schriftlich hingewiesen worden ist, so verliert sie oder er für diese Zeit ihre oder seine Versorgungsbezüge. Die oberste Dienstbehörde stellt den Verlust der Versorgungsbezüge fest. Eine disziplinarrechtliche Verfolgung wird dadurch nicht ausgeschlossen.
 
 ## § 72 Erlöschen der Witwen-, Witwer- und Waisenversorgung
 
@@ -1433,11 +1433,11 @@ Kommt eine Ruhestandsbeamtin oder ein Ruhestandsbeamter einer erneuten Berufung 
 - 1. für jede Berechtigte und jeden Berechtigten mit dem Ende des Monats, in dem sie oder er stirbt.
 - 2. für jede Witwe und jeden Witwer außerdem mit dem Ende des Monats, in dem sie oder er sich verheiratet,
 - 3. für jede Waise außerdem mit dem Ende des Monats, in dem sie das achtzehnte Lebensjahr vollendet.
-- 4. für jede Berechtigte und jeden Berechtigten, die oder der durch ein deutsches Gericht im Geltungsbereich des Grundgesetzes im ordentlichen Strafverfahren wegen eines Verbrechens zu Freiheitsstrafe von mindestens zwei Jahren oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten verurteilt worden ist, mit der Rechtskraft des Urteils.
+- 4. für jede Berechtigte und jeden Berechtigten, die oder der durch ein deutsches Gericht im Geltungsbereich des [Grundgesetzes](../../grundgesetz/GG.md) im ordentlichen Strafverfahren wegen eines Verbrechens zu Freiheitsstrafe von mindestens zwei Jahren oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu Freiheitsstrafe von mindestens sechs Monaten verurteilt worden ist, mit der Rechtskraft des Urteils.
 
 {61}------------------------------------------------
 
-Entsprechendes gilt, wenn die oder der Berechtigte auf Grund einer Entscheidung des Bundesverfassungsgerichts gemäß Artikel 18 des Grundgesetzes ein Grundrecht verwirkt hat. In den Fällen des Satzes 1 Nummer 4 und des Satzes 2 gilt § 46 sinngemäß. Die §§ 33 und 34 des Hamburgischen Beamtengesetzes finden entsprechende Anwendung.
+Entsprechendes gilt, wenn die oder der Berechtigte auf Grund einer Entscheidung des Bundesverfassungsgerichts gemäß Artikel 18 des [Grundgesetzes](../../grundgesetz/GG.md) ein Grundrecht verwirkt hat. In den Fällen des Satzes 1 Nummer 4 und des Satzes 2 gilt § 46 sinngemäß. Die §§ 33 und 34 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) finden entsprechende Anwendung.
 
 - (2) Das Waisengeld wird nach Vollendung des 18. Lebensjahres auf Antrag gewährt, solange die in § 32 Absatz 4 Satz 1 Nummer 2 Buchstaben a, b und d, Nummer 3 und Absatz 5 Sätze 1 und 2 des Einkommensteuergesetzes genannten Voraussetzungen gegeben sind. Im Falle einer körperlichen, geistigen oder seelischen Behinderung im Sinne des § 32 Absatz 4 Satz 1 Nummer 3 des Einkommensteuergesetzes wird das Waisengeld ungeachtet der Höhe eines eigenen Einkommens dem Grunde nach gewährt; soweit ein eigenes Einkommen der Waise das Zweifache des Mindestvollwaisengeldes (§ 16 Absatz 3 Satz 2 in Verbindung mit § 28 Absatz 1) übersteigt, wird es zur Hälfte auf das Waisengeld zuzüglich des Unterschiedsbetrages (§ 61 Absatz 1) angerechnet. Das Waisengeld nach Satz 2 wird über das 27. Lebensjahr hinaus nur gewährt, wenn
 - die Behinderung bei Vollendung des 27. Lebensjahres bestanden hat oder bis zu dem sich nach § 32 Absatz 5 des Einkommensteuergesetzes ergebenden Zeitpunkt eingetreten ist, wenn die Waise sich in verzögerter Schul- oder Berufsausbildung befunden hat, und
@@ -1479,9 +1479,9 @@ Für die Anwendung dieses Abschnitts gelten
 
 - 7. ein Unterhaltsbeitrag nach § 27 Absatz 2 als Waisengeld,
 - 8. ein Unterhaltsbeitrag nach § 43 als Waisengeld,
-- 9. ein Unterhaltsbeitrag nach § 34 des Hamburgischen Beamtengesetzes, sowie nach § 70, § 72 Absatz 1 Satz 4 und § 79 als Ruhegehalt, Witwen-, Witwer- oder Waisengeld,
+- 9. ein Unterhaltsbeitrag nach § 34 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md), sowie nach § 70, § 72 Absatz 1 Satz 4 und § 79 als Ruhegehalt, Witwen-, Witwer- oder Waisengeld,
 - 10. die Bezüge der nach § 32 des Deutschen Richtergesetzes oder einer entsprechenden gesetzlichen Vorschrift nicht im Amt befindlichen Richterinnen, Richter und Mitglieder einer obersten Rechnungsprüfungsbehörde als Ruhegehalt,
-- 11. die Bezüge, die nach oder entsprechend § 5 Absatz 1 Satz 1 des Hamburgischen Besoldungsgesetzes gewährt werden, als Ruhegehalt;
+- 11. die Bezüge, die nach oder entsprechend § 5 Absatz 1 Satz 1 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) gewährt werden, als Ruhegehalt;
 
 die Empfängerinnen und Empfänger dieser Versorgungsbezüge gelten als Ruhestandsbeamtinnen, Ruhestandsbeamte. Witwen, Witwer oder Waisen.
 
@@ -1491,7 +1491,7 @@ die Empfängerinnen und Empfänger dieser Versorgungsbezüge gelten als Ruhestan
 
 #### **Entzug von Hinterbliebenenversorgung sowie Hinterbliebenenaltersgeld**
 
-- (1) Die oberste Dienstbehörde kann Empfängerinnen und Empfängern von Hinterbliebenenversorgung oder Hinterbliebenenaltersgeld die Versorgungsbezüge oder das Hinterbliebenenaltersgeld auf Zeit teilweise oder ganz entziehen, wenn sie sich gegen die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes betätigt haben; § 46 gilt sinngemäß. Die diese Maßnahme rechtfertigenden Tatsachen sind in einem Untersuchungsverfahren festzustellen, in dem die eidliche Vernehmung von Zeugen und Sachverständigen zulässig und die oder der Versorgungsberechtigte oder die Empfängerin oder der Empfänger von Hinterbliebenenaltersgeld zu hören ist.
+- (1) Die oberste Dienstbehörde kann Empfängerinnen und Empfängern von Hinterbliebenenversorgung oder Hinterbliebenenaltersgeld die Versorgungsbezüge oder das Hinterbliebenenaltersgeld auf Zeit teilweise oder ganz entziehen, wenn sie sich gegen die freiheitliche demokratische Grundordnung im Sinne des [Grundgesetzes](../../grundgesetz/GG.md) betätigt haben; § 46 gilt sinngemäß. Die diese Maßnahme rechtfertigenden Tatsachen sind in einem Untersuchungsverfahren festzustellen, in dem die eidliche Vernehmung von Zeugen und Sachverständigen zulässig und die oder der Versorgungsberechtigte oder die Empfängerin oder der Empfänger von Hinterbliebenenaltersgeld zu hören ist.
 - (2) § 72 Absatz 1 Satz 1 Nummer 4 und Satz 2 bleibt unberührt.
 
 #### § 76
@@ -1519,7 +1519,7 @@ Werden Versorgungsberechtigte oder Empfängerinnen und Empfänger von Alters- un
 
 ## Wissenschaftliches und künstlerisches Personal sowie hauptberufliches Leitungspersonal an Hochschulen im Beamtenverhältnis
 
-- (1) Für die Versorgung der Hochschullehrerinnen und Hochschullehrer, der hauptberuflichen Leiterinnen, Leiter und Mitglieder von Leitungsgremien an Hochschulen im Beamtenverhältnis mit Bezügen nach der Besoldungsordnung W des Hamburgischen Besoldungsgesetzes und ihrer Hinterbliebenen gelten die Vorschriften dieses Gesetzes, soweit nachfolgend nichts anderes bestimmt ist. Satz 1 gilt auch für die Versorgung der Professorinnen und Professoren, Hochschuldozentinnen und Hochschuldozenten, Oberassistentinnen und Oberassistenten, Oberingenieurinnen und Oberingenieure, Wissenschaftlichen oder Künstlerischen Assistentinnen und Assistenten sowie des weiteren wissenschaftlichen und künstlerischen Personals an Hochschulen im Beamtenverhältnis mit Bezügen nach § 41 Absätze 1 und 3 des Hamburgischen Besoldungsgesetzes und ihrer Hinterbliebenen.
+- (1) Für die Versorgung der Hochschullehrerinnen und Hochschullehrer, der hauptberuflichen Leiterinnen, Leiter und Mitglieder von Leitungsgremien an Hochschulen im Beamtenverhältnis mit Bezügen nach der Besoldungsordnung W des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) und ihrer Hinterbliebenen gelten die Vorschriften dieses Gesetzes, soweit nachfolgend nichts anderes bestimmt ist. Satz 1 gilt auch für die Versorgung der Professorinnen und Professoren, Hochschuldozentinnen und Hochschuldozenten, Oberassistentinnen und Oberassistenten, Oberingenieurinnen und Oberingenieure, Wissenschaftlichen oder Künstlerischen Assistentinnen und Assistenten sowie des weiteren wissenschaftlichen und künstlerischen Personals an Hochschulen im Beamtenverhältnis mit Bezügen nach § 41 Absätze 1 und 3 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) und ihrer Hinterbliebenen.
 - (2) Als ruhegehaltfähig gilt auch die zur Vorbereitung für die Promotion benötigte Zeit bis zu zwei Jahren. Die in einer Habilitationsordnung vorgeschriebene Mindestzeit für die Erbringung der Habilitationsleistungen oder sonstiger gleichwertiger wissenschaftlicher Leistungen kann als ruhegehaltfähige Dienstzeit berücksichtigt werden; soweit die Habilitationsordnung eine Mindestdauer nicht vorschreibt, sind bis zu drei Jahre berücksichtigungsfähig. Ruhegehaltfähig ist auch die Zeit, in der die in Absatz 1 genannten Personen nach der Habilitation dem Lehrkörper einer Hochschule angehört haben. Die nach erfolgreichem Abschluss eines Hochschulstudiums vor der Berufung in das Beamtenverhältnis und der Übertragung eines in Absatz 1 genannten Amtes liegende Zeit einer hauptberuflichen Tätigkeit, in der besondere Fachkenntnisse erworben wurden, die für die Wahrnehmung des Amtes förderlich sind, werden wie folgt berücksichtigt:
 
 {65}------------------------------------------------
@@ -1529,7 +1529,7 @@ Werden Versorgungsberechtigte oder Empfängerinnen und Empfänger von Alters- un
 
 Zeiten nach Satz 4 können in der Regel insgesamt nicht über zehn Jahre hinaus als ruhegehaltfähig berücksichtigt werden. § 10 Absatz 2 sowie § 11 Absatz 2 gelten entsprechend. Zeiten nach den Sätzen 2 bis 4 mit einer geringeren als der regelmäßigen Arbeitszeit dürfen nur zu dem Teil als ruhegehaltfähig berücksichtigt werden, der dem Verhältnis der tatsächlichen zur regelmäßigen Arbeitszeit entspricht.
 
-(3) Für Juniorprofessorinnen, Juniorprofessoren, Hochschuldozentinnen, Hochschuldozenten, Oberassistentinnen, Oberassistentinnen, Oberingenieurinnen, Oberingenieure, Wissenschaftliche und Künstlerische Assistentinnen und Assistenten beträgt das Übergangsgeld abweichend von § 53 Absatz 1 Satz 1 für jedes vollendete Jahr Dienstzeit das Einfache, insgesamt höchstens das Sechsfache der Dienstbezüge (§ 2 Absatz 1 Nummern 1 bis 4 des Hamburgischen Besoldungsgesetzes) des letzten Monats.
+(3) Für Juniorprofessorinnen, Juniorprofessoren, Hochschuldozentinnen, Hochschuldozenten, Oberassistentinnen, Oberassistentinnen, Oberingenieurinnen, Oberingenieure, Wissenschaftliche und Künstlerische Assistentinnen und Assistenten beträgt das Übergangsgeld abweichend von § 53 Absatz 1 Satz 1 für jedes vollendete Jahr Dienstzeit das Einfache, insgesamt höchstens das Sechsfache der Dienstbezüge (§ 2 Absatz 1 Nummern 1 bis 4 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md)) des letzten Monats.
 
 ## § 79 Ehrenbeamtinnen und Ehrenbeamte
 
@@ -1576,9 +1576,9 @@ Für die Verteilung von Versorgungslasten bei landesinternen Dienstherrenwechsel
 
 - (1) Die Rechtsverhältnisse der bei Inkrafttreten dieses Gesetzes vorhandenen Beamtinnen und Beamten regeln sich nach diesem Gesetz mit folgenden Maßgaben:
 - die Vorschrift des § 22 Absatz 2 des Beamtenversorgungsgesetzes in der bis zum 31. Juli 1989 geltenden Fassung findet Anwendung, wenn ein Scheidungsverfahren bis zum 31. Juli 1989 rechtshängig geworden ist oder die Parteien bis zum 31. Juli 1989 eine Vereinbarung nach § 1587o des Bürgerlichen Gesetzbuchs in der bis zum 31. August 2009 geltenden Fassung getroffen haben,
-- 2. für Beamtinnen und Beamte, denen erstmals vor dem 1. Januar 1999 ein Amt im Sinne des § 36 des Bundesbeamtengesetzes in der bis zum 31. Dezember 1998 geltenden Fassung oder des entsprechenden Landesrechts übertragen worden war, finden § 4 Absatz 1 Satz 1 Nummer 3, § 7 und § 14 Absatz 6 des Beamtenversorgungsgesetzes in der bis zum 31. Dezember 1998 geltenden Fassung Anwendung,
+- 2. für Beamtinnen und Beamte, denen erstmals vor dem 1. Januar 1999 ein Amt im Sinne des § 36 des [Bundesbeamtengesetzes](../../beamtenrecht-bund/BBG.md) in der bis zum 31. Dezember 1998 geltenden Fassung oder des entsprechenden Landesrechts übertragen worden war, finden § 4 Absatz 1 Satz 1 Nummer 3, § 7 und § 14 Absatz 6 des Beamtenversorgungsgesetzes in der bis zum 31. Dezember 1998 geltenden Fassung Anwendung,
 - 3. werden Zeiten einer Verwendung im Sinne des § 67 erstmals vor dem 1. Januar 1999 zurückgelegt, ist anstelle von § 67 § 56 des Beamtenversorgungsgesetzes in der bis zum 30. September 1994 geltenden Fassung anzuwenden, es sei denn, die Anwendung des § 56 des Beamtenversorgungsgesetzes in der bis zum 31. Dezember 1998 geltenden Fassung ist für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger; bei der Anwendung des ersten Halbsatzes bleibt § 85 Absatz 4 unberührt; mit Wirkung vom 1. Januar 2012 gilt der erste Halbsatz mit der Maßgabe, dass in der jeweils anzuwendenden Fassung des § 56 Absatz 1 des Beamtenversorgungsgesetzes an die Stelle der Zahl "1,875" die Zahl "1,79375" sowie an die Stelle der Zahl "2,5" die Zahl "2,39167" tritt,
-- 4. auf am 1. Januar 2001 vorhandene Beamtinnen und Beamte, die bis zum 16. November 1950 geboren und am 16. November 2000 schwerbehindert im Sinne des § 2 Absatz 2 des Neunten Buches Sozialgesetzbuch sind sowie nach § 36 Absatz 2 Satz 1 des Hamburgischen Beamtengesetzes in den Ruhestand versetzt werden, ist § 16 Absatz 2 nicht anzuwenden,
+- 4. auf am 1. Januar 2001 vorhandene Beamtinnen und Beamte, die bis zum 16. November 1950 geboren und am 16. November 2000 schwerbehindert im Sinne des § 2 Absatz 2 des Neunten Buches Sozialgesetzbuch sind sowie nach § 36 Absatz 2 Satz 1 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) in den Ruhestand versetzt werden, ist § 16 Absatz 2 nicht anzuwenden,
 - 5. einer am 1. Februar 2010 vorhandenen Beamtin oder einem am 1. Februar 2010 vorhandenen Beamten kann die Zeit, während der sie oder er vor der Berufung in das Beamtenverhältnis als Rechtsanwältin oder Rechtsanwalt tätig gewesen ist, als ruhegehaltfähige Dienstzeit berück-
 
 {68}------------------------------------------------
@@ -1614,7 +1614,7 @@ dann, wenn die Berechnung des Ruhegehaltssatzes nach dem bis zum 31. Dezember 19
 
 ## § 86 Erneute Berufung in das Beamtenverhältnis
 
-Bei einer oder einem nach § 29, § 30 Absatz 3 oder § 31 Absatz 2 des Beamtenstatusgesetzes erneut in das Beamtenverhältnis berufenen Beamtin oder Beamten bleibt der am Tag vor der erneuten Berufung in das Beamtenverhältnis vor Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften zustehende Betrag des Ruhegehalts gewahrt; § 15 Absatz 1 Satz 2 bleibt unberührt. Tritt die Beamtin oder der Beamte erneut in den Ruhestand, werden die ruhegehaltfähige Dienstzeit und das Ruhegehalt nach dem im Zeitpunkt der Zurruhesetzung geltenden Recht berechnet. Bei der Anwendung des § 85 Absatz 1 gilt die Zeit des Ruhestandes nicht als Unterbrechung des Beamtenverhältnisses; die Zeit im Ruhestand ist nicht ruhegehaltfähig. Das höhere Ruhegehalt wird gezahlt. Die Sätze 1 bis 4 gelten sinngemäß für Beamtinnen und Beamte, die vor Inkrafttreten dieses Gesetzes in den Ruhestand getreten waren und nach Inkrafttreten dieses Gesetzes erneut in den Ruhestand eintreten.
+Bei einer oder einem nach § 29, § 30 Absatz 3 oder § 31 Absatz 2 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) erneut in das Beamtenverhältnis berufenen Beamtin oder Beamten bleibt der am Tag vor der erneuten Berufung in das Beamtenverhältnis vor Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften zustehende Betrag des Ruhegehalts gewahrt; § 15 Absatz 1 Satz 2 bleibt unberührt. Tritt die Beamtin oder der Beamte erneut in den Ruhestand, werden die ruhegehaltfähige Dienstzeit und das Ruhegehalt nach dem im Zeitpunkt der Zurruhesetzung geltenden Recht berechnet. Bei der Anwendung des § 85 Absatz 1 gilt die Zeit des Ruhestandes nicht als Unterbrechung des Beamtenverhältnisses; die Zeit im Ruhestand ist nicht ruhegehaltfähig. Das höhere Ruhegehalt wird gezahlt. Die Sätze 1 bis 4 gelten sinngemäß für Beamtinnen und Beamte, die vor Inkrafttreten dieses Gesetzes in den Ruhestand getreten waren und nach Inkrafttreten dieses Gesetzes erneut in den Ruhestand eintreten.
 
 ## § 87 Hochschullehrerinnen und Hochschullehrer, Wissenschaftliche Assistentinnen und Assistenten sowie Lektorinnen und Lektoren
 
@@ -1635,7 +1635,7 @@ Bei einer oder einem nach § 29, § 30 Absatz 3 oder § 31 Absatz 2 des Beamtens
 
 #### § 87a Übergangsregelung aus Anlass der Einführung von Grundleistungsbezügen
 
-Bei den am 1. Januar 2013 vorhandenen Versorgungsempfängerinnen und Versorgungsempfängern, die aus einem Amt als Professorin oder Professor der Besoldungsgruppe W 2 oder W 3 in den Ruhestand eingetreten sind oder versetzt wurden, und ihren Hinterbliebenen sind Leistungsbezüge gemäß § 5 Absatz 1 Satz 1 Nummer 4 mindestens in Höhe des Grundleistungsbezugs nach § 33 Absatz 1 Satz 1 des Hamburgischen Besoldungsgesetzes als ruhegehaltfähige Dienstbezüge zu berücksichtigen.
+Bei den am 1. Januar 2013 vorhandenen Versorgungsempfängerinnen und Versorgungsempfängern, die aus einem Amt als Professorin oder Professor der Besoldungsgruppe W 2 oder W 3 in den Ruhestand eingetreten sind oder versetzt wurden, und ihren Hinterbliebenen sind Leistungsbezüge gemäß § 5 Absatz 1 Satz 1 Nummer 4 mindestens in Höhe des Grundleistungsbezugs nach § 33 Absatz 1 Satz 1 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) als ruhegehaltfähige Dienstbezüge zu berücksichtigen.
 
 ## § 87b (aufgehoben)
 
@@ -1664,7 +1664,7 @@ Für Versorgungsfälle, die vor dem 1. Februar 2014 eingetreten sind, gilt anste
 
 #### § 89 Übergangsregelungen zur Anhebung des Ruhestandseintrittsalters
 
-(1) Für Beamtinnen und Beamte, die nach dem 31. Januar 2010 nach § 36 Absatz 2 des Hamburgischen Beamtengesetzes in den Ruhestand versetzt werden (Antragsaltersgrenze bei Schwerbehinderung im Sinne des § 2 des Neunten Buches Sozialgesetzbuch für vor dem 1. Januar 1964 geborene Beamtinnen und Beamte), ist § 16 Absatz 2 Satz 1 Nummer 1 mit folgenden Maßgaben anzuwenden:
+(1) Für Beamtinnen und Beamte, die nach dem 31. Januar 2010 nach § 36 Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) in den Ruhestand versetzt werden (Antragsaltersgrenze bei Schwerbehinderung im Sinne des § 2 des Neunten Buches Sozialgesetzbuch für vor dem 1. Januar 1964 geborene Beamtinnen und Beamte), ist § 16 Absatz 2 Satz 1 Nummer 1 mit folgenden Maßgaben anzuwenden:
 
 1. an die Stelle der Vollendung des 65. Lebensjahres tritt, wenn sie vor dem 1. Januar 1952 geboren sind, die Vollendung des 63. Lebensjahres,
 
@@ -1696,7 +1696,7 @@ Lebensalter
 
 {74}------------------------------------------------
 
-- (2) Für Beamtinnen und Beamte, die nach dem 31. Januar 2010 nach § 36 Absatz 1 Nummer 2 des Hamburgischen Beamtengesetzes in den Ruhestand versetzt werden, ist § 16 Absatz 2 Satz 1 Nummer 2 mit folgenden Maßgaben anzuwenden:
+- (2) Für Beamtinnen und Beamte, die nach dem 31. Januar 2010 nach § 36 Absatz 1 Nummer 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) in den Ruhestand versetzt werden, ist § 16 Absatz 2 Satz 1 Nummer 2 mit folgenden Maßgaben anzuwenden:
 - 1. an die Stelle des Erreichens der gesetzlichen Altersgrenze tritt, wenn sie vor dem 1. Januar 1949 geboren sind, die Vollendung des 65. Lebensjahres,
 - 2. an die Stelle des Erreichens der gesetzlichen Altersgrenze tritt, wenn sie nach dem 31. Dezember 1948 und vor dem 1. Januar 1950 geboren sind, das Erreichen folgenden Lebensalters:
 
@@ -1741,12 +1741,12 @@ Lebensalter
 
 # Abschnitt 13a Altersgeld, Hinterbliebenenaltersgeld § 89a Altersgeld
 
-(1) Anspruch auf Altersgeld haben Beamtinnen und Beamte, die gemäß § 23 Absatz 1 Satz 1 Nummer 4 des Beamtenstatusgesetzes aus dem Beamtenverhältnis im Geltungsbereich dieses Gesetzes entlassen werden sowie Beamtinnen und Beamte auf Zeit, deren Beamtenverhältnis nach Ablauf der Amtszeit durch Entlassung endet, wenn sie eine Dienstzeit von mindestens fünf Jahren zurückgelegt haben und nach § 8 Absatz 2 des Sechsten Buches Sozialgesetzbuch nachzuversichern wären. Zeiten einer Beurlaubung ohne Dienstbezüge bleiben dabei unberücksichtigt, soweit sie nicht nach § 6 Absatz 1 Satz 2 Nummer 4 als ruhegehaltfähige Dienstzeit berücksichtigt wurden.
+(1) Anspruch auf Altersgeld haben Beamtinnen und Beamte, die gemäß § 23 Absatz 1 Satz 1 Nummer 4 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) aus dem Beamtenverhältnis im Geltungsbereich dieses Gesetzes entlassen werden sowie Beamtinnen und Beamte auf Zeit, deren Beamtenverhältnis nach Ablauf der Amtszeit durch Entlassung endet, wenn sie eine Dienstzeit von mindestens fünf Jahren zurückgelegt haben und nach § 8 Absatz 2 des Sechsten Buches Sozialgesetzbuch nachzuversichern wären. Zeiten einer Beurlaubung ohne Dienstbezüge bleiben dabei unberücksichtigt, soweit sie nicht nach § 6 Absatz 1 Satz 2 Nummer 4 als ruhegehaltfähige Dienstzeit berücksichtigt wurden.
 
 {76}------------------------------------------------
 
 - (2) Der Anspruch auf Altersgeld entsteht mit Ablauf des Tages, an dem das Beamtenverhältnis durch Entlassung endet; sind Gründe für einen Aufschub der Beitragszahlung nach § 184 Absatz 2 des Sechsten Buches Sozialgesetzbuch gegeben, so entsteht der Anspruch auf Altersgeld erst mit dem Wegfall der Aufschubgründe.
-- (3) Beamtinnen und Beamte, die nach § 29 Absätze 2 und 3 des Beamtenstatusgesetzes erneut in ein Beamtenverhältnis berufen wurden und auf ihren Antrag entlassen werden, haben keinen Anspruch auf Altersgeld.
+- (3) Beamtinnen und Beamte, die nach § 29 Absätze 2 und 3 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) erneut in ein Beamtenverhältnis berufen wurden und auf ihren Antrag entlassen werden, haben keinen Anspruch auf Altersgeld.
 - (4) § 32 gilt entsprechend.
 - (5) Altersgeld wird auf Antrag festgesetzt und gezahlt.
 
@@ -1760,7 +1760,7 @@ Auf den Anspruch auf Altersgeld kann innerhalb eines Monats nach Beendigung des 
 - (2) Altersgeldfähige Dienstbezüge sind
 - 1. das Grundgehalt,
 - 2. sonstige Dienstbezüge, die als ruhegehaltfähig bezeichnet werden,
-- 3. Leistungsbezüge nach § 32 des Hamburgischen Besoldungsgesetzes, soweit sie nach § 38 des Hamburgischen Besoldungsgesetzes ruhegehaltfähig sind.
+- 3. Leistungsbezüge nach § 32 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md), soweit sie nach § 38 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) ruhegehaltfähig sind.
 - § 5 Absatz 1 Sätze 2 und 3 sowie Absätze 3 und 5 bis 8 gilt entsprechend.
 - (3) Zur Ermittlung der altersgeldfähigen Dienstzeit sind die §§ 6, 8, 9, 13 und 14 entsprechend anzuwenden. Zeiten, für die in einem anderen Alterssicherungssystem Anwartschaften auf Altersgeld oder gleichwertige Alterssicherungsansprüche erworben wurden, werden bei der Berechnung der altersgeldfähigen Dienstzeit nicht berücksichtigt.
 
@@ -1813,10 +1813,10 @@ Solange der Hinzuverdienst das Zweieinhalbfache des Altersgeldes übersteigt, en
 
 ## Aberkennung von Altersgeld, Erlöschen des Anspruchs wegen Verurteilung
 
-- (1) Der Anspruch auf Altersgeld ist abzuerkennen, wenn die ehemalige Beamtin oder der ehemalige Beamte vor der Beendigung des Beamtenverhältnisses ein Dienstvergehen begangen hat, das bei einer Beamtin oder einem Beamten auf Lebenszeit oder einer Beamtin oder Beamten auf Zeit nach Disziplinarrecht die Entfernung aus dem Beamtenverhältnis oder bei einer Beamtin oder einem Beamten auf Probe oder auf Widerruf nach § 23 Absatz 3 Satz 1 Nummer 1 des Beamtenstatusgesetzes die Entlassung zur Folge hätte. Der Sachverhalt ist in entsprechender Anwendung der §§ 14, 15, 18 bis 20, §§ 22 bis 23a und §§ 26 bis 29 des Hamburgischen Disziplinargesetzes aufzuklären.
+- (1) Der Anspruch auf Altersgeld ist abzuerkennen, wenn die ehemalige Beamtin oder der ehemalige Beamte vor der Beendigung des Beamtenverhältnisses ein Dienstvergehen begangen hat, das bei einer Beamtin oder einem Beamten auf Lebenszeit oder einer Beamtin oder Beamten auf Zeit nach Disziplinarrecht die Entfernung aus dem Beamtenverhältnis oder bei einer Beamtin oder einem Beamten auf Probe oder auf Widerruf nach § 23 Absatz 3 Satz 1 Nummer 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) die Entlassung zur Folge hätte. Der Sachverhalt ist in entsprechender Anwendung der §§ 14, 15, 18 bis 20, §§ 22 bis 23a und §§ 26 bis 29 des [Hamburgischen Disziplinargesetzes](DG_HA.md) aufzuklären.
 - (2) Von dem Altersgeld kann beginnend mit dem Monat, der auf die Bekanntgabe der Aberkennung folgt, bis zum Ablauf des Monats, in dem die Aberkennung unanfechtbar wird, bis zu 50 vom Hundert des monatlichen Altersgeldes einbehalten werden.
 - (3) Zuständig für Entscheidungen nach den Absätzen 1 und 2 ist die zum Zeitpunkt der Beendigung des Beamtenverhältnisses zuständige oberste Dienstbehörde.
-- (4) In Fällen, in denen die ehemalige Beamtin oder der ehemalige Beamte vor der Beendigung des Beamtenverhältnisses eine Tat im Sinne des § 24 Absatz 1 Satz 1 des Beamtenstatusgesetzes begeht, gilt § 70 Absatz 1 Satz 1 Nummer 1 und Absatz 2 entsprechend.
+- (4) In Fällen, in denen die ehemalige Beamtin oder der ehemalige Beamte vor der Beendigung des Beamtenverhältnisses eine Tat im Sinne des § 24 Absatz 1 Satz 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) begeht, gilt § 70 Absatz 1 Satz 1 Nummer 1 und Absatz 2 entsprechend.
 
 #### § 89f
 
@@ -1871,7 +1871,7 @@ Wer als Witwe oder Witwer Anspruch auf Hinterbliebenenaltersgeld hat und wieder 
 
 ## Ergänzendes Altersgeld aufgrund eines Wechsels in den öffentlichen Dienst eines Mitgliedstaats der Europäischen Union
 
-- (1) Auf Antrag erhalten Beamtinnen und Beamte, die gemäß § 23 Absatz 1 Satz 1 Nummer 4 des Beamtenstatusgesetzes vor dem 1. Juni 2014 aus dem Beamtenverhältnis entlassen wurden und nach § 8 Absatz 2 des Sechsten Buches Sozialgesetzbuch nachversichert wurden, wenn sie oder er im unmittelbaren Anschluss eine ihrer Art oder der erforderlichen Ausbildung nach ähnliche berufliche Tätigkeit in einem anderen Mitgliedsstaat der Europäischen Union oder in einem Land aufgenommen haben, in dem nach einem Assoziierungsabkommen mit der Europäischen Union Artikel 45 des Vertrages über die Arbeitsweise der Europäischen Union oder gleichwertige Regelungen zur Anwendung kommen, ein ergänzendes Altersgeld. Die Unmittelbarkeit wird vermutet, wenn zwischen der Beendigung und dem Beginn der beruflichen Tätigkeit in dem anderen Mitgliedsstaat nicht mehr als drei Monate vergangen sind.
+- (1) Auf Antrag erhalten Beamtinnen und Beamte, die gemäß § 23 Absatz 1 Satz 1 Nummer 4 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) vor dem 1. Juni 2014 aus dem Beamtenverhältnis entlassen wurden und nach § 8 Absatz 2 des Sechsten Buches Sozialgesetzbuch nachversichert wurden, wenn sie oder er im unmittelbaren Anschluss eine ihrer Art oder der erforderlichen Ausbildung nach ähnliche berufliche Tätigkeit in einem anderen Mitgliedsstaat der Europäischen Union oder in einem Land aufgenommen haben, in dem nach einem Assoziierungsabkommen mit der Europäischen Union Artikel 45 des Vertrages über die Arbeitsweise der Europäischen Union oder gleichwertige Regelungen zur Anwendung kommen, ein ergänzendes Altersgeld. Die Unmittelbarkeit wird vermutet, wenn zwischen der Beendigung und dem Beginn der beruflichen Tätigkeit in dem anderen Mitgliedsstaat nicht mehr als drei Monate vergangen sind.
 - (2) Ein Anspruch auf ergänzendes Altersgeld besteht nicht, wenn das Beamtenverhältnis ohne den Antrag durch Entfernung aus dem Beamtenverhältnis oder wegen einer vor Beendigung des Beamtenverhältnisses begangenen Tat durch den Verlust der Beamtenrechte geendet hätte.
 - (3) Die Hinterbliebenen der oder des nach Absatz 1 Anspruchsberechtigten erhalten ein ergänzendes Hinterbliebenenaltersgeld.
 - (4) Für die Berechnung des ergänzenden Altersgeldes und des ergänzenden Hinterbliebenenaltersgeldes gelten die §§ 89a bis 89k sinngemäß. § 89c Absatz 3 Satz 2 findet keine Anwendung. Die sich aus der Nachversicherung der altersgeldfähigen Dienstzeit in der gesetzlichen Rentenversicherung ergebenden Renten werden in vollem Umfang auf das ergänzende Altersgeld oder das ergänzende Hinterbliebenenaltersgeld angerechnet.

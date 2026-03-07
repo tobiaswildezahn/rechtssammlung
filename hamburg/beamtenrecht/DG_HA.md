@@ -326,8 +326,8 @@ Disziplinarorgane
 
 #### Persönlicher Geltungsbereich
 
-- (1) Dieses Gesetz gilt für die Beamtinnen und Beamten sowie die Ruhestandsbeamtinnen und Ruhestandsbeamten, auf die das Hamburgische Beamtengesetz (HmbBG) vom 15. Dezember 2009 (HmbGVBI. S. 405) in der jeweils geltenden Fassung Anwendung findet.
-- (2) Frühere Beamtinnen und Beamte, die ein Ruhegehalt nach Artikel 75 Absatz 2 der Verfassung der Freien und Hansestadt Hamburg oder einen unwiderruflich bewilligten Unterhaltsbeitrag nach § 18, § 77 Absatz 5 oder § 79 des Hamburgischen Beamtenversorgungsgesetzes ([HmbBeamtVG](BeamtVG_HA.md)) vom 26. Januar 2010 (HmbGVBI. S. 23, 72) in der jeweils geltenden Fassung beziehen, gelten bis zum Ende dieses Bezugs als Ruhestandsbeamtinnen und Ruhestandsbeamte, die Unterhaltsbeiträge als Ruhe-
+- (1) Dieses Gesetz gilt für die Beamtinnen und Beamten sowie die Ruhestandsbeamtinnen und Ruhestandsbeamten, auf die das [Hamburgische Beamtengesetz](BG_HA_2009.md) ([HmbBG](BG_HA_2009.md)) vom 15. Dezember 2009 (HmbGVBI. S. 405) in der jeweils geltenden Fassung Anwendung findet.
+- (2) Frühere Beamtinnen und Beamte, die ein Ruhegehalt nach Artikel 75 Absatz 2 der Verfassung der Freien und Hansestadt Hamburg oder einen unwiderruflich bewilligten Unterhaltsbeitrag nach § 18, § 77 Absatz 5 oder § 79 des [Hamburgischen Beamtenversorgungsgesetzes](BeamtVG_HA.md) ([HmbBeamtVG](BeamtVG_HA.md)) vom 26. Januar 2010 (HmbGVBI. S. 23, 72) in der jeweils geltenden Fassung beziehen, gelten bis zum Ende dieses Bezugs als Ruhestandsbeamtinnen und Ruhestandsbeamte, die Unterhaltsbeiträge als Ruhe-
 
 {8}------------------------------------------------
 
@@ -338,10 +338,10 @@ gehälter. Frühere Beamtinnen und Beamte mit Anspruch auf Altersgeld gelten, au
 ### § 2 Sachlicher Geltungsbereich
 
 - (1) Nach diesem Gesetz kann verfolgt werden
-- 1. eine Beamtin oder ein Beamter wegen eines während des Beamtenverhältnisses begangenen Dienstvergehens (§ 47 Absatz 1 des Beamtenstatusgesetzes (BeamtStG) vom 17. Juni 2008 (BGBl. I S. 1010) in der jeweils geltenden Fassung),
+- 1. eine Beamtin oder ein Beamter wegen eines während des Beamtenverhältnisses begangenen Dienstvergehens (§ 47 Absatz 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) (BeamtStG) vom 17. Juni 2008 (BGBl. I S. 1010) in der jeweils geltenden Fassung),
 - 2. eine Ruhestandsbeamtin oder ein Ruhestandsbeamter wegen
   - a) eines während des Beamtenverhältnisses begangenen Dienstvergehens oder
-  - b) einer nach Eintritt in den Ruhestand begangenen, als Dienstvergehen geltenden Handlung ([§ 47 Absatz 2 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) und § 51 HmbBG).
+  - b) einer nach Eintritt in den Ruhestand begangenen, als Dienstvergehen geltenden Handlung ([§ 47 Absatz 2 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) und § 51 [HmbBG](BG_HA_2009.md)).
 - (2) Eine Beamtin, ein Beamter, eine Ruhestandsbeamtin oder ein Ruhestandsbeamter, die oder der früher in einem anderen öffentlich-rechtlichen Dienstverhältnis als Beamtin oder Beamter, Richterin oder Richter, Berufssoldatin oder Berufssoldat oder Soldatin oder Soldat auf Zeit gestanden hat, kann nach diesem Gesetz auch wegen solcher Dienstvergehen oder als Dienstvergehen geltenden Handlungen verfolgt werden, die sie oder er in dem früheren Dienstverhältnis oder als Versorgungsberechtigte oder Versorgungsberechtigter aus dem früheren Dienstverhältnis begangen hat; auch bei einer oder einem aus einem solchen Dienstverhältnis Ausgeschiedenen oder Entlassenen gelten die in [§ 47 Absatz 2 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) bezeichneten Handlungen als Dienstvergehen.
 - (3) Ein Wechsel des Dienstherrn steht der Verfolgung nicht entgegen.
 - (4) Für Beamtinnen oder Beamte, die Wehrdienst im Rahmen einer Wehrübung nach § 6 des Wehrpflichtgesetzes (WPflG) in der Fassung vom 15. August 2011 (BGBl. I S. 1731), zuletzt geändert am 20. Dezember 2023 (BGBl. I Nr. 392 S. 1, 4), in der jeweils geltenden Fassung oder einer besonderen Auslandsverwendung (§ 6a WPflG) leisten, gilt dieses Gesetz auch wegen solcher Dienstvergehen, die während des Wehrdienstes begangen wurden, wenn das Verhalten sowohl soldatenrechtlich als auch beamtenrechtlich ein Dienstvergehen darstellt.
@@ -365,7 +365,7 @@ gehälter. Frühere Beamtinnen und Beamte mit Anspruch auf Altersgeld gelten, au
 - 1. Kürzung des Ruhegehalts (§ 9 Absatz 1) und
 - 2. Aberkennung des Ruhegehalts (§ 9 Absatz 2).
 - (3) Bei Ehrenbeamtinnen und Ehrenbeamten sind nur Verweis, Geldbuße und Entfernung aus dem Beamtenverhältnis, bei Beamtinnen und Beamten auf Zeit sind nur Verweis, Geldbuße, Kürzung der Dienstbezüge und Entfernung aus dem Beamtenverhältnis zulässig.
-- (4) Beamtinnen und Beamten auf Probe oder auf Widerruf können nur Verweise erteilt und Geldbußen auferlegt werden. § 23 Absatz 3 Satz 1 Nummer 1 und Absatz 4 Satz 1 BeamtStG sowie § 31 Absätze 3 und 5 HmbBG bleiben unberührt. Bei Beamtinnen und Beamten auf Probe in Ämtern mit leitender Funktion gilt § 5 Absatz 5 Satz 2 und Absatz 7 Nummer 3 HmbBG.
+- (4) Beamtinnen und Beamten auf Probe oder auf Widerruf können nur Verweise erteilt und Geldbußen auferlegt werden. § 23 Absatz 3 Satz 1 Nummer 1 und Absatz 4 Satz 1 BeamtStG sowie § 31 Absätze 3 und 5 [HmbBG](BG_HA_2009.md) bleiben unberührt. Bei Beamtinnen und Beamten auf Probe in Ämtern mit leitender Funktion gilt § 5 Absatz 5 Satz 2 und Absatz 7 Nummer 3 [HmbBG](BG_HA_2009.md).
 - (5) Mehrere Disziplinarmaßnahmen dürfen nicht nebeneinander verhängt werden. Bei der Verhängung und Bemessung einer Geldbuße oder einer Kürzung der Dienstbezüge oder des Ruhegehalts sind auch die persönlichen und wirtschaftlichen Verhältnisse der Beamtin, des Beamten, der Ruhestandsbeamtin oder des Ruhestandsbeamten zu berücksichtigen.
 - (6) Missbilligende Äußerungen einer oder eines Dienstvorgesetzten oder der obersten Dienstbehörde (Zurechtweisungen, Rügen und dergleichen), die nicht ausdrücklich als Verweis bezeichnet werden, sind keine Disziplinarmaßnahmen.
 
@@ -385,14 +385,14 @@ Die Geldbuße darf die einmonatigen Dienst- oder Anwärterbezüge der Beamtin od
 
 nem früheren öffentlich-rechtlichen Dienstverhältnis (§ 2 Absatz 2) eine Versorgung erworben, bleibt die Kürzung der Dienstbezüge bei der Regelung nach §§ 64 bis 67 [HmbBeamtVG](BeamtVG_HA.md) unberücksichtigt.
 
-- (2) Während der Dauer der Kürzung der Dienstbezüge darf der Beamtin oder dem Beamten kein Amt mit höherem Grundgehalt verliehen und keine herausgehobene Funktion im Sinne des § 56 des Hamburgischen Besoldungsgesetzes (HmbBesG) vom 26. Januar 2010 (HmbGVBI. S. 23) in der jeweils geltenden Fassung befristet übertragen werden. Die oberste Dienstbehörde kann im Einzelfall im Hinblick auf die Dauer des Disziplinarverfahrens Ausnahmen zulassen.
+- (2) Während der Dauer der Kürzung der Dienstbezüge darf der Beamtin oder dem Beamten kein Amt mit höherem Grundgehalt verliehen und keine herausgehobene Funktion im Sinne des § 56 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) ([HmbBesG](BesG_HA_2010.md)) vom 26. Januar 2010 (HmbGVBI. S. 23) in der jeweils geltenden Fassung befristet übertragen werden. Die oberste Dienstbehörde kann im Einzelfall im Hinblick auf die Dauer des Disziplinarverfahrens Ausnahmen zulassen.
 - (3) Die Kürzung der Dienstbezüge wird gehemmt, solange die Beamtin oder der Beamte ohne Dienstbezüge beurlaubt ist. Sie oder er kann jedoch für die Dauer ihrer oder seiner Beurlaubung den Kürzungsbetrag monatlich vorab an den Dienstherrn entrichten; die Dauer der Kürzung der Dienstbezüge nach der Beendigung der Beurlaubung verringert sich entsprechend.
 - (4) Die Rechtsfolgen der Kürzung der Dienstbezüge erstrecken sich auch auf ein neues Beamtenverhältnis. Hierbei steht bei Anwendung des Absatzes 2 die Einstellung in einem höheren als dem bisherigen Amt der Beförderung gleich.
 
 ### § 7 Zurückstufung
 
 - (1) Die Zurückstufung ist die Versetzung der Beamtin oder des Beamten in ein Amt derselben Laufbahn mit geringerem Endgrundgehalt. Die Zurückstufung ist nur bis zum jeweiligen Einstiegsamt zulässig. Durch die Zurückstufung verliert die Beamtin oder der Beamte alle Rechte aus ihrem oder seinem bisherigen Amt einschließlich der damit verbundenen Leistungen und der Befugnis, die bisherige Amtsbezeichnung und die im Zusammenhang mit dem bisherigen Amt verliehenen Titel zu führen. Mit dem Verlust der Rechte aus dem bisherigen Amt enden auch die Nebenämter und Nebenbeschäftigungen, die der Beamtin oder dem Beamten im Zusammenhang mit ihrem oder seinem bisherigen Amt übertragen sind oder die sie oder er auf Verlangen, Vorschlag oder Veranlassung ihrer oder seiner Dienstvorgesetzten oder ihres oder seines Dienstvorgesetzten übernommen hat.
-- (2) Der Beamtin oder dem Beamten darf frühestens fünf Jahre nach Eintritt der Rechtskraft des Urteils wieder ein Amt mit höherem Grundgehalt verliehen und eine herausgehobene Funktion im Sinne des § 56 HmbBesG befristet übertragen werden. Der Zeitraum kann in der Entscheidung verkürzt werden, sofern dies im Hinblick auf die Dauer des Disziplinarverfahrens angezeigt ist.
+- (2) Der Beamtin oder dem Beamten darf frühestens fünf Jahre nach Eintritt der Rechtskraft des Urteils wieder ein Amt mit höherem Grundgehalt verliehen und eine herausgehobene Funktion im Sinne des § 56 [HmbBesG](BesG_HA_2010.md) befristet übertragen werden. Der Zeitraum kann in der Entscheidung verkürzt werden, sofern dies im Hinblick auf die Dauer des Disziplinarverfahrens angezeigt ist.
 - (3) Die Rechtsfolgen der Zurückstufung erstrecken sich auch auf ein neues Beamtenverhältnis. Hierbei steht bei Anwendung des Absatzes 2 die Einstellung in einem höheren Amt als dem, in welches die Beamtin oder der Beamte zurückgestuft wurde, der Beförderung gleich.
 
 ### § 8 Entfernung aus dem Beamtenverhältnis
@@ -453,7 +453,7 @@ Das Vertrauen der Allgemeinheit ist insbesondere dann beeinträchtigt, wenn das 
 
 #### Disziplinarorgane
 
-- (1) Die Disziplinarbefugnisse werden von den Dienstvorgesetzten (§ 3 Absatz 2 HmbBG), der obersten Dienstbehörde (§ 3 Absatz 1 und § 105 Absatz 2 Satz 1 HmbBG) und der für Entlassungen zuständigen Stelle ausgeübt. Disziplinarrechtliche Entscheidungen der obersten Dienstbehörde über Beamtinnen und Beamte bei der oder dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit (§ 130 HmbBG) dürfen nur mit deren bzw. dessen Zustimmung getroffen werden.
+- (1) Die Disziplinarbefugnisse werden von den Dienstvorgesetzten (§ 3 Absatz 2 [HmbBG](BG_HA_2009.md)), der obersten Dienstbehörde (§ 3 Absatz 1 und § 105 Absatz 2 Satz 1 [HmbBG](BG_HA_2009.md)) und der für Entlassungen zuständigen Stelle ausgeübt. Disziplinarrechtliche Entscheidungen der obersten Dienstbehörde über Beamtinnen und Beamte bei der oder dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit (§ 130 [HmbBG](BG_HA_2009.md)) dürfen nur mit deren bzw. dessen Zustimmung getroffen werden.
 - (2) Bei Ruhestandsbeamtinnen und Ruhestandsbeamten werden die Disziplinarbefugnisse durch die oberste Dienstbehörde ausgeübt. Sie kann ihre Befugnisse auf andere Stellen übertragen. Ein bereits vor Eintritt in den Ruhestand gegen eine Beamtin oder einen Beamten eingeleitetes Disziplinarverfahren wird durch die letzte Dienstvorgesetzte oder den letzten Dienstvorgesetzten fortgeführt.
 - (3) Die auf Grund dieses Gesetzes ergehenden bestands- oder rechtskräftigen Entscheidungen der Disziplinarorgane sind für die Beurteilung der vor einem Gericht geltend gemachten Rechte aus dem Beamtenverhältnis bindend.
 
@@ -478,7 +478,7 @@ Die Vorschriften dieses Gesetzes gelten auch für Ruhestandsbeamtinnen und Ruhes
 
 ### § 15 Bindung an tatsächliche Feststellungen in anderen Verfahren
 
-- (1) Die den Urteilsspruch tragenden tatsächlichen Feststellungen eines rechtskräftigen Urteils im Strafverfahren oder im Bußgeldverfahren oder eines rechtskräftigen Urteils im verwaltungsgerichtlichen Verfahren, durch das nach § 11 HmbBesG über den Verlust der Besoldung bei schuldhaftem Fernbleiben vom Dienst entschieden worden ist, sind im Disziplinarverfahren, das dieselben Tatsachen zum Gegenstand hat, bindend. Die für Disziplinarsachen zuständigen Gerichte haben jedoch zugunsten der Beamtin oder des Beamten die nochmalige Prüfung solcher Feststellungen zu beschließen, deren Richtigkeit ihre Mitglieder mit Stimmenmehrheit bezweifeln; weicht das Ergebnis ab, darf es nicht zum Nachteil der Beamtin oder des Beamten verwendet werden.
+- (1) Die den Urteilsspruch tragenden tatsächlichen Feststellungen eines rechtskräftigen Urteils im Strafverfahren oder im Bußgeldverfahren oder eines rechtskräftigen Urteils im verwaltungsgerichtlichen Verfahren, durch das nach § 11 [HmbBesG](BesG_HA_2010.md) über den Verlust der Besoldung bei schuldhaftem Fernbleiben vom Dienst entschieden worden ist, sind im Disziplinarverfahren, das dieselben Tatsachen zum Gegenstand hat, bindend. Die für Disziplinarsachen zuständigen Gerichte haben jedoch zugunsten der Beamtin oder des Beamten die nochmalige Prüfung solcher Feststellungen zu beschließen, deren Richtigkeit ihre Mitglieder mit Stimmenmehrheit bezweifeln; weicht das Ergebnis ab, darf es nicht zum Nachteil der Beamtin oder des Beamten verwendet werden.
 - (2) Die in einem anderen gesetzlich geordneten Verfahren getroffenen tatsächlichen Feststellungen sind nicht bindend, können aber der Entscheidung im Disziplinarverfahren ohne nochmalige Prüfung zugrunde gelegt werden.
 
 ### § 16 Zulässigkeit von Disziplinarmaßnahmen nach Straf- und Bußgeldverfahren
@@ -500,12 +500,12 @@ oder seiner Pflichten anzuhalten oder wenn dies zur Wahrung des Ansehens des Ber
 - 1. ein Verweis, wenn seit der Vollendung eines Dienstvergehens mehr als zwei Jahre vergangen sind,
 - 2. eine Geldbuße oder eine Kürzung der Dienstbezüge oder des Ruhegehalts, wenn seit der Vollendung eines Dienstvergehens mehr als drei Jahre vergangen sind,
 - eine Zurückstufung, wenn seit der Vollendung eines Dienstvergehens mehr als sieben Jahre vergangen sind.
-- (2) Bei Dienstvergehen gegen die Pflichten, sich durch das gesamte Verhalten zur freiheitlich demokratischen Grundordnung im Sinne des Grundgesetzes zu bekennen und für deren Erhaltung einzutreten oder bei politischer Betätigung diejenige Mäßigung und Zurückhaltung zu wahren, die sich aus ihrer Stellung gegenüber der Allgemeinheit und aus der Rücksicht auf die Amtspflichten ergibt, beträgt die Frist nach Absatz 1
+- (2) Bei Dienstvergehen gegen die Pflichten, sich durch das gesamte Verhalten zur freiheitlich demokratischen Grundordnung im Sinne des [Grundgesetzes](../../grundgesetz/GG.md) zu bekennen und für deren Erhaltung einzutreten oder bei politischer Betätigung diejenige Mäßigung und Zurückhaltung zu wahren, die sich aus ihrer Stellung gegenüber der Allgemeinheit und aus der Rücksicht auf die Amtspflichten ergibt, beträgt die Frist nach Absatz 1
 - 1. Nummer 1 vier Jahre,
 - 2. Nummer 2 sechs lahre und
 - 3. Nummer 3 acht Jahre.
 - (3) Die Fristen der Absätze 1 und 2 werden durch die Einleitung oder Ausdehnung des Disziplinarverfahrens oder den Erlass einer Disziplinarverfügung, bei Beamtinnen und Beamten auf Probe und auf Widerruf auch durch den Erlass einer Entlassungsverfügung und jede sie bestätigende Entscheidung im verwaltungsgerichtlichen Verfahren, unterbrochen.
-- (4) Die Fristen der Absätze 1 und 2 sind für die Dauer eines Widerspruchsverfahrens, eines gerichtlichen Verfahrens, einer Aussetzung des Disziplinarverfahrens nach § 14 oder eines Mitbestimmungsverfahrens nach § 88 Absatz 1 Nummer 22, 22a oder 22b des Hamburgischen Personalvertretungsgesetzes vom 8. Juli 2014 (HmbGVBl. S. 299), zuletzt geändert am 22. Januar 2025 (HmbGVBl. S. 166, 173), in der jeweils geltenden Fassung gehemmt. Ist vor Ablauf der Frist wegen desselben Sachver-
+- (4) Die Fristen der Absätze 1 und 2 sind für die Dauer eines Widerspruchsverfahrens, eines gerichtlichen Verfahrens, einer Aussetzung des Disziplinarverfahrens nach § 14 oder eines Mitbestimmungsverfahrens nach § 88 Absatz 1 Nummer 22, 22a oder 22b des [Hamburgischen Personalvertretungsgesetzes](PersVG_HA_2014.md) vom 8. Juli 2014 (HmbGVBl. S. 299), zuletzt geändert am 22. Januar 2025 (HmbGVBl. S. 166, 173), in der jeweils geltenden Fassung gehemmt. Ist vor Ablauf der Frist wegen desselben Sachver-
 
 {16}------------------------------------------------
 
@@ -523,9 +523,9 @@ halts ein Straf- oder Bußgeldverfahren eingeleitet oder eine Klage aus dem Beam
 ### § 19 Bevollmächtigte und Beistände
 
 - (1) Die Beamtin oder der Beamte kann sich in Disziplinarsachen in jeder Lage einer oder eines Bevollmächtigten oder eines Beistands bedienen. Die oder der Bevollmächtigte oder der Beistand darf nicht gleichzeitig mehrere desselben Dienstvergehens beschuldigte Beamtinnen oder Beamte vertreten. Bevollmächtigte und Beistände können
-- 1. bei einem Gericht im Geltungsbereich des Grundgesetzes zugelassene Rechtsanwältinnen und Rechtsanwälte,
-- 2. Rechtslehrerinnen und Rechtslehrer an Hochschulen im Geltungsbereich des Grundgesetzes,
-- 3. Vertreterinnen und Vertreter der Gewerkschaften und Berufsverbände der Beamtinnen, Beamten, Richterinnen und Richter mit Sitz im Geltungsbereich des Grundgesetzes,
+- 1. bei einem Gericht im Geltungsbereich des [Grundgesetzes](../../grundgesetz/GG.md) zugelassene Rechtsanwältinnen und Rechtsanwälte,
+- 2. Rechtslehrerinnen und Rechtslehrer an Hochschulen im Geltungsbereich des [Grundgesetzes](../../grundgesetz/GG.md),
+- 3. Vertreterinnen und Vertreter der Gewerkschaften und Berufsverbände der Beamtinnen, Beamten, Richterinnen und Richter mit Sitz im Geltungsbereich des [Grundgesetzes](../../grundgesetz/GG.md),
 - 4. Beamtinnen, Beamte, Richterinnen, Richter, Ruhestandsbeamtinnen, Ruhestandsbeamte, Richterinnen und Richter im Ruhestand sein, sofern sie nicht Mitglieder eines für Disziplinarsachen zuständigen Gerichts sind oder zu den in § 47 Absatz 1 Nummern 4 und 6 genannten Personen gehören.
 - (2) Die oder der Bevollmächtigte oder der Beistand ist zu allen Vernehmungen und Beweiserhebungen mit Ausnahme von Beschlagnahmen und Durchsuchungen zu laden. Von einer Benachrichtigung der oder des Bevollmächtigten oder des Beistands über Zeugenvernehmungen kann abgesehen werden, wenn durch ihre oder seine Anwesenheit eine Gefährdung des Ermittlungszwecks zu befürchten ist. Die Entscheidungsgründe sind aktenkundig zu machen. Das Vernehmungsprotokoll ist der oder dem Bevollmächtigten oder dem Beistand zu übersenden.
 
@@ -545,8 +545,8 @@ Rechts- und Amtshilfe, Datenübermittlung, innerdienstliche Unterrichtung
 - (1) Nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABI. EU 2005 Nr. L 255 S. 22, 2007 Nr. L 271 S. 18, 2008 Nr. L 93 S. 28, 2009 Nr. L 33 S. 49, 2014 Nr. L 305 S. 115), zuletzt geändert am 7. Februar 2024 (ABI. L, 2024/505, 12.2.2024), unterrichtet die oberste Dienstbehörde oder die von ihr bestimmte Stelle die zuständigen Behörden der Mitgliedstaaten der Europäischen Union über Entscheidungen der Disziplinarorgane über die
 - 1. unanfechtbare Entfernung aus dem Beamtenverhältnis nach § 3 Absatz 1 Nummer 5 in Verbindung mit § 8 Absatz 1,
 - 2. Einstellung eines Disziplinarverfahrens, wenn
-  - das Disziplinarverfahren wegen Beendigung des Beamtenverhältnisses nach [§ 24 Absatz 1 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) in Verbindung mit § 24 Absatz 1 HmbBG nicht zu Ende geführt wird oder
-  - b) die Beamtin oder der Beamte nach § 23 Absatz 1 Nummer 4 BeamtStG in Verbindung mit § 31 HmbBG mit einem Antrag auf Entlassung einer im Disziplinarverfahren zu erwartenden Entfernung aus dem Beamtenverhältnis zuvor kommt.
+  - das Disziplinarverfahren wegen Beendigung des Beamtenverhältnisses nach [§ 24 Absatz 1 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) in Verbindung mit § 24 Absatz 1 [HmbBG](BG_HA_2009.md) nicht zu Ende geführt wird oder
+  - b) die Beamtin oder der Beamte nach § 23 Absatz 1 Nummer 4 BeamtStG in Verbindung mit § 31 [HmbBG](BG_HA_2009.md) mit einem Antrag auf Entlassung einer im Disziplinarverfahren zu erwartenden Entfernung aus dem Beamtenverhältnis zuvor kommt.
 
 Der Zeitraum nach Artikel 56a Absatz 2 Satz 2 Buchstabe e der Richtlinie 2005/36/EG ist für die in Satz 1 genannten Entscheidungen der Disziplinarorgane der Zeitraum bis zum Erreichen der für die je-
 
@@ -563,7 +563,7 @@ Die oberste Dienstbehörde oder die von ihr bestimmte Stelle unterrichtet die zu
 
 ### § 21 Zustellung im behördlichen Disziplinarverfahren
 
-Sollen elektronisch erstellte Entscheidungen und Verfügungen im behördlichen Disziplinarverfahren nach ihrer Verkörperung zugestellt werden, so gilt § 103 Satz 2 des Hamburgischen Beamtengesetzes vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 19. November 2024 (HmbGVBI. S. 594).
+Sollen elektronisch erstellte Entscheidungen und Verfügungen im behördlichen Disziplinarverfahren nach ihrer Verkörperung zugestellt werden, so gilt § 103 Satz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 19. November 2024 (HmbGVBI. S. 594).
 
 ### § 22 Ergänzende Vorschriften
 
@@ -644,7 +644,7 @@ Das Verwaltungsgericht entscheidet über die Rechtmäßigkeit der Verweigerung d
 
 - (1) Das Verwaltungsgericht kann auf Antrag durch Beschluss Beschlagnahmen und Durchsuchungen anordnen; § 27 Absatz 3 gilt entsprechend. Die Anordnung darf nur getroffen werden, wenn die Beamtin oder der Beamte des ihr oder ihm zur Last gelegten Dienstvergehens dringend verdächtig ist und die Maßnahme zu der Bedeutung der Sache und der zu erwartenden Disziplinarmaßnahme nicht außer Verhältnis steht. Die Bestimmungen der Strafprozessordnung über Beschlagnahmen und Durchsuchungen gelten entsprechend, soweit nicht in diesem Gesetz etwas anderes bestimmt ist.
 - (2) Die Maßnahmen nach Absatz 1 dürfen nur durch die nach der Strafprozessordnung dazu berufenen Behörden durchgeführt werden. Liegt nicht gleichzeitig der Verdacht einer Straftat vor, hat die oder der Dienstvorgesetzte oder die oberste Dienstbehörde die Durchsicht der im Rahmen einer Durchsuchung vorläufig sichergestellten oder beschlagnahmten Unterlagen auf ihre Beweiserheblichkeit für den Nachweis eines Dienstvergehens vorzunehmen.
-- (3) Durch Absatz 1 werden das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) und das Fernmeldegeheimnis (Artikel 10 Absatz 1 des Grundgesetzes) eingeschränkt.
+- (3) Durch Absatz 1 werden das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des [Grundgesetzes](../../grundgesetz/GG.md)) und das Fernmeldegeheimnis (Artikel 10 Absatz 1 des [Grundgesetzes](../../grundgesetz/GG.md)) eingeschränkt.
 
 ### § 30 (aufgehoben)
 
@@ -730,7 +730,7 @@ auf Antrag der Beamtin oder des Beamten von der oder dem Dienstvorgesetzten, die
 der Rechte als Beamtin oder Beamter zur Folge haben wird, so ist, sofern das Beamtenverhältnis fortbesteht, die Beamtin oder der Beamte durch die oberste Dienstbehörde vorläufig des Dienstes zu entheben.
 
 - (4) Für die Dauer der vorläufigen Dienstenthebung erlöschen die Ansprüche auf Aufwandsentschädigungen.
-- (5) Wird die Beamtin oder der Beamte vorläufig des Dienstes enthoben, während sie oder er ohne Genehmigung schuldhaft dem Dienst fernbleibt, dauert der nach § 11 HmbBesG festgestellte Verlust der Bezüge fort. Er endet mit dem Zeitpunkt, in dem die Beamtin ihren oder der Beamte seinen Dienst aufgenommen hätte, wenn sie oder er hieran nicht durch die vorläufige Dienstenthebung gehindert worden wäre. Der Zeitpunkt ist von der obersten Dienstbehörde festzustellen und der Beamtin oder dem Beamten bekannt zu geben.
+- (5) Wird die Beamtin oder der Beamte vorläufig des Dienstes enthoben, während sie oder er ohne Genehmigung schuldhaft dem Dienst fernbleibt, dauert der nach § 11 [HmbBesG](BesG_HA_2010.md) festgestellte Verlust der Bezüge fort. Er endet mit dem Zeitpunkt, in dem die Beamtin ihren oder der Beamte seinen Dienst aufgenommen hätte, wenn sie oder er hieran nicht durch die vorläufige Dienstenthebung gehindert worden wäre. Der Zeitpunkt ist von der obersten Dienstbehörde festzustellen und der Beamtin oder dem Beamten bekannt zu geben.
 
 ### § 38 Teilweise Einbehaltung der Dienstbezüge oder des Ruhegehalts
 
@@ -744,7 +744,7 @@ der Rechte als Beamtin oder Beamter zur Folge haben wird, so ist, sofern das Bea
 
 teren für die Dauer des Beschlusses über die Einbehaltung bei wesentlichen Änderungen unaufgefordert Auskunft über ihre bzw. seine wirtschaftlichen Verhältnisse zu geben. Im Falle der Anordnung einer teilweisen Einbehaltung der Bezüge nach Absatz 4 wird vermutet, dass die bei der Anwendung der dort vorgesehenen Einbehaltungsregelsätze verbleibenden Bezüge bedarfsdeckend sind, sofern die Beamtin oder der Beamte im Einzelfall keine zwingenden höheren Bedarfe auf Grund besonderer Umstände nachweist.
 
-(6) Soweit Einkünfte aus Nebentätigkeit zusammen mit den einbehaltenen Dienstbezügen die zuletzt erhaltenen vollen Dienstbezüge übersteigen, sind sie auf die weiter gewährten Dienstbezüge anzurechnen; § 41 Absatz 1 und Absatz 2 Satz 2 gilt sinngemäß. Die Beamtin oder der Beamte hat ihrer oder seiner Dienststelle über die Einnahmen aus ihrer oder seiner Nebentätigkeit unaufgefordert Auskunft zu geben. Bei der Aufnahme oder der Erweiterung einer Nebentätigkeit aus Anlass der vorläufigen Einbehaltung von Bezügen ist § 73 Absatz 1 Satz 2 Nummer 1 und Satz 3 HmbBG nicht anzuwenden.
+(6) Soweit Einkünfte aus Nebentätigkeit zusammen mit den einbehaltenen Dienstbezügen die zuletzt erhaltenen vollen Dienstbezüge übersteigen, sind sie auf die weiter gewährten Dienstbezüge anzurechnen; § 41 Absatz 1 und Absatz 2 Satz 2 gilt sinngemäß. Die Beamtin oder der Beamte hat ihrer oder seiner Dienststelle über die Einnahmen aus ihrer oder seiner Nebentätigkeit unaufgefordert Auskunft zu geben. Bei der Aufnahme oder der Erweiterung einer Nebentätigkeit aus Anlass der vorläufigen Einbehaltung von Bezügen ist § 73 Absatz 1 Satz 2 Nummer 1 und Satz 3 [HmbBG](BG_HA_2009.md) nicht anzuwenden.
 
 ### § 39 Auswirkungen auf Nebentätigkeiten
 
@@ -811,7 +811,7 @@ Im Übrigen entscheidet sie oder er bei Streitigkeiten über die Erteilung der Z
 
 ### § 46 Beamtenbeisitzerinnen und Beamtenbeisitzer
 
-- (1) Die Beamtenbeisitzerinnen und Beamtenbeisitzer müssen auf Lebenszeit ernannte Beamtinnen oder Beamte sein, auf die das Hamburgische Beamtengesetz Anwendung findet. Sie brauchen ihren Wohnsitz nicht im Gerichtsbezirk zu haben.
+- (1) Die Beamtenbeisitzerinnen und Beamtenbeisitzer müssen auf Lebenszeit ernannte Beamtinnen oder Beamte sein, auf die das [Hamburgische Beamtengesetz](BG_HA_2009.md) Anwendung findet. Sie brauchen ihren Wohnsitz nicht im Gerichtsbezirk zu haben.
 - (2) Die Beamtenbeisitzerinnen und Beamtenbeisitzer werden auf Vorschlag der obersten Dienstbehörde auf vier Jahre vom Landespersonalausschuss gewählt. Wird während der Amtszeit die Wahl neuer Beamtenbeisitzerinnen oder Beamtenbeisitzer erforderlich, werden sie nur für den Rest der Amtszeit gewählt. Bis zur Neuwahl bleiben die bisherigen Beamtenbeisitzerinnen und Beamtenbeisitzer im Amt.
 - (3) Die §§ 20 bis 29 und 34 VwGO werden auf die Beamtenbeisitzerinnen und Beamtenbeisitzer nicht angewandt.
 
@@ -1000,7 +1000,7 @@ fahren in einem wegen desselben Sachverhalts eingeleiteten Straf- oder Bußgeldv
 
 ### § 71 Wirkungen des neuen Urteils
 
-- (1) Wird in einem Wiederaufnahmeverfahren das angefochtene Urteil zu Gunsten der oder des Betroffenen aufgehoben, erhält diese oder dieser vom Eintritt der Rechtskraft des angefochtenen Urteils an die Rechtsstellung, die sie oder er erhalten hätte, wenn das aufgehobene Urteil der Entscheidung entsprochen hätte, die im Wiederaufnahmeverfahren ergangen ist. Wurde in dem aufgehobenen Urteil die Entfernung aus dem Beamtenverhältnis oder die Aberkennung des Ruhegehalts aufrechterhalten, gelten [§ 24 Absatz 2 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) und § 33 Absatz 2 HmbBG entsprechend.
+- (1) Wird in einem Wiederaufnahmeverfahren das angefochtene Urteil zu Gunsten der oder des Betroffenen aufgehoben, erhält diese oder dieser vom Eintritt der Rechtskraft des angefochtenen Urteils an die Rechtsstellung, die sie oder er erhalten hätte, wenn das aufgehobene Urteil der Entscheidung entsprochen hätte, die im Wiederaufnahmeverfahren ergangen ist. Wurde in dem aufgehobenen Urteil die Entfernung aus dem Beamtenverhältnis oder die Aberkennung des Ruhegehalts aufrechterhalten, gelten [§ 24 Absatz 2 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) und § 33 Absatz 2 [HmbBG](BG_HA_2009.md) entsprechend.
 - (2) Haben die beteiligte Beamtin oder der beteiligte Beamte oder die Personen, zu deren Unterhalt sie oder er gesetzlich verpflichtet ist oder war, einen sonstigen Schaden erlitten, werden sie über Absatz 1 hinaus nach den §§ 81 bis 86 entschädigt.
 
 ### Teil 7
@@ -1037,7 +1037,7 @@ Die Höchstgrenzen nach Satz 1 gelten auch für die Zeit des Bezugs der Unterhal
 
 ### § 73a Abschöpfung von erlangten Vorteilen
 
-- (1) Eine Beamtin oder ein Beamter, die oder der durch einen schuldhaften Verstoß gegen ihr oder ihm obliegende Pflichten oder für einen solchen Verstoß etwas erlangt hat, hat das Erlangte dem Dienstherrn auf Verlangen herauszugeben, soweit nicht aufgrund anderer Vorschriften die Herausgabe des Erlangten oder die Einziehung von Taterträgen angeordnet worden oder das Erlangte auf andere Weise auf den Staat übergegangen ist. § 49 Absatz 2 HmbBG gilt entsprechend. Umfang und Wert des Erlangten können geschätzt werden.
+- (1) Eine Beamtin oder ein Beamter, die oder der durch einen schuldhaften Verstoß gegen ihr oder ihm obliegende Pflichten oder für einen solchen Verstoß etwas erlangt hat, hat das Erlangte dem Dienstherrn auf Verlangen herauszugeben, soweit nicht aufgrund anderer Vorschriften die Herausgabe des Erlangten oder die Einziehung von Taterträgen angeordnet worden oder das Erlangte auf andere Weise auf den Staat übergegangen ist. § 49 Absatz 2 [HmbBG](BG_HA_2009.md) gilt entsprechend. Umfang und Wert des Erlangten können geschätzt werden.
 - (2) Die Herausgabe nach Absatz 1 ist in der jeweils abschließenden Entscheidung anzuordnen. Ist dies nicht erfolgt, kann die Herausgabe nachträglich durch Bescheid angeordnet werden, solange kein Verwertungsverbot nach § 79 eingetreten ist.
 
 {40}------------------------------------------------
@@ -1094,7 +1094,7 @@ Die Höchstgrenzen nach Satz 1 gelten auch für die Zeit des Bezugs der Unterhal
 
 ### § 79 Verwertungsverbot, Entfernung aus der Personalakte
 
-- (1) Eintragungen in der Personalakte über einen Verweis dürfen nach zwei Jahren, über eine Geldbuße, eine Kürzung der Dienstbezüge und eine Kürzung des Ruhegehalts nach drei Jahren, über eine Zurückstufung nach sieben Jahren oder nach vorheriger Wiederverleihung eines Amtes mit mindestens dem früheren Grundgehalt bei weiteren Disziplinarmaßnahmen und bei sonstigen Personalmaßnahmen nicht mehr berücksichtigt werden (Verwertungsverbot). Bei Dienstvergehen gegen die Pflichten, sich durch das gesamte Verhalten zur freiheitlich demokratischen Grundordnung im Sinne des Grundgesetzes zu bekennen und für deren Erhaltung einzutreten oder bei politischer Betätigung diejenige Mäßigung und Zurückhaltung zu wahren, die sich aus ihrer Stellung gegenüber der Allgemeinheit und aus der Rücksicht auf die Amtspflichten ergibt, gilt für die Fristen § 17 Absatz 2 entsprechend. Die über diese Disziplinarmaßnahmen entstandenen Vorgänge einschließlich der Unterlagen über ein wegen derselben Tatsachen eingeleitetes Strafverfahren oder Bußgeldverfahren sind nach Eintritt des Verwertungsverbots von Amts wegen aus den Personalakten zu entfernen und zu vernichten. Der Kopfteil und die Entscheidungsformel einer abschließenden Entscheidung, mit der eine Zurückstufung ausgesprochen wurde, verbleiben in der Personalakte. Dabei sind nicht erforderliche personenbezogene Daten unkenntlich zu machen.
+- (1) Eintragungen in der Personalakte über einen Verweis dürfen nach zwei Jahren, über eine Geldbuße, eine Kürzung der Dienstbezüge und eine Kürzung des Ruhegehalts nach drei Jahren, über eine Zurückstufung nach sieben Jahren oder nach vorheriger Wiederverleihung eines Amtes mit mindestens dem früheren Grundgehalt bei weiteren Disziplinarmaßnahmen und bei sonstigen Personalmaßnahmen nicht mehr berücksichtigt werden (Verwertungsverbot). Bei Dienstvergehen gegen die Pflichten, sich durch das gesamte Verhalten zur freiheitlich demokratischen Grundordnung im Sinne des [Grundgesetzes](../../grundgesetz/GG.md) zu bekennen und für deren Erhaltung einzutreten oder bei politischer Betätigung diejenige Mäßigung und Zurückhaltung zu wahren, die sich aus ihrer Stellung gegenüber der Allgemeinheit und aus der Rücksicht auf die Amtspflichten ergibt, gilt für die Fristen § 17 Absatz 2 entsprechend. Die über diese Disziplinarmaßnahmen entstandenen Vorgänge einschließlich der Unterlagen über ein wegen derselben Tatsachen eingeleitetes Strafverfahren oder Bußgeldverfahren sind nach Eintritt des Verwertungsverbots von Amts wegen aus den Personalakten zu entfernen und zu vernichten. Der Kopfteil und die Entscheidungsformel einer abschließenden Entscheidung, mit der eine Zurückstufung ausgesprochen wurde, verbleiben in der Personalakte. Dabei sind nicht erforderliche personenbezogene Daten unkenntlich zu machen.
 - (2) Nach dem Eintritt des Verwertungsverbots gilt die Beamtin oder der Beamte als von Disziplinarmaßnahmen nicht betroffen, insbesondere dürfen bereits aus der Personalakte entfernte und vernich-
 
 {43}------------------------------------------------
@@ -1114,7 +1114,7 @@ tete Vorgänge über Disziplinarmaßnahmen bei weiteren Disziplinarmaßnahmen ni
 ### § 80 Begnadigung
 
 - (1) Dem Senat steht in Disziplinarsachen das Begnadigungsrecht zu.
-- (2) Wird im Wege der Begnadigung die Entfernung aus dem Beamtenverhältnis oder die Aberkennung des Ruhegehalts beseitigt, gilt § 34 Absatz 2 HmbBG entsprechend.
+- (2) Wird im Wege der Begnadigung die Entfernung aus dem Beamtenverhältnis oder die Aberkennung des Ruhegehalts beseitigt, gilt § 34 Absatz 2 [HmbBG](BG_HA_2009.md) entsprechend.
 
 ### Teil 10 Entschädigung
 
@@ -1181,7 +1181,7 @@ und ein Dienstvergehen nicht erwiesen ist. Bildet das ihr oder ihm zur Last gele
 
 ### Beamtinnen und Beamte sowie Ruhestandsbeamtinnen und Ruhestandsbeamte der landesunmittelbaren juristischen Personen des öffentlichen Rechts
 
-Ist Dienstherr einer Beamtin oder eines Beamten oder früherer Dienstherr einer Ruhestandsbeamtin oder eines Ruhestandsbeamten eine landesunmittelbare juristische Person des öffentlichen Rechts, gilt § 116 HmbBG entsprechend.
+Ist Dienstherr einer Beamtin oder eines Beamten oder früherer Dienstherr einer Ruhestandsbeamtin oder eines Ruhestandsbeamten eine landesunmittelbare juristische Person des öffentlichen Rechts, gilt § 116 [HmbBG](BG_HA_2009.md) entsprechend.
 
 ### Teil 12 Übergangs- und Schlussvorschriften § 88
 

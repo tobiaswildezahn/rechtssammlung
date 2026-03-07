@@ -46,7 +46,7 @@ zuletzt geändert durch Art. 40 G v. 15.7.2024 I Nr. 236
 - 1. um eine Gefährdung des lebenswichtigen Verkehrs zu beheben oder zu verhindern und
 - 2. wenn ihr Zweck durch andere Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln erreicht werden kann.
 - (2) Die Rechtsverordnungen sind auf das unerläßliche Maß zu beschränken. Sie sind inhaltlich so zu gestalten, daß in die wirtschaftliche Betätigungsfreiheit der Beteiligten so wenig wie möglich eingegriffen und die Leistungsfähigkeit der Gesamtwirtschaft möglichst wenig beeinträchtigt wird.
-- (3) Rechtsverordnungen nach § 1 dürfen nur nach Maßgabe des Artikels 80a des Grundgesetzes angewandt werden.
+- (3) Rechtsverordnungen nach § 1 dürfen nur nach Maßgabe des Artikels 80a des [Grundgesetzes](../../grundgesetz/GG.md) angewandt werden.
 
 #### § 3 Rechtsverordnungen über Buchführungs- und Meldepflichten
 
@@ -56,7 +56,7 @@ Durch Rechtsverordnung können zu den in § 1 genannten Zwecken Meldepflichten �
 
 - (1) Durch Rechtsverordnung können zu den in § 1 genannten Zwecken für Unternehmen, die Eigentümer oder Besitzer von Verkehrsmitteln, -anlagen und -einrichtungen sind, Vorschriften über die Bevorratung mit Bau- und Betriebsstoffen, Ersatzteilen und Geräten erlassen werden. Der Umfang der Bevorratung ist darauf zu beschränken, daß die Verwendung der Verkehrsmittel, -anlagen und -einrichtungen bei Ausfall der Versorgung mit Bau- und Betriebsstoffen, Ersatzteilen und Geräten vorübergehend weiter möglich ist. § 2 Abs. 2 findet Anwendung.
 - (2) In Rechtsverordnungen nach Absatz 1 kann vorgesehen werden, daß den Betroffenen für die Kosten der Bevorratung Kredite, Bürgschaften oder sonstige Gewährleistungen bis zu einer im jährlichen Haushaltsgesetz festzusetzenden Höhe sowie im Rahmen der verfügbaren Mittel Zuschüsse zu den Kosten der Lagerhaltung und Wälzung und zur Zinsverbilligung gewährt werden, soweit dies erforderlich ist, um eine unzumutbare Belastung der Betroffenen auszuschließen.
-- (3) Für Wirtschaftsgüter des Umlaufvermögens, die auf Grund der nach Absatz 1 zu erlassenden Rechtsverordnungen bevorratet sind, kann die Bundesregierung an Stelle der Finanzierungshilfen nach Absatz 2 durch Rechtsverordnung zulassen, daß sie statt mit dem sich nach § 6 Abs. 1 Nr. 2 des Einkommensteuergesetzes ergebenden Wert von dem Steuerpflichtigen mit einem Wert angesetzt werden können, der bis zu 30 vom Hundert unter den Anschaffungs- oder Herstellungskosten oder dem niedrigeren Börsen- oder Marktpreis (Wiederbeschaffungspreis) des Bilanzstichtags liegt. Voraussetzung für den Abschlag ist, daß die Wirtschaftsgüter sich im Geltungsbereich des Grundgesetzes befinden und für ihre Bevorratung nicht nach anderen Vorschriften oder auf Grund vertraglicher Vereinbarungen eine Körperschaft des öffentlichen Rechts oder eine öffentliche Dienststelle Zuschüsse gewährt oder das Preisrisiko übernommen hat.
+- (3) Für Wirtschaftsgüter des Umlaufvermögens, die auf Grund der nach Absatz 1 zu erlassenden Rechtsverordnungen bevorratet sind, kann die Bundesregierung an Stelle der Finanzierungshilfen nach Absatz 2 durch Rechtsverordnung zulassen, daß sie statt mit dem sich nach § 6 Abs. 1 Nr. 2 des Einkommensteuergesetzes ergebenden Wert von dem Steuerpflichtigen mit einem Wert angesetzt werden können, der bis zu 30 vom Hundert unter den Anschaffungs- oder Herstellungskosten oder dem niedrigeren Börsen- oder Marktpreis (Wiederbeschaffungspreis) des Bilanzstichtags liegt. Voraussetzung für den Abschlag ist, daß die Wirtschaftsgüter sich im Geltungsbereich des [Grundgesetzes](../../grundgesetz/GG.md) befinden und für ihre Bevorratung nicht nach anderen Vorschriften oder auf Grund vertraglicher Vereinbarungen eine Körperschaft des öffentlichen Rechts oder eine öffentliche Dienststelle Zuschüsse gewährt oder das Preisrisiko übernommen hat.
 - (4) Wirtschaftsgüter, bei denen nach Absatz 3 ein Bewertungsabschlag vorgenommen worden ist, sind bei der Feststellung des Einheitswerts des gewerblichen Betriebs mit dem für die Vermögensbesteuerung maßgebenden Wert, vermindert um den nach Absatz 3 vorgenommenen Bewertungsabschlag, anzusetzen.
 
 #### § 5 Zuständigkeiten zum Erlaß von Rechtsverordnungen
@@ -82,7 +82,7 @@ Durch Rechtsverordnung können zu den in § 1 genannten Zwecken Meldepflichten �
 
 # § 8 Verfügungen
 
-Die Rechtsverordnungen der Bundesregierung oder des Bundesministeriums für Verkehr und digitale Infrastruktur nach den §§ 1, 3 und 4 können vorsehen, daß das Bundesministerium für Verkehr und digitale Infrastruktur zu ihrer Ausführung Verfügungen erläßt, wenn sich der zu erforschende Sachverhalt oder die Auswirkungen der zu regelnden Angelegenheiten auf mehr als ein Land erstrecken und der Zweck der Rechtsverordnungen durch eine Weisung nach Artikel 85 Abs. 3 des Grundgesetzes und durch Verfügungen der Landesbehörden nicht oder nicht rechtzeitig erreicht werden kann.
+Die Rechtsverordnungen der Bundesregierung oder des Bundesministeriums für Verkehr und digitale Infrastruktur nach den §§ 1, 3 und 4 können vorsehen, daß das Bundesministerium für Verkehr und digitale Infrastruktur zu ihrer Ausführung Verfügungen erläßt, wenn sich der zu erforschende Sachverhalt oder die Auswirkungen der zu regelnden Angelegenheiten auf mehr als ein Land erstrecken und der Zweck der Rechtsverordnungen durch eine Weisung nach Artikel 85 Abs. 3 des [Grundgesetzes](../../grundgesetz/GG.md) und durch Verfügungen der Landesbehörden nicht oder nicht rechtzeitig erreicht werden kann.
 
 # Zweiter Abschnitt Sicherstellung durch Leistungen
 
@@ -123,7 +123,7 @@ Die Verpflichtung nimmt das Bundesministerium für Verkehr und digitale Infrastr
 
 # § 10a Besondere Leistungspflichten der Eisenbahnen des Bundes und der Deutschen Flugsicherung und besondere Maßnahmen für den Bereich der Bundesfernstraßen
 
-- (1) Eisenbahnen des Bundes und die DFS Deutsche Flugsicherung GmbH können vom Bundesministerium für Verkehr und digitale Infrastruktur verpflichtet werden, Maßnahmen zu treffen, die dem Zivilschutz nach § 1 des Zivilschutz- und Katastrophenhilfegesetzes dienen. Dazu gehören insbesondere:
+- (1) Eisenbahnen des Bundes und die DFS Deutsche Flugsicherung GmbH können vom Bundesministerium für Verkehr und digitale Infrastruktur verpflichtet werden, Maßnahmen zu treffen, die dem Zivilschutz nach § 1 des [Zivilschutz- und Katastrophenhilfegesetzes](../ZSKG_Zivilschutzgesetz.md) dienen. Dazu gehören insbesondere:
 - 1. bauliche Maßnahmen, die Arbeitsplätze des erforderlichen betriebswichtigen Personals und Anlagen oder Einrichtungen insoweit sichern, als es nach der Zivilverteidigungsplanung zur Weiterarbeit auch während unmittelbarer Kampfhandlungen unerläßlich ist,
 - 2. besondere Maßnahmen des Brandschutzes und des ABC-Schutzes.
 - (2) Das Bundesministerium für Verkehr und digitale Infrastruktur legt für den Bereich der Bundesfernstraßen besondere Maßnahmen nach Absatz 1 Satz 2 fest.
@@ -167,7 +167,7 @@ Verkehrsunternehmen, die einer gesetzlichen Betriebs- und Beförderungspflicht u
 - (2) Die Eigentümer und Besitzer von Verkehrseinrichtungen können verpflichtet werden, diese ganz oder teilweise an einen zu bezeichnenden Ort zu bringen. Absatz 1 Satz 2 gilt entsprechend.
 - (3) Inhaber von Bereitstellungsbescheiden nach § 36 Abs. 3 des Bundesleistungsgesetzes, die von Behörden der Bundeswehrverwaltung erlassen worden sind, dürfen hinsichtlich der bereitzustellenden Verkehrsmittel und einrichtungen nur mit Zustimmung der zuständigen Anforderungsbehörde verpflichtet werden.
 - (4) Die Verpflichtungen nach den Absätzen 1 und 2 sind nur auf Grund einer Weisung oder Ermächtigung des Bundesministeriums für Verkehr und digitale Infrastruktur zulässig.
-- (5) Die Vorschriften der Absätze 1 bis 4 dürfen nur nach Maßgabe des Artikels 80a des Grundgesetzes angewandt werden.
+- (5) Die Vorschriften der Absätze 1 bis 4 dürfen nur nach Maßgabe des Artikels 80a des [Grundgesetzes](../../grundgesetz/GG.md) angewandt werden.
 
 #### § 15 Auskünfte
 
@@ -211,13 +211,13 @@ Für Zustellungen durch die Verwaltungsbehörden gelten die Vorschriften des Ver
 - (2) Die Landesregierungen können bestimmen, daß die nach diesem Gesetz oder auf Grund dieses Gesetzes kreisangehörigen Gemeinden zugewiesenen Aufgaben von kommunalen Zusammenschlüssen oder Gemeindeverbänden wahrgenommen werden.
 - (3) Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1 Buchstabe f auf dem Gebiet des Güterkraftverkehrs dem Bundesamt für Logistik und Mobilität übertragen. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1 Buchstabe a dem Eisenbahn-Bundesamt übertragen.
 - (4) In Ländern, in denen in den Gemeinden und Gemeindeverbänden für Auftragsangelegenheiten ein kollegiales Organ zuständig ist, tritt an dessen Stelle der Hauptverwaltungsbeamte der Gemeinde oder des Gemeindeverbands.
-- (5) Soweit dieses Gesetz oder die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nach Absatz 1 Nr. 2 von den Ländern, einschließlich der Gemeinden und Gemeindeverbände, im Auftrag des Bundes ausgeführt werden, übt das Bundesministerium für Verkehr und digitale Infrastruktur die Befugnisse der Bundesregierung nach Artikel 85 des Grundgesetzes aus. Das Bundesministerium für Verkehr und digitale Infrastruktur kann diese Befugnisse sowie seine Weisungsbefugnis nach Artikel 85 Abs. 3 des Grundgesetzes auf Bundesoberbehörden übertragen. Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des Grundgesetzes bedürfen nicht der Zustimmung des Bundesrates, wenn die Voraussetzung des § 2 Abs. 3 vorliegt
+- (5) Soweit dieses Gesetz oder die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nach Absatz 1 Nr. 2 von den Ländern, einschließlich der Gemeinden und Gemeindeverbände, im Auftrag des Bundes ausgeführt werden, übt das Bundesministerium für Verkehr und digitale Infrastruktur die Befugnisse der Bundesregierung nach Artikel 85 des [Grundgesetzes](../../grundgesetz/GG.md) aus. Das Bundesministerium für Verkehr und digitale Infrastruktur kann diese Befugnisse sowie seine Weisungsbefugnis nach Artikel 85 Abs. 3 des [Grundgesetzes](../../grundgesetz/GG.md) auf Bundesoberbehörden übertragen. Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des [Grundgesetzes](../../grundgesetz/GG.md) bedürfen nicht der Zustimmung des Bundesrates, wenn die Voraussetzung des § 2 Abs. 3 vorliegt
 
 {7}------------------------------------------------
 
 oder die Verwaltungsvorschriften die Ausführung von Rechtsverordnungen betreffen, die ohne Zustimmung des Bundesrates erlassen worden sind.
 
-- (6) Allgemeine Verwaltungsvorschriften nach Artikel 86 des Grundgesetzes erläßt das Bundesministerium für Verkehr und digitale Infrastruktur.
+- (6) Allgemeine Verwaltungsvorschriften nach Artikel 86 des [Grundgesetzes](../../grundgesetz/GG.md) erläßt das Bundesministerium für Verkehr und digitale Infrastruktur.
 - (7) Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt durch Rechtsverordnung die zur Ausführung dieses Gesetzes zuständigen Behörden. Die Rechtsverordnung bedarf der Zustimmung des Bundesrates; dies gilt nicht, soweit sie Zuständigkeiten der bundeseigenen Verwaltung regelt oder wenn die Voraussetzung des § 2 Abs. 3 vorliegt.
 - (8) In Rechtsverordnungen nach den §§ 1, 3 und 4 kann die Zuständigkeit zur Ausführung dieser Verordnungen geregelt und dabei bestimmt werden, daß für die Aufgaben zur Ausführung dieser Verordnungen besondere Stellen einzurichten sind.
 
@@ -305,7 +305,7 @@ Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungsw
 
 #### § 30 Ausnahmen und Sonderregelungen
 
-(1) Die Streitkräfte, die Bundespolizei, die Polizei, die Organisationen des Zivilschutzes und die Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sind von Verpflichtungen nach diesem Gesetz und den auf den Grund dieses Gesetzes erlassenen Rechtsverordnungen ausgenommen, soweit dieses Gesetz nichts anderes bestimmt. Dies gilt auch hinsichtlich der für sie auf Grund des Bundesleistungsgesetzes zum Gebrauch in Anspruch genommenen Verkehrsmittel, - anlagen und -einrichtungen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Ausnahmen zuzulassen.
+(1) Die Streitkräfte, die Bundespolizei, die Polizei, die Organisationen des Zivilschutzes und die Unternehmen, die nach Kapitel 12 des [Postgesetzes](PostG_Postgesetz_inkl_Sicherstellung.md) oder Teil 10 Abschnitt 2 des [Telekommunikationsgesetzes](TKG_Telekommunikationsgesetz.md) verpflichtet sind, sind von Verpflichtungen nach diesem Gesetz und den auf den Grund dieses Gesetzes erlassenen Rechtsverordnungen ausgenommen, soweit dieses Gesetz nichts anderes bestimmt. Dies gilt auch hinsichtlich der für sie auf Grund des Bundesleistungsgesetzes zum Gebrauch in Anspruch genommenen Verkehrsmittel, - anlagen und -einrichtungen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Ausnahmen zuzulassen.
 
 {10}------------------------------------------------
 
@@ -319,7 +319,7 @@ Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungsw
 
 #### § 32 Einschränkung der Grundrechte
 
-Die Grundrechte der Freizügigkeit (Artikel 11 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
+Die Grundrechte der Freizügigkeit (Artikel 11 des [Grundgesetzes](../../grundgesetz/GG.md)) und der Unverletzlichkeit der Wohnung (Artikel 13 des [Grundgesetzes](../../grundgesetz/GG.md)) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 #### § 33 Hamburg-Klausel
 

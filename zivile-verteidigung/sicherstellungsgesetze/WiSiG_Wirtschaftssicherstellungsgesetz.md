@@ -46,7 +46,7 @@ Waren der gewerblichen Wirtschaft im Sinne des Satzes 1 sind auch Rohtabak, Taba
 
 # § 2 Voraussetzungen und Grenzen der Sicherstellung
 
-- (1) Rechtsverordnungen nach § 1 dürfen nur nach Maßgabe des Artikels 80a des Grundgesetzes angewandt werden.
+- (1) Rechtsverordnungen nach § 1 dürfen nur nach Maßgabe des Artikels 80a des [Grundgesetzes](../../grundgesetz/GG.md) angewandt werden.
 - (2) Rechtsverordnungen nach § 1 dürfen nur erlassen werden,
 - 1. um eine Gefährdung der Versorgung zu beheben oder zu verhindern, und
 - 2. wenn ihr Zweck durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln erreicht werden kann.
@@ -60,7 +60,7 @@ Durch Rechtsverordnungen können zu den in § 1 genannten Zwecken Buchführungs-
 
 - (1) Durch Rechtsverordnung können für Betriebe der gewerblichen Wirtschaft Vorschriften über die Lagerung und Vorratshaltung der in § 1 Abs. 1 bezeichneten Waren und Erzeugnisse erlassen werden, soweit dies erforderlich ist, um eine ausreichende Versorgung im Verteidigungsfall sicherzustellen. § 2 Abs. 3 ist anzuwenden.
 - (2) In Rechtsverordnungen nach Absatz 1 kann vorgesehen werden, daß den Betroffenen für die Kosten der Bevorratung Kredite, Bürgschaften oder sonstige Gewährleistungen bis zu einer im jährlichen Haushaltsgesetz festzusetzenden Höhe sowie im Rahmen der verfügbaren Mittel Zuschüsse zu den Kosten der Lagerhaltung und -wälzung und zur Zinsverbilligung gewährt werden, soweit dies erforderlich ist, um eine unzumutbare Belastung der Betroffenen auszuschließen.
-- (3) Für Wirtschaftsgüter des Umlaufvermögens, die auf Grund der nach Absatz 1 zu erlassenden Rechtsverordnung bevorratet sind, kann die Bundesregierung mit Zustimmung des Bundesrates an Stelle der Finanzierungshilfen nach Absatz 2 durch Rechtsverordnung zulassen, daß sie statt mit dem sich nach § 6 Abs. 1 Nr. 2 des Einkommensteuergesetzes ergebenden Wert von dem Steuerpflichtigen mit einem Wert angesetzt werden können, der bis zu 30 vom Hundert unter den Anschaffungs- oder Herstellungskosten oder dem niedrigeren Börsen- oder Marktpreis (Wiederbeschaffungspreis) des Bilanzstichtages liegt. Voraussetzung für den Abschlag ist, daß die Wirtschaftsgüter sich im Geltungsbereich des Grundgesetzes befinden und für ihre Bevorratung nicht nach anderen Vorschriften oder auf Grund vertraglicher Vereinbarungen eine Körperschaft des öffentlichen Rechts oder eine öffentliche Dienststelle Zuschüsse gewährt oder das Preisrisiko übernommen hat.
+- (3) Für Wirtschaftsgüter des Umlaufvermögens, die auf Grund der nach Absatz 1 zu erlassenden Rechtsverordnung bevorratet sind, kann die Bundesregierung mit Zustimmung des Bundesrates an Stelle der Finanzierungshilfen nach Absatz 2 durch Rechtsverordnung zulassen, daß sie statt mit dem sich nach § 6 Abs. 1 Nr. 2 des Einkommensteuergesetzes ergebenden Wert von dem Steuerpflichtigen mit einem Wert angesetzt werden können, der bis zu 30 vom Hundert unter den Anschaffungs- oder Herstellungskosten oder dem niedrigeren Börsen- oder Marktpreis (Wiederbeschaffungspreis) des Bilanzstichtages liegt. Voraussetzung für den Abschlag ist, daß die Wirtschaftsgüter sich im Geltungsbereich des [Grundgesetzes](../../grundgesetz/GG.md) befinden und für ihre Bevorratung nicht nach anderen Vorschriften oder auf Grund vertraglicher Vereinbarungen eine Körperschaft des öffentlichen Rechts oder eine öffentliche Dienststelle Zuschüsse gewährt oder das Preisrisiko übernommen hat.
 - (4) Wirtschaftsgüter, bei denen nach Absatz 3 ein Bewertungsabschlag vorgenommen worden ist, sind bei der Feststellung des Einheitswertes des gewerblichen Betriebs mit dem für die Vermögensbesteuerung maßgebenden Wert, vermindert um den nach Absatz 3 vorgenommenen Bewertungsabschlag, anzusetzen.
 
 ### § 5 Rechtsverordnungen
@@ -95,7 +95,7 @@ Durch Rechtsverordnungen können zu den in § 1 genannten Zwecken Buchführungs-
 wahrgenommen werden.
 
 - (3) Absatz 1 Satz 1 gilt auch für die §§ 11 und 14 bis 16 dieses Gesetzes, soweit auf Grund dieser Vorschriften von den Behörden der Länder, Gemeinden oder Gemeindeverbände Maßnahmen für Zwecke des § 1 ergriffen werden sollen.
-- (4) Soweit dieses Gesetz oder die auf Grund dieses Gesetzes ergangenen Rechtsverordnungen nach den Absätzen 1 bis 3 von den Ländern einschließlich der Gemeinden und Gemeindeverbände im Auftrag des Bundes ausgeführt werden, übt, soweit der Geld- und Kapitalverkehr betroffen ist, das Bundesministerium der Finanzen, im übrigen das Bundesministerium für Wirtschaft und Energie die Befugnisse der Bundesregierung nach Artikel 85 des Grundgesetzes aus. Das danach zuständige Bundesministerium kann diese Befugnisse sowie seine Weisungsbefugnis nach Artikel 85 Abs. 3 des Grundgesetzes auf Bundesoberbehörden übertragen. Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des Grundgesetzes bedürfen nicht der Zustimmung des Bundesrates, wenn die Voraussetzung des § 2 Abs. 1 vorliegt oder die Verwaltungsvorschriften die Ausführung von Rechtsverordnungen betreffen, die ohne Zustimmung des Bundesrates erlassen worden sind.
+- (4) Soweit dieses Gesetz oder die auf Grund dieses Gesetzes ergangenen Rechtsverordnungen nach den Absätzen 1 bis 3 von den Ländern einschließlich der Gemeinden und Gemeindeverbände im Auftrag des Bundes ausgeführt werden, übt, soweit der Geld- und Kapitalverkehr betroffen ist, das Bundesministerium der Finanzen, im übrigen das Bundesministerium für Wirtschaft und Energie die Befugnisse der Bundesregierung nach Artikel 85 des [Grundgesetzes](../../grundgesetz/GG.md) aus. Das danach zuständige Bundesministerium kann diese Befugnisse sowie seine Weisungsbefugnis nach Artikel 85 Abs. 3 des [Grundgesetzes](../../grundgesetz/GG.md) auf Bundesoberbehörden übertragen. Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des [Grundgesetzes](../../grundgesetz/GG.md) bedürfen nicht der Zustimmung des Bundesrates, wenn die Voraussetzung des § 2 Abs. 1 vorliegt oder die Verwaltungsvorschriften die Ausführung von Rechtsverordnungen betreffen, die ohne Zustimmung des Bundesrates erlassen worden sind.
 - (5) In Ländern, in denen in den Gemeinden und Gemeindeverbänden für Auftragsangelegenheiten ein kollegiales Organ zuständig ist, tritt an dessen Stelle der Hauptverwaltungsbeamte der Gemeinde oder des Gemeindeverbandes.
 - (6) In Rechtsverordnungen nach den §§ 1, 3 und 4 kann die Zuständigkeit zur Ausführung dieser Verordnungen geregelt und dabei bestimmt werden, daß für die Aufgaben zur Ausführung dieser Verordnungen besondere Stellen einzurichten sind.
 
@@ -103,7 +103,7 @@ wahrgenommen werden.
 
 # § 9 Verfügungen
 
-Die Rechtsverordnungen der Bundesregierung, des Bundesministeriums für Wirtschaft und Energie und des Bundesministeriums der Finanzen können vorsehen, daß das Bundesministerium für Wirtschaft und Energie oder das Bundesministerium der Finanzen zu ihrer Ausführung Verfügungen erläßt, wenn sich der zu erforschende Sachverhalt oder die Auswirkungen der zu regelnden Angelegenheit auf mehr als ein Land erstrecken und der Zweck der Rechtsverordnungen mittels einer Weisung nach Artikel 85 Abs. 3 des Grundgesetzes und durch Verfügung der Landesbehörden nicht oder nicht rechtzeitig erreicht werden kann.
+Die Rechtsverordnungen der Bundesregierung, des Bundesministeriums für Wirtschaft und Energie und des Bundesministeriums der Finanzen können vorsehen, daß das Bundesministerium für Wirtschaft und Energie oder das Bundesministerium der Finanzen zu ihrer Ausführung Verfügungen erläßt, wenn sich der zu erforschende Sachverhalt oder die Auswirkungen der zu regelnden Angelegenheit auf mehr als ein Land erstrecken und der Zweck der Rechtsverordnungen mittels einer Weisung nach Artikel 85 Abs. 3 des [Grundgesetzes](../../grundgesetz/GG.md) und durch Verfügung der Landesbehörden nicht oder nicht rechtzeitig erreicht werden kann.
 
 # § 10 Mitwirkung von Vereinigungen
 
@@ -190,7 +190,7 @@ Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungsw
 
 # § 23 Einschränkung der Grundrechte
 
-Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
+Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des [Grundgesetzes](../../grundgesetz/GG.md)) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 ### § 24 Inkrafttreten
 

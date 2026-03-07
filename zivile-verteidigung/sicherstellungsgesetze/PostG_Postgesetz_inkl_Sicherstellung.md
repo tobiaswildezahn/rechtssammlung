@@ -372,14 +372,14 @@ Im Sinne dieses Gesetzes ist oder sind:
 - (1) Die nach § 4 Absatz 4 Nummer 1 erforderliche Zuverlässigkeit liegt in der Regel nicht vor, wenn
 - 1. der Antragsteller oder eine mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragte Person in den letzten fünf Jahren vor Stellung des Antrags nach § 4 Absatz 2 wegen Versuchs oder Vollendung eines Verbrechens im Sinne von § 12 Absatz 1 des Strafgesetzbuches oder einer der nachstehend aufgeführten Straftaten zu einer Freiheitsstrafe, Jugendstrafe, auch wenn deren Verhängung ausgesetzt worden ist, Geldstrafe von mindestens 90 Tagessätzen oder mindestens zweimal zu einer geringeren Geldstrafe rechtskräftig verurteilt worden ist, wenn seit dem Eintritt der Rechtskraft der letzten erstinstanzlichen Verurteilung fünf Jahre und seit dem Eintritt der Rechtskraft der vorletzten erstinstanzlichen Verurteilung zehn Jahre noch nicht verstrichen sind:
   - a) §§ 15 oder 15a des Arbeitnehmerüberlassungsgesetzes,
-  - b) § 23 des Arbeitszeitgesetzes,
+  - b) § 23 des [Arbeitszeitgesetzes](../../beamtenrecht-bund/ArbZG.md),
   - c) §§ 10, 10a oder 11 des Schwarzarbeitsbekämpfungsgesetzes,
   - d) §§ 202, 206, 263, 266a oder 267 des Strafgesetzbuches,
 - 2. gegen den Antragsteller oder eine mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragte Person in den letzten fünf Jahren vor Stellung des Antrags nach § 4 Absatz 2 bei Antragstellern mit bis zu zehn Beschäftigten mindestens zwei, bei Antragstellern mit bis zu 250 Beschäftigten mindestens zehn, bei Antragstellern mit bis zu 500 Beschäftigten mindestens 20 und bei Antragstellern mit mehr als 500 Beschäftigten mindestens 25 unanfechtbare Bußgeldentscheidungen wegen einer der nachstehend aufgeführten Ordnungswidrigkeiten in Höhe von jeweils mindestens 1 500 Euro ergangen sind:
   - a) § 23 des Arbeitnehmerentsendegesetzes,
   - b) § 16 des Arbeitnehmerüberlassungsgesetzes,
   - c) § 25 des Arbeitsschutzgesetzes,
-  - d) § 22 Absatz 1 Nummer 1 bis 7, 9 oder 10 des Arbeitszeitgesetzes,
+  - d) § 22 Absatz 1 Nummer 1 bis 7, 9 oder 10 des [Arbeitszeitgesetzes](../../beamtenrecht-bund/ArbZG.md),
   - e) § 21 des Mindestlohngesetzes,
   - f) § 8 Absatz 1 Nummer 2, Absatz 2 bis 4 des Schwarzarbeitsbekämpfungsgesetzes,
   - g) § 404 Absatz 1 oder Absatz 2 Nummer 4 des Dritten Buches Sozialgesetzbuch,
@@ -1168,7 +1168,7 @@ Die Auslieferung von Postsendungen an Ersatzempfänger im Rahmen der vertraglich
 - 10. § 34 des Konsumcannabisgesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 109) oder
 - 11. § 25 des Medizinal-Cannabisgesetzes vom 27. März 2024 (BGBI. 2024 I Nr. 109)
 
-in der jeweils geltenden Fassung begangen wird. Das Postgeheimnis nach Artikel 10 des Grundgesetzes wird insoweit eingeschränkt.
+in der jeweils geltenden Fassung begangen wird. Das Postgeheimnis nach Artikel 10 des [Grundgesetzes](../../grundgesetz/GG.md) wird insoweit eingeschränkt.
 
 (6) Mitteilungen über den Postverkehr einer Person sind zulässig, soweit sie erforderlich sind, um Ansprüche gegen diese Person gerichtlich oder außergerichtlich geltend zu machen, die im Zusammenhang mit der Erbringung einer Postdienstleistung entstanden sind, oder um die Verfolgung von Straftaten zu ermöglichen, die beim Postverkehr zum Schaden eines Postunternehmens begangen wurden.
 
@@ -1183,7 +1183,7 @@ Unternehmen und Personen, die geschäftsmäßig Postdienstleistungen erbringen o
 - (1) Die Bundesnetzagentur kann Anordnungen und andere Maßnahmen treffen, um die Einhaltung der in den §§ 61, 64 und 65 enthaltenen Pflichten sicherzustellen. Dazu kann sie von dem Verpflichteten die für eine Überprüfung erforderlichen Auskünfte verlangen und die Einhaltung der Vorschriften in den Betriebs- und Geschäftsräumen des Verpflichteten überprüfen. Sie kann von dem Verpflichteten während der üblichen Betriebs- und Geschäftszeiten Zutritt zu dessen Betriebs- und Geschäftsräumen verlangen.
 - (2) Stellt die Bundesnetzagentur fest, dass in einem Unternehmen die in den §§ 61, 64 und 65 enthaltenen Pflichten nicht eingehalten werden, kann sie das weitere geschäftsmäßige Erbringen von Postdiensten ganz oder teilweise untersagen, wenn mildere Eingriffe zur Durchsetzung rechtmäßigen Verhaltens nicht ausreichen. Diese Befugnis steht der Bundesnetzagentur auch dann zu, wenn ein Unternehmen seinen in Absatz 1 genannten Verpflichtungen trotz wiederholter Aufforderung nicht nachkommt. § 4 Absatz 6 Satz 2 gilt entsprechend. § 89 bleibt unberührt.
 - (3) Zur Durchsetzung der Maßnahmen nach den Absätzen 1 und 2 kann nach Maßgabe des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld von bis zu 1 Million Euro festgesetzt werden.
-- (4) Durch Auskünfte und Überprüfungen darf die Bundesnetzagentur Kenntnis über die näheren Umstände des Postverkehrs bestimmter Personen erlangen, soweit dies zur Ausübung ihrer Kontrollaufgaben erforderlich ist. Das Postgeheimnis nach Artikel 10 des Grundgesetzes wird insoweit eingeschränkt.
+- (4) Durch Auskünfte und Überprüfungen darf die Bundesnetzagentur Kenntnis über die näheren Umstände des Postverkehrs bestimmter Personen erlangen, soweit dies zur Ausübung ihrer Kontrollaufgaben erforderlich ist. Das Postgeheimnis nach Artikel 10 des [Grundgesetzes](../../grundgesetz/GG.md) wird insoweit eingeschränkt.
 
 ## Abschnitt 3 Datenschutz
 
@@ -1218,7 +1218,7 @@ Diensteanbieter dürfen personenbezogene Daten auch in den Fällen verarbeiten, 
 #### § 71 Datenschutzaufsicht
 
 - (1) Soweit für das geschäftsmäßige Erbringen von Postdienstleistungen personenbezogene Daten verarbeitet werden, tritt bei den Unternehmen an die Stelle der Aufsicht nach § 40 des Bundesdatenschutzgesetzes eine Aufsicht durch die oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit.
-- (2) Durch Auskünfte und Überprüfungen darf die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit Kenntnis über die näheren Umstände des Postverkehrs bestimmter Personen erlangen, soweit dies zur Ausübung ihrer oder seiner Kontrollaufgaben erforderlich ist. Das Postgeheimnis nach Artikel 10 des Grundgesetzes wird insoweit eingeschränkt.
+- (2) Durch Auskünfte und Überprüfungen darf die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit Kenntnis über die näheren Umstände des Postverkehrs bestimmter Personen erlangen, soweit dies zur Ausübung ihrer oder seiner Kontrollaufgaben erforderlich ist. Das Postgeheimnis nach Artikel 10 des [Grundgesetzes](../../grundgesetz/GG.md) wird insoweit eingeschränkt.
 
 ## Kapitel 8 Postwertzeichen
 
@@ -1554,7 +1554,7 @@ Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben, gilt
 #### § 105 Anwendungsbereich
 
 - (1) Die Vorschriften dieses Kapitels sind anzuwenden zur Sicherstellung einer Mindestversorgung mit Postdienstleistungen
-- 1. bei unmittelbar bevorstehenden oder bereits eingetretenen erheblichen Störungen der Versorgung mit Postdienstleistungen, insbesondere infolge von Naturkatastrophen, besonders schweren Unglücksfällen, Sabotagehandlungen, terroristischen Anschlägen oder sonstigen vergleichbaren Ereignissen oder im Spannungsfall sowie nach besonderer Zustimmung nach Artikel 80a des Grundgesetzes, in Fällen nach Artikel 80a Absatz 3 des Grundgesetzes oder im Verteidigungsfall nach Artikel 115a des Grundgesetzes sowie
+- 1. bei unmittelbar bevorstehenden oder bereits eingetretenen erheblichen Störungen der Versorgung mit Postdienstleistungen, insbesondere infolge von Naturkatastrophen, besonders schweren Unglücksfällen, Sabotagehandlungen, terroristischen Anschlägen oder sonstigen vergleichbaren Ereignissen oder im Spannungsfall sowie nach besonderer Zustimmung nach Artikel 80a des [Grundgesetzes](../../grundgesetz/GG.md), in Fällen nach Artikel 80a Absatz 3 des [Grundgesetzes](../../grundgesetz/GG.md) oder im Verteidigungsfall nach Artikel 115a des [Grundgesetzes](../../grundgesetz/GG.md) sowie
 - 2. zur Erfüllung internationaler Vereinbarungen zur Notfallbewältigung, der Zusammenarbeit mit den Vereinten Nationen oder von Bündnisverpflichtungen.
 - (2) Anbieter, die Postdienstleistungen flächendeckend im gesamten Gebiet der Bundesrepublik Deutschland erbringen, unterliegen den Verpflichtungen zur Postsicherstellung nach § 106 und zur Postbevorrechtigung nach § 107.
 
@@ -1576,7 +1576,7 @@ Die nach § 105 Absatz 2 Verpflichteten haben die für diese Postdienstleistunge
 - 2. Behörden des Bundes, der Länder, der Gemeinden und Gemeindeverbände,
 - 3. Gerichte des Bundes und der Länder,
 - 4. Dienststellen der Bundeswehr und die verbündeten Streitkräfte,
-- 5. Katastrophenschutz- und Zivilschutzorganisationen sowie Hilfsorganisationen nach § 26 Absatz 1 Satz 2 des Zivilschutz- und Katastrophenhilfegesetzes,
+- 5. Katastrophenschutz- und Zivilschutzorganisationen sowie Hilfsorganisationen nach § 26 Absatz 1 Satz 2 des [Zivilschutz- und Katastrophenhilfegesetzes](../ZSKG_Zivilschutzgesetz.md),
 - 6. Aufgabenträger im Gesundheitswesen,
 - 7. Hilfs- und Rettungsdienste,
 

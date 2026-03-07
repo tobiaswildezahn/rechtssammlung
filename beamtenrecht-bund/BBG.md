@@ -297,20 +297,20 @@ Die Berufung in das Beamtenverhältnis ist nur zulässig zur Wahrnehmung
 {7}------------------------------------------------
 
 - (1) In das Beamtenverhältnis darf berufen werden, wer
-- 1. Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes ist oder die Staatsangehörigkeit
+- 1. Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des [Grundgesetzes](../grundgesetz/GG.md) ist oder die Staatsangehörigkeit
   - a) eines anderen Mitgliedstaates der Europäischen Union oder
   - b) eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder
   - c) eines Drittstaates, dem die Bundesrepublik Deutschland und die Europäische Union vertraglich einen entsprechenden Anspruch auf Anerkennung der Berufsqualifikationen eingeräumt haben,
 
 besitzt.
 
-- 2. die Gewähr dafür bietet, jederzeit für die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes einzutreten, und
+- 2. die Gewähr dafür bietet, jederzeit für die freiheitliche demokratische Grundordnung im Sinne des [Grundgesetzes](../grundgesetz/GG.md) einzutreten, und
 - 3. a) die für die entsprechende Laufbahn vorgeschriebene Vorbildung besitzt oder
   - b) die erforderliche Befähigung durch Lebens- und Berufserfahrung erworben hat.
 
 In das Beamtenverhältnis darf nicht berufen werden, wer unveränderliche Merkmale des Erscheinungsbilds aufweist, die mit der Erfüllung der Pflichten nach § 61 Absatz 2 nicht vereinbar sind.
 
-- (2) Wenn die Aufgaben es erfordern, darf nur eine Deutsche oder ein Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes in ein Beamtenverhältnis berufen werden.
+- (2) Wenn die Aufgaben es erfordern, darf nur eine Deutsche oder ein Deutscher im Sinne des Artikels 116 Absatz 1 des [Grundgesetzes](../grundgesetz/GG.md) in ein Beamtenverhältnis berufen werden.
 - (3) Das Bundesministerium des Innern und für Heimat kann Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 zulassen, wenn für die Berufung der Beamtin oder des Beamten ein dringendes dienstliches Bedürfnis besteht.
 
 #### § 8 Stellenausschreibung
@@ -613,7 +613,7 @@ Satz 1 Nummer 2 gilt nicht, wenn
 {16}------------------------------------------------
 
 - 1. die Beamtin oder der Beamte in ein Beamtenverhältnis auf Widerruf oder in ein Ehrenbeamtenverhältnis eintritt oder
-- 2. die oberste Dienstbehörde nach ihrem Ermessen die Fortdauer des Beamtenverhältnisses angeordnet hat, bevor die Beamtin oder der Beamte in das Dienst- oder Amtsverhältnis zu dem anderen Dienstherrn oder der Einrichtung eingetreten ist; bei Dienstherren im Sinne des Beamtenstatusgesetzes kann die Fortdauer nur mit deren Einvernehmen angeordnet werden.
+- 2. die oberste Dienstbehörde nach ihrem Ermessen die Fortdauer des Beamtenverhältnisses angeordnet hat, bevor die Beamtin oder der Beamte in das Dienst- oder Amtsverhältnis zu dem anderen Dienstherrn oder der Einrichtung eingetreten ist; bei Dienstherren im Sinne des [Beamtenstatusgesetzes](BeamtStG.md) kann die Fortdauer nur mit deren Einvernehmen angeordnet werden.
 - (2) Die oberste Dienstbehörde entscheidet darüber, ob die Voraussetzungen des Absatzes 1 Satz 1 vorliegen, und stellt den Tag der Beendigung des Beamtenverhältnisses fest. Die oberste Dienstbehörde kann diese Aufgaben auf unmittelbar nachgeordnete Behörden übertragen.
 
 # § 32 Entlassung aus zwingenden Gründen
@@ -622,7 +622,7 @@ Satz 1 Nummer 2 gilt nicht, wenn
 - 1. den Diensteid oder ein an dessen Stelle vorgeschriebenes Gelöbnis verweigern,
 - 2. nicht in den Ruhestand oder einstweiligen Ruhestand versetzt werden können, weil eine versorgungsrechtliche Wartezeit nicht erfüllt ist, oder
 - 3. zur Zeit der Ernennung Inhaberin oder Inhaber eines Amtes, das kraft Gesetzes mit dem Mandat unvereinbar ist, Mitglied des Deutschen Bundestages oder des Europäischen Parlaments waren und nicht innerhalb der von der obersten Dienstbehörde gesetzten angemessenen Frist ihr Mandat niederlegen.
-- (2) Beamtinnen und Beamte können entlassen werden, wenn sie in den Fällen des § 7 Abs. 2 die Eigenschaft als Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes verlieren.
+- (2) Beamtinnen und Beamte können entlassen werden, wenn sie in den Fällen des § 7 Abs. 2 die Eigenschaft als Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des [Grundgesetzes](../grundgesetz/GG.md) verlieren.
 
 # § 33 Entlassung auf Verlangen
 
@@ -698,7 +698,7 @@ Nach der Entlassung besteht kein Anspruch auf Besoldung und Versorgung, soweit g
 - 1. wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mindestens einem Jahr oder
 - 2. wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit, Volksverhetzung oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht, Bestechlichkeit strafbar ist, zu einer Freiheitsstrafe von mindestens sechs Monaten
 
-verurteilt, endet das Beamtenverhältnis mit der Rechtskraft des Urteils. Entsprechendes gilt, wenn die Fähigkeit zur Wahrnehmung öffentlicher Ämter aberkannt wird oder wenn Beamtinnen oder Beamte aufgrund einer Entscheidung des Bundesverfassungsgerichts nach Artikel 18 des Grundgesetzes ein Grundrecht verwirkt haben.
+verurteilt, endet das Beamtenverhältnis mit der Rechtskraft des Urteils. Entsprechendes gilt, wenn die Fähigkeit zur Wahrnehmung öffentlicher Ämter aberkannt wird oder wenn Beamtinnen oder Beamte aufgrund einer Entscheidung des Bundesverfassungsgerichts nach Artikel 18 des [Grundgesetzes](../grundgesetz/GG.md) ein Grundrecht verwirkt haben.
 
 (2) Nach Beendigung des Beamtenverhältnisses nach Absatz 1 besteht kein Anspruch auf Besoldung und Versorgung, soweit gesetzlich nichts anderes bestimmt ist. Die Amtsbezeichnung und die im Zusammenhang mit dem Amt verliehenen Titel dürfen nicht weiter geführt werden.
 
@@ -942,7 +942,7 @@ Im Fall der Auflösung oder einer wesentlichen Änderung des Aufbaus oder der Au
 
 # § 56 Beginn des einstweiligen Ruhestands; Bekenntnis zu der freiheitlichen demokratischen Grundordnung
 
-Wenn nicht im Einzelfall ausdrücklich ein späterer Zeitpunkt festgesetzt wird, beginnt der einstweilige Ruhestand mit dem Zeitpunkt, zu dem die Versetzung in den einstweiligen Ruhestand der Beamtin oder dem Beamten bekannt gegeben wird, spätestens jedoch mit dem Ende des dritten Monats, der auf den Monat der Bekanntgabe folgt. Die Verfügung kann bis zum Beginn des Ruhestands zurückgenommen werden. Politische Beamtinnen und politische Beamte müssen sich auch während des einstweiligen Ruhestands durch ihr gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bekennen.
+Wenn nicht im Einzelfall ausdrücklich ein späterer Zeitpunkt festgesetzt wird, beginnt der einstweilige Ruhestand mit dem Zeitpunkt, zu dem die Versetzung in den einstweiligen Ruhestand der Beamtin oder dem Beamten bekannt gegeben wird, spätestens jedoch mit dem Ende des dritten Monats, der auf den Monat der Bekanntgabe folgt. Die Verfügung kann bis zum Beginn des Ruhestands zurückgenommen werden. Politische Beamtinnen und politische Beamte müssen sich auch während des einstweiligen Ruhestands durch ihr gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des [Grundgesetzes](../grundgesetz/GG.md) bekennen.
 
 #### § 57 Erneute Berufung
 
@@ -965,7 +965,7 @@ Die Versetzung in den Ruhestand wird von der für die Ernennung zuständigen Ste
 
 # § 60 Grundpflichten
 
-- (1) Beamtinnen und Beamte dienen dem ganzen Volk, nicht einer Partei. Sie haben ihre Aufgaben unparteiisch und gerecht zu erfüllen und ihr Amt zum Wohl der Allgemeinheit zu führen. Beamtinnen und Beamte müssen sich durch ihr gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bekennen und für deren Erhaltung eintreten.
+- (1) Beamtinnen und Beamte dienen dem ganzen Volk, nicht einer Partei. Sie haben ihre Aufgaben unparteiisch und gerecht zu erfüllen und ihr Amt zum Wohl der Allgemeinheit zu führen. Beamtinnen und Beamte müssen sich durch ihr gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des [Grundgesetzes](../grundgesetz/GG.md) bekennen und für deren Erhaltung eintreten.
 - (2) Beamtinnen und Beamte haben bei politischer Betätigung diejenige Mäßigung und Zurückhaltung zu wahren, die sich aus ihrer Stellung gegenüber der Allgemeinheit und aus der Rücksicht auf die Pflichten ihres Amtes ergeben.
 
 # § 61 Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild
@@ -1071,7 +1071,7 @@ Werden Beamtinnen, Beamte, Versorgungsberechtigte oder ihre Angehörigen körper
 
 - (1) Beamtinnen und Beamte begehen ein Dienstvergehen, wenn sie schuldhaft die ihnen obliegenden Pflichten verletzen. Außerhalb des Dienstes ist dieses nur dann ein Dienstvergehen, wenn die Pflichtverletzung nach den Umständen des Einzelfalls in besonderem Maße geeignet ist, das Vertrauen in einer für ihr Amt oder das Ansehen des Beamtentums bedeutsamen Weise zu beeinträchtigen.
 - (2) Bei Ruhestandsbeamtinnen und Ruhestandsbeamten sowie früheren Beamtinnen mit Versorgungsbezügen und früheren Beamten mit Versorgungsbezügen gilt es als Dienstvergehen, wenn sie
-- 1. sich gegen die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes betätigen,
+- 1. sich gegen die freiheitliche demokratische Grundordnung im Sinne des [Grundgesetzes](../grundgesetz/GG.md) betätigen,
 - 2. an Bestrebungen teilnehmen, die darauf abzielen, den Bestand oder die Sicherheit der Bundesrepublik Deutschland zu beeinträchtigen,
 - 3. gegen die Verschwiegenheitspflicht, gegen die Anzeigepflicht oder das Verbot einer Tätigkeit nach Beendigung des Beamtenverhältnisses oder gegen das Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen verstoßen oder
 - 4. einer Verpflichtung nach § 46 Absatz 1, 2, 4 oder 7 oder § 57 schuldhaft nicht nachkommen.
@@ -1097,7 +1097,7 @@ Der Dienstherr hat im Rahmen des Dienst- und Treueverhältnisses für das Wohl d
 #### § 79 Mutterschutz, Elternzeit und Jugendarbeitsschutz
 
 - (1) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des Mutterschutzgesetzes auf Beamtinnen. Diese Rechtsverordnung stellt für Beamtinnen hinsichtlich Inhalt, Art und Umfang den Schutz sicher, der Frauen nach dem Mutterschutzgesetz gewährleistet wird. Für die Kontrolle und Überwachung der Einhaltung der dem Gesundheitsschutz dienenden mutterschutzrechtlichen Vorschriften gilt § 29 des Mutterschutzgesetzes entsprechend.
-- (2) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des Bundeselterngeld- und Elternzeitgesetzes über die Elternzeit auf Beamtinnen und Beamte. Das Bundesministerium des Innern und für Heimat kann in den Fällen des Artikels 91 Absatz 2 Satz 1 und des Artikels 115f Absatz 1 Nummer 1 des Grundgesetzes den Anspruch auf Elternzeit für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei aus zwingenden Gründen der inneren Sicherheit ausschließen oder einschränken.
+- (2) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des Bundeselterngeld- und Elternzeitgesetzes über die Elternzeit auf Beamtinnen und Beamte. Das Bundesministerium des Innern und für Heimat kann in den Fällen des Artikels 91 Absatz 2 Satz 1 und des Artikels 115f Absatz 1 Nummer 1 des [Grundgesetzes](../grundgesetz/GG.md) den Anspruch auf Elternzeit für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei aus zwingenden Gründen der inneren Sicherheit ausschließen oder einschränken.
 - (3) Das Jugendarbeitsschutzgesetz gilt für jugendliche Beamtinnen und jugendliche Beamte entsprechend. Die Bundesregierung kann durch Rechtsverordnung Ausnahmen von den Vorschriften des Jugendarbeitsschutzgesetzes für jugendliche Polizeivollzugsbeamtinnen und jugendliche Polizeivollzugsbeamte bestimmen, soweit diese aufgrund der Eigenart des Polizeivollzugsdienstes oder aus Gründen der inneren Sicherheit erforderlich sind.
 
 ### § 80 Beihilfe in Krankheits-, Pflege- und Geburtsfällen
@@ -1784,7 +1784,7 @@ Eine Abweichung von den Regelungen der allgemeinen Lehrverpflichtungsverordnung 
 
 # § 138 Anwendungsbereich
 
-Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 139 bis 142 sind nur nach Maßgabe des Artikels 80a des Grundgesetzes zulässig. Sie sind auf Personen im Sinne des § 5 Abs. 1 des Arbeitssicherstellungsgesetzes nicht anzuwenden.
+Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 139 bis 142 sind nur nach Maßgabe des Artikels 80a des [Grundgesetzes](../grundgesetz/GG.md) zulässig. Sie sind auf Personen im Sinne des § 5 Abs. 1 des [Arbeitssicherstellungsgesetzes](../zivile-verteidigung/sicherstellungsgesetze/ASG_Arbeitssicherstellungsgesetz.md) nicht anzuwenden.
 
 # § 139 Dienstleistung im Verteidigungsfall
 

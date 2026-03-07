@@ -151,7 +151,7 @@ Kostenersatz
 
 #### **Umfang des Katastrophenschutzes**
 
-- (1) Katastrophe im Sinne dieses Gesetzes ist eine Störung oder Gefährdung der öffentlichen Sicherheit oder Ordnung, zu deren Bekämpfung die Verstärkung der für den täglichen Einsatz bestimmten Kräfte und Mittel sowie die einheitliche Lenkung der Abwehrmaßnahmen mehrerer Behörden erforderlich sind, es sei denn, dass die Störung oder Gefährdung durch selbständige Abwehrmaßnahmen der zuständigen Behörden nach den Bestimmungen des Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung vom 14. März 1966 (Hamburgisches Gesetz- und Verordnungsblatt Seite 77) in der jeweils geltenden Fassung wirksam beseitigt werden kann.
+- (1) Katastrophe im Sinne dieses Gesetzes ist eine Störung oder Gefährdung der öffentlichen Sicherheit oder Ordnung, zu deren Bekämpfung die Verstärkung der für den täglichen Einsatz bestimmten Kräfte und Mittel sowie die einheitliche Lenkung der Abwehrmaßnahmen mehrerer Behörden erforderlich sind, es sei denn, dass die Störung oder Gefährdung durch selbständige Abwehrmaßnahmen der zuständigen Behörden nach den Bestimmungen des [Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung](../SOG_HA.md) vom 14. März 1966 (Hamburgisches Gesetz- und Verordnungsblatt Seite 77) in der jeweils geltenden Fassung wirksam beseitigt werden kann.
 - (2) <sup>1</sup>Katastrophenschutz im Sinne dieses Gesetzes ist der Schutz der Allgemeinheit und der Umwelt vor Gefährdungen und Schädigungen durch Katastrophen. <sup>2</sup>Er umfasst Maßnahmen zur Vorbereitung der Bekämpfung von Katastrophen (vorbeugender Katastrophenschutz) und Maßnahmen zur Bekämpfung von Katastrophen (abwehrender Katastrophenschutz).
 - (3) Der Katastrophenschutz soll die Selbsthilfe der Bevölkerung durch im öffentlichen Interesse gebotene behördliche Maßnahmen ergänzen und hierdurch den Einzelnen im Rahmen der organisatorischen und technischen Möglichkeiten vor der Entstehung oder Vergrößerung eines Schadens schützen.
 
@@ -200,7 +200,7 @@ Die Mitwirkung der Einheiten und Einrichtungen privater Hilfsorganisationen umfa
 - (1) Private Hilfsorganisationen sind verpflichtet,
 - 1. in ihren beim Katastrophenschutz mitwirkenden Einheiten und Einrichtungen nur Mitglieder einzusetzen, die zur Hilfeleistung beim Katastrophenschutz geeignet sind und sich hierzu verpflichtet haben,
 - 2. die Einsatzbereitschaft ihrer beim Katastrophenschutz mitwirkenden Einheiten und Einrichtungen sicherzustellen,
-- 3. der Freien und Hansestadt Hamburg alle Schäden, auch solche wegen Ersatzleistungen nach Artikel 34 Satz 1 des Grundgesetzes, zu ersetzen, die ihr durch vorsätzliche oder grobfahrlässige Pflichtverletzungen der Mitglieder während ihrer Mitwirkung bei Katastrophenschutz entstehen.
+- 3. der Freien und Hansestadt Hamburg alle Schäden, auch solche wegen Ersatzleistungen nach Artikel 34 Satz 1 des [Grundgesetzes](../../grundgesetz/GG.md), zu ersetzen, die ihr durch vorsätzliche oder grobfahrlässige Pflichtverletzungen der Mitglieder während ihrer Mitwirkung bei Katastrophenschutz entstehen.
 - 4. ihre Mitglieder hinsichtlich der ihnen bei ihren Hilfeleistungen beim Katastrophenschutz bekannt werdenden Angelegenheiten zur Verschwiegenheit zu verpflichten, und
 - 5. ihren Mitgliedern aufzuerlegen, Belohnungen in Bezug auf ihre Hilfeleistung beim Katastrophenschutz nur mit Zustimmung ihrer Organisation anzunehmen.
 - (2) <sup>1</sup>Eine Ersatzpflicht nach Absatz 1 Nummer 3 besteht nicht, soweit die Einheiten und Einrichtungen privater Hilfsorganisationen im Einzelfall auf besondere Weisung einer Katastrophenschutzbehörde gehandelt haben. <sup>2</sup>Bei Vorliegen grober Fahrlässigkeit kann von der Geltendmachung des Schadenersatzanspruchs ganz oder teilweise abgesehen werden, wenn besondere Umstände des Einzelfalls beim Eintritt des Schadens oder die besonderen Verhältnisse des Mitgliedes oder seiner Organisation dies angezeigt erscheinen lassen.
@@ -386,7 +386,7 @@ Der Helfer ist insbesondere verpflichtet,
 
 # § 23 Eigenverantwortlich, Verschwiegenheit und Belohnungen
 
-Die Vorschriften der §§ 36, 37 und 42 des Beamtenstatusgesetzes vom 17. Juni 2008 (BGBI. I S. 1010), geändert am 5. Februar 2009 (BGBI. I S. 160, 262), in der jeweils geltenden Fassung über die Eigenverantwortlichkeit, Amtsverschwiegenheit und die Annahme von Belohnungen gelten für Helfer entsprechend.
+Die Vorschriften der §§ 36, 37 und 42 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) vom 17. Juni 2008 (BGBI. I S. 1010), geändert am 5. Februar 2009 (BGBI. I S. 160, 262), in der jeweils geltenden Fassung über die Eigenverantwortlichkeit, Amtsverschwiegenheit und die Annahme von Belohnungen gelten für Helfer entsprechend.
 
 # § 24 Soziale Sicherung
 
@@ -419,8 +419,8 @@ Die Vorschriften der §§ 36, 37 und 42 des Beamtenstatusgesetzes vom 17. Juni 2
 
 {15}------------------------------------------------
 
-- (3) Absatz 2 gilt entsprechend, wenn die Freie und Hansestadt Hamburg einem Dritten auf Grund der Vorschrift des Artikels 34 Satz 1 des Grundgesetzes Schadenersatz geleistet hat.
-- (4) Für die Verjährung der Ansprüche gegen den Helfer und den Übergang von Ersatzansprüchen auf ihn gilt die Vorschrift des § 52 des Hamburgischen Beamtengesetzes vom 15. Dezember 2009 (HmbGVBI. S. 405) in der jeweils geltenden Fassung entsprechend.
+- (3) Absatz 2 gilt entsprechend, wenn die Freie und Hansestadt Hamburg einem Dritten auf Grund der Vorschrift des Artikels 34 Satz 1 des [Grundgesetzes](../../grundgesetz/GG.md) Schadenersatz geleistet hat.
+- (4) Für die Verjährung der Ansprüche gegen den Helfer und den Übergang von Ersatzansprüchen auf ihn gilt die Vorschrift des § 52 des [Hamburgischen Beamtengesetzes](../beamtenrecht/BG_HA_2009.md) vom 15. Dezember 2009 (HmbGVBI. S. 405) in der jeweils geltenden Fassung entsprechend.
 
 #### Vierter Teil Kosten
 
@@ -462,7 +462,7 @@ nicht, nicht vollständig oder nicht rechtzeitig befolgt.
 
 # § 30 Einschränkung von Grundrechten
 
-Durch dieses Gesetz werden die Grundrechte auf körperliche Unversehrtheit, Freiheit der Person und Unverletzlichkeit der Wohnung (Artikel 2 und 13 des Grundgesetzes) eingeschränkt.
+Durch dieses Gesetz werden die Grundrechte auf körperliche Unversehrtheit, Freiheit der Person und Unverletzlichkeit der Wohnung (Artikel 2 und 13 des [Grundgesetzes](../../grundgesetz/GG.md)) eingeschränkt.
 
 #### § 31 Inkrafttreten
 

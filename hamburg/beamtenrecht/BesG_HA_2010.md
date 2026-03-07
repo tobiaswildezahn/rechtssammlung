@@ -435,7 +435,7 @@ Gesamtausgabe in der Gültigkeit vom 01.11.2025 bis 31.07.2026
 - (2) Zusicherungen, Vereinbarungen und Vergleiche, die der Beamtin, dem Beamten, der Richterin oder dem Richter eine höhere als die gesetzlich zustehende Besoldung verschaffen sollen, sind unwirksam. Das Gleiche gilt für Versicherungsverträge, die zu diesem Zweck abgeschlossen werden.
 - (3) Für die Leasingrate für vom Dienstherrn geleaste Dienstfahrzeuge, die auch zur privaten Nutzung überlassen werden, kann eine Besoldungsumwandlung erfolgen. Diese setzt voraus, dass sie für eine Maßnahme erfolgt, die den Beamtinnen, Beamten, Richterinnen und Richtern vom Dienstherrn angeboten wird und es diesen freigestellt ist, ob sie das Angebot annehmen.
 - (4) Die Beamtin, der Beamte, die Richterin oder der Richter kann auf die gesetzlich zustehende Besoldung weder ganz noch teilweise verzichten. Ausgenommen hiervon sind die vermögenswirksamen Leistungen und Leistungen im Rahmen einer Besoldungsumwandlung nach Absatz 3.
-- (5) In den Bereich eines Dienstherrn eines anderen Landes oder des Bundes nach § 14 Absatz 1 des Beamtenstatusgesetzes (BeamtStG) vom 17. Juni 2008 (BGBI. I S. 1010), geändert am 5. Februar 2009 (BGBI. I S. 160, 262), in der jeweils geltenden Fassung abgeordnete Beamtinnen oder Beamte und nach § 71 des Deutschen Richtergesetzes (DRiG) in der Fassung vom 19. April 1972 (BGBI. I S. 714), zuletzt geändert am 31. August 2015 (BGBI. I S. 1474, 1496), in der jeweils geltenden Fassung in Verbindung mit [§ 14 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) abgeordnete Richterinnen oder Richter können auf ihren Antrag während der Abordnung neben der Besoldung nach diesem Gesetz nach dem Recht des aufnehmenden Dienstherrn ihrem statusrechtlichen Amt entsprechende Besoldungsbestandteile erhalten, soweit dies zwischen den Dienstherren im Rahmen der Abordnung vereinbart worden ist und der aufnehmende Dienstherr etwaige Mehrkosten trägt.
+- (5) In den Bereich eines Dienstherrn eines anderen Landes oder des Bundes nach § 14 Absatz 1 des [Beamtenstatusgesetzes](../../beamtenrecht-bund/BeamtStG.md) (BeamtStG) vom 17. Juni 2008 (BGBI. I S. 1010), geändert am 5. Februar 2009 (BGBI. I S. 160, 262), in der jeweils geltenden Fassung abgeordnete Beamtinnen oder Beamte und nach § 71 des Deutschen Richtergesetzes (DRiG) in der Fassung vom 19. April 1972 (BGBI. I S. 714), zuletzt geändert am 31. August 2015 (BGBI. I S. 1474, 1496), in der jeweils geltenden Fassung in Verbindung mit [§ 14 BeamtStG](../../beamtenrecht-bund/BeamtStG.md) abgeordnete Richterinnen oder Richter können auf ihren Antrag während der Abordnung neben der Besoldung nach diesem Gesetz nach dem Recht des aufnehmenden Dienstherrn ihrem statusrechtlichen Amt entsprechende Besoldungsbestandteile erhalten, soweit dies zwischen den Dienstherren im Rahmen der Abordnung vereinbart worden ist und der aufnehmende Dienstherr etwaige Mehrkosten trägt.
 
 ### § 4 Anspruch auf Besoldung
 
@@ -474,7 +474,7 @@ Hat die Beamtin, der Beamte, die Richterin oder der Richter mit Genehmigung der 
 
 {13}------------------------------------------------
 
-- (1) Bei einer Pflegezeit nach § 63a Absatz 2 des Hamburgischen Beamtengesetzes vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 20. Dezember 2016 (HmbGVBI. S. 570, 571), oder nach § 4a Absatz 2 des Hamburgischen Richtergesetzes vom 2. Mai 1991 (HmbGVBI. S. 169), zuletzt geändert am 8. Juli 2014 (HmbGVBI. S. 299, 320), oder einer Familienpflegezeit nach § 63b Absatz 1 des Hamburgischen Beamtengesetzes oder nach § 4b Absatz 1 des Hamburgischen Richtergesetzes wird für den Zeitraum
+- (1) Bei einer Pflegezeit nach § 63a Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 20. Dezember 2016 (HmbGVBI. S. 570, 571), oder nach § 4a Absatz 2 des Hamburgischen Richtergesetzes vom 2. Mai 1991 (HmbGVBI. S. 169), zuletzt geändert am 8. Juli 2014 (HmbGVBI. S. 299, 320), oder einer Familienpflegezeit nach § 63b Absatz 1 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) oder nach § 4b Absatz 1 des Hamburgischen Richtergesetzes wird für den Zeitraum
 - 1. des Urlaubs ohne Bezüge oder
 - 2. der Teilzeitbeschäftigung neben den Bezügen nach § 7 Absatz 1
 
@@ -606,7 +606,7 @@ Die Funktionen der Beamtinnen, Beamten, Richterinnen und Richter sind nach den m
 | 4. | des 58. Lebensjahres | 1.540 Euro. |
 
 - (4) Maßgebend für die Höhe der Zuwendung nach Absatz 2 ist das Lebensalter im Zeitpunkt des Übertritts in eine andere Laufbahn einer anderen Fachrichtung. Die Zuwendung ist zum Zeitpunkt des Übertritts zu zahlen. Als Zeitpunkt des Übertritts gilt der Tag, mit dem die Versetzung wirksam wird.
-- (5) Die Zuwendung nach Absatz 2 ist zurückzuzahlen, wenn das Beamtenverhältnis vor Ablauf von vier Jahren nach dem Übertritt der Beamtin oder des Beamten in die andere Laufbahn oder vor Vollendung ihres oder seines 55. Lebensjahres durch Entlassung, Verlust der Beamtenrechte oder Entfernung aus dem Dienst nach dem Hamburgischen Disziplinargesetz endet.
+- (5) Die Zuwendung nach Absatz 2 ist zurückzuzahlen, wenn das Beamtenverhältnis vor Ablauf von vier Jahren nach dem Übertritt der Beamtin oder des Beamten in die andere Laufbahn oder vor Vollendung ihres oder seines 55. Lebensjahres durch Entlassung, Verlust der Beamtenrechte oder Entfernung aus dem Dienst nach dem [Hamburgischen Disziplinargesetz](DG_HA.md) endet.
 
 ### Unterabschnitt 2 Vorschriften für Beamtinnen und Beamte
 
@@ -920,7 +920,7 @@ dieses einen Anspruch auf den Familienzuschlag nach Stufe 2 oder einer der folge
 
 {34}------------------------------------------------
 
-- (5) Die mit der Bearbeitung von Personalangelegenheiten beauftragten Stellen sind berechtigt, die zum Zwecke der Bewilligung und Bemessung des Besoldungsergänzungszuschusses erforderlichen personenbezogenen Daten der Ehegattin, des Ehegatten, der eingetragenen Lebenspartnerin oder des eingetragenen Lebenspartners der Beamtin oder des Beamten, sowie der nach § 45 Absatz 2 berücksichtigungsfähigen Kinder zu verarbeiten. Für die Verarbeitung dieser personenbezogenen Daten gelten ergänzend zur Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABI. EU 2016 Nr. L 119 S. 1, L 314 S. 72, 2018 Nr. L 127 S. 2, 2021 Nr. L 74 S. 35) die Bestimmungen des Hamburgischen Datenschutzgesetzes vom 18. Mai 2018 (HmbGVBI. S. 145), geändert am 24. Januar 2023 (HmbGVBI. S. 67). Die §§ 85 bis 92 des Hamburgischen Beamtengesetzes vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 11. Juli 2023 (HmbGVBI. S. 250), in der jeweils geltenden Fassung bleiben unberührt.
+- (5) Die mit der Bearbeitung von Personalangelegenheiten beauftragten Stellen sind berechtigt, die zum Zwecke der Bewilligung und Bemessung des Besoldungsergänzungszuschusses erforderlichen personenbezogenen Daten der Ehegattin, des Ehegatten, der eingetragenen Lebenspartnerin oder des eingetragenen Lebenspartners der Beamtin oder des Beamten, sowie der nach § 45 Absatz 2 berücksichtigungsfähigen Kinder zu verarbeiten. Für die Verarbeitung dieser personenbezogenen Daten gelten ergänzend zur Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABI. EU 2016 Nr. L 119 S. 1, L 314 S. 72, 2018 Nr. L 127 S. 2, 2021 Nr. L 74 S. 35) die Bestimmungen des Hamburgischen Datenschutzgesetzes vom 18. Mai 2018 (HmbGVBI. S. 145), geändert am 24. Januar 2023 (HmbGVBI. S. 67). Die §§ 85 bis 92 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 11. Juli 2023 (HmbGVBI. S. 250), in der jeweils geltenden Fassung bleiben unberührt.
 - (6) Die oberste Dienstbehörde wird ermächtigt, die Bemessungswerte bei weiteren Kindern sowie die sich für die Stufen der Besoldungsgruppen ergebenden Beträge auf Basis der Berechnung der in der Anlage VIIa ausgewiesenen Beträge bekannt zu geben.
 
 #### § 46 Änderung des Familienzuschlags
@@ -1090,7 +1090,7 @@ Professorinnen und Professoren an einer Hochschule, die zugleich das Amt einer R
 zulage angerechnet. Bezugszeiten von Stellenzulagen, die bereits zu einem Anspruch auf eine Ausgleichszulage geführt haben, bleiben für weitere Ausgleichsansprüche unberücksichtigt.
 
 - (2) Bestand innerhalb des Zeitraumes nach Absatz 1 Satz 1 ein Anspruch auf mehrere Stellenzulagen für einen Gesamtzeitraum von mindestens fünf Jahren, ohne dass der Beamtin, dem Beamten, der Richterin oder dem Richter eine Stellenzulage allein für fünf Jahre zugestanden hat, gilt Absatz 1 mit der Maßgabe, dass die Stellenzulage mit dem jeweils niedrigsten Betrag ausgeglichen wird.
-- (3) Erfolgte der Wegfall einer Stellenzulage infolge einer Versetzung nach § 29 Absatz 3 des Hamburgischen Beamtengesetzes vom 15. Dezember 2009 (HmbGVBl. S. 405) in der jeweils geltenden Fassung, gilt Absatz 1 mit der Maßgabe, dass sich der Bezugszeitraum der Stellenzulage nach Absatz 1 Satz 1 und Absatz 2 Satz 1 auf zwei Jahre verkürzt.
+- (3) Erfolgte der Wegfall einer Stellenzulage infolge einer Versetzung nach § 29 Absatz 3 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) vom 15. Dezember 2009 (HmbGVBl. S. 405) in der jeweils geltenden Fassung, gilt Absatz 1 mit der Maßgabe, dass sich der Bezugszeitraum der Stellenzulage nach Absatz 1 Satz 1 und Absatz 2 Satz 1 auf zwei Jahre verkürzt.
 - (4) Die Absätze 1 bis 3 gelten entsprechend, wenn eine Ruhegehaltempfängerin oder ein Ruhegehaltempfänger erneut in ein Beamten- oder Richterverhältnis berufen wird oder wenn einer Beamtin, einem Beamten, einer Richterin oder einem Richter im unmittelbaren Zusammenhang mit einem Verwendungswechsel eine zuvor gewährte Stellenzulage nur noch mit einem geringeren Betrag zusteht und die jeweilige Zulagenvorschrift keinen anderweitigen Ausgleich vorsieht.
 
 ### § 62a Ausgleichszulage bei Dienstherrenwechsel
@@ -1107,7 +1107,7 @@ zulage angerechnet. Bezugszeiten von Stellenzulagen, die bereits zu einem Anspru
 
 #### Mehrarbeitsvergütung
 
-(1) Der Senat wird ermächtigt, durch Rechtsverordnung\*) die Gewährung einer Mehrarbeitsvergütung (§ 61 Absatz 3 des Hamburgischen Beamtengesetzes) für Beamtinnen und Beamte zu regeln, soweit die Mehrarbeit nicht durch Dienstbefreiung ausgeglichen wird. Die Vergütung darf grundsätzlich nur
+(1) Der Senat wird ermächtigt, durch Rechtsverordnung\*) die Gewährung einer Mehrarbeitsvergütung (§ 61 Absatz 3 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md)) für Beamtinnen und Beamte zu regeln, soweit die Mehrarbeit nicht durch Dienstbefreiung ausgeglichen wird. Die Vergütung darf grundsätzlich nur
 
 {41}------------------------------------------------
 
@@ -1232,7 +1232,7 @@ Beamtinnen, Beamte, Richterinnen und Richter erhalten vermögenswirksame Leistun
 
 ### Übergangsregelungen bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
 
-Bei Zeiten im Sinne des § 10 Absatz 1 Satz 1, die bis zum 31. Dezember 1991 zurückgelegt sind, ist § 8 des Bundesbesoldungsgesetzes in der bis zum 31. Dezember 1991 geltenden Fassung anzuwenden. Für Zeiten ab dem 1. Januar 1992 bis zum 31. Dezember 2002 beträgt die Kürzung nach § 10 Absatz 1 Satz 2 1,875 vom Hundert. Für Zeiten ab dem 1. Januar 2003 ist der Vomhundertsatz des § 10 Absatz 1 Satz 2 vervielfältigt mit dem jeweiligen in § 16 Absatz 6 des Hamburgischen Beamtenversorgungsgesetzes vom 26. Januar 2010 (HmbGVBI. S. 23, 72) genannten Faktor anzuwenden.
+Bei Zeiten im Sinne des § 10 Absatz 1 Satz 1, die bis zum 31. Dezember 1991 zurückgelegt sind, ist § 8 des Bundesbesoldungsgesetzes in der bis zum 31. Dezember 1991 geltenden Fassung anzuwenden. Für Zeiten ab dem 1. Januar 1992 bis zum 31. Dezember 2002 beträgt die Kürzung nach § 10 Absatz 1 Satz 2 1,875 vom Hundert. Für Zeiten ab dem 1. Januar 2003 ist der Vomhundertsatz des § 10 Absatz 1 Satz 2 vervielfältigt mit dem jeweiligen in § 16 Absatz 6 des [Hamburgischen Beamtenversorgungsgesetzes](BeamtVG_HA.md) vom 26. Januar 2010 (HmbGVBI. S. 23, 72) genannten Faktor anzuwenden.
 
 #### § 76
 

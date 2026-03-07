@@ -162,7 +162,7 @@ Die Eigentümer und Besitzer von Grundstücken und die Inhaber sonstiger Rechte 
 #### § 16 Ausführung des Gesetzes
 
 - (1) Dieses Gesetz und die auf Grund dieses Gesetzes ergangenen Rechtsverordnungen werden von den Ländern einschließlich der Gemeinden und Gemeindeverbände im Auftrag des Bundes ausgeführt.
-- (2) Der Bundesminister des Innern, für Bau und Heimat übt die Befugnisse der Bundesregierung nach Artikel 85 des Grundgesetzes aus. Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des Grundgesetzes bedürfen nicht der Zustimmung des Bundesrates, wenn die Verwaltungsvorschriften die Ausführung von Rechtsverordnungen betreffen, die ohne Zustimmung des Bundesrates erlassen worden sind.
+- (2) Der Bundesminister des Innern, für Bau und Heimat übt die Befugnisse der Bundesregierung nach Artikel 85 des [Grundgesetzes](../../grundgesetz/GG.md) aus. Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des [Grundgesetzes](../../grundgesetz/GG.md) bedürfen nicht der Zustimmung des Bundesrates, wenn die Verwaltungsvorschriften die Ausführung von Rechtsverordnungen betreffen, die ohne Zustimmung des Bundesrates erlassen worden sind.
 - (3) In Ländern, in denen in den Gemeinden und Gemeindeverbänden für Auftragsangelegenheiten ein kollegiales Organ zuständig ist, tritt an dessen Stelle der Hauptverwaltungsbeamte der Gemeinde oder des Gemeindeverbandes.
 
 #### § 17 Vorbereitung des Vollzugs
@@ -265,7 +265,7 @@ Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften d
 
 #### § 36 Einschränkung des Grundrechts der Unverletzlichkeit der Wohnung
 
-Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
+Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des [Grundgesetzes](../../grundgesetz/GG.md)) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 #### § 37 Inkrafttreten
 
@@ -273,4 +273,4 @@ Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
 #### **Schlußformel**
 
-Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.
+Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des [Grundgesetzes](../../grundgesetz/GG.md) erforderliche Zustimmung erteilt.

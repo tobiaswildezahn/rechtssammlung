@@ -10,7 +10,7 @@ Der Senat beantragt, die Bürgerschaft wolle das nachstehende Gesetz beschließe
 
 ### Gesetz
 
-zur Anpassung datenschutzrechtlicher Vorschriften im Hamburgischen Katastrophenschutzgesetz, Feuerwehrgesetz, Hamburgischen Rettungsdienstgesetz und im Hafensicherheitsgesetz
+zur Anpassung datenschutzrechtlicher Vorschriften im [Hamburgischen Katastrophenschutzgesetz](../katastrophenschutz/KatSchG_HA.md), Feuerwehrgesetz, [[Hamburgischen Rettungsdienstgesetz](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md)](../katastrophenschutz/RettDG_HA_2019.md) und im Hafensicherheitsgesetz
 
 Vom . . . . . . . .
 
@@ -18,7 +18,7 @@ Vom . . . . . . . .
 
 ## Änderung des Hamburgischen Katastrophenschutzgesetzes
 
-§18a des Hamburgischen Katastrophenschutzgesetzes vom 16. Januar 1978 (HmbGVBI. S. 31), zuletzt geändert am 15. Juli 2015 (HmbGVBI. S. 188), wird wie folgt geändert:
+§18a des [Hamburgischen Katastrophenschutzgesetzes](../katastrophenschutz/KatSchG_HA.md) vom 16. Januar 1978 (HmbGVBI. S. 31), zuletzt geändert am 15. Juli 2015 (HmbGVBI. S. 188), wird wie folgt geändert:
 
 - In Satz 1 werden die Wörter "erhoben und" gestrichen.
 - 2. Satz 2 wird gestrichen.
@@ -48,13 +48,13 @@ im erforderlichen Umfang verarbeitet werden, soweit und solange dieser Zweck nic
 
 - (2) Die zuständige Behörde speichert Notrufe und Meldungen über sonstige Notrufeinrichtungen sowie den Funkverkehr ihrer Leitstelle. Sie kann sonstige Telekommunikation speichern, wenn dies für ihre Aufgabenerfüllung erforderlich ist; auf die Speicherungen soll hingewiesen werden, soweit dadurch die Aufgabenerfüllung nicht gefährdet wird. Neben den in §6 des Hamburgischen Datenschutzgesetzes benannten Zwecken dürfen die Aufzeichnungen auch zur Dokumentation behördlichen Handelns verarbeitet werden. Diese Aufzeichnungen sind spätestens nach sechs Monaten zu löschen, wenn sie nicht zu einem Zweck nach Satz 3 verarbeitet werden.
 - (3) Neben den in Absatz 1 und §6 des Hamburgischen Datenschutzgesetzes genannten Zwecken dürfen die Daten im Einzelfall auf Ersuchen verarbeitet werden, soweit eine Rechtsvorschrift zu Auskünften verpflichtet."
-- In §29 wird hinter der Textstelle "(Artikel 2 Absatz 2 Satz 2 des Grundgesetzes)" die Textstelle "Unverletzlichkeit des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes)" eingefügt.
+- In §29 wird hinter der Textstelle "(Artikel 2 Absatz 2 Satz 2 des [Grundgesetzes](../../grundgesetz/GG.md))" die Textstelle "Unverletzlichkeit des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des [Grundgesetzes](../../grundgesetz/GG.md))" eingefügt.
 
 ### Artikel 3
 
 ## Änderung des Hamburgischen Rettungsdienstgesetzes
 
-Das Hamburgische Rettungsdienstgesetz vom 9. Juni 1992 (HmbGVBI. S. 117), zuletzt geändert am 20. Juli 2017 (HmbGVBI. S. 228), wird wie folgt geändert:
+Das [[Hamburgische Rettungsdienstgesetz](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md)](../katastrophenschutz/RettDG_HA_2019.md) vom 9. Juni 1992 (HmbGVBI. S. 117), zuletzt geändert am 20. Juli 2017 (HmbGVBI. S. 228), wird wie folgt geändert:
 
 In der Inhaltsübersicht wird der Eintrag zum Fünften Teil wie folgt geändert:
 
@@ -95,7 +95,7 @@ im erforderlichen Umfang verarbeitet werden, soweit und solange dieser Zweck nic
 
 Durch dieses Gesetz wird das Grundrecht auf Unverletzlichkeit des Brief-, Post- und Fernmelde-
 
-geheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt."
+geheimnisses (Artikel 10 des [Grundgesetzes](../../grundgesetz/GG.md)) eingeschränkt."
 
 ### Artikel 4
 
@@ -130,13 +130,13 @@ Dieses Gesetz tritt am 25. Mai 2018 in Kraft.
 
 ## **Allgemeines**
 
-Dieses Artikelgesetz dient der Anpassung und Umsetzung der unionsrechtlichen Vorgaben der am 25. Mai 2018 in Kraft tretenden Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABI. L 119 vom 4. Mai 2016, S. 1 ff. – im Folgenden nur: Verordnung (EU) 2016/679) im Hamburgischen Katastrophenschutzgesetz, Feuerwehrgesetz, Hamburgischen Rettungsdienstgesetz und im Hafensicherheitsgesetz. Die Verordnung stellt ab dem 25. Mai 2018 unmittelbar geltendes Recht in allen Mitgliedsstaaten der europäischen Union dar.
+Dieses Artikelgesetz dient der Anpassung und Umsetzung der unionsrechtlichen Vorgaben der am 25. Mai 2018 in Kraft tretenden Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABI. L 119 vom 4. Mai 2016, S. 1 ff. – im Folgenden nur: Verordnung (EU) 2016/679) im [Hamburgischen Katastrophenschutzgesetz](../katastrophenschutz/KatSchG_HA.md), Feuerwehrgesetz, [[Hamburgischen Rettungsdienstgesetz](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md)](../katastrophenschutz/RettDG_HA_2019.md) und im Hafensicherheitsgesetz. Die Verordnung stellt ab dem 25. Mai 2018 unmittelbar geltendes Recht in allen Mitgliedsstaaten der europäischen Union dar.
 
 Zielsetzung der Verordnung ist die Schaffung eines gleichwertigen Schutzniveaus für die Rechte und Freiheiten von natürlichen Personen bei der Verarbeitung personenbezogener Daten in allen Mitgliedstaaten der Union (Erwägungsgrund 10).
 
 Obwohl die Verordnung (EU) 2016/679 unmittelbar geltendes Recht in allen Mitgliedsstaaten setzt, ergibt sich Änderungsbedarf für die landesrechtlichen Gesetze. Nebst der Übernahme neuer Begrifflichkeiten müssen auch auf Grund der neuen vorgegebenen Strukturen Anpassungen an den Landesgesetzen vorgenommen werden. Die Verordnung (EU) 2016/679 schafft insoweit durch Öffnungsklauseln auch die Möglichkeit, auf nationaler Ebene bereichsspezifische Regelungen zu erlassen.
 
-Ergänzend werden im Rahmen dieser Novellierung auch Anpassungsbedarfe an die datenschutzrechtlichen Regelungen im Hamburgischen Rettungsdienstgesetz und im Feuerwehrgesetz umgesetzt. Im Feuerwehrgesetz wird zur Schaffung von Rechtssicherheit mit §5 eine eigene Rechtsgrundlage für die Datenverarbeitung geschaffen. In der neuen Regelung des Feuerwehrgesetzes wie auch in der Datenschutznorm des Hamburgischen Rettungsdienstgesetzes werden insbesondere die zunehmenden Anforderungen des Qualitätsmanagements, der Digitalisierung und Spezialisierung von Arbeitsprozessen im Bereich des Controllings und der Aus- und Fortbildung sowie der Bedarfsplanung berücksichtigt. Als Maßnahmen des Datenschutzes werden die Anonymisierung und Pseudonymisierung erstmalig in die Vorschriften aufgenommen. Zusätzlich werden die Voraussetzungen, unter denen eine Offenlegung personenbezogener Daten zu anderen als den ursprünglichen Zwecken zulässig ist, genau festgelegt. Hierzu zählt insbesondere die Offenlegung soweit der Anlass des Einsatzes zugleich eine Gefahr für die öffentliche Sicherheit und Ordnung darstellt.
+Ergänzend werden im Rahmen dieser Novellierung auch Anpassungsbedarfe an die datenschutzrechtlichen Regelungen im [[Hamburgischen Rettungsdienstgesetz](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md)](../katastrophenschutz/RettDG_HA_2019.md) und im Feuerwehrgesetz umgesetzt. Im Feuerwehrgesetz wird zur Schaffung von Rechtssicherheit mit §5 eine eigene Rechtsgrundlage für die Datenverarbeitung geschaffen. In der neuen Regelung des Feuerwehrgesetzes wie auch in der Datenschutznorm des [[Hamburgischen Rettungsdienstgesetzes](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md)](../katastrophenschutz/RettDG_HA_2019.md) werden insbesondere die zunehmenden Anforderungen des Qualitätsmanagements, der Digitalisierung und Spezialisierung von Arbeitsprozessen im Bereich des Controllings und der Aus- und Fortbildung sowie der Bedarfsplanung berücksichtigt. Als Maßnahmen des Datenschutzes werden die Anonymisierung und Pseudonymisierung erstmalig in die Vorschriften aufgenommen. Zusätzlich werden die Voraussetzungen, unter denen eine Offenlegung personenbezogener Daten zu anderen als den ursprünglichen Zwecken zulässig ist, genau festgelegt. Hierzu zählt insbesondere die Offenlegung soweit der Anlass des Einsatzes zugleich eine Gefahr für die öffentliche Sicherheit und Ordnung darstellt.
 
 Ш
 
@@ -186,13 +186,13 @@ Absatz 3 regelt Ausnahmen, in denen die Zweckbindung des Absatzes 1 durchbrochen
 
 ### Zu Nummer 2
 
-Die Änderung des §29 dient der Wahrung des Zitiergebotes gemäß Artikel 19 Absatz 1 Satz 2 des Grundgesetzes.
+Die Änderung des §29 dient der Wahrung des Zitiergebotes gemäß Artikel 19 Absatz 1 Satz 2 des [Grundgesetzes](../../grundgesetz/GG.md).
 
 ### Artikel 3
 
 ## Zu Nummer 1
 
-Auf Grund der Schaffung einer neuen Norm zur Berücksichtigung des Zitiergebot gemäß Artikel 19 Absatz 1 Satz 2 des Grundgesetzes ist die Anpassung der Inhaltsübersicht notwendig.
+Auf Grund der Schaffung einer neuen Norm zur Berücksichtigung des Zitiergebot gemäß Artikel 19 Absatz 1 Satz 2 des [Grundgesetzes](../../grundgesetz/GG.md) ist die Anpassung der Inhaltsübersicht notwendig.
 
 ### Zu Nummer 2
 
@@ -242,7 +242,7 @@ Im Übrigen wurden lediglich Anpassungen an die geschlechtergerechte Normsprache
 
 ### Zu Nummer 3
 
-Mit der Regelung des neuen § 26a wird dem Zitiergebot gemäß Artikel 19 Absatz 1 Satz 2 des Grundgesetzes Rechnung getragen.
+Mit der Regelung des neuen § 26a wird dem Zitiergebot gemäß Artikel 19 Absatz 1 Satz 2 des [Grundgesetzes](../../grundgesetz/GG.md) Rechnung getragen.
 
 ### Artikel 4
 
@@ -295,9 +295,9 @@ Anlage 1
 
 {10}------------------------------------------------
 
-| (2) übe Gibe Gibe Gibe Gibe Gibe Gibe Gibe Gi                                                       | (2) Die zuständige Behörde speichert Notrufe und Meldungen über sonstige Notrufeinrichtungen sowie den Funkverkehr ihrer Leitstelle. Sie kann sonstige Telekommunikation speichern, wenn dies für ihre Aufgabenerfüllung erforderlich ist, auf die Speicherungen soll hingewiesen werden, soweit dadurch die Aufgabenerfüllung nicht gefährdet wird. Neben den in § 6 des Hamburgischen Datenschutzgesetzes benannten Zwecken dürfen die Aufzeichnungen auch zur Dokumentation behördlichen Handelns verarbeitet werden. Diese Aufzeichnungen sind spätestens nach sechs Monaten zu löschen, wenn sie nicht zu einem Zweck nach Satz 3 verarbeitet werden.  (3) Neben den in Absatz 1 und § 6 des Hamburgischen Datenschutzgesetzes genannten Zwecken dürfen die Daten im Einzelfall auf Ersuchen verarbeitet werden, soweit eine Rechtsvorschrift zu Auskünften verpflichtet.  § 29  Einschränkung von Grundrechten  Burch dieses Gesetz werden die Grundrechte auf Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), |  |
+| (2) übe Gibe Gibe Gibe Gibe Gibe Gibe Gibe Gi                                                       | (2) Die zuständige Behörde speichert Notrufe und Meldungen über sonstige Notrufeinrichtungen sowie den Funkverkehr ihrer Leitstelle. Sie kann sonstige Telekommunikation speichern, wenn dies für ihre Aufgabenerfüllung erforderlich ist, auf die Speicherungen soll hingewiesen werden, soweit dadurch die Aufgabenerfüllung nicht gefährdet wird. Neben den in § 6 des Hamburgischen Datenschutzgesetzes benannten Zwecken dürfen die Aufzeichnungen auch zur Dokumentation behördlichen Handelns verarbeitet werden. Diese Aufzeichnungen sind spätestens nach sechs Monaten zu löschen, wenn sie nicht zu einem Zweck nach Satz 3 verarbeitet werden.  (3) Neben den in Absatz 1 und § 6 des Hamburgischen Datenschutzgesetzes genannten Zwecken dürfen die Daten im Einzelfall auf Ersuchen verarbeitet werden, soweit eine Rechtsvorschrift zu Auskünften verpflichtet.  § 29  Einschränkung von Grundrechten  Burch dieses Gesetz werden die Grundrechte auf Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des [Grundgesetzes](../../grundgesetz/GG.md)), |  |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) Umeingeschränkt. (Arteingeschränkt. Wo | Unverletzlichkeit des Brief., Post- und Fernmeldegeheimnisses<br>(Artikel 10 des Grundgesetzes) und Unverletzlichkeit der<br>Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |  |
+| Unverletzlichkeit der Wohnung (Artikel 13 des [Grundgesetzes](../../grundgesetz/GG.md)) Umeingeschränkt. (Arteingeschränkt. Wo | Unverletzlichkeit des Brief., Post- und Fernmeldegeheimnisses<br>(Artikel 10 des [Grundgesetzes](../../grundgesetz/GG.md)) und Unverletzlichkeit der<br>Wohnung (Artikel 13 des [Grundgesetzes](../../grundgesetz/GG.md)) eingeschränkt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |  |
 
 {11}------------------------------------------------
 

@@ -2,7 +2,7 @@
 
 **vom 14. Mai 2013, zuletzt geändert am 15. März 2016**
 
-Auf Grund von [§ 68 Absatz 2 HmbBG](BG_HA_2009.md) ([Hamburgisches Beamtengesetz](BG_HA_2009.md) in der Fassung vom 15. Dezember 2009, HmbGVBl. 2009, S. 405, zuletzt geändert am 30. Oktober 2012, HmbGVBl. S. 454) und von § 8 Absatz 1 des Hamburgischen Richtergesetzes (vom 2. Mai 1991, HmbGVBl. S. 169, zuletzt geändert am 15. November 2011, HmbGVBl. S. 503), in den jeweils geltenden Fassungen werden die nachstehenden Richtlinien über die Bewilligung von Urlaub aus anderen Anlässen (Sonderurlaub) für Beamtinnen und Beamte sowie für Richterinnen und Richter erlassen:
+Auf Grund von § 68 Absatz 2 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) ([HmbBG](BG_HA_2009.md)) in der Fassung vom 15. Dezember 2009 (HmbGVBl. 2009, S. 405), zuletzt geändert am 30. Oktober 2012 (HmbGVBl. S. 454), und von § 8 Absatz 1 des Hamburgischen Richtergesetzes vom 2. Mai 1991 (HmbGVBl. S. 169), zuletzt geändert am 15. November 2011 (HmbGVBl. S. 503), in den jeweils geltenden Fassungen werden die nachstehenden Richtlinien über die Bewilligung von Urlaub aus anderen Anlässen (Sonderurlaub) für Beamtinnen und Beamte sowie für Richterinnen und Richter erlassen:
 
 ## Nr. 1 Allgemeines
 

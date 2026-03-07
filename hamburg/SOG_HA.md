@@ -420,7 +420,7 @@ auch nach Fortfall der Beschwer zulässig. <sup>4</sup>Für die nachträgliche �
 #### **Fußnoten**
 
 \*)
-Durch dieses Gesetz wird das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.
+Durch dieses Gesetz wird das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 des [Grundgesetzes](../grundgesetz/GG.md)) eingeschränkt.
 
 {15}------------------------------------------------
 
@@ -538,7 +538,7 @@ Anwendungsbereich
 
 - (2) <sup>1</sup>Eine Anordnung darf nicht befolgt werden, wenn dadurch eine Straftat begangen würde. <sup>2</sup>Befolgt der Bedienstete die Anordnung trotzdem, so trifft ihn eine Schuld nur, wenn er erkennt oder wenn es nach den ihm bekannten Umständen offensichtlich ist, dass dadurch eine Straftat begangen wird.
 - (3) Bedenken gegen die Rechtmäßigkeit der Anordnung sind dem Anordnenden gegenüber vorzubringen, soweit das nach den Umständen möglich ist.
-- (4) § 36 Absätze 2 und 3 des Beamtenstatusgesetzes vom 17. Juni 2008 (BGBl. I S. 1010) sowie § 107 Absatz 3 des Hamburgischen Beamtengesetzes vom 15. Dezember 2009 (HmbGVBl. S. 405) in ihrer jeweils geltenden Fassung sind nicht anzuwenden.
+- (4) § 36 Absätze 2 und 3 des [Beamtenstatusgesetzes](../beamtenrecht-bund/BeamtStG.md) vom 17. Juni 2008 (BGBl. I S. 1010) sowie § 107 Absatz 3 des [Hamburgischen Beamtengesetzes](beamtenrecht/BG_HA_2009.md) vom 15. Dezember 2009 (HmbGVBl. S. 405) in ihrer jeweils geltenden Fassung sind nicht anzuwenden.
 
 ### § 21 Hilfeleistung für Verletzte
 
@@ -643,7 +643,7 @@ Bedienstete oder Kräfte des Bundes, der Länder, Kreise und Gemeinden
 
 - (1) <sup>1</sup>Polizeivollzugsbeamte des Bundes oder eines anderen Landes und Beamte der Zollverwaltung, denen der Gebrauch von Schusswaffen bei Anwendung des unmittelbaren Zwangs bei Ausübung öffentlicher Gewalt gestattet ist, können in der Freien und Hansestadt Hamburg Amtshandlungen vornehmen
 - 1. auf Anforderung oder mit Zustimmung der zuständigen Behörde,
-- 2. in den Fällen des Artikels 35 Absätze 2 und 3 und des Artikels 91 Absatz 1 des Grundgesetzes,
+- 2. in den Fällen des Artikels 35 Absätze 2 und 3 und des Artikels 91 Absatz 1 des [Grundgesetzes](../grundgesetz/GG.md),
 - 3. zur Abwehr einer unmittelbar bevorstehenden erheblichen Gefahr, zur Verfolgung von Straftaten auf frischer Tat sowie zur Verfolgung und Wiederergreifung Entwichener, wenn die zuständige Behörde die erforderlichen Maßnahmen nicht rechtzeitig treffen kann,
 - 4. zur Erfüllung polizeilicher Aufgaben bei Gefangenentransporten oder dem Transport von anderen Personen, die sich in amtlichem Gewahrsam befinden,
 - 5. zur Verfolgung von Straftaten und Ordnungswidrigkeiten und zur Gefahrenabwehr in den in der Anlage zu diesem Gesetz genannten durch Vereinbarung geregelten Fällen.
@@ -663,7 +663,7 @@ Bedienstete oder Kräfte des Bundes, der Länder, Kreise und Gemeinden
 
 #### Amtshandlungen hamburgischer Polizeivollzugsbeamter außerhalb Hamburgs
 
-- (1) <sup>1</sup>Die Polizeivollzugsbeamten der Freien und Hansestadt Hamburg dürfen im Zuständigkeitsbereich eines anderen Landes oder des Bundes nur in den Fällen des § 30 a Absatz 1 und des Artikels 91 Absatz 2 des Grundgesetzes und nur dann tätig werden, wenn das jeweilige Landesrecht oder das Bundesrecht es vorsieht. <sup>2</sup>Außerhalb der Bundesrepublik Deutschland dürfen die Polizeivollzugsbeamten tätig werden, soweit dies durch völkerrechtliche Vereinbarungen geregelt ist oder wenn es das Recht des jeweiligen Staates vorsieht; sie haben dann die danach vorgesehenen Rechte und Pflichten. <sup>3</sup>Der Senat unterrichtet die Bürgerschaft jährlich über die nach Satz 2 vorgenommenen Einsätze.
+- (1) <sup>1</sup>Die Polizeivollzugsbeamten der Freien und Hansestadt Hamburg dürfen im Zuständigkeitsbereich eines anderen Landes oder des Bundes nur in den Fällen des § 30 a Absatz 1 und des Artikels 91 Absatz 2 des [Grundgesetzes](../grundgesetz/GG.md) und nur dann tätig werden, wenn das jeweilige Landesrecht oder das Bundesrecht es vorsieht. <sup>2</sup>Außerhalb der Bundesrepublik Deutschland dürfen die Polizeivollzugsbeamten tätig werden, soweit dies durch völkerrechtliche Vereinbarungen geregelt ist oder wenn es das Recht des jeweiligen Staates vorsieht; sie haben dann die danach vorgesehenen Rechte und Pflichten. <sup>3</sup>Der Senat unterrichtet die Bürgerschaft jährlich über die nach Satz 2 vorgenommenen Einsätze.
 - (2) <sup>1</sup>Einer Anforderung von Polizeivollzugsbeamten durch ein anderes Land ist zu entsprechen, soweit nicht die Verwendung der Polizei im eigenen Land dringender ist als die Unterstützung der Polizei des anderen Landes. <sup>2</sup>Die Anforderung soll alle für die Entscheidung wesentlichen Merkmale des Einsatzauftrages enthalten.
 
 #### FÜNFTER TEIL
@@ -736,7 +736,7 @@ sind, trägt der Veranstalter die Kosten der Überwachung und die Kosten für di
 
 {29}------------------------------------------------
 
-Durch dieses Gesetz werden die Grundrechte auf Leben und körperliche Unversehrtheit, Freiheit der Person, Freizügigkeit und Unverletzlichkeit der Wohnung (Artikel 2, 11 und 13 des Grundgesetzes) eingeschränkt.
+Durch dieses Gesetz werden die Grundrechte auf Leben und körperliche Unversehrtheit, Freiheit der Person, Freizügigkeit und Unverletzlichkeit der Wohnung (Artikel 2, 11 und 13 des [Grundgesetzes](../grundgesetz/GG.md)) eingeschränkt.
 
 ### § 33 Aufhebung von Rechtsvorschriften
 

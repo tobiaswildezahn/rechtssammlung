@@ -750,7 +750,7 @@ und für je angefangene weitere 1000 Angehörige des öffentlichen Dienstes je e
 
 # § 51 Unfälle und Sachschäden
 
-- (1) Erleidet eine Beamtin oder ein Beamter anlässlich der Wahrnehmung von Rechten oder Erfüllung von Pflichten nach diesem Gesetz einen Unfall, der im Sinne des Hamburgischen Beamtenversorgungsgesetzes vom 26. Januar 2010 (HmbGVBI. S. 23, 72), zuletzt geändert am 3. September 2013 (HmbGVBI. S. 369, 372), in der jeweils geltenden Fassung ein Dienstunfall wäre, oder einen Sachschaden, der nach § 83 des Hamburgischen Beamtengesetzes vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 8. Juli 2014 (HmbGVBI. S. 299, 325), in der jeweils geltenden Fassung zu ersetzen wäre, so finden diese Vorschriften entsprechende Anwendung.
+- (1) Erleidet eine Beamtin oder ein Beamter anlässlich der Wahrnehmung von Rechten oder Erfüllung von Pflichten nach diesem Gesetz einen Unfall, der im Sinne des [Hamburgischen Beamtenversorgungsgesetzes](BeamtVG_HA.md) vom 26. Januar 2010 (HmbGVBI. S. 23, 72), zuletzt geändert am 3. September 2013 (HmbGVBI. S. 369, 372), in der jeweils geltenden Fassung ein Dienstunfall wäre, oder einen Sachschaden, der nach § 83 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 8. Juli 2014 (HmbGVBI. S. 299, 325), in der jeweils geltenden Fassung zu ersetzen wäre, so finden diese Vorschriften entsprechende Anwendung.
 - (2) Für andere Mitglieder des Personalrats gelten die beamtenrechtlichen Bestimmungen über den Ersatz von Sachschäden nach Absatz 1 entsprechend.
 
 # § 52 Schutzbestimmung
@@ -966,7 +966,7 @@ Satz 1 einer Personalversammlung nach § 55 Absatz 1, eine Jugend- und Auszubild
 - (3) Die Dienststelle und der Personalrat haben alles zu unterlassen, was geeignet ist, die Arbeit oder den Frieden der Dienststelle zu gefährden, insbesondere dürfen sie keine Maßnahmen des Arbeitskampfes gegeneinander durchführen. Arbeitskämpfe tariffähiger Parteien werden hierdurch nicht berührt.
 - (4) Die Dienststelle und der Personalrat dürfen sich in der Dienststelle nicht parteipolitisch betätigen; die Behandlung von Angelegenheiten beamten-, tarif-, sozialpolitischer und wirtschaftlicher Art sowie von Fragen der Gleichstellung von Frauen und Männern, die die Dienststelle oder ihre Angehörigen des öffentlichen Dienstes unmittelbar betreffen, wird hiervon nicht berührt.
 - (5) Angehörige des öffentlichen Dienstes, die Aufgaben oder Befugnisse nach diesem Gesetz wahrnehmen, werden dadurch in der Betätigung für ihre Gewerkschaft auch in der Dienststelle nicht beschränkt.
-- (6) Der Personalrat muss sich durch sein gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bekennen und für deren Erhaltung eintreten.
+- (6) Der Personalrat muss sich durch sein gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des [Grundgesetzes](../../grundgesetz/GG.md) bekennen und für deren Erhaltung eintreten.
 - (7) Der Personalrat hat sich für die Wahrung der Vereinigungsfreiheit der Angehörigen des öffentlichen Dienstes einzusetzen.
 
 #### § 77
@@ -1140,7 +1140,7 @@ Will die Dienststelle Verwaltungsanordnungen für Angelegenheiten im Sinne der �
 - 13. Aufstellung eines Sozialplans zum Ausgleich oder zur Milderung wirtschaftlicher Nachteile, die Angehörigen des öffentlichen Dienstes infolge einer Maßnahme nach § 88 Absatz 1 Nummer 30 entstehen,
 - 14. Maßnahmen zur Verhütung von Dienst- oder Arbeitsunfällen, Berufskrankheiten und sonstigen Gesundheitsschädigungen,
 - 15. Abschluss von Arbeitnehmerüberlassungs- und Gestellungsverträgen.
-- (2) Absatz 1 Nummer 1 gilt nicht für die Verteilung und zeitliche Festsetzung der Unterrichtsstunden, der Funktionsstunden, des flexiblen Unterrichtseinsatzes und der Pausenaufsichtstätigkeiten des pädagogischen Personals an Schulen. Absatz 1 Nummer 6 gilt nicht für Leistungsbezüge nach §§ 32, 39 und 61 Absatz 1 des Hamburgischen Besoldungsgesetzes vom 26. Januar 2010 (HmbGVBI. S. 23) in der jeweils geltenden Fassung.
+- (2) Absatz 1 Nummer 1 gilt nicht für die Verteilung und zeitliche Festsetzung der Unterrichtsstunden, der Funktionsstunden, des flexiblen Unterrichtseinsatzes und der Pausenaufsichtstätigkeiten des pädagogischen Personals an Schulen. Absatz 1 Nummer 6 gilt nicht für Leistungsbezüge nach §§ 32, 39 und 61 Absatz 1 des [Hamburgischen Besoldungsgesetzes](BesG_HA_2010.md) vom 26. Januar 2010 (HmbGVBI. S. 23) in der jeweils geltenden Fassung.
 - (3) Muss die Dienstzeit für einen bestimmten Kreis von Angehörigen des öffentlichen Dienstes nach Erfordernissen, die die Dienststelle nicht voraussehen kann, unregelmäßig und kurzfristig festgesetzt werden, beschränkt sich die Mitbestimmung nach Absatz 1 Nummer 1 auf den Abschluss von Dienstvereinbarungen über Grundsätze für die Aufstellung von Dienstplänen.
 
 # § 88 Eingeschränkte Mitbestimmung und sonstige Beteiligung
@@ -1165,11 +1165,11 @@ Will die Dienststelle Verwaltungsanordnungen für Angelegenheiten im Sinne der �
   - a) für länger als insgesamt sechs Monate,
   - b) unter Wechsel des Dienstorts einschließlich seines Einzugsgebiets,
 - 12. Ablehnung eines Antrags auf
-  - Teilzeitbeschäftigung und Beurlaubung nach den §§ 62 bis 64 des Hamburgischen Beamtengesetzes,
+  - Teilzeitbeschäftigung und Beurlaubung nach den §§ 62 bis 64 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md),
   - b) Teilzeitbeschäftigung und Beurlaubung für Tarifbeschäftigte auf Grund gesetzlicher und tarifvertraglicher Vorschriften,
 - 13. fristgemäße Entlassung einer Beamtin oder eines Beamten auf Probe oder auf Widerruf, wenn sie oder er die Entlassung nicht selbst beantragt hat,
 - 14. ordentliche Kündigung durch die Dienststelle,
-- 15. vorzeitige Versetzung in den Ruhestand und Herabsetzung der Arbeitszeit nach § 41 des Hamburgischen Beamtengesetzes, wenn die Beamtin oder der Beamte sie nicht selbst beantragt hat, und Ablehnung eines Antrags auf vorzeitige Versetzung in den Ruhestand und Herabsetzung der Arbeitszeit nach § 41 des Hamburgischen Beamtengesetzes,
+- 15. vorzeitige Versetzung in den Ruhestand und Herabsetzung der Arbeitszeit nach § 41 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md), wenn die Beamtin oder der Beamte sie nicht selbst beantragt hat, und Ablehnung eines Antrags auf vorzeitige Versetzung in den Ruhestand und Herabsetzung der Arbeitszeit nach § 41 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md),
 - 16. Hinausschiebung des Eintritts in den Ruhestand wegen Erreichens der Altersgrenze,
 - 17. Weiterbeschäftigung über die Altersgrenze hinaus,
 - 18. Durchführung der Berufsbildung (Berufsausbildung, berufliche Fort- und Weiterbildung sowie berufliche Umschulung) mit Ausnahme der Gestaltung von Lehrveranstaltungen und der Auswahl von Lehrpersonen,
@@ -1177,12 +1177,12 @@ Will die Dienststelle Verwaltungsanordnungen für Angelegenheiten im Sinne der �
 - 20. Einschränkung und Untersagung einer Nebentätigkeit,
 - 21. Anordnung, die die freie Wahl der Wohnung beschränkt,
 - 22. Erlass einer Disziplinarverfügung durch eine Dienstvorgesetzte oder einen Dienstvorgesetzten oder Ausspruch einer schriftlichen Missbilligung,
-- 22a. Vorlage eines Disziplinarvorgangs bei der obersten Dienstbehörde oder der für Entlassungen zuständigen Stelle gemäß § 31 Satz 1 des Hamburgischen Disziplinargesetzes (HmbDG) vom
+- 22a. Vorlage eines Disziplinarvorgangs bei der obersten Dienstbehörde oder der für Entlassungen zuständigen Stelle gemäß § 31 Satz 1 des [Hamburgischen Disziplinargesetzes](DG_HA.md) ([HmbDG](DG_HA.md)) vom
 
 {50}------------------------------------------------
 
 - 18. Februar 2004 (HmbGVBI. S. 69), zuletzt geändert am 22. Januar 2025 (HmbGVBI. S. 166), in der jeweils geltenden Fassung,
-- 22b. Erlass einer Disziplinarverfügung durch die oberste Dienstbehörde oder der für Entlassungen zuständigen Stelle, die nicht auf einer Vorlage nach § 31 Satz 1 HmbDG beruht,
+- 22b. Erlass einer Disziplinarverfügung durch die oberste Dienstbehörde oder der für Entlassungen zuständigen Stelle, die nicht auf einer Vorlage nach § 31 Satz 1 [HmbDG](DG_HA.md) beruht,
 - 23. Bestimmung des Inhalts von Personalfragebogen,
 - 24. Erlass von Beurteilungsrichtlinien für Arbeitnehmerinnen und Arbeitnehmer, soweit sie von den für Beamtinnen und Beamten geltenden Regelungen abweichen,
 - 25. Verzicht auf die Ausschreibung von Stellen, die besetzt werden sollen,
@@ -1269,7 +1269,7 @@ Für die Beteiligung des Gesamtpersonalrats im Rahmen des § 59 Absatz 4 gilt Ab
 
 # Vereinbarungen mit den Spitzenorganisationen der Gewerkschaften und Berufsverbände
 
-- (1) In den Fällen, in denen das Recht des Personalrats auf Mitbestimmung durch eine allgemeine Regelung der obersten Dienstbehörde eingeschränkt ist oder eingeschränkt werden soll, ist die allgemeine Regelung mit den Spitzenorganisationen der zuständigen Gewerkschaften und Berufsverbände schriftlich oder in Textform verbindlich zu vereinbaren; die Vereinbarung kann durch den Senat ganz oder teilweise aufgehoben werden. § 93 des Hamburgischen Beamtengesetzes bleibt unberührt.
+- (1) In den Fällen, in denen das Recht des Personalrats auf Mitbestimmung durch eine allgemeine Regelung der obersten Dienstbehörde eingeschränkt ist oder eingeschränkt werden soll, ist die allgemeine Regelung mit den Spitzenorganisationen der zuständigen Gewerkschaften und Berufsverbände schriftlich oder in Textform verbindlich zu vereinbaren; die Vereinbarung kann durch den Senat ganz oder teilweise aufgehoben werden. § 93 des [Hamburgischen Beamtengesetzes](BG_HA_2009.md) bleibt unberührt.
 - (2) Anzustreben ist eine einvernehmliche, sachgerechte Einigung. Kommt eine allgemeine Regelung nicht zustande, kann sie abweichend von Absatz 1 durch den Senat getroffen werden, nachdem die oberste Dienstbehörde oder die beteiligten Spitzenorganisationen die Verhandlungen unter Angabe der hierfür maßgeblichen Gründe schriftlich oder in Textform für gescheitert erklärt haben. Die oberste Dienstbehörde kann allgemeine Regelungen, die keinen Aufschub dulden, bis zum Abschluss einer Vereinbarung nach Absatz 1 vorläufig treffen.
 - (3) Vereinbarungen nach den Absätzen 1 und 2 gelten für die Hamburgische Beauftragte oder den Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit nur, wenn sie bzw. er dies für die Behörde angeordnet hat.
 
@@ -1385,4 +1385,4 @@ Der Senat wird ermächtigt, zur Regelung der in den §§ 11 bis 27 und 60 bis 69
 
 ### § 105 Übergangsvorschrift
 
-Für Disziplinarverfahren, auf die gemäß § 91a HmbDG weiterhin das Hamburgische Disziplinargesetz in der am 31. März 2025 geltenden Fassung anzuwenden ist, ist § 88 Absatz 1 Nummer 22 in der am 31. März 2025 geltenden Fassung anzuwenden; § 88 Absatz 1 Nummern 22a und 22b findet in diesen Fällen keine Anwendung.
+Für Disziplinarverfahren, auf die gemäß § 91a [HmbDG](DG_HA.md) weiterhin das [Hamburgische Disziplinargesetz](DG_HA.md) in der am 31. März 2025 geltenden Fassung anzuwenden ist, ist § 88 Absatz 1 Nummer 22 in der am 31. März 2025 geltenden Fassung anzuwenden; § 88 Absatz 1 Nummern 22a und 22b findet in diesen Fällen keine Anwendung.

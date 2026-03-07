@@ -62,7 +62,7 @@ Das G wurde als Artikel 1 des G v. 4.4.2017 I 772 vom Bundestag mit Zustimmung d
 
 - (1) Eine Versorgungskrise liegt vor, wenn die Bundesregierung festgestellt hat, dass
 - 1. die Deckung des lebensnotwendigen Bedarfs an Lebensmitteln in wesentlichen Teilen des Bundesgebietes ernsthaft gefährdet ist
-  - a) im Spannungsfall nach Artikel 80a des Grundgesetzes oder im Verteidigungsfall nach Artikel 115a des Grundgesetzes oder
+  - a) im Spannungsfall nach Artikel 80a des [Grundgesetzes](../../grundgesetz/GG.md) oder im Verteidigungsfall nach Artikel 115a des [Grundgesetzes](../../grundgesetz/GG.md) oder
   - b) infolge einer Naturkatastrophe, eines besonders schweren Unglücksfalles, einer Sabotagehandlung, einer wirtschaftlichen Krisenlage oder eines sonstigen vergleichbaren Ereignisses und
 - 2. diese Gefährdung ohne hoheitliche Eingriffe in den Markt nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben ist.
 - (2) Die Bundesregierung hat die Versorgungskrise unverzüglich für beendet zu erklären, wenn die Voraussetzungen für ihre Feststellung nicht mehr gegeben sind.
@@ -150,11 +150,11 @@ Widerspruch und Anfechtungsklage gegen nach § 6 erlassene Verwaltungsakte oder 
 #### § 8 Unterstützende Leistungen
 
 - (1) Soweit dies zur Sicherstellung der Grundversorgung in einer Versorgungskrise erforderlich ist, können die zuständigen Behörden unter den dort genannten Voraussetzungen
-- 1. nach § 7 des Verkehrsleistungsgesetzes über die Bundesanstalt beim Bundesamt für Logistik und Mobilität Verkehrsleistungen anfordern,
+- 1. nach § 7 des [Verkehrsleistungsgesetzes](VerkLG_Verkehrsleistungsgesetz.md) über die Bundesanstalt beim Bundesamt für Logistik und Mobilität Verkehrsleistungen anfordern,
 
 {4}------------------------------------------------
 
-- 2. nach den §§ 10 bis 14 des Verkehrssicherstellungsgesetzes in Verbindung mit einer auf Grund des Verkehrssicherstellungsgesetzes erlassenen Rechtsverordnung Leistungen anfordern,
+- 2. nach den §§ 10 bis 14 des [Verkehrssicherstellungsgesetzes](VerkSiG_Verkehrssicherstellungsgesetz.md) in Verbindung mit einer auf Grund des [Verkehrssicherstellungsgesetzes](VerkSiG_Verkehrssicherstellungsgesetz.md) erlassenen Rechtsverordnung Leistungen anfordern,
 - 3. nach § 2 des Bundesleistungsgesetzes Leistungen anfordern, soweit die zuständigen Behörden in einer Rechtsverordnung nach § 5 Absatz 1 des Bundesleistungsgesetzes zu Anforderungsbehörden bestimmt worden sind.
 - (2) Soweit die Bundesregierung durch die Bundesanstalt Maßnahmen zur Vorratshaltung von Erzeugnissen durchführt, können die obersten Landesbehörden bei der Bundesanstalt Lieferungen von Erzeugnissen anfordern. Im Rahmen der verfügbaren Vorräte entscheidet die Bundesanstalt nach pflichtgemäßem Ermessen über die Verteilung der Vorräte. Die Bundesanstalt kann zur Verteilung von Erzeugnissen unterstützende Leistungen nach Absatz 1 anfordern.
 

@@ -10,7 +10,7 @@
 
 ## Vom 16. Januar 2026
 
-Auf Grund von § 10a Absatz 5 Satz 1 des Hamburgischen Beamtengesetzes (HmbBG) vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 22. Januar 2025 (HmbGVBI. S. 166, 173), in Verbindung mit Satz 1 Nummer 2 der Verordnung zur Weiterübertragung von Verordnungsermächtigungen im Bereich des Beurteilungswesens vom 14. Oktober 2025 (HmbGVBI. S. 571, 578), wird verordnet:
+Auf Grund von § 10a Absatz 5 Satz 1 des [Hamburgischen Beamtengesetzes](beamtenrecht/BG_HA_2009.md) ([HmbBG](beamtenrecht/BG_HA_2009.md)) vom 15. Dezember 2009 (HmbGVBI. S. 405), zuletzt geändert am 22. Januar 2025 (HmbGVBI. S. 166, 173), in Verbindung mit Satz 1 Nummer 2 der Verordnung zur Weiterübertragung von Verordnungsermächtigungen im Bereich des Beurteilungswesens vom 14. Oktober 2025 (HmbGVBI. S. 571, 578), wird verordnet:
 
 ## Inhaltsübersicht
 
@@ -83,7 +83,7 @@ Diese Verordnung regelt die Beurteilung der erbrachten fachlichen Leistung sowie
 # § 2 Geltungsbereich
 
 - (1) Diese Verordnung gilt für die Beurteilung der Beamtinnen und Beamten der Fachrichtung Feuerwehr, soweit im Folgenden keine Ausnahmen getroffen werden.
-- (2) Diese Verordnung ist auf Beamtinnen und Beamte, die einen Vorbereitungsdienst ableisten, sowie auf Beamtinnen und Beamte, die gemäß § 26 Absatz 3 des Beamtenstatusgesetzes vom 17. Juni 2008 (BGBI. I S. 1010), zuletzt geändert am 20. Dezember 2023 (BGBI. I Nr. 389 S. 1, 8), eingesetzt werden, nicht anzuwenden.
+- (2) Diese Verordnung ist auf Beamtinnen und Beamte, die einen Vorbereitungsdienst ableisten, sowie auf Beamtinnen und Beamte, die gemäß § 26 Absatz 3 des [Beamtenstatusgesetzes](../beamtenrecht-bund/BeamtStG.md) vom 17. Juni 2008 (BGBI. I S. 1010), zuletzt geändert am 20. Dezember 2023 (BGBI. I Nr. 389 S. 1, 8), eingesetzt werden, nicht anzuwenden.
 
 # § 3 Grundsätze, Ziele und Inhalt der dienstlichen Beurteilungen
 
@@ -131,7 +131,7 @@ Eine Anlassbeurteilung ist für folgende Anlässe anzufertigen:
 
 - im Falle einer Ernennung, soweit hierfür nicht bereits eine Beurteilung nach einer der Nummern 2 bis 6 zu erstellen ist,
 - zum Ablauf der Hälfte der beamtenrechtlichen Probezeit nach § 5 Absatz 3 Satz 2 der Verordnung über die Laufbahnen der hamburgischen Beamtinnen und Beamten (HmbLVO) vom 22. Dezember 2009 (HmbGVBI. S. 511), zuletzt geändert am 14. Oktober 2025 (HmbGVBI. S. 571, 579),
-- 3. zur Feststellung der Bewährung zum Ablauf der beamtenrechtlichen Probezeit nach § 5 Absatz 1 oder § 19 Absatz 2 HmbBG,
+- 3. zur Feststellung der Bewährung zum Ablauf der beamtenrechtlichen Probezeit nach § 5 Absatz 1 oder § 19 Absatz 2 [HmbBG](beamtenrecht/BG_HA_2009.md),
 - 4. zur Feststellung der Eignung zum Ablauf der Beförderungserprobung nach § 6 Absatz 1 Satz 1 HmbLVO,
 - 5. für die Teilnahme an Auswahlverfahren, sofern noch keine Regelbeurteilung vorhanden ist und der Beurteilungszeitraum mindestens zwölf Monate abdeckt,
 - 6. wenn dienstliche Interessen dies erfordern sowie auf Antrag der Beamtin bzw. des Beamten, wenn diese bzw. dieser ein berechtigtes Interesse an der Beurteilung hat.
@@ -156,7 +156,7 @@ Eine Anlassbeurteilung ist für folgende Anlässe anzufertigen:
 - 11. soweit dies möglich ist, eine Potenzialeinschätzung gemäß § 22,
 - 12 bei Anlassbeurteilungen zum Zwecke der Vorbereitung einer beamtenrechtlichen Entscheidung oder Maßnahme einen Vorschlag im Hinblick auf die sich aus dem Beurteilungsanlass ergebende beamtenrechtliche Entscheidung oder Maßnahme,
 - 13. das Gesamturteil sowie dessen Begründung gemäß § 21 durch die Zweitbeurteilerin bzw. den Zweitbeurteiler.
-- (2) Die oder der Dienstvorgesetzte (§ 3 Absatz 2 HmbBG) ist ermächtigt, für die Beurteilungen schriftliche oder elektronische Formulare festzulegen und deren Verwendung oder die Nutzung elektronischer Verfahren vorzuschreiben.
+- (2) Die oder der Dienstvorgesetzte (§ 3 Absatz 2 [HmbBG](beamtenrecht/BG_HA_2009.md)) ist ermächtigt, für die Beurteilungen schriftliche oder elektronische Formulare festzulegen und deren Verwendung oder die Nutzung elektronischer Verfahren vorzuschreiben.
 
 {5}------------------------------------------------
 
@@ -347,13 +347,13 @@ Die oder der Dienstvorgesetzte oder die von ihm oder ihr bestimmte Stelle kann w
 
 Das Beurteilungswesen für die Beamtinnen und Beamten der Fachrichtung Feuerwehr der Freien und Hansestadt Hamburg (FHH) ist derzeit in einer gesonderten Beurteilungsrichtlinie als Verwaltungsvorschrift geregelt.
 
-Aufgrund der jüngeren Rechtsprechung zum Beurteilungswesen besteht die Notwendigkeit, die bislang lediglich im Rang von Verwaltungsvorschriften stehenden Regelungen durch rechtsnormative Vorgaben zu ersetzen. Zu diesem Zweck wurde der bisherige § 10 Abs. 4 [Hamburgisches Beamtengesetz](beamtenrecht/BG_HA_2009.md) (HmbBG) durch den im Rahmen des Dreizehnten Gesetzes zur Änderung dienstrechtlicher Vorschriften vom 19. November 2024 (HmbGVBI. S. 594, 595; Bü.-Drs. 22/15945) neu eingefügten § 10a HmbBG ersetzt. § 10a HmbBG enthält die wesentlichen Eckpunkte des Beurteilungswesens und ermächtigt zum Erlass von Rechtsverordnungen zur näheren Ausgestaltung.
+Aufgrund der jüngeren Rechtsprechung zum Beurteilungswesen besteht die Notwendigkeit, die bislang lediglich im Rang von Verwaltungsvorschriften stehenden Regelungen durch rechtsnormative Vorgaben zu ersetzen. Zu diesem Zweck wurde der bisherige § 10 Abs. 4 [Hamburgisches Beamtengesetz](beamtenrecht/BG_HA_2009.md) ([HmbBG](beamtenrecht/BG_HA_2009.md)) durch den im Rahmen des Dreizehnten Gesetzes zur Änderung dienstrechtlicher Vorschriften vom 19. November 2024 (HmbGVBI. S. 594, 595; Bü.-Drs. 22/15945) neu eingefügten § 10a [HmbBG](beamtenrecht/BG_HA_2009.md) ersetzt. § 10a [HmbBG](beamtenrecht/BG_HA_2009.md) enthält die wesentlichen Eckpunkte des Beurteilungswesens und ermächtigt zum Erlass von Rechtsverordnungen zur näheren Ausgestaltung.
 
 Der Entwurf der allgemeinen Hamburgischen Beurteilungsverordnung (HmbBeurtVO) wurde von der Behörde für Inneres und Sport – Amt Feuerwehr – im Hinblick auf die besonderen Anforderungen des feuerwehrtechnischen Dienstes als nicht in vollem Umfang praxistauglich bewertet. Für den Bereich der Feuerwehr ist daher vorgesehen, in wesentlichen Punkten von den Regelungen der allgemeinen HmbBeurtVO abzuweichen.
 
 Hintergrund hierfür sind insbesondere die besonderen dienstlichen und strukturellen Rahmenbedingungen der Feuerwehr Hamburg. Dazu zählen die spezifischen Einsatzlagen mit hohen körperlichen und psychischen Anforderungen, die Besonderheiten des Schicht- und Einsatzdienstes sowie die Notwendigkeit, Beförderungsentscheidungen im Einklang mit einer transparenten, differenzierten und statusamtsbezogenen Beurteilungspraxis zu treffen.
 
-Angesichts dieser Besonderheiten ist es sachgerecht, eine eigenständige, bereichsspezifische Beurteilungsverordnung für den feuerwehrtechnischen Dienst zu erlassen. Rechtsgrundlage hierfür ist die in Artikel 2 der Hamburgischen Verordnung zur Neuordnung des Beurteilungswesens für die Beamtinnen und Beamten vorgesehene Subdelegation, durch die die Verordnungsermächtigung nach § 10a Abs. 5 Satz 1 HmbBG für die Laufbahn der Fachrichtung Feuerwehr auf die Behörde für Inneres und Sport übertragen wurde.
+Angesichts dieser Besonderheiten ist es sachgerecht, eine eigenständige, bereichsspezifische Beurteilungsverordnung für den feuerwehrtechnischen Dienst zu erlassen. Rechtsgrundlage hierfür ist die in Artikel 2 der Hamburgischen Verordnung zur Neuordnung des Beurteilungswesens für die Beamtinnen und Beamten vorgesehene Subdelegation, durch die die Verordnungsermächtigung nach § 10a Abs. 5 Satz 1 [HmbBG](beamtenrecht/BG_HA_2009.md) für die Laufbahn der Fachrichtung Feuerwehr auf die Behörde für Inneres und Sport übertragen wurde.
 
 Wesentliche Eckpunkte des Entwurfs der Beurteilungsverordnung für den feuerwehrtechnischen Dienst
 
@@ -372,7 +372,7 @@ Zur besseren Lesbarkeit und Praxistauglichkeit wird die Beurteilungsverordnung f
 
 ## Zu § 1 - Gegenstand
 
-Hierdurch wird der Gegenstand der Verordnung beschrieben und zugleich in Übereinstimmung mit § 10a Abs. 2 HmbBG und Art. 33 Abs. 2 des Grundgesetzes (GG) der Begriff der dienstlichen Beurteilung beschrieben und legaldefiniert.
+Hierdurch wird der Gegenstand der Verordnung beschrieben und zugleich in Übereinstimmung mit § 10a Abs. 2 [HmbBG](beamtenrecht/BG_HA_2009.md) und Art. 33 Abs. 2 des [Grundgesetzes](../grundgesetz/GG.md) (GG) der Begriff der dienstlichen Beurteilung beschrieben und legaldefiniert.
 
 Die Beurteilung bezieht sich auf die drei Felder Eignung, Leistung und Befähigung. Befähigung ist die Gesamtheit der Fähigkeiten, die sich aus den persönlichen Anlagen sowie den erworbenen Kenntnissen und Erfahrungen ergibt, die für die berufliche Tätigkeit von Bedeutung sind. Leistung ist die praktische Umsetzung der Befähigung in Qualität und Quantität der Arbeitsergebnisse. Eignung ist die aus Befähigung und Leistung abzuleitende Qualifikation für ein ausgeübtes oder angestrebtes Amt. In der Praxis lassen sich diese drei Felder nicht trennscharf voneinander abgrenzen, sondern durchdringen einander (vgl. BVerwG, Urt. v. 07.07.2021, Az.: 2 C 2/21, juris-Rdnr. 48). Der Beurteilungsmaßstab ergibt sich aus § 17.
 
@@ -474,13 +474,13 @@ Der Beurteilungszeitraum kann in den vorgenannten Fällen verlängert werden. In
 
 Die Vorschrift beschreibt die verschiedenen Anlässe für Anlassbeurteilungen.
 
-Nummer 1: Durch eine Ernennung ändert sich regelhaft der Beurteilungsmaßstab, so dass der vorangehende Beurteilungszeitraum abzuschließen und zu bewerten ist. Dies erfolgt rückblickend, sobald die Ernennung vollzogen ist. Die vor einer Ernennung auf Lebenszeit erforderliche Feststellung der Bewährung zum Ablauf der beamtenrechtlichen Probezeit nach § 5 Absatz 1 oder § 19 Absatz 2 HmbBG erfolgt gemäß Nr. 3, die vor einer Beförderung erforderliche Feststellung der Eignung zum Ablauf der Beförderungserprobung nach § 6 Absatz 1 Satz 1 HmbLVO erfolgt gemäß Nr. 4 (s.u.).
+Nummer 1: Durch eine Ernennung ändert sich regelhaft der Beurteilungsmaßstab, so dass der vorangehende Beurteilungszeitraum abzuschließen und zu bewerten ist. Dies erfolgt rückblickend, sobald die Ernennung vollzogen ist. Die vor einer Ernennung auf Lebenszeit erforderliche Feststellung der Bewährung zum Ablauf der beamtenrechtlichen Probezeit nach § 5 Absatz 1 oder § 19 Absatz 2 [HmbBG](beamtenrecht/BG_HA_2009.md) erfolgt gemäß Nr. 3, die vor einer Beförderung erforderliche Feststellung der Eignung zum Ablauf der Beförderungserprobung nach § 6 Absatz 1 Satz 1 HmbLVO erfolgt gemäß Nr. 4 (s.u.).
 
 Nummern 2 und 3: Zum Ablauf der Hälfte sowie zum Ende der beamtenrechtlichen Probezeit sind jeweils Anlassbeurteilungen zu erstellen. Die Beurteilung zur Halbzeit bietet eine wichtige Orientierung für die Leistungsentwicklung und kann auf etwaige Defizite bzw. Entwicklungsbedarfe hinweisen, die abschließende Beurteilung zum Ende der Probezeit dient
 
 {20}------------------------------------------------
 
-als Grundlage für die Entscheidung über die weitere Verwendung oder Entlassung. Bei Führungsfunktionen auf Probe nach § 5 HmbBG findet ebenfalls zum Ende der Probezeit eine Beurteilung zur Feststellung der Bewährung statt.
+als Grundlage für die Entscheidung über die weitere Verwendung oder Entlassung. Bei Führungsfunktionen auf Probe nach § 5 [HmbBG](beamtenrecht/BG_HA_2009.md) findet ebenfalls zum Ende der Probezeit eine Beurteilung zur Feststellung der Bewährung statt.
 
 Nummer 4: Zum Ende einer Beförderungserprobung ist festzustellen, ob die gezeigten Leistungen und die Befähigung die Beförderung in das höheres Statusamt tragen.
 
@@ -542,7 +542,7 @@ Die Vorschrift regelt die Arbeitsteilung zwischen Erst- und Zweitbeurteilung. Hi
 
 Die Entscheidungsbefugnis zur Bestimmung der Erstbeurteilerin bzw. des Erstbeurteilers sowie der Zweitbeurteilerin bzw. des Zweitbeurteilers liegt grundsätzlich bei der oder dem Dienstvorgesetzten; Delegation auf die Leitung der Feuerwehr.
 
-Erfolgt im Falle einer Abordnung eine Beurteilung durch die aufnehmende Stelle, so ist die bzw. der dortige Dienstvorgesetzte zuständig. Aufgrund der umfassenden Kenntnisse über das Aufgabengebiet und die konkreten Arbeitsergebnisse der Beamtin bzw. des Beamten dürfte regelhaft die bzw. der unmittelbare Vorgesetzte (§ 3 Abs. 3 HmbBG) für die Erstellung der Erstbeurteilung gut geeignet sein.
+Erfolgt im Falle einer Abordnung eine Beurteilung durch die aufnehmende Stelle, so ist die bzw. der dortige Dienstvorgesetzte zuständig. Aufgrund der umfassenden Kenntnisse über das Aufgabengebiet und die konkreten Arbeitsergebnisse der Beamtin bzw. des Beamten dürfte regelhaft die bzw. der unmittelbare Vorgesetzte (§ 3 Abs. 3 [HmbBG](beamtenrecht/BG_HA_2009.md)) für die Erstellung der Erstbeurteilung gut geeignet sein.
 
 Bisher orientierten sich dienstliche Beurteilungen ausschließlich an der klassischen Einzelverantwortung einer Führungskraft. Nunmehr wird die Möglichkeit eröffnet, dass mehr als eine Person Beurteilerin bzw. Beurteiler wird. So werden unter anderem Beurteilungen durch Führungstandems ermöglicht, welche die gemeinsame Bewältigung komplexer Führungsaufgaben, flexiblere Arbeitsmodelle und die Vereinigung unterschiedlicher Kompetenzen in einer Leitungsfunktion zusammenbringen. Ebenso kann bei geteilten Dienstposten innerhalb derselben Dienststelle eine gemeinsame Beurteilung erfolgen.
 
