@@ -56,7 +56,7 @@ EVG Ernährungsvorsorgegesetz
 
 GasLastV Gaslastverteilungs-Verordnung
 
-GasSV Gassicherungsverordnung
+GasSV [Gassicherungsverordnung](sicherstellungsgesetze/GasSV_Gassicherungsverordnung.md)
 
 IMK Ständige Konferenz der Innenminister und -senatoren der Länder
 
@@ -114,7 +114,7 @@ UNESCO United Nations Educational, Scientific and Cultural Organisation
 
 Kultur)
 
-VerkLG Verkehrsleistungsgesetz
+VerkLG [Verkehrsleistungsgesetz](sicherstellungsgesetze/VerkLG_Verkehrsleistungsgesetz.md)
 
 VerkSiG [Verkehrssicherstellungsgesetz](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md)
 
@@ -735,7 +735,7 @@ Zu den erforderlichen Maßnahmen gehören:
 
 Betreiber aller Handlungsfelder der Versorgung sind abhängig von Versorgungsleistungen aus dem Handlungsfeld der Energieversorgung. Um diese Abhängigkeit zu reduzieren und die staatliche Notfallvorsorge im Energiebereich zu entlasten, bedarf es eigener Vorkehrungen aller Betreiber. Der Bund erteilt gesetzliche Auflagen zur Sicherstellung einer vorübergehenden autarken Energieversorgung. Darüber hinaus verstärkt der Bund seine ergänzenden Ressourcen für die Fähigkeiten Notversorgung und Notinstandsetzung im Bereich des THW (vgl. Abschnitte 6.10.2-6.10.3).
 
-Betreiber verschiedener Handlungsfelder sind darüber hinaus abhängig von Transport- und Logistikleistungen aus dem Handlungsfeld Mobilität/Verkehr. Es bedarf insoweit geeigneter eigener Vorkehrungen der jeweiligen Betreiber (eigener Fuhrpark, Rahmenvereinbarungen mit Transportdienstleistern u. a.). Bei Engpässen, die mit den Mitteln des freien Marktes nicht mehr zu beheben sind, hat die staatliche Notfallvorsorge die Möglichkeit, Transportleistungen zu sichern. Dazu können Transportdienstleister zu vorrangigen Leistungen nach dem [Verkehrssicherstellungsgesetz](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) (VerkSiG) und dem Verkehrsleistungsgesetz (VerkLG) verpflichtet werden.
+Betreiber verschiedener Handlungsfelder sind darüber hinaus abhängig von Transport- und Logistikleistungen aus dem Handlungsfeld Mobilität/Verkehr. Es bedarf insoweit geeigneter eigener Vorkehrungen der jeweiligen Betreiber (eigener Fuhrpark, Rahmenvereinbarungen mit Transportdienstleistern u. a.). Bei Engpässen, die mit den Mitteln des freien Marktes nicht mehr zu beheben sind, hat die staatliche Notfallvorsorge die Möglichkeit, Transportleistungen zu sichern. Dazu können Transportdienstleister zu vorrangigen Leistungen nach dem [Verkehrssicherstellungsgesetz](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) (VerkSiG) und dem [Verkehrsleistungsgesetz](sicherstellungsgesetze/VerkLG_Verkehrsleistungsgesetz.md) (VerkLG) verpflichtet werden.
 
 Soweit weitere Abhängigkeiten bestehen, sind hierfür geeignete eigene Vorsorgemaßnahmen zu treffen. Ist dies nicht möglich, ist der nicht durch eigene Maßnahmen zu deckende Bedarf frühzeitig an die zuständigen Stellen der staatlichen Notfallvorsorge zu kommunizieren, damit die erforderlichen Instrumente geschaffen werden können (z. B. Absicherung des Trinkwasserbedarfes im klinischen Bereich im Rahmen des Wassersicherstellungsgesetzes).
 
@@ -830,7 +830,7 @@ Zum Handlungsfeld Energie gehören die Sicherstellung der Versorgung mit Strom u
 
 Für den Bereich der Stromversorgung erarbeiten Bund und Länder ein "Gesamtkonzept Notstrom", um vor dem Hintergrund lang anhaltender und großräumiger Stromausfälle eine Minimalversorgung der Bevölkerung sowie eine Aufrechterhaltung der Grund- und Kernfunktionen der staatlichen Notfallvorsorge abzusichern und die Aufrechterhaltung Kritischer Infrastrukturen unterstützen zu können.
 
-Auf Basis des Energiewirtschaftsgesetzes (EnWG), des Energiesicherungsgesetzes (EnSiG) und der Gassicherungsverordnung (GasSV) fasst der "Notfallplan Gas für die Bundesrepublik Deutschland" das Krisenmanagement bei Versorgungskrisen im Bereich der Gasversorgung zusammen. Speziell für den Zweck der Verteidigung und insbesondere zur Deckung des Bedarfs der Zivilbevölkerung regeln das [Wirtschaftssicherstellungsgesetz](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) (WiSiG) und die Gaslastverteilungs-Verordnung (GasLastV) die Gasversorgung.
+Auf Basis des Energiewirtschaftsgesetzes (EnWG), des Energiesicherungsgesetzes (EnSiG) und der [Gassicherungsverordnung](sicherstellungsgesetze/GasSV_Gassicherungsverordnung.md) (GasSV) fasst der "Notfallplan Gas für die Bundesrepublik Deutschland" das Krisenmanagement bei Versorgungskrisen im Bereich der Gasversorgung zusammen. Speziell für den Zweck der Verteidigung und insbesondere zur Deckung des Bedarfs der Zivilbevölkerung regeln das [Wirtschaftssicherstellungsgesetz](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) (WiSiG) und die Gaslastverteilungs-Verordnung (GasLastV) die Gasversorgung.
 
 #### 7.10.1 Versorgung mit Strom und Gas
 Den Netzbetreibern obliegt die Aufgabe eines sicheren Netzbetriebes nach den Vorgaben des Energiewirtschaftsgesetzes. Zur Abwehr oder Abmilderung einer drohenden Versorgungskrise können sie Eingriffe in die erzeugungsseitige Einspeisung von Strom/Gas und nachrangig auch Eingriffe in die Entnahme von Strom/Gas vornehmen. Gemäß § 16 Absatz 2 und § 16a EnWG besteht für Betreiber von Fernleitungsnetzen und Gasverteilernetzen die Möglichkeit, Gaseinspeisungen, Gastransporte sowie Gasausspeisungen anzupassen oder diese Anpassungen zu verlangen. Bei Gefahr, dass die vorhandene Erzeugungsleistung nicht mehr ausreicht, um den lebenswichtigen Bedarf an Energie zu sichern und dies durch eigene Maßnahmen der Netzbetreiber nicht abgewendet werden kann, haben die Übertragungsnetzbetreiber hierüber die Bundesnetzagentur zu unterrichten.
@@ -863,7 +863,7 @@ Neben der Bereitstellung von Reserven an Erdöl und Erdölerzeugnissen können a
 ### 7.11 Mobilität/Verkehr
 Die Sicherstellung ausreichender lebenswichtiger Verkehrsleistungen dient als ressortübergreifende Querschnittsaufgabe der Erfüllung des Versorgungsauftrages oder des Zivilschutzauftrages der jeweils zuständigen Stellen.
 
-Verkehrsleistungen werden überwiegend von privaten Betreibern (Verkehrsunternehmen) erbracht. Diese sind auch im Krisenfall in der Regel vertraglich zur Leistungserbringung zu verpflichten. Kann der Bedarf an notwendigen Verkehrsleistungen auf andere Weise nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln gedeckt werden, besteht ausnahmsweise die Möglichkeit, die Verkehrsunternehmen zu Lasten anderer vertraglicher Verpflichtungen zur Erbringung bestimmter Leistungen zu verpflichten. Dies richtet sich nach den Vorgaben des VerkLG in der jeweils gültigen Fassung.
+Verkehrsleistungen werden überwiegend von privaten Betreibern (Verkehrsunternehmen) erbracht. Diese sind auch im Krisenfall in der Regel vertraglich zur Leistungserbringung zu verpflichten. Kann der Bedarf an notwendigen Verkehrsleistungen auf andere Weise nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln gedeckt werden, besteht ausnahmsweise die Möglichkeit, die Verkehrsunternehmen zu Lasten anderer vertraglicher Verpflichtungen zur Erbringung bestimmter Leistungen zu verpflichten. Dies richtet sich nach den Vorgaben des [VerkLG](sicherstellungsgesetze/VerkLG_Verkehrsleistungsgesetz.md) in der jeweils gültigen Fassung.
 
 Die Verpflichtungsmöglichkeiten umfassen Verkehrsunternehmen aus den Bereichen Straßenverkehr, Eisenbahnverkehr, Luftverkehr, Binnenschifffahrt und Seeverkehr. Für alle Bereiche sind Verpflichtungsbehörden bestimmt, die ermächtigt sind, auf Anforderung Verkehrsunternehmen per Bescheid zur Erbringung konkreter Verkehrsleistungen zu verpflichten. Die anforderungsberechtigten Behörden sind ebenfalls gesetzlich festgelegt. Alle Bundesoberbehörden mit Zivilschutz- oder Versorgungsaufgaben im Rahmen der Zivilen Verteidigung sollten bei Bedarf anforderungsberechtigt sein. Entsprechende Ergänzungen sind zu prüfen.
 
@@ -871,7 +871,7 @@ Grundsätzlich stehen zur Vorbereitung z. B. regelmäßig aktualisierte Bestandl
 
 Weitere Maßnahmen zur Verkehrssicherstellung wie Lenkungsmaßnahmen, Vorrangregelungen, Benutzungsverbote und -beschränkungen für bestimmte Straßen- oder Streckenabschnitte, Ersatzvornahme der Be- und Entladung durch Dritte, Koordinierung von Flugbewegungen, Maßnahmen der Luftraumkontrolle werden nach den Vorgaben des [VerkSiG](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) über entsprechende Rechtsverordnungen vorbereitet.
 
-Zur Sicherstellung des Straßenverkehrs hält der Bund nach Bedarf Behelfsbrücken und Spezialgerät aufgrund des [§ 9 ZSKG](ZSKG_Zivilschutzgesetz.md) vor. Der Bedarf wird aus dem Katalog "Referenzszenarien Bund" ermittelt. Zusätzlich werden für die Eisenbahnen des Bundes (EdB) nach [§ 10a VerkSiG](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) in Verbindung mit § 8 VerkLG bauliche Maßnahmen getroffen, die bei einer Störung der Infrastruktur zur Wiederherstellung und zum grundlegenden Betrieb der Schieneninfrastruktur erforderlich sind. Hierzu hält das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) Behelfsbrücken, mobile Stellwerke und geschützte Krisenkoordinierungsstellen vor.
+Zur Sicherstellung des Straßenverkehrs hält der Bund nach Bedarf Behelfsbrücken und Spezialgerät aufgrund des [§ 9 ZSKG](ZSKG_Zivilschutzgesetz.md) vor. Der Bedarf wird aus dem Katalog "Referenzszenarien Bund" ermittelt. Zusätzlich werden für die Eisenbahnen des Bundes (EdB) nach [§ 10a VerkSiG](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) in Verbindung mit [§ 8 VerkLG](sicherstellungsgesetze/VerkLG_Verkehrsleistungsgesetz.md) bauliche Maßnahmen getroffen, die bei einer Störung der Infrastruktur zur Wiederherstellung und zum grundlegenden Betrieb der Schieneninfrastruktur erforderlich sind. Hierzu hält das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) Behelfsbrücken, mobile Stellwerke und geschützte Krisenkoordinierungsstellen vor.
 
 ### 7.12 Herstellung und Zuteilung von Waren der gewerblichen Wirtschaft
 Die Sicherstellung der Versorgung mit Gütern der gewerblichen Wirtschaft im Verteidigungsfall richtet sich nach
@@ -933,7 +933,7 @@ Transport: Um Wirkungsräume erreichen zu können, setzt die Bundeswehr folgende
 - Zurverfügungstellung ziviler Verkehrsmittel, -leistungen und -einrichtungen,
 - Bereitstellung von Treibstoffen.
 
-Entsprechende Unterstützungsmaßnahmen sind im Rahmen des [VerkSiG](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) und des VerkLG vorzubereiten.
+Entsprechende Unterstützungsmaßnahmen sind im Rahmen des [VerkSiG](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) und des [VerkLG](sicherstellungsgesetze/VerkLG_Verkehrsleistungsgesetz.md) vorzubereiten.
 
 Post: Die schnelle und sichere Zustellung von Postsendungen mit besonderer Bedeutung für die Bundeswehr (beispielsweise Einberufungs- und Leistungsbescheide bei Wiederaufleben der Wehrpflicht) wird im Rahmen des Post- und Telekommunikationssicherstellungsgesetzes gewährleistet.
 
