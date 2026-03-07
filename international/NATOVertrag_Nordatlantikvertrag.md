@@ -1,88 +1,114 @@
-# The North Atlantic Treaty
+# Nordatlantikvertrag
 
-**Nordatlantikvertrag**
+**The North Atlantic Treaty**
 
-Washington D.C., 4. April 1949
+Washington D.C., 4. April 1949 | In Kraft getreten am 24. August 1949
+
+BGBl. 1955 II S. 289 (Originalfassung), BGBl. 1955 II S. 293 (Protokoll vom 17. Oktober 1951)
 
 ---
 
 ## Präambel
 
-The Parties to this Treaty reaffirm their faith in the purposes and principles of the Charter of the United Nations and their desire to live in peace with all peoples and all governments.
+Die vertragschließenden Staaten bestätigen ihren Glauben an die Ziele und Prinzipien der [Charta der Vereinten Nationen](UNCharta_Charta-der-Vereinten-Nationen.md) und ihren Wunsch, mit allen Völkern und mit allen Regierungen in Frieden zu leben.
 
-They are determined to safeguard the freedom, common heritage and civilisation of their peoples, founded on the principles of democracy, individual liberty and the rule of law. They seek to promote stability and well-being in the North Atlantic area.
+Sie sind entschlossen, die Freiheit, das gemeinsame Kulturerbe ihrer Völker, gegründet auf die Prinzipien der Demokratie, auf die Freiheit des einzelnen und die Grundsätze des Rechts, sicherzustellen.
 
-They are resolved to unite their efforts for collective defence and for the preservation of peace and security. They therefore agree to this North Atlantic Treaty:
+Sie sind bestrebt, die Stabilität und Wohlfahrt im nordatlantischen Gebiet zu fördern.
 
-## Article 1
+Sie sind entschlossen, ihre Bemühungen um eine gemeinsame Verteidigung und um die Erhaltung von Frieden und Sicherheit zu vereinigen.
 
-The Parties undertake, as set forth in the Charter of the United Nations, to settle any international dispute in which they may be involved by peaceful means in such a manner that international peace and security and justice are not endangered, and to refrain in their international relations from the threat or use of force in any manner inconsistent with the purposes of the United Nations.
+Daher sind sie übereingekommen, diesen Nordatlantikpakt zu schließen.
 
-## Article 2
+## Artikel 1
 
-The Parties will contribute toward the further development of peaceful and friendly international relations by strengthening their free institutions, by bringing about a better understanding of the principles upon which these institutions are founded, and by promoting conditions of stability and well-being. They will seek to eliminate conflict in their international economic policies and will encourage economic collaboration between any or all of them.
+Die vertragschließenden Staaten verpflichten sich, gemäß den Bestimmungen der [Charta der Vereinten Nationen](UNCharta_Charta-der-Vereinten-Nationen.md) jeden internationalen Streitfall, an dem sie beteiligt sein mögen, durch friedliche Mittel in der Weise zu regeln, daß Frieden, Sicherheit und Gerechtigkeit unter den Völkern nicht gefährdet werden, und sich in ihren internationalen Beziehungen jeglicher Drohung oder Gewaltanwendung zu enthalten, die in irgendeiner Weise mit den Zielen der Vereinten Nationen nicht vereinbar ist.
 
-## Article 3
+## Artikel 2
 
-In order more effectively to achieve the objectives of this Treaty, the Parties, separately and jointly, by means of continuous and effective self-help and mutual aid, will maintain and develop their individual and collective capacity to resist armed attack.
+Durch Stärkung ihrer freien Institutionen, Herbeiführung eines besseren Verständnisses für die diesen Institutionen zugrunde liegenden Prinzipien und durch Förderung der Voraussetzungen für Stabilität und Wohlfahrt werden die vertragschließenden Staaten zu einer weiteren Entwicklung friedlicher und freundschaftlicher internationaler Beziehungen beitragen. Sie werden bestrebt sein, Konflikte in ihrer internationalen Wirtschaftspolitik zu beseitigen, und werden die wirtschaftliche Zusammenarbeit zwischen einzelnen oder allen Vertragsstaaten fördern.
 
-## Article 4
+## Artikel 3
 
-The Parties will consult together whenever, in the opinion of any of them, the territorial integrity, political independence or security of any of the Parties is threatened.
+Um die Ziele dieses Vertrages nachhaltiger zu verwirklichen, werden die vertragschließenden Staaten einzeln und gemeinsam durch ständige, wirksame Selbsthilfe und gegenseitige Unterstützung die Kraft des einzelnen Staates und der Gesamtheit der Staaten, einem bewaffneten Angriff Widerstand zu leisten, aufrechterhalten und entwickeln.
 
-## Article 5
+## Artikel 4
 
-The Parties agree that an armed attack against one or more of them in Europe or North America shall be considered an attack against them all and consequently they agree that, if such an armed attack occurs, each of them, in exercise of the right of individual or collective self-defence recognised by Article 51 of the Charter of the United Nations, will assist the Party or Parties so attacked by taking forthwith, individually and in concert with the other Parties, such action as it deems necessary, including the use of armed force, to restore and maintain the security of the North Atlantic area.
+Die vertragschließenden Staaten werden in Beratungen miteinander eintreten, wenn nach der Meinung eines von ihnen die Unversehrtheit des Gebietes, die politische Unabhängigkeit oder die Sicherheit irgendeines der vertragschließenden Staaten bedroht ist.
 
-Any such armed attack and all measures taken as a result thereof shall immediately be reported to the Security Council. Such measures shall be terminated when the Security Council has taken the measures necessary to restore and maintain international peace and security.
+## Artikel 5
 
-## Article 6 ^1^
+Die vertragschließenden Staaten sind darüber einig, daß ein bewaffneter Angriff gegen einen oder mehrere von ihnen in Europa oder Nordamerika als ein Angriff gegen sie alle betrachtet werden wird, und infolgedessen kommen sie überein, daß im Falle eines solchen bewaffneten Angriffs jeder von ihnen in Ausübung des in Artikel 51 der [Charta der Vereinten Nationen](UNCharta_Charta-der-Vereinten-Nationen.md) anerkannten Rechts zur persönlichen oder gemeinsamen Selbstverteidigung den Vertragsstaat oder die Vertragsstaaten, die angegriffen werden, unterstützen wird, indem jeder von ihnen für sich und im Zusammenwirken mit den anderen Vertragsstaaten diejenigen Maßnahmen unter Einschluß der Verwendung bewaffneter Kräfte ergreift, die er für notwendig erachtet, um die Sicherheit des nordatlantischen Gebietes wiederherzustellen und aufrechtzuerhalten.
 
-For the purpose of Article 5, an armed attack on one or more of the Parties is deemed to include an armed attack:
+Jeder derartige bewaffnete Angriff und alle als dessen Ergebnis ergriffenen Maßnahmen sollen dem Sicherheitsrat unverzüglich gemeldet werden. Diese Maßnahmen sind zu beenden, sobald der Sicherheitsrat die zur Wiederherstellung und Aufrechterhaltung des Völkerfriedens und der internationalen Sicherheit notwendigen Maßnahmen getroffen hat.
 
-- on the territory of any of the Parties in Europe or North America, on the Algerian Departments of France ^2^, on the territory of Turkey or on the Islands under the jurisdiction of any of the Parties in the North Atlantic area north of the Tropic of Cancer;
-- on the forces, vessels, or aircraft of any of the Parties, when in or over these territories or any other area in Europe in which occupation forces of any of the Parties were stationed on the date when the Treaty entered into force or the Mediterranean Sea or the North Atlantic area north of the Tropic of Cancer.
+## Artikel 6
 
-## Article 7
+*Fassung gemäß Artikel 2 des Protokolls vom 17. Oktober 1951 (BGBl. 1955 II S. 293), in Kraft seit 18. Februar 1952:*
 
-This Treaty does not affect, and shall not be interpreted as affecting in any way the rights and obligations under the Charter of the Parties which are members of the United Nations, or the primary responsibility of the Security Council for the maintenance of international peace and security.
+Im Sinne des Artikels 5 gilt als bewaffneter Angriff auf eine oder mehrere der Parteien jeder bewaffnete Angriff
 
-## Article 8
+(i) auf das Gebiet eines dieser Staaten in Europa oder Nordamerika, auf das Gebiet der Türkei oder auf die der Gebietshoheit einer der Parteien unterliegenden Inseln im nordatlantischen Gebiet nördlich des Wendekreises des Krebses;
 
-Each Party declares that none of the international engagements now in force between it and any other of the Parties or any third State is in conflict with the provisions of this Treaty, and undertakes not to enter into any international engagement in conflict with this Treaty.
+(ii) auf die Streitkräfte, Schiffe oder Flugzeuge einer der Parteien, wenn sie sich in oder über diesen Gebieten oder irgendeinem anderen europäischen Gebiet, in dem eine der Parteien bei Inkrafttreten des Vertrags eine Besatzung unterhält, oder wenn sie sich im Mittelmeer oder im nordatlantischen Gebiet nördlich des Wendekreises des Krebses befinden.
 
-## Article 9
+*Hinweis: Die ursprüngliche Bezugnahme auf „die algerischen Departements Frankreichs" wurde durch Beschluss des Nordatlantikrates vom 16. Januar 1963 mit Wirkung vom 3. Juli 1962 (Unabhängigkeit Algeriens) für gegenstandslos erklärt.*
 
-The Parties hereby establish a Council, on which each of them shall be represented, to consider matters concerning the implementation of this Treaty. The Council shall be so organised as to be able to meet promptly at any time. The Council shall set up such subsidiary bodies as may be necessary; in particular it shall establish immediately a defence committee which shall recommend measures for the implementation of Articles 3 and 5.
+## Artikel 7
 
-## Article 10
+Dieser Vertrag berührt in keiner Weise die sich aus der Charta ergebenden Rechte und Verpflichtungen der Vertragsstaaten, die Mitglieder der Vereinten Nationen sind, oder die in erster Linie bestehende Verantwortlichkeit des Sicherheitsrates für die Aufrechterhaltung von Frieden und Sicherheit unter den Völkern. Er darf auch nicht dahin ausgelegt werden, daß er in irgendeiner Weise solche Rechte, Verbindlichkeiten und Verantwortlichkeiten berühre.
 
-The Parties may, by unanimous agreement, invite any other European State in a position to further the principles of this Treaty and to contribute to the security of the North Atlantic area to accede to this Treaty. Any State so invited may become a Party to the Treaty by depositing its instrument of accession with the Government of the United States of America. The Government of the United States of America will inform each of the Parties of the deposit of each such instrument of accession.
+## Artikel 8
 
-## Article 11
+Jeder vertragschließende Staat erklärt hiermit, daß keine von den internationalen Verbindlichkeiten, die zur Zeit zwischen ihm und einem anderen Vertragsstaat oder irgendeinem dritten Staat in Kraft sind, in Widerspruch zu den Bestimmungen dieses Vertrages steht, und verpflichtet sich, auch in Zukunft in keine internationale Verbindlichkeit einzutreten, die im Widerspruch zu dem Vertrag steht.
 
-This Treaty shall be ratified and its provisions carried out by the Parties in accordance with their respective constitutional processes. The instruments of ratification shall be deposited as soon as possible with the Government of the United States of America, which will notify all the other signatories of each deposit. The Treaty shall enter into force between the States which have ratified it as soon as the ratifications of the majority of the signatories, including the ratifications of Belgium, Canada, France, Luxembourg, the Netherlands, the United Kingdom and the United States, have been deposited and shall come into effect with respect to other States on the date of the deposit of their ratifications. ^3^
+## Artikel 9
 
-## Article 12
+Die vertragschließenden Staaten errichten hiermit einen Rat, in dem jeder von ihnen vertreten sein wird, zu dem Zwecke der Erörterung von Gegenständen, welche die Ausführung dieses Vertrages betreffen. Die Organisation des Rates wird so gestaltet werden, daß er in der Lage ist, jederzeit unverzüglich zusammenzutreten. Soweit notwendig, wird der Rat Hilfsorgane ins Leben rufen, insbesondere wird er sofort einen Verteidigungsausschuß zur Empfehlung von Maßnahmen für die Ausführung der Artikel 3 und 5 errichten.
 
-After the Treaty has been in force for ten years, or at any time thereafter, the Parties shall, if any of them so requests, consult together for the purpose of reviewing the Treaty, having regard for the factors then affecting peace and security in the North Atlantic area, including the development of universal as well as regional arrangements under the Charter of the United Nations for the maintenance of international peace and security.
+## Artikel 10
 
-## Article 13
+Die vertragschließenden Staaten können auf Grund eines einstimmig getroffenen Übereinkommens jeden anderen europäischen Staat, der in der Lage ist, die Grundsätze dieses Vertrages zu fördern und zur Sicherheit des nordatlantischen Gebietes beizutragen, zum Beitritt zu diesem Vertrage einladen. Jeder auf diese Weise eingeladene Staat kann durch Niederlegung seiner Beitrittserklärung bei der Regierung der Vereinigten Staaten von Amerika ein Partner dieses Vertrages werden. Die Regierung der Vereinigten Staaten von Amerika wird jedem der vertragschließenden Staaten die Niederlegung einer solchen Beitrittserklärung mitteilen.
 
-After the Treaty has been in force for twenty years, any Party may cease to be a Party one year after its notice of denunciation has been given to the Government of the United States of America, which will inform the Governments of the other Parties of the deposit of each notice of denunciation.
+## Artikel 11
 
-## Article 14
+Dieser Vertrag soll von den vertragschließenden Staaten gemäß dem für sie geltenden verfassungsmäßigen Verfahren ratifiziert und durchgeführt werden. Die Ratifizierungsurkunden werden so bald wie möglich bei der Regierung der Vereinigten Staaten von Amerika niedergelegt werden, die alle anderen Unterzeichnerstaaten von jeder Hinterlegung benachrichtigen wird. Der Vertrag tritt zwischen den Staaten, die ihn ratifiziert haben, in Kraft, sobald die Ratifizierungsurkunden der Mehrheit der Unterzeichnermächte — einschließlich Belgiens, Kanadas, Frankreichs, Luxemburgs, der Niederlande, des Vereinigten Königreichs und der Vereinigten Staaten — niedergelegt sind. In bezug auf andere Staaten tritt er an dem Tage der Niederlegung ihrer Ratifizierungsurkunden in Kraft.
 
-This Treaty, of which the English and French texts are equally authentic, shall be deposited in the archives of the Government of the United States of America. Duly certified copies will be transmitted by that Government to the Governments of other signatories.
+## Artikel 12
+
+Nach zehnjähriger Gültigkeitsdauer des Vertrages und zu jedem späteren Zeitpunkt werden die vertragschließenden Staaten auf das Verlangen eines von ihnen miteinander in eine Beratung über die Abänderung des Vertrages eintreten und hierbei die Faktoren berücksichtigen, die alsdann von Einfluß auf den Frieden und die Sicherheit im nordatlantischen Gebiet sein werden, unter Einschluß der Entwicklung allgemeiner und gebietsmäßig beschränkter Abkommen zur Aufrechterhaltung von Frieden und Sicherheit unter den Völkern im Rahmen der [Charta der Vereinten Nationen](UNCharta_Charta-der-Vereinten-Nationen.md).
+
+## Artikel 13
+
+Nach zwanzigjähriger Gültigkeitsdauer des Vertrages kann jeder vertragschließende Staat aus dem Verhältnis ausscheiden, und zwar ein Jahr nach Erklärung seiner Kündigung gegenüber der Regierung der Vereinigten Staaten von Amerika, die den Regierungen der anderen vertragschließenden Staaten die Niederlegung jeder Kündigungserklärung mitteilen wird.
+
+## Artikel 14
+
+Dieser Vertrag, dessen englischer und dessen französischer Wortlaut in gleicher Weise maßgebend sind, wird in den Archiven der Regierung der Vereinigten Staaten von Amerika niedergelegt werden. Amtlich beglaubigte Abschriften dieser Urkunden werden von dieser Regierung den Regierungen der anderen Unterzeichner übermittelt werden.
 
 ---
 
-**Fußnoten:**
+Zu Urkund dessen haben die unterzeichneten Bevollmächtigten diesen Vertrag unterzeichnet.
 
-1. Artikel 6 wurde durch Artikel 2 des Protokolls zum Nordatlantikvertrag über den Beitritt Griechenlands und der Türkei vom 22. Oktober 1951 neu gefasst.
-2. Die Bestimmungen zu den algerischen Départements sind seit dem 3. Juli 1962 (Unabhängigkeit Algeriens) gegenstandslos.
-3. Der Vertrag trat am 24. August 1949 in Kraft, nachdem alle Signatarstaaten ihre Ratifikationsurkunden hinterlegt hatten.
+Gegeben in Washington, am 4. April 1949.
+
+| Staat | Unterzeichner |
+|-------|--------------|
+| Königreich Belgien | P. H. Spaak, Silvercruys |
+| Kanada | Lester B. Pearson, H. H. Wrong |
+| Königreich Dänemark | Gustav Rasmussen, Henrik Kauffmann |
+| Frankreich | Schuman, Bonnet |
+| Island | Bjarni Benediktsson, Thor Thors |
+| Italien | Sforza, Alberto Tarchiani |
+| Großherzogtum Luxemburg | Jos. Bech, Hugues Le Gallais |
+| Königreich der Niederlande | D. U. Stikker, E. N. van Kleffens |
+| Königreich Norwegen | Halvard M. Lange, Wilhelm Munthe Morgenstierne |
+| Portugal | José Caeiro da Matta, Pedro Theotónio Pereira |
+| Vereinigtes Königreich | Ernest Bevin, Oliver Franks |
+| Vereinigte Staaten von Amerika | Dean Acheson |
 
 ---
 
-*Quelle: [NATO Official Texts](https://www.nato.int/cps/en/natolive/official_texts_17120.htm)*
+*Beitritt der Bundesrepublik Deutschland durch Protokoll vom 23. Oktober 1954 mit Wirkung vom 6. Mai 1955 (BGBl. 1955 II S. 630).*
+
+*Quelle: [staatsvertraege.de](https://www.staatsvertraege.de/natov49.htm), [NATO Official Texts](https://www.nato.int/cps/en/natolive/official_texts_17120.htm)*

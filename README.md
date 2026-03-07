@@ -182,6 +182,9 @@ graph LR
     FeuerwG -->|4x| GG
     KatSO["KatSO"]
     KatSO -->|4x| KatSchG
+    NATOVertrag["NATOVertrag"]
+    UNCharta["UNCharta"]
+    NATOVertrag -->|4x| UNCharta
     KZV -->|4x| EnSiG
     THWG["THWG"]
     KZV -->|4x| THWG
@@ -205,7 +208,6 @@ graph LR
     NIS2UmsuCG -->|3x| GG
     KZV -->|3x| GG
     Resilienzstrategie -->|3x| BSIG
-    NATOVertrag["NATOVertrag"]
     Resilienzstrategie -->|3x| NATOVertrag
     BG -->|2x| PersVG
     BeamtVG -->|2x| BBG
