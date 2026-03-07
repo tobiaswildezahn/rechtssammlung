@@ -10,35 +10,38 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 
 | Datei | Dokument |
 |-------|----------|
-| `grundgesetz/GG.md` | Grundgesetz fuer die Bundesrepublik Deutschland |
+| `grundgesetz/GG.md` | Grundgesetz für die Bundesrepublik Deutschland |
 
 ### Zivile Verteidigung
 
 | Datei | Dokument |
 |-------|----------|
-| `zivile-verteidigung/KZV.md` | Konzeption Zivile Verteidigung (2016) |
-| `zivile-verteidigung/resilienz-katastrophen.md` | Deutsche Strategie zur Staerkung der Resilienz gegenueber Katastrophen (BMI 2022) |
-| `zivile-verteidigung/ZSKG_Zivilschutzgesetz.md` | Zivilschutz- und Katastrophenhilfegesetz |
+| `zivile-verteidigung/KZV.md` | Konzeption Zivile Verteidigung |
+| `zivile-verteidigung/ZSKG_Zivilschutzgesetz.md` | Zivilschutzgesetz |
+| `zivile-verteidigung/resilienz-katastrophen.md` | Deutsche Strategie zur Stärkung der Resilienz gegenüber Katastrophen |
 
 #### Sicherstellungsgesetze
 
 | Datei | Dokument |
 |-------|----------|
-| `sicherstellungsgesetze/ASG_*.md` | Arbeitssicherstellungsgesetz |
-| `sicherstellungsgesetze/EnSiG_*.md` | Energiesicherungsgesetz |
-| `sicherstellungsgesetze/ESVG_*.md` | Ernaehrungssicherstellungsgesetz |
-| `sicherstellungsgesetze/VerkSiG_*.md` | Verkehrssicherstellungsgesetz |
-| `sicherstellungsgesetze/WasSiG_*.md` | Wassersicherstellungsgesetz |
-| `sicherstellungsgesetze/WiSiG_*.md` | Wirtschaftssicherstellungsgesetz |
-| `sicherstellungsgesetze/PostG_*.md` | Postgesetz (inkl. Sicherstellung) |
-| `sicherstellungsgesetze/TKG_*.md` | Telekommunikationsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/ASG_Arbeitssicherstellungsgesetz.md` | Arbeitssicherstellungsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/ESVG_Ernaehrungssicherstellungsgesetz.md` | Ernaehrungssicherstellungsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/EltSV_Elektrizitaetssicherungsverordnung.md` | Elektrizitaetssicherungsverordnung |
+| `zivile-verteidigung/sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md` | Energiesicherungsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/GasSV_Gassicherungsverordnung.md` | Gassicherungsverordnung |
+| `zivile-verteidigung/sicherstellungsgesetze/PostG_Postgesetz_inkl_Sicherstellung.md` | Postgesetz inkl Sicherstellung |
+| `zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md` | Telekommunikationsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/VerkLG_Verkehrsleistungsgesetz.md` | Verkehrsleistungsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md` | Verkehrssicherstellungsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/WasSiG_Wassersicherstellungsgesetz.md` | Wassersicherstellungsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md` | Wirtschaftssicherstellungsgesetz |
 
 ### Kritische Infrastrukturen
 
 | Datei | Dokument |
 |-------|----------|
-| `kritis/KRITIS-Dachgesetz_BT-Drucksache.md` | KRITIS-Dachgesetz (BT-Drucksache) |
-| `kritis/NIS2UmsuCG_Bundesgesetzblatt.md` | NIS-2-Umsetzungsgesetz (BGBl.) |
+| `kritis/KRITIS-Dachgesetz_BT-Drucksache.md` | Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen |
+| `kritis/NIS2UmsuCG_Bundesgesetzblatt.md` | NIS-2-Umsetzungsgesetz |
 
 ### Gesundheit
 
@@ -46,51 +49,49 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 |-------|----------|
 | `gesundheit/IfSG_Infektionsschutzgesetz.md` | Infektionsschutzgesetz |
 
-### Hamburg
-
 #### Katastrophenschutz
 
 | Datei | Dokument |
 |-------|----------|
-| `hamburg/katastrophenschutz/KatSchG_HA.md` | Hamburgisches Katastrophenschutzgesetz |
-| `hamburg/katastrophenschutz/KatSO_Hamburg.md` | Katastrophenschutzordnung Hamburg |
 | `hamburg/katastrophenschutz/FeuerwG_HA.md` | Feuerwehrgesetz Hamburg |
-| `hamburg/katastrophenschutz/RettDG_HA_2019.md` | Rettungsdienstgesetz Hamburg |
+| `hamburg/katastrophenschutz/KatSO_Hamburg.md` | Katastrophenschutzordnung Hamburg |
+| `hamburg/katastrophenschutz/KatSchG_HA.md` | Hamburgisches Katastrophenschutzgesetz |
+| `hamburg/katastrophenschutz/RettDG_HA_2019.md` | Hamburgisches Rettungsdienstgesetz |
 
 #### Beamtenrecht
 
 | Datei | Dokument |
 |-------|----------|
-| `hamburg/beamtenrecht/BG_HA_2009.md` | Beamtengesetz Hamburg |
-| `hamburg/beamtenrecht/BeamtVG_HA.md` | Beamtenversorgungsgesetz Hamburg |
-| `hamburg/beamtenrecht/BesG_HA_2010.md` | Besoldungsgesetz Hamburg |
-| `hamburg/beamtenrecht/DG_HA.md` | Disziplinargesetz Hamburg |
-| `hamburg/beamtenrecht/GleichstG_HA_2015.md` | Gleichstellungsgesetz Hamburg |
-| `hamburg/beamtenrecht/PersVG_HA_2014.md` | Personalvertretungsgesetz Hamburg |
+| `hamburg/beamtenrecht/BG_HA_2009.md` | Hamburgisches Beamtengesetz |
+| `hamburg/beamtenrecht/BeamtVG_HA.md` | Hamburgisches Beamtenversorgungsgesetz |
+| `hamburg/beamtenrecht/BesG_HA_2010.md` | Hamburgisches Besoldungsgesetz |
+| `hamburg/beamtenrecht/DG_HA.md` | Hamburgisches Disziplinargesetz |
+| `hamburg/beamtenrecht/GleichstG_HA_2015.md` | Hamburgisches Gleichstellungsgesetz |
+| `hamburg/beamtenrecht/PersVG_HA_2014.md` | Hamburgisches Personalvertretungsgesetz |
 
 #### Sonstige Hamburg
 
 | Datei | Dokument |
 |-------|----------|
-| `hamburg/SOG_HA.md` | Gesetz zum Schutz der oeffentlichen Sicherheit und Ordnung |
-| `hamburg/BeurtVO-Fw.md` | Beurteilungsverordnung Feuerwehr Hamburg |
-| `hamburg/datenschutz-anpassung/*.md` | Datenschutzanpassung KatSG/FwG/RDG |
+| `hamburg/BeurtVO-Fw.md` | Beurteilungsverordnung Feuerwehr |
+| `hamburg/SOG_HA.md` | Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung |
+| `hamburg/datenschutz-anpassung/21_12396_datenschutz_anpassung_katsg_fwg_rdg.md` | 12396 datenschutz anpassung katsg fwg rdg |
 
 ### Beamtenrecht Bund
 
 | Datei | Dokument |
 |-------|----------|
-| `beamtenrecht-bund/BBG.md` | Bundesbeamtengesetz |
-| `beamtenrecht-bund/BeamtStG.md` | Beamtenstatusgesetz |
 | `beamtenrecht-bund/AGG.md` | Allgemeines Gleichbehandlungsgesetz |
 | `beamtenrecht-bund/ArbZG.md` | Arbeitszeitgesetz |
-| `beamtenrecht-bund/BUrlG.md` | Bundesurlaubsgesetz |
+| `beamtenrecht-bund/BBG.md` | Bundesbeamtengesetz |
+| `beamtenrecht-bund/BUrlG.md` | Mindesturlaubsgesetz für Arbeitnehmer |
+| `beamtenrecht-bund/BeamtStG.md` | Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern |
 
 ### Parlamentaria
 
 | Datei | Dokument |
 |-------|----------|
-| `parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md` | Entwurf Rettungsdienstgesetz Hamburg (Bue-Drs. 21/16376) |
+| `parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md` | 16376 entwurf rettungsdienstgesetz |
 
 ## Querverweise
 
@@ -108,13 +109,20 @@ graph LR
     WiSiG["WiSiG"]
     KZV -->|9x| WiSiG
     DG["DG"]
+    BeamtVG["BeamtVG"]
+    DG -->|8x| BeamtVG
     DG -->|6x| BeamtStG
     BeurtVO_Fw["BeurtVO-Fw"]
     BeurtVO_Fw -->|5x| BeamtStG
+    VerkLG["VerkLG"]
+    KZV -->|5x| VerkLG
     VerkSiG["VerkSiG"]
     KZV -->|5x| VerkSiG
     BesG["BesG"]
     BesG -->|4x| BeamtStG
+    KatSO["KatSO"]
+    KatSchG["KatSchG"]
+    KatSO -->|4x| KatSchG
     KRITIS_Dachgesetz["KRITIS-Dachgesetz"]
     TKG["TKG"]
     KRITIS_Dachgesetz -->|4x| TKG
@@ -125,17 +133,22 @@ graph LR
     Resilienzstrategie["Resilienzstrategie"]
     Resilienzstrategie -->|4x| KZV
     Resilienzstrategie -->|4x| ZSKG
+    GleichstG["GleichstG"]
+    PersVG["PersVG"]
+    GleichstG -->|3x| PersVG
     RettDG["RettDG"]
     RettDG_Entwurf -->|3x| RettDG
     EnSiG["EnSiG"]
     KZV -->|3x| EnSiG
+    BesG -->|2x| BeamtVG
     DS_Anpassung_HH["DS-Anpassung-HH"]
-    KatSchG["KatSchG"]
     DS_Anpassung_HH -->|2x| KatSchG
     DS_Anpassung_HH -->|2x| RettDG_Entwurf
     NIS2UmsuCG["NIS2UmsuCG"]
     KRITIS_Dachgesetz -->|2x| NIS2UmsuCG
     RettDG_Entwurf -->|2x| ZSKG
+    GasSV["GasSV"]
+    KZV -->|2x| GasSV
     WasSiG["WasSiG"]
     KZV -->|2x| WasSiG
     ASG["ASG"]
@@ -151,9 +164,11 @@ graph LR
     DS_Anpassung_HH --> GG
     RettDG --> RettDG_Entwurf
     NIS2UmsuCG --> EnSiG
+    NIS2UmsuCG --> GasSV
     NIS2UmsuCG --> TKG
     RettDG_Entwurf --> IfSG
     KZV --> GG
+    GasSV --> EnSiG
     VerkSiG --> ZSKG
 ```
 
@@ -166,7 +181,7 @@ lldr convert dokument.pdf -o /tmp/out
 # In passenden Ordner verschieben
 cp /tmp/out/dokument.md <kategorie>/
 
-# Committen
+# Committen (post-commit Hook aktualisiert index.json, Querverweise und README automatisch)
 git add . && git commit -m "Add: <Dokumentname>"
 git push
 ```
