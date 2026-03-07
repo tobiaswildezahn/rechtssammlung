@@ -17,6 +17,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | Datei | Dokument |
 |-------|----------|
 | `zivile-verteidigung/KZV.md` | Konzeption Zivile Verteidigung (2016) |
+| `zivile-verteidigung/resilienz-katastrophen.md` | Deutsche Strategie zur Staerkung der Resilienz gegenueber Katastrophen (BMI 2022) |
 | `zivile-verteidigung/ZSKG_Zivilschutzgesetz.md` | Zivilschutz- und Katastrophenhilfegesetz |
 
 #### Sicherstellungsgesetze
