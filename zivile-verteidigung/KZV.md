@@ -42,7 +42,7 @@ EBV Erdölbevorratungsverband
 
 EltSV Elektrizitätssicherungsverordnung
 
-EnSiG Energiesicherungsgesetz
+EnSiG [Energiesicherungsgesetz](sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md)
 
 EnWG Energiewirtschaftsgesetz
 
@@ -116,15 +116,15 @@ Kultur)
 
 VerkLG Verkehrsleistungsgesetz
 
-VerkSiG Verkehrssicherstellungsgesetz
+VerkSiG [Verkehrssicherstellungsgesetz](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md)
 
-WasSG Wassersicherstellungsgesetz
+WasSG [Wassersicherstellungsgesetz](sicherstellungsgesetze/WasSiG_Wassersicherstellungsgesetz.md)
 
-WiSiG Wirtschaftssicherstellungsgesetz
+WiSiG [Wirtschaftssicherstellungsgesetz](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md)
 
 WiSiV Wirtschaftssicherstellungsverordnung
 
-ZSKG Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes
+ZSKG [Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes](ZSKG_Zivilschutzgesetz.md)
 
 ZUB Zentrale Unterstützungsgruppe des Bundes (Bundeskriminalamt,
 
@@ -149,7 +149,7 @@ In der Erkenntnis, dass die Verteidigung des Bundesgebietes gegen Angriffe von a
 
 Hierbei wird die Zivile Verteidigung weiterhin im Rahmen des geltenden Rechts und der bestehenden völkerrechtlichen wie auch europarechtlichen Verpflichtungen und Befugnisse geleistet werden. Für die Verteidigung einschließlich des Schutzes der Zivilbevölkerung hat der Bund nach Artikel 73 Absatz 1 Nummer 1 des Grundgesetzes (GG) die ausschließliche Gesetzgebungskompetenz. Die Planung und Durchführung der Fachaufgaben auf dem Gebiet der Gesamtverteidigung werden vom Bundesministerium der Verteidigung (BMVg) und den übrigen Fachressorts jeweils eigenverantwortlich wahrgenommen. Die Zuständigkeit des Bundesministeriums des Innern (BMI) besteht in der unmittelbaren Verantwortung für die Aufgaben des Zivilschutzes und in der Koordinierung der ressortübergreifenden Angelegenheiten der Zivilen Verteidigung.
 
-Auf dem Gebiet der Zivilen Verteidigung führen die Länderfachverwaltungen die Bundesgesetze wie beispielsweise das Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes (ZSKG) im Auftrag des Bundes aus (Bundesauftragsverwaltung), soweit nicht bundeseigene Verwaltung wie beispielsweise im Gesetz über das Technische Hilfswerk (THWG) vorgesehen ist.
+Auf dem Gebiet der Zivilen Verteidigung führen die Länderfachverwaltungen die Bundesgesetze wie beispielsweise das [Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes](ZSKG_Zivilschutzgesetz.md) (ZSKG) im Auftrag des Bundes aus (Bundesauftragsverwaltung), soweit nicht bundeseigene Verwaltung wie beispielsweise im Gesetz über das Technische Hilfswerk (THWG) vorgesehen ist.
 
 In diesem rechtlich-organisatorischen Rahmen hat die Zivile Verteidigung die Aufgabe, alle zivilen Maßnahmen zu planen, vorzubereiten und durchzuführen, die zur Herstellung und Aufrechterhaltung der Verteidigungsfähigkeit einschließlich der Versorgung und des Schutzes der Bevölkerung erforderlich sind. Hierzu gehört im Einzelnen,
 
@@ -256,7 +256,7 @@ Art und Intensität der zu treffenden Maßnahmen orientieren sich an ihrer Verh�
 Die Planungen und Vorbereitungen für die Zivile Verteidigung bauen nach Möglichkeit auf den Planungen und Vorbereitungen für die friedensmäßige Krisenbewältigung auf. Doppelstrukturen sind zu vermeiden. Auf der anderen Seite ist eine Rückfallorganisation für die Krise mit ausreichenden Redundanzen (z.B. autarke Kommunikationsmittel) vorzuhalten.
 
 ## 5 Aufrechterhaltung der Staats- und Regierungsfunktionen
-In einer Krise und im Verteidigungsfall muss sichergestellt sein, dass Gesetzgebung, Regierung und Verwaltung sowie die Rechtsprechung funktionsfähig bleiben. Die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung ist im Spannungs- und Verteidigungsfall weiterhin vorrangig von den im Frieden zuständigen Behörden der Länder und des Bundes zu gewährleisten. Hierzu ist die Umsetzung von Maßnahmen zum internen behördlichen Risiko- und Krisenmanagement erforderlich. Die Grundzüge dieser besonderen Erfordernisse der Ausnahmesituation eines Spannungs- und Verteidigungsfalles sind im Grundgesetz geregelt.
+In einer Krise und im Verteidigungsfall muss sichergestellt sein, dass Gesetzgebung, Regierung und Verwaltung sowie die Rechtsprechung funktionsfähig bleiben. Die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung ist im Spannungs- und Verteidigungsfall weiterhin vorrangig von den im Frieden zuständigen Behörden der Länder und des Bundes zu gewährleisten. Hierzu ist die Umsetzung von Maßnahmen zum internen behördlichen Risiko- und Krisenmanagement erforderlich. Die Grundzüge dieser besonderen Erfordernisse der Ausnahmesituation eines Spannungs- und Verteidigungsfalles sind im [Grundgesetz](../grundgesetz/GG.md) geregelt.
 
 Im Verteidigungsfall werden gemäß der Notstandsverfassung (insbesondere Artikel 115a bis 115l GG) Aufgaben und Zuständigkeiten im föderalen System auf den Bund verlagert, gehen innerhalb des Bundes auf andere Organe über (Befehls- und Kommandogewalt über die Streitkräfte vom Verteidigungsminister auf den Bundeskanzler) bzw. treten neue Organe hinzu (insbesondere der Gemeinsame Ausschuss als subsidiäres Gesetzgebungsorgan). Daher kann eine organisatorische, personelle und funktionale Anpassung der Organisation der Organe und Behörden an die geänderten Rahmenbedingungen erforderlich werden.
 
@@ -735,7 +735,7 @@ Zu den erforderlichen Maßnahmen gehören:
 
 Betreiber aller Handlungsfelder der Versorgung sind abhängig von Versorgungsleistungen aus dem Handlungsfeld der Energieversorgung. Um diese Abhängigkeit zu reduzieren und die staatliche Notfallvorsorge im Energiebereich zu entlasten, bedarf es eigener Vorkehrungen aller Betreiber. Der Bund erteilt gesetzliche Auflagen zur Sicherstellung einer vorübergehenden autarken Energieversorgung. Darüber hinaus verstärkt der Bund seine ergänzenden Ressourcen für die Fähigkeiten Notversorgung und Notinstandsetzung im Bereich des THW (vgl. Abschnitte 6.10.2-6.10.3).
 
-Betreiber verschiedener Handlungsfelder sind darüber hinaus abhängig von Transport- und Logistikleistungen aus dem Handlungsfeld Mobilität/Verkehr. Es bedarf insoweit geeigneter eigener Vorkehrungen der jeweiligen Betreiber (eigener Fuhrpark, Rahmenvereinbarungen mit Transportdienstleistern u. a.). Bei Engpässen, die mit den Mitteln des freien Marktes nicht mehr zu beheben sind, hat die staatliche Notfallvorsorge die Möglichkeit, Transportleistungen zu sichern. Dazu können Transportdienstleister zu vorrangigen Leistungen nach dem Verkehrssicherstellungsgesetz (VerkSiG) und dem Verkehrsleistungsgesetz (VerkLG) verpflichtet werden.
+Betreiber verschiedener Handlungsfelder sind darüber hinaus abhängig von Transport- und Logistikleistungen aus dem Handlungsfeld Mobilität/Verkehr. Es bedarf insoweit geeigneter eigener Vorkehrungen der jeweiligen Betreiber (eigener Fuhrpark, Rahmenvereinbarungen mit Transportdienstleistern u. a.). Bei Engpässen, die mit den Mitteln des freien Marktes nicht mehr zu beheben sind, hat die staatliche Notfallvorsorge die Möglichkeit, Transportleistungen zu sichern. Dazu können Transportdienstleister zu vorrangigen Leistungen nach dem [Verkehrssicherstellungsgesetz](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) (VerkSiG) und dem Verkehrsleistungsgesetz (VerkLG) verpflichtet werden.
 
 Soweit weitere Abhängigkeiten bestehen, sind hierfür geeignete eigene Vorsorgemaßnahmen zu treffen. Ist dies nicht möglich, ist der nicht durch eigene Maßnahmen zu deckende Bedarf frühzeitig an die zuständigen Stellen der staatlichen Notfallvorsorge zu kommunizieren, damit die erforderlichen Instrumente geschaffen werden können (z. B. Absicherung des Trinkwasserbedarfes im klinischen Bereich im Rahmen des Wassersicherstellungsgesetzes).
 
@@ -819,7 +819,7 @@ Um die Bevölkerung vor den Gefahren einer unsachgemäßen Abfallentsorgung (Erk
 Zur Absicherung der Abfallentsorgung gegen Störungen oder Ausfälle gelten die in Abschnitt 7.2 beschriebenen allgemeinen Anforderungen.
 
 ### 7.9 Abwasserbeseitigung
-Die Ableitung und Behandlung des Abwassers zur Abwendung gesundheitlicher Gefahren ist eine staatliche Aufgabe im Rahmen der Daseinsvorsorge und obliegt in der Zivilen Verteidigung gemäß § 1 Absatz 4 Wassersicherstellungsgesetz (WasSiG) dem Bund. Zum Zweck einer geordneten Abwasserbeseitigung werden Abwässer regelmäßig in der Kanalisation gesammelt und transportiert, in Kläranlagen behandelt und danach in als Vorfluter dienende Gewässer oder durch Versickerung, Verrieselung oder Verregnung in das Grundwasser zurückgeleitet. Teilschritte sind der Wasserabfluss, der Abtransport sowie die Aufbereitung und Rückführung.
+Die Ableitung und Behandlung des Abwassers zur Abwendung gesundheitlicher Gefahren ist eine staatliche Aufgabe im Rahmen der Daseinsvorsorge und obliegt in der Zivilen Verteidigung gemäß § 1 Absatz 4 [Wassersicherstellungsgesetz](sicherstellungsgesetze/WasSiG_Wassersicherstellungsgesetz.md) (WasSiG) dem Bund. Zum Zweck einer geordneten Abwasserbeseitigung werden Abwässer regelmäßig in der Kanalisation gesammelt und transportiert, in Kläranlagen behandelt und danach in als Vorfluter dienende Gewässer oder durch Versickerung, Verrieselung oder Verregnung in das Grundwasser zurückgeleitet. Teilschritte sind der Wasserabfluss, der Abtransport sowie die Aufbereitung und Rückführung.
 
 Der Wasserabfluss basiert im Regelbetrieb auf der Verfügbarkeit der leitungsgebundenen Trinkwasserversorgung. Der Abtransport setzt funktionsfähige Abwasserleitungen und Kanalisation voraus, die Aufbereitung und Rückführung funktionstüchtige Klärwerke. Zur Absicherung gegen Störungen oder Ausfälle gelten die in Abschnitt 7.2 beschriebenen allgemeinen Anforderungen.
 
@@ -830,12 +830,12 @@ Zum Handlungsfeld Energie gehören die Sicherstellung der Versorgung mit Strom u
 
 Für den Bereich der Stromversorgung erarbeiten Bund und Länder ein "Gesamtkonzept Notstrom", um vor dem Hintergrund lang anhaltender und großräumiger Stromausfälle eine Minimalversorgung der Bevölkerung sowie eine Aufrechterhaltung der Grund- und Kernfunktionen der staatlichen Notfallvorsorge abzusichern und die Aufrechterhaltung Kritischer Infrastrukturen unterstützen zu können.
 
-Auf Basis des Energiewirtschaftsgesetzes (EnWG), des Energiesicherungsgesetzes (EnSiG) und der Gassicherungsverordnung (GasSV) fasst der "Notfallplan Gas für die Bundesrepublik Deutschland" das Krisenmanagement bei Versorgungskrisen im Bereich der Gasversorgung zusammen. Speziell für den Zweck der Verteidigung und insbesondere zur Deckung des Bedarfs der Zivilbevölkerung regeln das Wirtschaftssicherstellungsgesetz (WiSiG) und die Gaslastverteilungs-Verordnung (GasLastV) die Gasversorgung.
+Auf Basis des Energiewirtschaftsgesetzes (EnWG), des Energiesicherungsgesetzes (EnSiG) und der Gassicherungsverordnung (GasSV) fasst der "Notfallplan Gas für die Bundesrepublik Deutschland" das Krisenmanagement bei Versorgungskrisen im Bereich der Gasversorgung zusammen. Speziell für den Zweck der Verteidigung und insbesondere zur Deckung des Bedarfs der Zivilbevölkerung regeln das [Wirtschaftssicherstellungsgesetz](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) (WiSiG) und die Gaslastverteilungs-Verordnung (GasLastV) die Gasversorgung.
 
 #### 7.10.1 Versorgung mit Strom und Gas
 Den Netzbetreibern obliegt die Aufgabe eines sicheren Netzbetriebes nach den Vorgaben des Energiewirtschaftsgesetzes. Zur Abwehr oder Abmilderung einer drohenden Versorgungskrise können sie Eingriffe in die erzeugungsseitige Einspeisung von Strom/Gas und nachrangig auch Eingriffe in die Entnahme von Strom/Gas vornehmen. Gemäß § 16 Absatz 2 und § 16a EnWG besteht für Betreiber von Fernleitungsnetzen und Gasverteilernetzen die Möglichkeit, Gaseinspeisungen, Gastransporte sowie Gasausspeisungen anzupassen oder diese Anpassungen zu verlangen. Bei Gefahr, dass die vorhandene Erzeugungsleistung nicht mehr ausreicht, um den lebenswichtigen Bedarf an Energie zu sichern und dies durch eigene Maßnahmen der Netzbetreiber nicht abgewendet werden kann, haben die Übertragungsnetzbetreiber hierüber die Bundesnetzagentur zu unterrichten.
 
-Bei einer Erzeugungsmangellage kann die Bundesregierung durch Rechtsverordnung den Krisenfall nach dem EnSiG feststellen. Der Bundesnetzagentur wird dadurch die Aufgabe übertragen, als Bundeslastverteiler auf Basis der Elektrizitätssicherungsverordnung (EltSV) Verfügungen zur Deckung des lebenswichtigen Bedarfs an Strom zu erlassen, beispielsweise über Abschaltungen oder die bevorrechtigte Versorgung lebenswichtiger Einrichtungen. Für den Bereich der Gasversorgung sind entsprechende Regelungen in der GasSV enthalten. Für den konkreten Fall der Zivilen Verteidigung wird die Gasversorgung auf Basis des WiSiG durch die GasLastV geregelt. Das Bundesministerium für Wirtschaft und Energie (BMWi) agiert in diesem Fall als Bundeslastverteiler und die obersten Wirtschaftsbehörden der Länder als Gebietslastverteiler. Durch Landesrecht können den höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen- , Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden. Die Lastverteiler können an Unternehmen und Verbraucher Verfügungen erlassen, um eine Gefährdung der öffentlichen Gasversorgung zu beheben oder zu verhindern oder um die Auswirkungen einer Störung der Versorgung zu mindern.
+Bei einer Erzeugungsmangellage kann die Bundesregierung durch Rechtsverordnung den Krisenfall nach dem [EnSiG](sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md) feststellen. Der Bundesnetzagentur wird dadurch die Aufgabe übertragen, als Bundeslastverteiler auf Basis der Elektrizitätssicherungsverordnung (EltSV) Verfügungen zur Deckung des lebenswichtigen Bedarfs an Strom zu erlassen, beispielsweise über Abschaltungen oder die bevorrechtigte Versorgung lebenswichtiger Einrichtungen. Für den Bereich der Gasversorgung sind entsprechende Regelungen in der GasSV enthalten. Für den konkreten Fall der Zivilen Verteidigung wird die Gasversorgung auf Basis des [WiSiG](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) durch die GasLastV geregelt. Das Bundesministerium für Wirtschaft und Energie (BMWi) agiert in diesem Fall als Bundeslastverteiler und die obersten Wirtschaftsbehörden der Länder als Gebietslastverteiler. Durch Landesrecht können den höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen- , Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden. Die Lastverteiler können an Unternehmen und Verbraucher Verfügungen erlassen, um eine Gefährdung der öffentlichen Gasversorgung zu beheben oder zu verhindern oder um die Auswirkungen einer Störung der Versorgung zu mindern.
 
 Besonders schützenswerte Einrichtungen wie beispielsweise Krankenhäuser sind in der Regel mit Notstromaggregaten ausgestattet, um sich unabhängig von den Netzen der öffentlichen Versorgung für einen begrenzten Zeitraum (24 Stunden) eigenständig mit Elektrizität versorgen zu können. Dies bezieht sich jedoch überwiegend auf die intensivmedizinischen Bereiche von Krankenhäusern, so dass der Betrieb und die medizinische Versorgung im Übrigen nicht in vollem Umfang aufrechterhalten werden können. Die Erforderlichkeit zusätzlicher Vorsorgemaßnahmen ist Prüfgegenstand der Krankenhausalarm- und -einsatzplanung nach den Abschnitten 6.8.2 und 6.9.6.
 
@@ -858,7 +858,7 @@ Im Fall einer Versorgungsstörung können Vorräte aus der Krisenvorsorge per Re
 
 Die Vorräte können auch für eine Notversorgung eingesetzt werden. So kann im Zusammenhang mit einer Freigabe von Krisenvorräten der Erdölbevorratungsverband verpflichtet werden, bestimmte Abnehmer zu beliefern, soweit dies erforderlich ist, um die Versorgung der Bevölkerung oder öffentlicher Einrichtungen sicherzustellen.
 
-Neben der Bereitstellung von Reserven an Erdöl und Erdölerzeugnissen können auf Grundlage des EnSiG bzw. im Spannungs- und Verteidigungsfall auf Grundlage des WiSiG Maßnahmen zur Verbrauchsreduzierung oder Verwendung von Erdölerzeugnissen erlassen werden.
+Neben der Bereitstellung von Reserven an Erdöl und Erdölerzeugnissen können auf Grundlage des [EnSiG](sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md) bzw. im Spannungs- und Verteidigungsfall auf Grundlage des [WiSiG](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) Maßnahmen zur Verbrauchsreduzierung oder Verwendung von Erdölerzeugnissen erlassen werden.
 
 ### 7.11 Mobilität/Verkehr
 Die Sicherstellung ausreichender lebenswichtiger Verkehrsleistungen dient als ressortübergreifende Querschnittsaufgabe der Erfüllung des Versorgungsauftrages oder des Zivilschutzauftrages der jeweils zuständigen Stellen.
@@ -869,23 +869,23 @@ Die Verpflichtungsmöglichkeiten umfassen Verkehrsunternehmen aus den Bereichen 
 
 Grundsätzlich stehen zur Vorbereitung z. B. regelmäßig aktualisierte Bestandlisten an zulassungspflichtigen Fahrzeugen, aufgeschlüsselt nach Fahrzeugarten und Größenklassen sowie nach Ländern, kreisfreien Städten und Landkreisen, zur Verfügung gemäß der Richtlinie für die Erfassung, Speicherung und Übermittlung von Fahrzeug- und Halterdaten sowie die Vormerkung für Zwecke der Notfallplanung (Erfassungsrichtlinie-Kraftfahrzeug vom 5. April 1979, Stand: 1. Oktober 2012).
 
-Weitere Maßnahmen zur Verkehrssicherstellung wie Lenkungsmaßnahmen, Vorrangregelungen, Benutzungsverbote und -beschränkungen für bestimmte Straßen- oder Streckenabschnitte, Ersatzvornahme der Be- und Entladung durch Dritte, Koordinierung von Flugbewegungen, Maßnahmen der Luftraumkontrolle werden nach den Vorgaben des VerkSiG über entsprechende Rechtsverordnungen vorbereitet.
+Weitere Maßnahmen zur Verkehrssicherstellung wie Lenkungsmaßnahmen, Vorrangregelungen, Benutzungsverbote und -beschränkungen für bestimmte Straßen- oder Streckenabschnitte, Ersatzvornahme der Be- und Entladung durch Dritte, Koordinierung von Flugbewegungen, Maßnahmen der Luftraumkontrolle werden nach den Vorgaben des [VerkSiG](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) über entsprechende Rechtsverordnungen vorbereitet.
 
-Zur Sicherstellung des Straßenverkehrs hält der Bund nach Bedarf Behelfsbrücken und Spezialgerät aufgrund des § 9 ZSKG vor. Der Bedarf wird aus dem Katalog "Referenzszenarien Bund" ermittelt. Zusätzlich werden für die Eisenbahnen des Bundes (EdB) nach § 10a VerkSiG in Verbindung mit § 8 VerkLG bauliche Maßnahmen getroffen, die bei einer Störung der Infrastruktur zur Wiederherstellung und zum grundlegenden Betrieb der Schieneninfrastruktur erforderlich sind. Hierzu hält das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) Behelfsbrücken, mobile Stellwerke und geschützte Krisenkoordinierungsstellen vor.
+Zur Sicherstellung des Straßenverkehrs hält der Bund nach Bedarf Behelfsbrücken und Spezialgerät aufgrund des [§ 9 ZSKG](ZSKG_Zivilschutzgesetz.md) vor. Der Bedarf wird aus dem Katalog "Referenzszenarien Bund" ermittelt. Zusätzlich werden für die Eisenbahnen des Bundes (EdB) nach [§ 10a VerkSiG](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) in Verbindung mit § 8 VerkLG bauliche Maßnahmen getroffen, die bei einer Störung der Infrastruktur zur Wiederherstellung und zum grundlegenden Betrieb der Schieneninfrastruktur erforderlich sind. Hierzu hält das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) Behelfsbrücken, mobile Stellwerke und geschützte Krisenkoordinierungsstellen vor.
 
 ### 7.12 Herstellung und Zuteilung von Waren der gewerblichen Wirtschaft
 Die Sicherstellung der Versorgung mit Gütern der gewerblichen Wirtschaft im Verteidigungsfall richtet sich nach
 
-- dem Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft sowie des Geld- und Kapitalverkehrs (Wirtschaftssicherstellungsgesetz – WiSiG) und
+- dem [Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft sowie des Geld- und Kapitalverkehrs](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) ([Wirtschaftssicherstellungsgesetz](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) – WiSiG) und
 - der Verordnung über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft (Wirtschaftssicherstellungsverordnung – WiSiV).
 
-Durch das Wirtschaftssicherstellungsgesetz wird im Spannungs- und Verteidigungsfall die Sicherstellung der Versorgung der Zivilbevölkerung und der Streitkräfte mit Gütern und Leistungen geregelt.
+Durch das [Wirtschaftssicherstellungsgesetz](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) wird im Spannungs- und Verteidigungsfall die Sicherstellung der Versorgung der Zivilbevölkerung und der Streitkräfte mit Gütern und Leistungen geregelt.
 
 Das WiSiG ermächtigt die Bundesregierung zum Erlass von Rechtsverordnungen, durch die Marktmechanismen außer Kraft gesetzt werden können, wenn eine Gefährdung der Versorgung durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben oder zu verhindern ist.
 
 Die Ermächtigung zum Erlass von Rechtsverordnungen bezieht sich auf die Gewinnung und Herstellung von Waren der gewerblichen Wirtschaft, deren Bearbeitung, Verarbeitung, Zuteilung, Lieferung, den Bezug und die Verwendung. Dazu gehören auch die Verarbeitung und die gewerbliche Verwendung von Erzeugnissen der Forst- und Holzwirtschaft, der Ernährungs- und Landwirtschaft sowie die Zuteilung und der Bezug dieser Erzeugnisse zum Zwecke der Verarbeitung oder gewerblichen Verwendung. Die Rechtsverordnungen gelten auch für Produktionsmittel der gewerblichen Wirtschaft und für Werkleistungen von Unternehmen der gewerblichen Wirtschaft zur Instandsetzung aller Art sowie zur Instandhaltung, Herstellung und Veränderung von Bauwerken und technischen Anlagen.
 
-Mit der WiSiV wurde die Durchführung des WiSiG 2004 präzisiert und ausgestaltet. So können private Unternehmer der gewerblichen Wirtschaft mit einer Betriebsstätte im Geltungsbereich der Verordnung für Zwecke der Verteidigung durch eine Vorrangerklärung verpflichtet werden, Verträge über Warenlieferungen oder Werkleistungen vor konkurrierenden anderen Aufträgen zu erfüllen.
+Mit der WiSiV wurde die Durchführung des [WiSiG](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) 2004 präzisiert und ausgestaltet. So können private Unternehmer der gewerblichen Wirtschaft mit einer Betriebsstätte im Geltungsbereich der Verordnung für Zwecke der Verteidigung durch eine Vorrangerklärung verpflichtet werden, Verträge über Warenlieferungen oder Werkleistungen vor konkurrierenden anderen Aufträgen zu erfüllen.
 
 Um im Falle einer Bewirtschaftung die für die Zwecke der Verteidigung erforderliche Versorgung mit Waren sicherzustellen, haben Unternehmer, deren Gewerbebetrieb auf die Lieferung von Waren eingerichtet ist, der zuständigen Behörde die Bestände an bewirtschafteten Waren, über die sie unmittelbar verfügungsberechtigt sind, unverzüglich zu melden.
 
@@ -896,7 +896,7 @@ Es ist zu prüfen, ob eine entsprechende gesetzliche Vorsorge auch für bestimmt
 ### 7.13 Arbeitskräftebedarf
 Die Deckung des Arbeitskräftebedarfs im Spannungs- und Verteidigungsfall dient als Querschnittsaufgabe der Erfüllung des Versorgungsauftrages oder des Zivilschutzauftrages der jeweils zuständigen Stellen.
 
-Das Grundrecht der freien Wahl des Arbeitsplatzes (Artikel 12 GG) gilt auch in Spannungszeiten und im Verteidigungsfall. Das Arbeitssicherstellungsgesetz sieht ausnahmsweise staatliche Verpflichtungsbefugnisse vor, wenn und soweit die für Zwecke der Verteidigung einschließlich des Zivilschutzes erforderlichen Arbeitsleistungen nicht auf der Grundlage der Freiwilligkeit sichergestellt werden können. Nach dem Arbeitssicherstellungsgesetz soll im Spannungs- und Verteidigungsfall die Deckung des Bedarfs an Arbeitskräften in lebens- und verteidigungswichtigen Bereichen sichergestellt werden. Das Gesetz ermächtigt die Bundesagentur für Arbeit dazu,
+Das Grundrecht der freien Wahl des Arbeitsplatzes (Artikel 12 GG) gilt auch in Spannungszeiten und im Verteidigungsfall. Das [Arbeitssicherstellungsgesetz](sicherstellungsgesetze/ASG_Arbeitssicherstellungsgesetz.md) sieht ausnahmsweise staatliche Verpflichtungsbefugnisse vor, wenn und soweit die für Zwecke der Verteidigung einschließlich des Zivilschutzes erforderlichen Arbeitsleistungen nicht auf der Grundlage der Freiwilligkeit sichergestellt werden können. Nach dem [Arbeitssicherstellungsgesetz](sicherstellungsgesetze/ASG_Arbeitssicherstellungsgesetz.md) soll im Spannungs- und Verteidigungsfall die Deckung des Bedarfs an Arbeitskräften in lebens- und verteidigungswichtigen Bereichen sichergestellt werden. Das Gesetz ermächtigt die Bundesagentur für Arbeit dazu,
 
 - das Recht der Arbeitsvertragsparteien zu beschränken, Arbeitsverhältnisse zu beenden sowie
 - Personen in Arbeitsverhältnisse zu verpflichten.
@@ -922,7 +922,7 @@ Information/Warnung: Die Übermittlung warndienstlicher Informationen über Gefa
 
 Sanitätsdienst: Eine sanitätsdienstliche Unterstützung der Bundeswehr ist im Rahmen der Planungen und Vorbereitungen des zivilen Sanitätsdienstes mit ein- und mittels zivil-militärischer Kooperation vorzuplanen.
 
-Energieversorgung: Zur Sicherung ihrer Grundbetriebsfähigkeit und Kommunikation stützt sich die Bundeswehr auch auf eine zivile – also gesamtstaatlich – zur Verfügung gestellte Energieversorgung, im Spannungs- und Verteidigungsfall gegebenenfalls zu Lasten bzw. unter Einschränkung zivilgesellschaftlicher Bereiche. Eine entsprechende bevorrechtigte Versorgung der Bundeswehr wird im Rahmen des WiSiG gewährleistet.
+Energieversorgung: Zur Sicherung ihrer Grundbetriebsfähigkeit und Kommunikation stützt sich die Bundeswehr auch auf eine zivile – also gesamtstaatlich – zur Verfügung gestellte Energieversorgung, im Spannungs- und Verteidigungsfall gegebenenfalls zu Lasten bzw. unter Einschränkung zivilgesellschaftlicher Bereiche. Eine entsprechende bevorrechtigte Versorgung der Bundeswehr wird im Rahmen des [WiSiG](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) gewährleistet.
 
 Ernährung: Seitens der Streitkräfte besteht lediglich eine begrenzte Vorhaltung von Verpflegung für die Durchführung von Einsätzen, die eine durchhaltefähige Versorgung der Kräfte der Bundeswehr insgesamt nicht sicherstellt. Zusätzlicher Bedarf ist bei den Planungen zu berücksichtigen und über die privatwirtschaftlich organisierte Lebensmittelwirtschaft über den freien Markt zu organisieren. Ist eine Versorgung über den freien Markt nicht mehr gewährleistet, ist der Bedarf im Rahmen der Ernährungsnotfallvorsorge entsprechend Abschnitt 7.4 zu berücksichtigen.
 
@@ -933,7 +933,7 @@ Transport: Um Wirkungsräume erreichen zu können, setzt die Bundeswehr folgende
 - Zurverfügungstellung ziviler Verkehrsmittel, -leistungen und -einrichtungen,
 - Bereitstellung von Treibstoffen.
 
-Entsprechende Unterstützungsmaßnahmen sind im Rahmen des VerkSiG und des VerkLG vorzubereiten.
+Entsprechende Unterstützungsmaßnahmen sind im Rahmen des [VerkSiG](sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md) und des VerkLG vorzubereiten.
 
 Post: Die schnelle und sichere Zustellung von Postsendungen mit besonderer Bedeutung für die Bundeswehr (beispielsweise Einberufungs- und Leistungsbescheide bei Wiederaufleben der Wehrpflicht) wird im Rahmen des Post- und Telekommunikationssicherstellungsgesetzes gewährleistet.
 
@@ -959,7 +959,7 @@ Im Übrigen wird die Weiterentwicklung der Zivilen Verteidigung maßgeblich durc
 ### 9.2 Bezugsdokumente und Folgearbeiten
 Die Vorgaben dieser Konzeption erhalten Verbindlichkeit, indem die hierfür erforderlichen Rechtsgrundlagen geschaffen sowie die vorhandenen Rechtsgrundlagen - soweit erforderlich - entsprechend angepasst werden. Dazu gehören insbesondere:
 
-- Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes (ZSKG),
+- [Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes](ZSKG_Zivilschutzgesetz.md) (ZSKG),
 - Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBKG),
 - Gesetz über das Technische Hilfswerk (THWG),
 - Sicherstellungs-, Vorsorge- und Leistungsgesetze und deren Umsetzungsvorschriften,

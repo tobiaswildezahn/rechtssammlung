@@ -410,7 +410,7 @@ Im Übrigen bleiben die gesetzlich begründeten Pflichten, geplante Straftaten a
 
 #### § 38 Diensteid
 
-- (1) Beamtinnen und Beamte haben einen Diensteid zu leisten. Der Diensteid hat eine Verpflichtung auf das Grundgesetz zu enthalten.
+- (1) Beamtinnen und Beamte haben einen Diensteid zu leisten. Der Diensteid hat eine Verpflichtung auf das [Grundgesetz](../grundgesetz/GG.md) zu enthalten.
 - (2) In den Fällen, in denen Beamtinnen und Beamte erklären, dass sie aus Glaubens- oder Gewissensgründen den Eid nicht leisten wollen, kann für diese an Stelle des Eides ein Gelöbnis zugelassen werden.
 - (3) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von § 7 Absatz 1 Satz 1 Nummer 1 zugelassen worden ist, kann an Stelle des Eides ein Gelöbnis vorgeschrieben werden.
 

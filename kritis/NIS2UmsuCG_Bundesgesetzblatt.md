@@ -1914,7 +1914,7 @@ In § 24 Absatz 2 wird die Angabe "§ 9 des BSI-Gesetzes vom 14. August 2009 (BG
 
 # Änderung des Energiesicherungsgesetzes
 
-Das Energiesicherungsgesetz vom 20. Dezember 1974 (BGBI. I S. 3681), das zuletzt durch Artikel 1 des Gesetzes vom 23. Juni 2023 (BGBI. 2023 I Nr. 167) geändert worden ist, wird wie folgt geändert:
+Das [Energiesicherungsgesetz](../zivile-verteidigung/sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md) vom 20. Dezember 1974 (BGBI. I S. 3681), das zuletzt durch Artikel 1 des Gesetzes vom 23. Juni 2023 (BGBI. 2023 I Nr. 167) geändert worden ist, wird wie folgt geändert:
 
 - 1. Nach § 10 Absatz 1 Satz 3 wird der folgende Satz eingefügt:
   - "Soweit Daten im Sinne des Satzes 3 für Maßnahmen nach § 1 der Gassicherungsverordnung vom 26. April 1982 (BGBI. I S. 517), die zuletzt durch Artikel 1 der Verordnung vom 31. März 2023 (BGBI. 2023 I Nr. 94) geändert worden ist, und für Solidaritätsmaßnahmen nach § 2a von der Bundesnetzagentur erlangt werden, übermittelt diese die Daten auf deren Ersuchen und soweit dies für die Erfüllung von deren Aufgaben erforderlich ist, an die Bundesanstalt für Finanzdienstleistungsaufsicht."
@@ -1971,7 +1971,7 @@ Das Elfte Buch Sozialgesetzbuch – Soziale Pflegeversicherung – (Artikel 1 de
 
 # Änderung des Telekommunikationsgesetzes
 
-Das Telekommunikationsgesetz vom 23. Juni 2021 (BGBl. I S. 1858), das zuletzt durch Artikel 1 des Gesetzes vom 24. Juli 2025 (BGBl. 2025 I Nr. 181) geändert worden ist, wird wie folgt geändert:
+Das [Telekommunikationsgesetz](../zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md) vom 23. Juni 2021 (BGBl. I S. 1858), das zuletzt durch Artikel 1 des Gesetzes vom 24. Juli 2025 (BGBl. 2025 I Nr. 181) geändert worden ist, wird wie folgt geändert:
 
 - 1. In der Inhaltsübersicht wird die Angabe zu § 168 wie folgt geändert:
   - "§ 168 Meldung eines Sicherheitsvorfalls".

@@ -92,6 +92,71 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 |-------|----------|
 | `parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md` | Entwurf Rettungsdienstgesetz Hamburg (Bue-Drs. 21/16376) |
 
+## Querverweise
+
+Automatisch erkannte Referenzen zwischen Dokumenten (`lldr crossref`). Maschinenlesbar in `index.json`.
+
+```mermaid
+graph LR
+    BG["BG"]
+    BeamtStG["BeamtStG"]
+    BG -->|75x| BeamtStG
+    IfSG["IfSG"]
+    GG["GG"]
+    IfSG -->|15x| GG
+    KZV["KZV"]
+    WiSiG["WiSiG"]
+    KZV -->|9x| WiSiG
+    DG["DG"]
+    DG -->|6x| BeamtStG
+    BeurtVO_Fw["BeurtVO-Fw"]
+    BeurtVO_Fw -->|5x| BeamtStG
+    VerkSiG["VerkSiG"]
+    KZV -->|5x| VerkSiG
+    BesG["BesG"]
+    BesG -->|4x| BeamtStG
+    KRITIS_Dachgesetz["KRITIS-Dachgesetz"]
+    TKG["TKG"]
+    KRITIS_Dachgesetz -->|4x| TKG
+    RettDG_Entwurf["RettDG-Entwurf"]
+    RettDG_Entwurf -->|4x| GG
+    ZSKG["ZSKG"]
+    KZV -->|4x| ZSKG
+    Resilienzstrategie["Resilienzstrategie"]
+    Resilienzstrategie -->|4x| KZV
+    Resilienzstrategie -->|4x| ZSKG
+    RettDG["RettDG"]
+    RettDG_Entwurf -->|3x| RettDG
+    EnSiG["EnSiG"]
+    KZV -->|3x| EnSiG
+    DS_Anpassung_HH["DS-Anpassung-HH"]
+    KatSchG["KatSchG"]
+    DS_Anpassung_HH -->|2x| KatSchG
+    DS_Anpassung_HH -->|2x| RettDG_Entwurf
+    NIS2UmsuCG["NIS2UmsuCG"]
+    KRITIS_Dachgesetz -->|2x| NIS2UmsuCG
+    RettDG_Entwurf -->|2x| ZSKG
+    WasSiG["WasSiG"]
+    KZV -->|2x| WasSiG
+    ASG["ASG"]
+    KZV -->|2x| ASG
+    Resilienzstrategie -->|2x| GG
+    AGG["AGG"]
+    AGG --> GG
+    BBG["BBG"]
+    BBG --> GG
+    BeamtStG --> GG
+    BeurtVO_Fw --> BG
+    BG --> GG
+    DS_Anpassung_HH --> GG
+    RettDG --> RettDG_Entwurf
+    NIS2UmsuCG --> EnSiG
+    NIS2UmsuCG --> TKG
+    RettDG_Entwurf --> IfSG
+    KZV --> GG
+    VerkSiG --> ZSKG
+```
+
 ## Neue Dokumente hinzufuegen
 
 ```bash

@@ -232,7 +232,7 @@ IMAG Interministerielle Arbeitsgruppe
 
 JEE Joint External Evaluation (Gemeinsame externe Evaluierung)
 
-KdB Konzeption der Bundeswehr KfW Kreditanstalt für Wiederaufbau KMU Kleine und mittlere Unternehmen KZV Konzeption Zivile Verteidigung
+KdB Konzeption der Bundeswehr KfW Kreditanstalt für Wiederaufbau KMU Kleine und mittlere Unternehmen KZV [Konzeption Zivile Verteidigung](KZV.md)
 
 LÜKEX Länderübergr eifende Krisenmanagement-Exercise (Länderübergreifende
 
@@ -268,7 +268,7 @@ WHO World Health Organization (Weltgesundheitsorganisation)
 
 WMO World Meteorological Organisation (Weltorganisation für Meteorologie)
 
-ZAPRL Richtlinie für die Zivile Alarmplanung ZSKG Zivilschutz- und Katastrophenhilfegesetz
+ZAPRL Richtlinie für die Zivile Alarmplanung ZSKG [Zivilschutz- und Katastrophenhilfegesetz](ZSKG_Zivilschutzgesetz.md)
 
 # Teil A: Kontext, Chancen und Herausforderungen
 
@@ -471,7 +471,7 @@ Da die Stärkung der Resilienz gegenüber Katastrophen eine gesamtgesellschaftli
 Um Katastrophenrisiken bewerten zu können, ist es essentiell, bei allen Akteuren für Wissen und Verständnis hinsichtlich möglicher Aus- und Wechselwirkungen von Gefahren zu sorgen. Dies erfordert auch die Entwicklung und Nutzung von Methoden, mit deren Hilfe Informationen und Daten erhoben, visualisiert und analysiert werden können. Gleichzeitig muss die Risikokommunikation das Bewusstsein für Risiken in der Bevölkerung und bei allen Verantwortlichen, beispielsweise in Versorgungseinrichtungen und in der Verwaltung, schärfen.
 
 # 1.1. Risikoanalysen erweitern und nutzen
-Risikoanalysen sind ein zentraler Bestandteil des Katastrophenrisikomanagements. Sie liefern notwendige Informationen, um über den Umgang mit Risiken angemessen entscheiden zu können. Seit 2009 ist die Risikoanalyse im Zivilschutz- und Katastrophenhilfegesetz (ZSKG) gesetzlich verankert. Auf Bundesebene werden seit 2012 Risikoanalysen im Bevölkerungsschutz für diverse Gefahren durchgeführt. Um Risiken in Deutschland noch systematischer erfassen und analysieren zu können sowie diese Risikoanalysen als Grundlage für nachhaltige Entwicklung zu fördern, werden folgende Maßnahmen empfohlen:
+Risikoanalysen sind ein zentraler Bestandteil des Katastrophenrisikomanagements. Sie liefern notwendige Informationen, um über den Umgang mit Risiken angemessen entscheiden zu können. Seit 2009 ist die Risikoanalyse im [Zivilschutz- und Katastrophenhilfegesetz](ZSKG_Zivilschutzgesetz.md) (ZSKG) gesetzlich verankert. Auf Bundesebene werden seit 2012 Risikoanalysen im Bevölkerungsschutz für diverse Gefahren durchgeführt. Um Risiken in Deutschland noch systematischer erfassen und analysieren zu können sowie diese Risikoanalysen als Grundlage für nachhaltige Entwicklung zu fördern, werden folgende Maßnahmen empfohlen:
 
 - ► **regelmäßige Abfragen** der aktuellsten Gefährdungsanalysen bezüglich Naturgefahren (z. B. Sturm, Hagel, Starkregen, Sturzfluten, Hochwasser) für Risikoanalysen auf aktuellster Wissensbasis etablieren,
 - ► die **Durchführung von Risikoanalysen** und Risikobewertungen auf allen Ebenen und ebenenübergreifend sowie in allen Sektoren und sektorenübergreifend fördern und die Erstellung von Risikokarten als **Daueraufgabe** etablieren,
@@ -548,7 +548,7 @@ Die Auswirkungen von Katastrophen betreffen unterschiedlichste (Politik-)Bereich
 Die folgenden Empfehlungen können die bestehenden institutionellen Mechanismen stärken und die kohärente Gestaltung des Katastrophenrisikomanagements in unterschiedlichen Politik- und Themenbereichen fördern.
 
 # 2.1. Katastrophenrisikomanagement als Querschnittsaufgabe verankern
-Die im Grundgesetz vorgegebene klare Kompetenzverteilung zwischen Bund und Ländern sowie das Ressortprinzip bilden die Grundlage für den Auf- bzw. Ausbau von robusten Katastrophenrisikomanagementsystemen, die spezifisch auf die jeweiligen lokalen Gegebenheiten ausgerichtet sind. Dies erzeugt eine sinnvolle Vielfalt, erhöht im Hinblick auf eine effektive Steuerung aber auch den Aufwand der Koordinierung. Denn die Schnittstellen zwischen den administrativen Ebenen und den unterschiedlichen Sektoren bzw. Aufgaben- und Politikfeldern müssen herausgearbeitet und adressiert werden. Um dafür die institutionellen Voraussetzungen zu schaffen, werden folgende Maßnahmen empfohlen:
+Die im [Grundgesetz](../grundgesetz/GG.md) vorgegebene klare Kompetenzverteilung zwischen Bund und Ländern sowie das Ressortprinzip bilden die Grundlage für den Auf- bzw. Ausbau von robusten Katastrophenrisikomanagementsystemen, die spezifisch auf die jeweiligen lokalen Gegebenheiten ausgerichtet sind. Dies erzeugt eine sinnvolle Vielfalt, erhöht im Hinblick auf eine effektive Steuerung aber auch den Aufwand der Koordinierung. Denn die Schnittstellen zwischen den administrativen Ebenen und den unterschiedlichen Sektoren bzw. Aufgaben- und Politikfeldern müssen herausgearbeitet und adressiert werden. Um dafür die institutionellen Voraussetzungen zu schaffen, werden folgende Maßnahmen empfohlen:
 
 - ► in allen relevanten Sektoren (wie Wirtschaft, Bildung, Umwelt, Sicherheit und Verteidigung, Landwirtschaft, Energie, Telekommunikation, Verkehr, Wasser/Abwasser etc.) und auf allen Ebenen (wie Städten, Gemeinden, Landkreisen, Ländern und Bund) prüfen, welche Elemente des Katastrophenrisikomanagements in **rechtlichen und planerischen Instrumenten** vorliegen und diese beispielsweise im Rahmen bestehender und neuerer Vorsorge- und Sicherstellungsgesetze weiterentwickeln (vgl. sektorenspezifische Empfehlungen in Handlungsfeld 3),
 - ► **risikoinformiertes Planen und Handeln** in allen Sektoren fördern, um Maßnahmen widerstandsfähiger gestalten zu können (vgl. sektorenspezifische Anwendungsbereiche Handlungsfeld 3).
@@ -905,11 +905,11 @@ Die zivile Verteidigung hat die Aufgabe, alle zivilen Maßnahmen zu planen, vorz
 - Versorgung der Bevölkerung, der Staats- und Regierungsorgane, der für den Zivilschutz und die staatliche Notfallvorsorge zuständigen Stellen und der Streitkräfte sowie die
 - (sonstige) Unterstützung der Streitkräfte.
 
-Als konzeptionelles Basisdokument für die Ausgestaltung der zivilen Verteidigung in Deutschland dient die Konzeption Zivile Verteidigung (KZV), die 2016 vom Kabinett beschlossen wurde und bereits zentrale Forderungen der NATO an die Resilienz der Mitgliedstaaten berücksichtigt (sog. Mindestanforderungen an die nationale Widerstandsfähigkeit / *Baseline Requirements for National Resilience)*. Die Umsetzung der Maßnahmen der KZV orientiert sich immer auch an dem Ziel, die Resilienz der Gesellschaft gegenüber Schadensereignissen zu stärken.
+Als konzeptionelles Basisdokument für die Ausgestaltung der zivilen Verteidigung in Deutschland dient die [Konzeption Zivile Verteidigung](KZV.md) (KZV), die 2016 vom Kabinett beschlossen wurde und bereits zentrale Forderungen der NATO an die Resilienz der Mitgliedstaaten berücksichtigt (sog. Mindestanforderungen an die nationale Widerstandsfähigkeit / *Baseline Requirements for National Resilience)*. Die Umsetzung der Maßnahmen der KZV orientiert sich immer auch an dem Ziel, die Resilienz der Gesellschaft gegenüber Schadensereignissen zu stärken.
 
 Der Bund hält mit der Bundesanstalt Technisches Hilfswerk (THW) auf Grundlage des Art. 73 Abs. 1 Satz 1 des Grundgesetzes eigene Zivilschutzeinheiten vor. Das THW wurde zum Schutz der Bevölkerung im Verteidigungsfall gegründet und hat sich seitdem zu einem wichtigen Partner im zivilen Bevölkerungsschutz der Bundesrepublik Deutschland entwickelt. Die Einheiten und Kapazitäten des THW stehen der zuständigen Länder- und Kommunalebene zur Abwehr von Katastrophen, öffentlichen Notständen und Unglücksfällen im Rahmen der Amtshilfe in der Regel kostenfrei zur Verfügung. Zu den Leistungen zählen technische Hilfe in den Bereichen Bergung, Führung/Kommunikation, Logistik, Ortung, Räumung, Elektro- und Infrastrukturversorgung, Sprengung sowie bei Wassergefahren und -schäden. Das THW hat in den vergangenen Jahren mit seinem Rahmenkonzept konsequent an der Resilienzsteigerung gegenüber dem Ausfall von Kritischen Infrastrukturen gearbeitet (Ausbau der Notinstandsetzungs- und -versorgungskapazitäten). Auch in Zukunft wird die Vorhaltung von Notinfrastrukturen zur Versorgung der Bevölkerung und Aufrechterhaltung von Staats- und Regierungsfunktionen eine zentrale Rolle beim THW einnehmen (etwa Notstromversorgung, Trinkwasseraufbereitung und Notkommunikation).
 
-Dachdokument der Gesamtkonzeption der militärischen Verteidigung Deutschlands ist die Konzeption der Bundeswehr (KdB) vom 20. Juli 2018. Sie bildet das Pendant zur KZV. Die KdB beschreibt die Aufgaben der Bundeswehr in einem gesamtstaatlichen Ansatz und dabei insbesondere in der Landes- und Bündnisverteidigung im Rahmen der NATO sowie im internationalen
+Dachdokument der Gesamtkonzeption der militärischen Verteidigung Deutschlands ist die Konzeption der Bundeswehr (KdB) vom 20. Juli 2018. Sie bildet das Pendant zur [KZV](KZV.md). Die KdB beschreibt die Aufgaben der Bundeswehr in einem gesamtstaatlichen Ansatz und dabei insbesondere in der Landes- und Bündnisverteidigung im Rahmen der NATO sowie im internationalen
 
 Krisenmanagement. Als durchgängig wahrzunehmende Aufgaben treten insbesondere Verteidigungsaspekte der gesamtstaatlichen Cybersicherheit, Beiträge zum gesamtstaatlichen Lagebild im Cyber- und Informationsraum im Rahmen der nationalen und multinationalen Sicherheitsvorsorge sowie die Gewährleistung der Cybersicherheit in den bundeswehreigenen Netzen hinzu.
 
@@ -1429,7 +1429,7 @@ Bundesministerium der Justiz (2020): Die wirtschaftliche Existenz in der Coronak
 
 Bundesministerium des Innern, für Bau und Heimat (2009): Nationale Strategie zum Schutz Kritischer Infrastrukturen (KRITIS-Strategie). [https://www.bmi.bund.de/SharedDocs/downloads/DE/publikatio](http://#)[nen/themen/bevoelkerungsschutz/kritis.pdf?\\_\\_blob=publicationFile&v=3](http://#) [letzter Abruf: 12.10.2020].
 
-Bundesministerium des Innern und für Heimat (2016): Konzeption Zivile Verteidigung. [https://www.](http://#) [bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/bevoelkerungsschutz/konzep](http://#)[tion-zivile-verteidigung.pdf?\\_\\_blob=publicationFile&v=1](http://#) [letzter Abruf: 12.10.2020].
+Bundesministerium des Innern und für Heimat (2016): [Konzeption Zivile Verteidigung](KZV.md). [https://www.](http://#) [bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/bevoelkerungsschutz/konzep](http://#)[tion-zivile-verteidigung.pdf?\\_\\_blob=publicationFile&v=1](http://#) [letzter Abruf: 12.10.2020].
 
 Bundesministerium des Innern und für Heimat (2018a): Bevölkerungsschutz. [https://www.bmi.bund.](http://#) [de/DE/themen/bevoelkerungsschutz/bevoelkerungsschutz-node.html](http://#) [letzter Abruf: 12.10.2020].
 
@@ -1579,7 +1579,7 @@ Germanwatch (2020): Globaler Klima-Risiko-Index 2020. Zusammenfassung. [https://
 
 Gesetz zur Ordnung des Wasserhaushalts. [https://www.gesetze-im-internet.de/whg\\_2009/#:~:text=Ge](http://#)[setz%20zur%20Ordnung%20des%20Wasserhaushalts](http://#) [letzter Abruf: 17.09.2021].
 
-Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes. [https://www.bbk.bund.de/Sha](http://#)[redDocs/Downloads/DE/Rechtsgrundlagen/zskg.pdf?\\_\\_blob=publicationFile&v=7](http://#) [letzter Abruf: 17.09.2021].
+[Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes](ZSKG_Zivilschutzgesetz.md). [https://www.bbk.bund.de/Sha](http://#)[redDocs/Downloads/DE/Rechtsgrundlagen/zskg.pdf?\\_\\_blob=publicationFile&v=7](http://#) [letzter Abruf: 17.09.2021].
 
 #### Grundgesetz für die Bundesrepublik Deutschland.
 
@@ -1863,14 +1863,14 @@ Soziale Sicherung ist ein Menschenrecht und umfasst alle Maßnahmen, die Einzelp
 #### Warnung der Bevölkerung
 Information der Bevölkerung über drohende Gefahren und/oder akute Schadensereignisse sowie entsprechende Handlungsempfehlungen. Damit ist die Warnung der Bevölkerung ein Bereich der Krisenkommunikation.
 
-Die Warnung der Bevölkerung vor den "besonderen Gefahren im Verteidigungsfall" (Zivilschutz) obliegt dem Bund, wobei er sich auf die Warn-Infrastrukturen der Länder stützt. Diese führen die Zivilschutzwarnungen in seinem Auftrag aus (vgl. § 1 Abs. 2 Nr. 2 ZSKG).
+Die Warnung der Bevölkerung vor den "besonderen Gefahren im Verteidigungsfall" (Zivilschutz) obliegt dem Bund, wobei er sich auf die Warn-Infrastrukturen der Länder stützt. Diese führen die Zivilschutzwarnungen in seinem Auftrag aus (vgl. [§ 1 Abs. 2 Nr. 2 ZSKG](ZSKG_Zivilschutzgesetz.md)).
 
 Die Länder sind für Warnungen im Katastrophenfall (Katastrophenschutz) zuständig, während die Kommunen Warnungen in für die Bevölkerung relevanten Alltagslagen (Brandschutz, technische Hilfeleistung und öffentliche Sicherheit) herausgeben. Das MoWaS dient dabei auf allen föderalen Ebenen als einheitliche technische Plattform (BBK 2019).
 
 Internationale Definition (*Early Warning System*): Ein integriertes System zur Überwachung und Vorhersage von Gefahren, Bewertung des Katastrophenrisikos sowie Kommunikation und Vorbereitung von Aktivitäten und Prozessen, mit deren Hilfe Einzelpersonen, Gemeinden, Regierungen, Unternehmen und Andere rechtzeitig Maßnahmen ergreifen können, um das Katastrophenrisiko durch gefährliche Ereignisse zu verringern (übersetzt nach UNDRR 2017).
 
 #### Zivile Verteidigung
-Nicht-militärische Maßnahmen im Rahmen der Gesamtverteidigung, die sich auf Art. 73 Ziff. 1 Grundgesetz beziehen; sie unterteilen sich in: Aufrechterhaltung der Staats- und Regierungsfunktionen, Versorgung der Bevölkerung und der Streitkräfte mit Gütern und Leistungen, Unterstützung der Streitkräfte und den Zivilschutz (BBK 2019).
+Nicht-militärische Maßnahmen im Rahmen der Gesamtverteidigung, die sich auf Art. 73 Ziff. 1 [Grundgesetz](../grundgesetz/GG.md) beziehen; sie unterteilen sich in: Aufrechterhaltung der Staats- und Regierungsfunktionen, Versorgung der Bevölkerung und der Streitkräfte mit Gütern und Leistungen, Unterstützung der Streitkräfte und den Zivilschutz (BBK 2019).
 
 # Impressum
 

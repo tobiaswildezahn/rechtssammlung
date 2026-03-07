@@ -347,7 +347,7 @@ Die oder der Dienstvorgesetzte oder die von ihm oder ihr bestimmte Stelle kann w
 
 Das Beurteilungswesen für die Beamtinnen und Beamten der Fachrichtung Feuerwehr der Freien und Hansestadt Hamburg (FHH) ist derzeit in einer gesonderten Beurteilungsrichtlinie als Verwaltungsvorschrift geregelt.
 
-Aufgrund der jüngeren Rechtsprechung zum Beurteilungswesen besteht die Notwendigkeit, die bislang lediglich im Rang von Verwaltungsvorschriften stehenden Regelungen durch rechtsnormative Vorgaben zu ersetzen. Zu diesem Zweck wurde der bisherige § 10 Abs. 4 Hamburgisches Beamtengesetz (HmbBG) durch den im Rahmen des Dreizehnten Gesetzes zur Änderung dienstrechtlicher Vorschriften vom 19. November 2024 (HmbGVBI. S. 594, 595; Bü.-Drs. 22/15945) neu eingefügten § 10a HmbBG ersetzt. § 10a HmbBG enthält die wesentlichen Eckpunkte des Beurteilungswesens und ermächtigt zum Erlass von Rechtsverordnungen zur näheren Ausgestaltung.
+Aufgrund der jüngeren Rechtsprechung zum Beurteilungswesen besteht die Notwendigkeit, die bislang lediglich im Rang von Verwaltungsvorschriften stehenden Regelungen durch rechtsnormative Vorgaben zu ersetzen. Zu diesem Zweck wurde der bisherige § 10 Abs. 4 [Hamburgisches Beamtengesetz](beamtenrecht/BG_HA_2009.md) (HmbBG) durch den im Rahmen des Dreizehnten Gesetzes zur Änderung dienstrechtlicher Vorschriften vom 19. November 2024 (HmbGVBI. S. 594, 595; Bü.-Drs. 22/15945) neu eingefügten § 10a HmbBG ersetzt. § 10a HmbBG enthält die wesentlichen Eckpunkte des Beurteilungswesens und ermächtigt zum Erlass von Rechtsverordnungen zur näheren Ausgestaltung.
 
 Der Entwurf der allgemeinen Hamburgischen Beurteilungsverordnung (HmbBeurtVO) wurde von der Behörde für Inneres und Sport – Amt Feuerwehr – im Hinblick auf die besonderen Anforderungen des feuerwehrtechnischen Dienstes als nicht in vollem Umfang praxistauglich bewertet. Für den Bereich der Feuerwehr ist daher vorgesehen, in wesentlichen Punkten von den Regelungen der allgemeinen HmbBeurtVO abzuweichen.
 
@@ -388,7 +388,7 @@ Die Verordnung gilt für alle Beamtinnen und Beamten der Laufbahnen der Fachrich
 
 Auf Beamtinnen und Beamte der Fachrichtung Feuerwehr im Vorbereitungsdienst findet die Verordnung keine Anwendung. Dieser Personenkreis befindet sich in einer feuerwehrtechnischen Ausbildung, die regelmäßig mit einer laufbahnrechtlich geregelten Abschlussprüfung endet, sodass es keiner eigenständigen dienstlichen Beurteilungen bedarf. Der Vorbereitungsdienst dient in erster Linie der fachlichen und praktischen Ausbildung; eigenständige Dienstaufgaben im engeren Sinne werden nicht oder nur im Rahmen von Ausbildungsabschnitten wahrgenommen. Etwaige Zeugnisse oder Leistungsbewertungen aus Praxisverwendungen während der Ausbildung richten sich nach den einschlägigen laufbahnund ausbildungsrechtlichen Bestimmungen für den feuerwehrtechnischen Dienst.
 
-Ebenfalls nicht beurteilt werden Beamtinnen und Beamte der Fachrichtung Feuerwehr, die zur Vermeidung einer Versetzung in den Ruhestand gemäß § 26 Absatz 3 Beamtenstatusgesetz (BeamtStG) unterwertig eingesetzt werden.
+Ebenfalls nicht beurteilt werden Beamtinnen und Beamte der Fachrichtung Feuerwehr, die zur Vermeidung einer Versetzung in den Ruhestand gemäß § 26 Absatz 3 [Beamtenstatusgesetz](../beamtenrecht-bund/BeamtStG.md) (BeamtStG) unterwertig eingesetzt werden.
 
 # Zu § 3 – Grundsätze, Ziele und Inhalt der dienstlichen Beurteilungen
 
@@ -398,7 +398,7 @@ Enthält einen allgemeinen Überblick über die Zwecke und Inhalte der dienstlic
 
 ## Zu Absatz 2:
 
-Verlangt eine sachgerechte und diskriminierungsfreie Beurteilungspraxis. Willkürliche bzw. sachfremde Erwägungen dürfen nicht in die Beurteilung einfließen. Die Norm zählt eine Reihe von stets sachfremden Erwägungen auf und orientiert sich in ihren Formulierungen an Art. 3 Abs. 3 GG, § 9 BeamtStG und der Charta der Vielfalt. Eine Bevorzugung oder Benachteiligung aus diesen Gründen ist stets unzulässig.
+Verlangt eine sachgerechte und diskriminierungsfreie Beurteilungspraxis. Willkürliche bzw. sachfremde Erwägungen dürfen nicht in die Beurteilung einfließen. Die Norm zählt eine Reihe von stets sachfremden Erwägungen auf und orientiert sich in ihren Formulierungen an Art. 3 Abs. 3 GG, [§ 9 BeamtStG](../beamtenrecht-bund/BeamtStG.md) und der Charta der Vielfalt. Eine Bevorzugung oder Benachteiligung aus diesen Gründen ist stets unzulässig.
 
 # Zu § 4 – System von Regel- und Anlassbeurteilungen
 
@@ -422,9 +422,9 @@ Macht deutlich, dass Beurteilungsbeiträge und Leistungseinschätzungen Dritter 
 
 Durch diese Regelung sollen bestimmte Zeiträume, in denen keine fachlich beurteilbaren Dienstaufgaben (bzw. solche Dienstaufgaben nur in einem nicht beurteilbaren, geringfügigen Umfang von weniger als 20% der Arbeitszeit) wahrgenommen werden, von der Beurteilung ausgenommen werden. Dies betrifft geplante Abwesenheiten wie z. B. Beurlaubungen, Elternzeit, Pflegezeit oder
 
-Freistellungen von Personalratsmitgliedern oder Schwerbehindertenvertretungen (Satz 1 Nr. 1), Abordnungen zu anderen Dienstherren bzw. Zuweisungen gemäß § 20 BeamtStG (Nr. 2) sowie die vollzeitige Teilnahme an Aufstiegslehrgängen und anderen Qualifizierungsmaßnahmen (Nr. 3).
+Freistellungen von Personalratsmitgliedern oder Schwerbehindertenvertretungen (Satz 1 Nr. 1), Abordnungen zu anderen Dienstherren bzw. Zuweisungen gemäß [§ 20 BeamtStG](../beamtenrecht-bund/BeamtStG.md) (Nr. 2) sowie die vollzeitige Teilnahme an Aufstiegslehrgängen und anderen Qualifizierungsmaßnahmen (Nr. 3).
 
-Übermittelt im Falle einer Abordnung zu einem anderen Dienstherrn der andere Dienstherr einen Beurteilungsbeitrag, der den Anforderungen von § 15 genügt, so kann dieser Zeitraum in die nächste Beurteilung mit einbezogen werden (Satz 3). Andere Beurteilungen oder Leistungseinschätzungen eines anderen Dienstherrn oder einer nicht dienstherrnfähigen Einrichtung fließen nicht in die Beurteilung ein, werden aber zur Personalakte genommen (Satz 4). Ob und ggf. wie diese bei Auswahlverfahren berücksichtigt werden können, hängt davon ab, ob die ausgeübten Tätigkeiten, der Bewertungsmaßstab und die Art der Bewertung mit den Tätigkeiten, Bewertungsmaßstäben und Beurteilungen vergleichbar sind. Insbesondere anderen Dienstherrn steht es frei, die Bestimmungen der vorliegenden Verordnung analog anzuwenden, sofern das bei ihnen geltende Recht dies zulässt (§ 14 Abs. 4 Satz 2 BeamtStG)
+Übermittelt im Falle einer Abordnung zu einem anderen Dienstherrn der andere Dienstherr einen Beurteilungsbeitrag, der den Anforderungen von § 15 genügt, so kann dieser Zeitraum in die nächste Beurteilung mit einbezogen werden (Satz 3). Andere Beurteilungen oder Leistungseinschätzungen eines anderen Dienstherrn oder einer nicht dienstherrnfähigen Einrichtung fließen nicht in die Beurteilung ein, werden aber zur Personalakte genommen (Satz 4). Ob und ggf. wie diese bei Auswahlverfahren berücksichtigt werden können, hängt davon ab, ob die ausgeübten Tätigkeiten, der Bewertungsmaßstab und die Art der Bewertung mit den Tätigkeiten, Bewertungsmaßstäben und Beurteilungen vergleichbar sind. Insbesondere anderen Dienstherrn steht es frei, die Bestimmungen der vorliegenden Verordnung analog anzuwenden, sofern das bei ihnen geltende Recht dies zulässt ([§ 14 Abs. 4 Satz 2 BeamtStG](../beamtenrecht-bund/BeamtStG.md))
 
 ## Zu Absatz 2:
 
@@ -737,7 +737,7 @@ Da es sich bei der Information über eine Schwerbehinderung oder eine Gleichstel
 
 Die Vorschrift dient dem Schutz vor Diskriminierungen. Die Wahrnehmung von Teilzeitbeschäftigungen, Dienst an einem anderen Ort (mobile Arbeit, Telearbeit), Beurlaubungsmöglichkeiten oder Freistellungen (z. B. für Tätigkeiten im Personalrat oder als Schwerbehindertenvertretung) dürfen sich nicht nachteilig auf die Beurteilung auswirken. Die mit einer Reduktion der Arbeitszeit verbundene Reduktion der Arbeitsmenge ist bei der Bewertung der quantitativen Arbeitsleistung zu beachten.
 
-Ebenso dürfen sich ein unterwertiger oder laufbahnfremder Einsatz nicht nachteilig auswirken. Insbesondere darf es der bzw. dem Beurteilten nicht zum Nachteil gereichen, dass bestimmte mit dem höherwertigen Statusamt verbundene Kompetenzen oder Erfahrungen auf dem unterwertigen Dienstposten nicht zur Geltung kommen bzw. dort nicht ausgeübt werden können. Auch darf es einer bzw. einem laufbahnfremd eingesetzten Beurteilten nicht zum Nachteil gereichen, über bestimmte Kompetenzen oder Erfahrungen aus der fremden Laufbahn nicht zu verfügen. Hierbei ist zu beachten, dass Bedienstete, die gemäß § 26 Absatz 3 BeamtStG zur Vermeidung einer Versetzung in den Ruhestand unterwertig oder laufbahnfremd eingesetzt sind, nicht zu beurteilen sind (vgl. § 2 Absatz 2).
+Ebenso dürfen sich ein unterwertiger oder laufbahnfremder Einsatz nicht nachteilig auswirken. Insbesondere darf es der bzw. dem Beurteilten nicht zum Nachteil gereichen, dass bestimmte mit dem höherwertigen Statusamt verbundene Kompetenzen oder Erfahrungen auf dem unterwertigen Dienstposten nicht zur Geltung kommen bzw. dort nicht ausgeübt werden können. Auch darf es einer bzw. einem laufbahnfremd eingesetzten Beurteilten nicht zum Nachteil gereichen, über bestimmte Kompetenzen oder Erfahrungen aus der fremden Laufbahn nicht zu verfügen. Hierbei ist zu beachten, dass Bedienstete, die gemäß [§ 26 Absatz 3 BeamtStG](../beamtenrecht-bund/BeamtStG.md) zur Vermeidung einer Versetzung in den Ruhestand unterwertig oder laufbahnfremd eingesetzt sind, nicht zu beurteilen sind (vgl. § 2 Absatz 2).
 
 Weitere Diskriminierungsverbote ergeben sich aus § 3 Absatz 2.
 

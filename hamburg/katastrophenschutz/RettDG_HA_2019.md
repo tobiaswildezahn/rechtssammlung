@@ -23,7 +23,7 @@ Zum 14.11.2025 aktuellste verfügbare Fassung der Gesamtausgabe
 
 | Titel                                                                                    | Gültig ab  |
 |------------------------------------------------------------------------------------------|------------|
-| Hamburgisches Rettungsdienstgesetz (HmbRDG) vom 30. Oktober 2019                         | 16.11.2019 |
+| [Hamburgisches Rettungsdienstgesetz](../../parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md) (HmbRDG) vom 30. Oktober 2019                         | 16.11.2019 |
 | Eingangsformel                                                                           | 16.11.2019 |
 | Inhaltsverzeichnis                                                                       | 30.12.2023 |
 | Erster Teil - Allgemeine Regelungen                                                      | 16.11.2019 |
