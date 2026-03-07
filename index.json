@@ -94,6 +94,13 @@
         "HmbGleichstG"
       ]
     },
+    "HmbSUrlR": {
+      "path": "hamburg/beamtenrecht/HmbSUrlR_Sonderurlaubsrichtlinien.md",
+      "aliases": [
+        "Sonderurlaubsrichtlinien",
+        "Richtlinien über die Bewilligung von Sonderurlaub für Beamtinnen und Beamte sowie Richterinnen und Richter"
+      ]
+    },
     "PersVG": {
       "path": "hamburg/beamtenrecht/PersVG_HA_2014.md",
       "aliases": [

@@ -72,6 +72,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | `hamburg/beamtenrecht/BesG_HA_2010.md` | HmbBesG |
 | `hamburg/beamtenrecht/DG_HA.md` | HmbDG |
 | `hamburg/beamtenrecht/GleichstG_HA_2015.md` | HmbGleichstG |
+| `hamburg/beamtenrecht/HmbSUrlR_Sonderurlaubsrichtlinien.md` | Sonderurlaubsrichtlinien |
 | `hamburg/beamtenrecht/PersVG_HA_2014.md` | HmbPersVG |
 
 #### Sonstige Hamburg
