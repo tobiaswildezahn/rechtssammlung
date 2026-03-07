@@ -4,395 +4,514 @@
 
 San Francisco, 26. Juni 1945 | In Kraft getreten am 24. Oktober 1945
 
-59 Stat. 1031, T.S. 993, 3 Bevans 1153
+BGBl. 1973 II S. 431 (amtliche deutsche Fassung)
 
 ---
 
-## Preamble
-WE THE PEOPLES OF THE UNITED NATIONS DETERMINED to save succeeding generations from the scourge of war, which twice in our lifetime has brought untold sorrow to mankind, and to reaffirm faith in fundamental human rights, in the dignity and worth of the human person, in the equal rights of men and women and of nations large and small, and to establish conditions under which justice and respect for the obligations arising from treaties and other sources of international law can be maintained, and to promote social progress and better standards of life in larger freedom,
-AND FOR THESE ENDS to practice tolerance and live together in peace with one another as good neighbors, and to unite our strength to maintain international peace and security, and to ensure by the acceptance of principles and the institution of methods, that armed force shall not be used, save in the common interest, and to employ international machinery for the promotion of the economic and social advancement of all peoples,
-HAVE RESOLVED TO COMBINE OUR EFFORTS TO ACCOMPLISH THESE AIMS
-Accordingly, our respective Governments, through representatives assembled in the city of San Francisco, who have exhibited their full powers found to be in good and due form, have agreed to the present Charter of the United Nations and do hereby establish an international organization to be known as the United Nations.
-## Chapter I: Purposes and Principles
-### Article 1
+## Einführung
+Die Charta der Vereinten Nationen ist der Gründungsvertrag der Vereinten Nationen (United Nations). Ihre universellen Ziele und Grundsätze bilden die Verfassung der Staatengemeinschaft, zu der sich alle inzwischen 193 Mitgliedstaaten bekennen. Die Charta wurde zum Abschluss der Konferenz über eine internationale Organisation am 26. Juni 1945 in San Francisco von 50 Gründungsstaaten unterzeichnet und ist am 24. Oktober 1945 in Kraft getreten. Das Statut des Internationalen Gerichtshofs ist Bestandteil der Charta. Der hier abgedruckte Text schließt die bis heute vorgenommenen Chartaänderungen ein. Der deutsche Text wurde am 9. Juni 1973 (die Änderung des Artikels 61 am 31. Mai 1974) als amtliche Fassung der Bundesrepublik Deutschland im Bundesgesetzblatt veröffentlicht.
 
-The Purposes of the United Nations are: 1. To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace; 2. To develop friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples, and to take other appropriate measures to strengthen universal peace; 3. To achieve international cooperation in solving international problems of an economic, social, cultural, or humanitarian character, and in promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion; and 4. To be a center for harmonizing the actions of nations in the attainment of these common ends.
-### Article 2
+Seit dem Inkrafttreten der Charta wurden zweimal Änderungen vorgenommen. Änderungen der Artikel 23, 27 und 61 wurden von der Generalversammlung der Vereinten Nationen am 17. Dezember 1963 angenommen und sind am 31. August 1965 in Kraft getreten. Die von der Generalversammlung am 20. Dezember 1965 angenommene Änderung des Artikels 109 trat am 12. Juni 1968 in Kraft. Durch die Änderung des Artikels 23 wurde die Mitgliederzahl des Sicherheitsrats von 11 auf 15 erhöht. Aufgr- und des geänderten Wortlauts des Artikels 27 werden Beschlüsse des Sicherheitsrats über Verfahrensfragen mit Zustimmung von neun – statt früher sieben – Mitgliedern gefasst. Bei Beschlüssen über alle anderen Fragen müssen unter den neun zustimmenden Staaten – früher sieben – die fünf ständigen Mitglieder des Sicherheitsrats sein. Durch die Änderung des Artikels 61 wurde die Mitgliederzahl des Wirtschafts- und Sozialrats (ECOSOC) von zunächst 18 auf 27, dann durch Beschluss der Generalversammlung vom 20. Dezember 1971 (in Kraft getreten am 24. September 1973) auf 54 erhöht.
 
-The Organization and its Members, in pursuit of the Purposes stated in Article 1, shall act in accordance with the following Principles. 1. The Organization is based on the principle of the sovereign equality of all its Members. 2. All Members, in order to ensure to all of them the rights and benefits resulting from membership, shall fulfill in good faith the obligations assumed by them in accordance with the present Charter. 3. All Members shall settle their international disputes by peaceful means in such a manner that international peace and security, and justice, are not endangered. 4. All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations. 5. All Members shall give the United Nations every assistance in any action it takes in accordance with the present Charter, and shall refrain from giving assistance to any state against which the United Nations is taking preventive or enforcement action. 6. The Organization shall ensure that states which are not Members of the United Nations act in accordance with these Principles so far as may be necessary for the maintenance of international peace and security. 7. Nothing contained in the present Charter shall authorize the United Nations to intervene in matters which are essentially within the domestic jurisdiction of any state or shall require the Members to submit such matters to settlement under the present Charter; but this principle shall not prejudice the application of enforcement measures under Chapter VII.
-## Chapter II: Membership
-### Article 3
+Die Änderung des Artikels 109 bezieht sich auf dessen ersten Absatz und bestimmt, dass eine Allgemeine Konferenz der Mitglieder der Vereinten Nationen zum Zweck der Revision der vorliegenden Charta zu einem Zeitpunkt und an einem Ort abgehalten werden kann, die mit Zweidrittelmehrheit der Mitglieder der Generalversammlung und mit Zustimmung von neun – statt früher sieben – beliebigen Mitgliedern des Sicherheitsrats festgesetzt werden.
 
-The original Members of the United Nations shall be the states which, having participated in the United Nations Conference on International Organization at San Francisco, or having previously signed the Declaration by United Nations of January 1, 1942, sign the present Charter and ratify it in accordance with Article 110.
-### Article 4
+Die in Artikel 53 und Artikel 107 enthaltenen sogenannten Feindstaatenklauseln wurden durch Resolution 49/58 der Generalversammlung vom 9. Dezember 1994 für "obsolet" erklärt.
 
-1. Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter and, in the judgment of the Organization, are able and willing to carry out these obligations. 2. The admission of any such state to membership in the United Nations will be effected by a decision of the General Assembly upon the recommendation of the Security Council.
-### Article 5
+## Präambel
+Wir, die Völker der Vereinten Nationen – fest entschlossen,
+künftige Geschlechter vor der Geißel des Krieges zu bewahren, die zweimal zu unseren Lebzeiten unsagbares Leid über die Menschheit gebracht hat, unseren Glauben an die Grundrechte des Menschen, an Würde und Wert der menschlichen Persönlichkeit, an die Gleichberechtigung von Mann und Frau sowie von allen Nationen, ob groß oder klein, erneut zu bekräftigen,
 
-A member of the United Nations against which preventive or enforcement action has been taken by the Security Council may be suspended from the exercise of the rights and privileges of membership by the General Assembly upon the recommendation of the Security Council. The exercise of these rights and privileges may be restored by the Security Council.
-### Article 6
+Bedingungen zu schaffen, unter denen Gerechtigkeit und die Achtung vor den Verpflichtungen aus Verträgen und anderen Quellen des Völkerrechts gewahrt werden können, den sozialen Fortschritt und einen besseren Lebensstandard in größerer Freiheit zu fördern,
 
-A Member of the United Nations which has persistently violated the Principles contained in the present Charter may be expelled from the Organization by the General Assembly upon the recommendation of the Security Council.
-## Chapter III: Organs
-### Article 7
+**und für diese Zwecke**
+Duldsamkeit zu üben und als gute Nachbarn in Frieden miteinander zu leben, unsere Kräfte zu vereinen, um den Weltfrieden und die internationale Sicherheit zu wahren,
 
-1. There are established as the principal organs of the United Nations: a General Assembly, a Security Council, an Economic and Social Council, a Trusteeship Council, an International Court of Justice, and a Secretariat. 2. Such subsidiary organs as may be found necessary may be established in accordance with the present Charter.
-### Article 8
+Grundsätze anzunehmen und Verfahren einzuführen, die gewährleisten, dass Waffengewalt nur noch im gemeinsamen Interesse angewendet wird, und internationale Einrichtungen in Anspruch zu nehmen, um den wirtschaftlichen und sozialen Fortschritt aller Völker zu fördern –
 
-The United Nations shall place no restrictions on the eligibility of men and women to participate in any capacity and under conditions of equality in its principal and subsidiary organs.
-## Chapter IV: The General Assembly
-### Article 9
+haben beschlossen, in unserem Bemühen um die Erreichung dieser Ziele zusammenzuwirken.
+Dementsprechend haben unsere Regierungen durch ihre in der Stadt San Francisco versammelten Vertreter, deren Vollmachten vorgelegt und in guter und gehöriger Form befunden wurden, diese Charta der Vereinten Nationen angenommen und errichten hiermit eine internationale Organisation, die den Namen "Vereinte Nationen" führen soll.
 
-Composition 1. The General Assembly shall consist of all the Members of the United Nations. 2. Each member shall have not more than five representatives in the General Assembly. Functions and Powers
-### Article 10
+## Kapitel I: Ziele Und Grundsätze
+### Artikel 1
+Die Vereinten Nationen setzen sich folgende Ziele:
 
-The General Assembly may discuss any questions or any matters within the scope of the present Charter or relating to the powers and functions of any organs provided for in the present Charter, and, except as provided in Article 12, may make recommendations to the Members of the United Nations or to the Security Council or to both on any such questions or matters.
-### Article 11
+- **1.** den Weltfrieden und die internationale Sicherheit zu wahren und zu diesem Zweck wirksame Kollektivmaßnahmen zu treffen, um Bedrohungen des Friedens zu verhüten und zu beseitigen, Angriffshandlungen und andere Friedensbrüche zu unterdrücken und internationale Streitigkeiten oder Situationen, die zu einem Friedensbruch führen könnten, durch friedliche Mittel nach den Grundsätzen der Gerechtigkeit und des Völkerrechts zu bereinigen oder beizulegen;
+- **2.** freundschaftliche, auf der Achtung vor dem Grundsatz der Gleichberechtigung und Selbstbestimmung der Völker beruhende Beziehungen zwischen den Nationen zu entwickeln und andere geeignete Maßnahmen zur Festigung des Weltfriedens zu treffen;
+- **3.** eine internationale Zusammenarbeit herbeizuführen, um internationale Probleme wirtschaftlicher, sozialer, kultureller und humanitärer Art zu lösen und die Achtung vor den Menschenrechten und Grundfreiheiten für alle ohne Unterschied der Rasse, des Geschlechts, der Sprache oder der Religion zu fördern und zu festigen;
 
-1. The General Assembly may consider the general principles of cooperation in the maintenance of international peace and security, including the principles governing disarmament and the regulation of armaments, and may make recommendations with regard to such principles to the Members or to the Security Council or to both. 2. The General Assembly may discuss any questions relating to the maintenance of international peace and security brought before it by any Member of the United Nations, or by the Security Council, or by a state which is not a Member of the United Nations in accordance with Article 35, paragraph 2, and, except as provided in Article 12, may make recommendations with regard to any such questions to the state or states concerned or to the Security Council or to both. Any such question on which action is necessary shall be referred to the Security Council by the General Assembly either before or after discussion. 3. The General Assembly may call the attention of the Security Council to situations which are likely to endanger international peace and security. 4. The powers of the General Assembly set forth in this Article shall not limit the general scope of Article 10.
-### Article 12
+**4.** ein Mittelpunkt zu sein, in dem die Bemühungen der Nationen zur Verwirklichung dieser gemeinsamen Ziele aufeinander abgestimmt werden.
 
-1. While the Security Council is exercising in respect of any dispute or situation the functions assigned to it in the present Charter, the General Assembly shall not make any recommendation with regard to that dispute or situation unless the Security Council so requests. 2. The Secretary-General, with the consent of the Security Council, shall notify the General Assembly at each session of any matters relative to the maintenance of international peace and security which are being dealt with by the Security Council and shall similarly notify the General Assembly, or the Members of the United Nations if the General Assembly is not in session, immediately the Security Council ceases to deal with such matters.
-### Article 13
+### Artikel 2
+Die Organisation und ihre Mitglieder handeln im Verfolg der in Artikel 1 dargelegten Ziele nach folgenden Grundsätzen:
 
-1. The General Assembly shall initiate studies and make recommendations for the purpose of: a. promoting international cooperation in the political field and encouraging the progressive development of international law and its codification; b. promoting international cooperation in the economic, social, cultural, educational, and health fields, and assisting in the realization of human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion. 2. The further responsibilities, functions and powers of the General Assembly with respect to matters mentioned in paragraph 1(b) above are set forth in Chapters IX and X.
-### Article 14
+- **1.** Die Organisation beruht auf dem Grundsatz der souveränen Gleichheit aller ihrer Mitglieder.
+- **2.** Alle Mitglieder erfüllen, um ihnen allen die aus der Mitgliedschaft erwachsenden Rechte und Vorteile zu sichern, nach Treu und Glauben die Verpflichtungen, die sie mit dieser Charta übernehmen.
+- **3.** Alle Mitglieder legen ihre internationalen Streitigkeiten durch friedliche Mittel so bei, dass der Weltfriede, die internationale Sicherheit und die Gerechtigkeit nicht gefährdet werden.
+- **4.** Alle Mitglieder unterlassen in ihren internationalen Beziehungen jede gegen die territoriale Unversehrtheit oder die politische Unabhängigkeit eines Staates gerichtete oder sonst mit den Zielen der Vereinten Nationen unvereinbare Androhung oder Anwendung von Gewalt.
+- **5.** Alle Mitglieder leisten den Vereinten Nationen jeglichen Beistand bei jeder Maßnahme, welche die Organisation im Einklang mit dieser Charta ergreift; sie leisten einem
 
-Subject to the provisions of Article 12, the General Assembly may recommend measures for the peaceful adjustment of any situation, regardless of origin, which it deems likely to impair the general welfare or friendly relations among nations, including situations resulting from a violation of the provisions of the present Charter setting forth the Purposes and Principles of the United Nations.
-### Article 15
+- Staat, gegen den die Organisation Vorbeugungs- oder Zwangsmaßnahmen ergreift, keinen Beistand.
+- **6.** Die Organisation trägt dafür Sorge, dass Staaten, die nicht Mitglieder der Vereinten Nationen sind, insoweit nach diesen Grundsätzen handeln, als dies zur Wahrung des Weltfriedens und der internationalen Sicherheit erforderlich ist.
+- **7.** Aus dieser Charta kann eine Befugnis der Vereinten Nationen zum Eingreifen in Angelegenheiten, die ihrem Wesen nach zur inneren Zuständigkeit eines Staates gehören, oder eine Verpflichtung der Mitglieder, solche Angelegenheiten einer Regelung aufgr- und dieser Charta zu unterwerfen, nicht abgeleitet werden; die Anwendung von Zwangsmaßnahmen nach Kapitel VII wird durch diesen Grundsatz nicht berührt.
 
-1. The General Assembly shall receive and consider annual and special reports from the Security Council; these reports shall include an account of the measures that the Security Council has decided upon or taken to maintain international peace and security. 2. The General Assembly shall receive and consider reports from the other organs of the United Nations.
-### Article 16
+## Kapitel II: Mitgliedschaft
+### Artikel 3
+Ursprüngliche Mitglieder der Vereinten Nationen sind die Staaten, welche an der Konferenz der Vereinten Nationen über eine Internationale Organisation in San Francisco teilgenommen oder bereits vorher die Erklärung der Vereinten Nationen vom 1. Januar 1942 unterzeichnet haben und nunmehr diese Charta unterzeichnen und nach Artikel 110 ratifizieren.
 
-The General Assembly shall perform such functions with respect to the international trusteeship system as are assigned to it under Chapters XII and XIII, including the approval of the trusteeship agreements for areas not designated as strategic.
-### Article 17
+### Artikel 4
+- **1.** Mitglied der Vereinten Nationen können alle sonstigen friedliebenden Staaten werden, welche die Verpflichtungen aus dieser Charta übernehmen und nach dem Urteil der Organisation fähig und willens sind, diese Verpflichtungen zu erfüllen.
+- **2.** Die Aufnahme eines solchen Staates als Mitglied der Vereinten Nationen erfolgt auf Empfehlung des Sicherheitsrats durch Beschluss der Generalversammlung.
 
-1. The General Assembly shall consider and approve the budget of the Organization. 2. The expenses of the Organization shall be borne by the Members as apportioned by the General Assembly. 3. The General Assembly shall consider and approve any financial and budgetary arrangements with specialized agencies referred to in Article 57 and shall examine the administrative budgets of such specialized agencies with a view to making recommendations to the agencies concerned. Voting
-### Article 18
+### Artikel 5
+Einem Mitglied der Vereinten Nationen, gegen das der Sicherheitsrat Vorbeugungs- oder Zwangsmaßnahmen getroffen hat, kann die Generalversammlung auf Empfehlung des Sicherheitsrats die Ausübung der Rechte und Vorrechte aus seiner Mitgliedschaft zeitweilig entziehen. Der Sicherheitsrat kann die Ausübung dieser Rechte und Vorrechte wieder zulassen.
 
-1. Each member of the General Assembly shall have one vote. 2. Decisions of the General Assembly on important questions shall be made by a two-thirds majority of the members present and voting. These questions shall include: recommendations with respect to the maintenance of international peace and security, the election of the non-permanent members of the Security Council, the election of the members of the Economic and Social Council, the election of members of the Trusteeship Council in accordance with paragraph 1(c) of Article 86, the admission of new Members to the United Nations, the suspension of the rights and privileges of membership, the expulsion of Members, questions relating to the operation of the trusteeship system, and budgetary questions. 3. Decisions on other questions, Composition including the determination of additional categories of questions to be decided by a two-thirds majority, shall be made by a majority of the members present and voting.
-### Article 19
+### Artikel 6
+Ein Mitglied der Vereinten Nationen, das die Grundsätze dieser Charta beharrlich verletzt, kann auf Empfehlung des Sicherheitsrats durch die Generalversammlung aus der Organisation ausgeschlossen werden.
 
-A Member of the United Nations which is in arrears in the payment of its financial contributions to the Organization shall have no vote in the General Assembly if the amount of its arrears equals or exceeds the amount of the contributions due from it for the preceding two full years. The General Assembly may, nevertheless, permit such a Member to vote if it is satisfied that the failure to pay is due to conditions beyond the control of the Member. Procedure
-### Article 20
+## Kapitel III: Organe
+### Artikel 7
+- **1.** Als Hauptorgane der Vereinten Nationen werden eine Generalversammlung, ein Sicherheitsrat, ein Wirtschafts- und Sozialrat, ein Treuhandrat, ein Internationaler Gerichtshof und ein Sekretariat eingesetzt.
+- **2.** Je nach Bedarf können in Übereinstimmung mit dieser Charta Nebenorgane eingesetzt werden.
 
-The General Assembly shall meet in regular annual sessions and in such special sessions as occasion may require. Special sessions shall be convoked by the Secretary-General at the request of the Security Council or of a majority of the Members of the United Nations.
-### Article 21
+### Artikel 8
+Die Vereinten Nationen schränken hinsichtlich der Anwartschaft auf alle Stellen in ihren Haupt- und Nebenorganen die Gleichberechtigung von Männern und Frauen nicht ein.
 
-The General Assembly shall adopt its own rules of procedure. It shall elect its President for each session.
-### Article 22
+## Kapitel IV: Die Generalversammlung
+#### Zusammensetzung
+### Artikel 9
+- **1.** Die Generalversammlung besteht aus allen Mitgliedern der Vereinten Nationen.
+- **2.** Jedes Mitglied hat höchstens fünf Vertreter in der Generalversammlung.
 
-The General Assembly may establish such subsidiary organs as it deems necessary for the performance of its functions.
-## Chapter V: The Security Council
-### Article 23
+#### Aufgaben und Befugnisse
+### Artikel 10
+Die Generalversammlung kann alle Fragen und Angelegenheiten erörtern, die in den Rahmen dieser Charta fallen oder Befugnisse und Aufgaben eines in dieser Charta vorgesehenen Organs betreffen; vorbehaltlich des Artikels 12 kann sie zu diesen Fragen und Angelegenheiten Empfehlungen an die Mitglieder der Vereinten Nationen oder den Sicherheitsrat oder an beide richten.
 
-1. The Security Council shall consist of fifteen Members of the United Nations. The Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America shall be permanent members of the Security Council. The General Assembly shall elect ten other Members of the United Nations to be non-permanent members of the Security Council, due regard being specially paid, in the first instance to the contribution of Members of the United Nations to the maintenance of international peace and security and to the other purposes of the Organization, and also to equitable geographical distribution. The non-permanent members of the Security Council shall be elected for a term of two years. In the first election of the non-permanent members after the increase of the membership of the Security Council from eleven to fifteen, two of the four additional members shall be chosen for a term of one year. A retiring member shall not be eligible for immediate re-election. Each member of the Security Council shall have one representative. Functions and Powers
-### Article 24
+### Artikel 11
+**1.** Die Generalversammlung kann sich mit den allgemeinen Grundsätzen der Zusammenarbeit zur Wahrung des Weltfriedens und der internationalen Sicherheit einschließlich der Grundsätze für die Abrüstung und Rüstungsregelung befassen und in Bezug auf diese Grundsätze Empfehlungen an die Mitglieder oder den Sicherheitsrat oder an beide richten.
 
-1. In order to ensure prompt and effective action by the United Nations, its Members confer on the Security Council primary responsibility for the maintenance of international peace and security, and agree that in carrying out its duties under this responsibility the Security Council acts on their behalf. 2. In discharging these duties the Security Council shall act in accordance with the Purposes and Principles of the United Nations. The specific powers granted to the Security Council for the discharge of these duties are laid down in Chapters VI, VII, VIII, and XII. 3. The Security Council shall submit annual and, when necessary, special reports to the General Assembly for its consideration.
-### Article 25
+- **2.** Die Generalversammlung kann alle die Wahrung des Weltfriedens und der internationalen Sicherheit betreffenden Fragen erörtern, die ihr ein Mitglied der Vereinten Nationen oder der Sicherheitsrat oder nach Artikel 35 Absatz 2 ein Nichtmitgliedstaat der Vereinten Nationen vorlegt; vorbehaltlich des Artikels 12 kann sie zu diesen Fragen Empfehlungen an den oder die betreffenden Staaten oder den Sicherheitsrat oder an beide richten. Macht eine derartige Frage Maßnahmen erforderlich, so wird sie von der Generalversammlung vor oder nach der Erörterung an den Sicherheitsrat überwiesen.
+- **3.** Die Generalversammlung kann die Aufmerksamkeit des Sicherheitsrats auf Situationen lenken, die geeignet sind, den Weltfrieden und die internationale Sicherheit zu gefährden.
+- **4.** Die in diesem Artikel aufgeführten Befugnisse der Generalversammlung schränken die allgemeine Tragweite des Artikels 10 nicht ein.
 
-The Members of the United Nations agree to accept and carry out the decisions of the Security Council in accordance with the present Charter.
-### Article 26
+### Artikel 12
+**1.** Solange der Sicherheitsrat in einer Streitigkeit oder einer Situation die ihm in dieser Charta zugewiesenen Aufgaben wahrnimmt, darf die Generalversammlung zu dieser Streitigkeit oder Situation keine Empfehlung abgeben, es sei denn auf Ersuchen des Sicherheitsrats.
 
-In order to promote the establishment and maintenance of international peace and security with the least diversion for armaments of the world's human and economic resources, the Security Council shall be responsible for formulating, with the assistance of the Military Staff Committee referred to in Article 47, plans to be submitted to the Members of the United Nations for the establishment of a system for the regulation of armaments. Voting
-### Article 27
+**2.** Der Generalsekretär unterrichtet mit Zustimmung des Sicherheitsrats die Generalversammlung bei jeder Tagung über alle die Wahrung des Weltfriedens und der internationalen Sicherheit betreffenden Angelegenheiten, die der Sicherheitsrat behandelt; desgleichen unterrichtet er unverzüglich die Generalversammlung oder, wenn diese nicht tagt, die Mitglieder der Vereinten Nationen, sobald der Sicherheitsrat die Behandlung einer solchen Angelegenheit einstellt.
 
-1. Each member of the Security Council shall have one vote. 2. Decisions of the Security Council on procedural matters shall be made by an affirmative vote of nine members. 3. Decisions of the Security Council on all other matters shall be made by an affirmative vote of nine members including the concurring votes of the permanent members; provided that, in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting. Procedure
-### Article 28
+- **1.** Die Generalversammlung veranlasst Untersuchungen und gibt Empfehlungen ab,
+- a) um die internationale Zusammenarbeit auf politischem Gebiet zu fördern und die fortschreitende Entwicklung des Völkerrechts sowie seine Kodifizierung zu begünstigen;
+- b) um die internationale Zusammenarbeit auf den Gebieten der Wirtschaft, des Sozialwesens, der Kultur, der Erziehung und der Gesundheit zu fördern und zur Verwirklichung der Menschenrechte und Grundfreiheiten für alle ohne Unterschied der Rasse, des Geschlechts, der Sprache oder der Religion beizutragen.
+- **2.** Die weiteren Verantwortlichkeiten, Aufgaben und Befugnisse der Generalversammlung in Bezug auf die in Absatz 1 Buchstabe b genannten Angelegenheiten sind in den Kapiteln IX und X dargelegt.
 
-1. The Security Council shall be so organized as to be able to function continuously. Each member of the Security Council shall for this purpose be represented at all times at the seat of the Organization. 2. The Security Council shall hold periodic meetings at which each of its members may, if it so desires, be represented by a member of the government or by some other specially designated representative. 3. The Security Council may hold meetings at such places other than the seat of the Organization as in its judgment will best facilitate its work.
-### Article 29
+Vorbehaltlich des Artikels 12 kann die Generalversammlung Maßnahmen zur friedlichen Bereinigung jeder Situation empfehlen, gleichviel wie sie entstanden ist, wenn diese Situation nach ihrer Auffassung geeignet ist, das allgemeine Wohl oder die freundschaftlichen Beziehungen zwischen Nationen zu beeinträchtigen; dies gilt auch für Situationen, die aus einer Verletzung der Bestimmungen dieser Charta über die Ziele und Grundsätze der Vereinten Nationen entstehen.
 
-The Security Council may establish such subsidiary organs as it deems necessary for the performance of its functions.
-### Article 30
+### Artikel 15
+- **1.** Die Generalversammlung erhält und prüft Jahresberichte und Sonderberichte des Sicherheitsrats; diese Berichte enthalten auch eine Darstellung der Maßnahmen, die der Sicherheitsrat zur Wahrung des Weltfriedens und der internationalen Sicherheit beschlossen oder getroffen hat.
+- **2.** Die Generalversammlung erhält und prüft Berichte der anderen Organe der Vereinten Nationen.
 
-The Security Council shall adopt its own rules of procedure, including the method of selecting its President.
-### Article 31
+### Artikel 16
+Die Generalversammlung nimmt die ihr bezüglich des internationalen Treuhandsystems in den Kapiteln XII und XIII zugewiesenen Aufgaben wahr; hierzu gehört die Genehmigung der Treuhandabkommen für Gebiete, die nicht als strategische Zonen bezeichnet sind.
 
-Any Member of the United Nations which is not a member of the Security Council may participate, without vote, in the discussion of any question brought before the Security Council whenever the latter considers that the interests of that Member are specially affected.
-### Article 32
+- **1.** Die Generalversammlung prüft und genehmigt den Haushaltsplan der Organisation.
+- **2.** Die Ausgaben der Organisation werden von den Mitgliedern nach einem von der Generalversammlung festzusetzenden Verteilungsschlüssel getragen.
+- **3.** Die Generalversammlung prüft und genehmigt alle Finanz- und Haushaltsabmachungen mit den in Artikel 57 bezeichneten Sonderorganisationen; sie prüft deren Verwaltungshaushalt mit dem Ziel, Empfehlungen an sie zu richten.
 
-Any Member of the United Nations which is not a member of the Security Council or any state which is not a Member of the United Nations, if it is a party to a dispute under consideration by the Security Council, shall be invited to participate, without vote, in the discussion relating to the dispute. The Security Council shall lay down such conditions as it deems just for the participation of a state which is not a Member of the United Nations.
-## Chapter VI: Pacific Settlement of Disputes
-PACIFIC
-SETTLEMENT OF DISPUTES
-### Article 33
+#### Abstimmung
+- **1.** Jedes Mitglied der Generalversammlung hat eine Stimme.
+- **2.** Beschlüsse der Generalversammlung über wichtige Fragen bedürfen einer Zweidrittelmehrheit der anwesenden und abstimmenden Mitglieder. Zu diesen Fragen gehören: Empfehlungen hinsichtlich der Wahrung des Weltfriedens und der internationalen Sicherheit, die Wahl der nichtständigen Mitglieder des Sicherheitsrats, die Wahl der Mitglieder des Wirtschafts- und Sozialrats, die Wahl von Mitgliedern des Treuhandrats nach Artikel 86 Absatz 1 Buchstabe c, die Aufnahme neuer Mitglieder in die Vereinten Nationen, der zeitweilige Entzug der Rechte und Vorrechte aus der Mitgliedschaft, der Ausschluss von
 
-1. The parties to any dispute, the continuance of which is likely to endanger the maintenance of international peace and security, shall, first of all, seek a solution by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice. 2. The Security Council shall, when it deems necessary, call upon the parties to settle their dispute by such means.
-### Article 34
+Mitgliedern, Fragen betreffend die Wirkungsweise des Treuhandsystems sowie Haushaltsfragen.
 
-The Security Council may investigate any dispute, or any situation which might lead to international friction or give rise to a dispute, in order to determine whether the continuance of the dispute or situation is likely to endanger the maintenance of international peace and security.
-### Article 35
+**3.** Beschlüsse über andere Fragen, einschließlich der Bestimmung weiterer Gruppen von Fragen, über die mit Zweidrittelmehrheit zu beschließen ist, bedürfen der Mehrheit der anwesenden und abstimmenden Mitglieder.
 
-1. Any Member of the United Nations may bring any dispute, or any situation of the nature referred to in Article 34, to the attention of the Security Council or of the General Assembly. 2. A state which is not a Member of the United Nations may bring to the attention of the Security Council or of the General Assembly any dispute to which it is a party if it accepts in advance, for the purposes of the dispute, the obligations of pacific settlement provided in the present Charter. 3. The proceedings of the General Assembly in respect of matters brought to its attention under this Article will be subject to the provisions of Articles 11 and 12.
-### Article 36
+### Artikel 19
+Ein Mitglied der Vereinten Nationen, das mit der Zahlung seiner finanziellen Beiträge an die Organisation im Rückstand ist, hat in der Generalversammlung kein Stimmrecht, wenn der rückständige Betrag die Höhe der Beiträge erreicht oder übersteigt, die dieses Mitglied für die vorausgegangenen zwei vollen Jahre schuldet. Die Generalversammlung kann ihm jedoch die Ausübung des Stimmrechts gestatten, wenn nach ihrer Überzeugung der Zahlungsverzug auf Umständen beruht, die dieses Mitglied nicht zu vertreten hat.
 
-1. The Security Council may, at any stage of a dispute of the nature referred to in Article 33 or of a situation of like nature, recommend appropriate procedures or methods of adjustment. 2. The Security Council should take into consideration any procedures for the settlement of the dispute which have already been adopted by the parties. 3. In making recommendations under this Article the Security Council should also take into consideration that legal disputes should as a general rule be referred by the parties to the International Court of Justice in accordance with the provisions of the Statute of the Court.
-### Article 37
+#### Verfahren
 
-1. Should the parties to a dispute of the nature referred to in Article 33 fail to settle it by the means indicated in that Article, they shall refer it to the Security Council. 2. If the Security Council deems that the continuance of the dispute is in fact likely to endanger the maintenance of international peace and security, it shall decide whether to take action under
-### Article 36
+### Artikel 20
+Die Generalversammlung tritt zu ordentlichen Jahrestagungen und, wenn die Umstände es erfordern, zu außerordentlichen Tagungen zusammen. Außerordentliche Tagungen hat der Generalsekretär auf Antrag des Sicherheitsrats oder der Mehrheit der Mitglieder der Vereinten Nationen einzuberufen.
 
-or to recommend such terms of settlement as it may consider appropriate.
-### Article 38
+Die Generalversammlung gibt sich eine Geschäftsordnung. Sie wählt für jede Tagung ihren Präsidenten.
 
-Without prejudice to the provisions of Articles 33 to 37, the Security Council may, if all the parties to any dispute so request, make recommendations to the parties with a view to a pacific settlement of the dispute.
-## Chapter VII: Action with Respect to Threats to the Peace
-ACTION
-WITH RESPECT TO THREATS TO THE PEACE, BREACHES OF THE PEACE, AND
-ACTS OF AGGRESSION
-### Article 39
+### Artikel 22
+Die Generalversammlung kann Nebenorgane einsetzen, soweit sie dies zur Wahrnehmung ihrer Aufgaben für erforderlich hält.
 
-The Security Council shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken in accordance with Articles 41 and 42, to maintain or restore international peace and security.
-### Article 40
+## Kapitel V: Der Sicherheitsrat
+#### Zusammensetzung
+- **1.** Der Sicherheitsrat besteht aus fünfzehn Mitgliedern der Vereinten Nationen. Die Republik China, Frankreich, die Union der Sozialistischen Sowjetrepubliken, das Vereinigte Königreich Großbritannien und Nordirland sowie die Vereinigten Staaten von Amerika sind ständige Mitglieder des Sicherheitsrats. Die Generalversammlung wählt zehn weitere Mitglieder der Vereinten Nationen zu nichtständigen Mitgliedern des Sicherheitsrats; hierbei sind folgende Gesichtspunkte besonders zu berücksichtigen: in erster Linie der Beitrag von Mitgliedern der Vereinten Nationen zur Wahrung des Weltfriedens und der internationalen Sicherheit und zur Verwirklichung der sonstigen Ziele der Organisation sowie ferner eine angemessene geografische Verteilung der Sitze.
+- **2.** Die nichtständigen Mitglieder des Sicherheitsrats werden für zwei Jahre gewählt. Bei der ersten Wahl der nichtständigen Mitglieder, die nach Erhöhung der Zahl der Ratsmitglieder von elf auf fünfzehn stattfindet, werden zwei der vier zusätzlichen Mitglieder für ein Jahr gewählt. Ausscheidende Mitglieder können nicht unmittelbar wiedergewählt werden.
+- **3.** Jedes Mitglied des Sicherheitsrats hat in diesem einen Vertreter.
 
-In order to prevent an aggravation of the situation, the Security Council may, before making the recommendations or deciding upon the measures provided for in Article 39, call upon the parties concerned to comply with such provisional measures as it deems necessary or desirable. Such provisional measures shall be without prejudice to the rights, claims, or position of the parties concerned. The Security Council shall duly take account of failure to comply with such provisional measures.
-### Article 41
+#### Aufgaben und Befugnisse
+### Artikel 24
+- **1.** Um ein schnelles und wirksames Handeln der Vereinten Nationen zu gewährleisten, übertragen ihre Mitglieder dem Sicherheitsrat die Hauptverantwortung für die Wahrung des Weltfriedens und der internationalen Sicherheit und erkennen an, dass der Sicherheitsrat bei der Wahrnehmung der sich aus dieser Verantwortung ergebenden Pflichten in ihrem Namen handelt.
+- **2.** Bei der Erfüllung dieser Pflichten handelt der Sicherheitsrat im Einklang mit den Zielen und Grundsätzen der Vereinten Nationen. Die ihm hierfür eingeräumten besonderen Befugnisse sind in den Kapiteln VI, VII, VIII und XII aufgeführt.
+- **3.** Der Sicherheitsrat legt der Generalversammlung Jahresberichte und erforderlichenfalls Sonderberichte zur Prüfung vor.
 
-The Security Council may decide what measures not involving the use of armed force are to be employed to give effect to its decisions, and it may call upon the Members of the United Nations to apply such measures. These may include complete or partial interruption of economic relations and of rail, sea, air, postal, telegraphic, radio, and other means of communication, and the severance of diplomatic relations.
-### Article 42
+### Artikel 25
+Die Mitglieder der Vereinten Nationen kommen überein, die Beschlüsse des Sicherheitsrats im Einklang mit dieser Charta anzunehmen und durchzuführen.
 
-Should the Security Council consider that measures provided for in Article 41 would be inadequate or have proved to be inadequate, it may take such action by air, sea, or land forces as may be necessary to maintain or restore international peace and security. Such action may include demonstrations, blockade, and other operations by air, sea, or land forces of Members of the United Nations.
-### Article 43
+### Artikel 26
+Um die Herstellung und Wahrung des Weltfriedens und der internationalen Sicherheit so zu fördern, dass von den menschlichen und wirtschaftlichen Hilfsquellen der Welt möglichst wenig für Rüstungszwecke abgezweigt wird, ist der Sicherheitsrat beauftragt, mit Unterstützung des in Artikel 47 vorgesehenen Generalstabsausschusses Pläne auszuarbeiten, die den Mitgliedern der Vereinten Nationen zwecks Errichtung eines Systems der Rüstungsregelung vorzulegen sind.
 
-1. All Members of the United Nations, in order to contribute to the maintenance of international peace and security, undertake to make available to the Security Council, on its call and in accordance with a special agreement or agreements, armed forces, assistance, and facilities, including rights of passage, necessary for the purpose of maintaining international peace and security. 2. Such agreement or agreements shall govern the numbers and types of forces, their degree of readiness and general location, and the nature of the facilities and assistance to be provided. 3. The agreement or agreements shall be negotiated as soon as possible on the initiative of the Security Council. They shall be concluded between the Security Council and Members or between the Security Council and groups of Members and shall be subject to ratification by the signatory states in accordance with their respective constitutional processes.
-### Article 44
+#### Abstimmung
+### Artikel 27
+- **1.** Jedes Mitglied des Sicherheitsrats hat eine Stimme.
+- **2.** Beschlüsse des Sicherheitsrats über Verfahrensfragen bedürfen der Zustimmung von neun Mitgliedern.
+- **3.** Beschlüsse des Sicherheitsrats über alle sonstigen Fragen bedürfen der Zustimmung von neun Mitgliedern einschließlich sämtlicher ständigen Mitglieder, jedoch mit der Maßgabe, dass sich bei Beschlüssen aufgr- und des Kapitels VI und des Artikels 52 Absatz 3 die Streitparteien der Stimme enthalten.
 
-When the Security Council has decided to use force it shall, before calling upon a Member not represented on it to provide armed forces in fulfillment of the obligations assumed under
-### Article 43
+#### Verfahren
+### Artikel 28
+**1.** Der Sicherheitsrat wird so organisiert, dass er seine Aufgaben ständig wahrnehmen kann. Jedes seiner Mitglieder muss zu diesem Zweck jederzeit am Sitz der Organisation vertreten sein.
 
-, invite that Member, if the Member so desires, to participate in the decisions of the Security Council concerning the employment of contingents of that Member's armed forces.
-### Article 45
+- **2.** Der Sicherheitsrat tritt regelmäßig zu Sitzungen zusammen; bei diesen kann jedes seiner Mitglieder nach Wunsch durch ein Regierungsmitglied oder durch einen anderen eigens hierfür bestellten Delegierten vertreten sein.
+- **3.** Der Sicherheitsrat kann außer am Sitz der Organisation auch an anderen Orten zusammentreten, wenn dies nach seinem Urteil seiner Arbeit am dienlichsten ist.
 
-In order to enable the United Nations to take urgent military measures Members shall hold immediately available national air-force contingents for combined international enforcement action. The strength and degree of readiness of these contingents and plans for their combined action shall be determined, within the limits laid down in the special agreement or agreements referred to in Article 43, by the Security Council with the assistance of the Military Staff Committee.
-### Article 46
+Der Sicherheitsrat kann Nebenorgane einsetzen, soweit er dies zur Wahrnehmung seiner Aufgaben für erforderlich hält.
 
-Plans for the application of armed force shall be made by the Security Council with the assistance of the Military Staff Committee.
-### Article 47
+### Artikel 30
+Der Sicherheitsrat gibt sich eine Geschäftsordnung; in dieser regelt er auch das Verfahren für die Wahl seines Präsidenten.
 
-1. There shall be established a Military Staff Committee to advise and assist the Security Council on all questions relating to the Security Council's military requirements for the maintenance of international peace and security, the employment and command of forces placed at its disposal, the regulation of armaments, and possible disarmament. 2. The Military Staff Committee shall consist of the Chiefs of Staff of the permanent members of the Security Council or their representatives. Any Member of the United Nations not permanently represented on the Committee shall be invited by the Committee to be associated with it when the efficient discharge of the Committee's responsibilities requires the participation of that Member in its work. 3. The Military Staff Committee shall be responsible under the Security Council for the strategic direction of any armed forces placed at the disposal of the Security Council. Questions relating to the command of such forces shall be worked out subsequently. 4. The Military Staff Committee, with the authorization of the Security Council and after consultation with appropriate regional agencies, may establish regional subcommittees.
-### Article 48
+### Artikel 31
+Ein Mitglied der Vereinten Nationen, das nicht Mitglied des Sicherheitsrats ist, kann ohne Stimmrecht an der Erörterung jeder vor den Sicherheitsrat gebrachten Frage teilnehmen, wenn dieser der Auffassung ist, dass die Interessen dieses Mitglieds besonders betroffen sind.
 
-1. The action required to carry out the decisions of the Security Council for the maintenance of international peace and security shall be taken by all the Members of the United Nations or by some of them, as the Security Council may determine. 2. Such decisions shall be carried out by the Members of the United Nations directly and through their action in the appropriate international agencies of which they are members.
-### Article 49
+Mitglieder der Vereinten Nationen, die nicht Mitglied des Sicherheitsrats sind, sowie Nichtmitgliedstaaten der Vereinten Nationen werden eingeladen, an den Erörterungen des Sicherheitsrats über eine Streitigkeit, mit der dieser befasst ist, ohne Stimmrecht teilzunehmen, wenn sie Streitpartei sind. Für die Teilnahme eines Nichtmitgliedstaats der Vereinten Nationen setzt der Sicherheitsrat die Bedingungen fest, die er für gerecht hält.
 
-The Members of the United Nations shall join in affording mutual assistance in carrying out the measures decided upon by the Security Council.
-### Article 50
+## Kapitel VI: Die Friedliche Beilegung Von Streitigkeiten
+### Artikel 33
+- **1.** Die Parteien einer Streitigkeit, deren Fortdauer geeignet ist, die Wahrung des Weltfriedens und der internationalen Sicherheit zu gefährden, bemühen sich zunächst um eine Beilegung durch Verhandlung, Untersuchung, Vermittlung, Vergleich, Schiedsspruch, gerichtliche Entscheidung, Inanspruchnahme regionaler Einrichtungen oder Abmachungen oder durch andere friedliche Mittel eigener Wahl.
+- **2.** Der Sicherheitsrat fordert die Parteien auf, wenn er dies für notwendig hält, ihre Streitigkeit durch solche Mittel beizulegen.
 
-If preventive or enforcement measures against any state are taken by the Security Council, any other state, whether a Member of the United Nations or not, which finds itself confronted with special economic problems arising from the carrying out of those measures shall have the right to consult the Security Council with regard to a solution of those problems.
-### Article 51
+### Artikel 34
+Der Sicherheitsrat kann jede Streitigkeit sowie jede Situation, die zu internationalen Reibungen führen oder eine Streitigkeit hervorrufen könnte, untersuchen, um festzustellen, ob die Fortdauer der Streitigkeit oder der Situation die Wahrung des Weltfriedens und der internationalen Sicherheit gefährden könnte.
 
-Nothing in the present Charter shall impair the inherent right of individual or collective self-defense if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defense shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security.
-## Chapter VIII: Regional Arrangements
-REGIONAL
-ARRANGEMENTS
-### Article 52
+### Artikel 35
+**1.** Jedes Mitglied der Vereinten Nationen kann die Aufmerksamkeit des Sicherheitsrats oder der Generalversammlung
 
-1. Nothing in the present Charter precludes the existence of regional arrangements or agencies for dealing with such matters relating to the maintenance of international peace and security as are appropriate for regional action, provided that such arrangements or agencies and their activities are consistent with the Purposes and Principles of the United Nations. 2. The Members of the United Nations entering into such arrangements or constituting such agencies shall make every effort to achieve pacific settlement of local disputes through such regional arrangements or by such regional agencies before referring them to the Security Council. 3. The Security Council shall encourage the development of pacific settlement of local disputes through such regional arrangements or by such regional agencies either on the initiative of the states concerned or by reference from the Security Council. 4. This Article in no way impairs the application of Articles 34 and 35.
-### Article 53
+- auf jede Streitigkeit sowie auf jede Situation der in Artikel 34 bezeichneten Art lenken.
+- **2.** Ein Nichtmitgliedstaat der Vereinten Nationen kann die Aufmerksamkeit des Sicherheitsrats oder der Generalversammlung auf jede Streitigkeit lenken, in der er Partei ist, wenn er im Voraus hinsichtlich dieser Streitigkeit die in dieser Charta für eine friedliche Beilegung festgelegten Verpflichtungen annimmt.
+- **3.** Das Verfahren der Generalversammlung in Angelegenheiten, auf die ihre Aufmerksamkeit gemäß diesem Artikel gelenkt wird, bestimmt sich nach den Artikeln 11 und 12.
 
-1. The Security Council shall, where appropriate, utilize such regional arrangements or agencies for enforcement action under its authority. But no enforcement action shall be taken under regional arrangements or by regional agencies without the authorization of the Security Council, with the exception of measures against any enemy state, as defined in paragraph 2 of this Article, provided for pursuant to Article 107 or in regional arrangements directed against renewal of aggressive policy on the part of any such state, until such time as the Organization may, on request of the Governments concerned, be charged with the responsibility for preventing further aggression by such a state. 2. The term enemy state as used in paragraph 1 of this Article applies to any state which during the Second World War has been an enemy of any signatory of the present Charter.
-### Article 54
+- **1.** Der Sicherheitsrat kann in jedem Stadium einer Streitigkeit im Sinne des Artikels 33 oder einer Situation gleicher Art geeignete Verfahren oder Methoden für deren Bereinigung empfehlen.
+- **2.** Der Sicherheitsrat soll alle Verfahren in Betracht ziehen, welche die Parteien zur Beilegung der Streitigkeit bereits angenommen haben.
+- **3.** Bei seinen Empfehlungen aufgr- und dieses Artikels soll der Sicherheitsrat ferner berücksichtigen, dass Rechtsstreitigkeiten im Allgemeinen von den Parteien dem Internationalen Gerichtshof im Einklang mit dessen Statut zu unterbreiten sind.
 
-The Security Council shall at all times be kept fully informed of activities undertaken or in contemplation under regional arrangements or by regional agencies for the maintenance of international peace and security.
-## Chapter IX: International Economic and Social Cooperation
-INTERNATIONAL
-ECONOMIC AND SOCIAL CO-OPERATION
-### Article 55
+- **1.** Gelingt es den Parteien einer Streitigkeit der in Artikel 33 bezeichneten Art nicht, diese mit den dort angegebenen Mitteln beizulegen, so legen sie die Streitigkeit dem Sicherheitsrat vor.
+- **2.** Könnte nach Auffassung des Sicherheitsrats die Fortdauer der Streitigkeit tatsächlich die Wahrung des Weltfriedens und der internationalen Sicherheit gefährden, so beschließt er, ob er nach Artikel 36 tätig werden oder die ihm angemessen erscheinenden Empfehlungen für eine Beilegung abgeben will.
 
-With a view to the creation of conditions of stability and well-being which are necessary for peaceful and friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples, the United Nations shall promote: a. higher standards of living, full employment, and conditions of economic and social progress and development; b. solutions of international economic, social, health, and related problems; and international cultural and educational co-operation; and c. universal respect for, and observance of, human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion.
-### Article 56
+### Artikel 38
+Unbeschadet der Artikel 33 bis 37 kann der Sicherheitsrat, wenn alle Parteien einer Streitigkeit dies beantragen, Empfehlungen zu deren friedlicher Beilegung an die Streitparteien richten.
 
-All Members pledge themselves to take joint and separate action in co-operation with the Organization for the achievement of the purposes set forth in Article 55.
-### Article 57
+## Kapitel VII: Massnahmen Bei Bedrohung Oder Bruch Des Friedens Und Bei Angriffshandlungen
+### Artikel 39
+Der Sicherheitsrat stellt fest, ob eine Bedrohung oder ein Bruch des Friedens oder eine Angriffshandlung vorliegt; er gibt Empfehlungen ab oder beschließt, welche Maßnahmen aufgr- und der Artikel 41 und 42 zu treffen sind, um den Weltfrieden und die internationale Sicherheit zu wahren oder wiederherzustellen.
 
-1. The various specialized agencies, established by intergovernmental agreement and having wide international responsibilities, as defined in their basic instruments, in economic, social, cultural, educational, health, and related fields, shall be brought into relationship with the United Nations in accordance with the provisions of Article 63. 2. Such agencies thus brought into relationship with the United Nations are hereinafter referred to as specialized agencies.
-### Article 58
+### Artikel 40
+Um einer Verschärfung der Lage vorzubeugen, kann der Sicherheitsrat, bevor er nach Artikel 39 Empfehlungen abgibt oder Maßnahmen beschließt, die beteiligten Parteien auffordern, den von ihm für notwendig oder erwünscht erachteten vorläufigen Maßnahmen Folge zu leisten. Diese vorläufigen Maßnahmen lassen die Rechte, die Ansprüche und die Stellung der beteiligten Parteien unberührt. Wird den vorläufigen Maßnahmen nicht Folge geleistet, so trägt der Sicherheitsrat diesem Versagen gebührend Rechnung.
 
-The Organization shall make recommendations for the coordination of the policies and activities of the specialized agencies.
-### Article 59
+### Artikel 41
+Der Sicherheitsrat kann beschließen, welche Maßnahmen – unter Ausschluss von Waffengewalt – zu ergreifen sind, um seinen Beschlüssen Wirksamkeit zu verleihen; er kann die Mitglieder der Vereinten Nationen auffordern, diese Maßnahmen durchzuführen. Sie können die vollständige oder teilweise Unterbrechung der Wirtschaftsbeziehungen, des Eisenbahn-, See- und Luftverkehrs, der Post-, Telegrafen- und Funkverbindungen sowie sonstiger Verkehrsmöglichkeiten und den Abbruch der diplomatischen Beziehungen einschließen.
 
-The Organization shall, where appropriate, initiate negotiations among the states concerned for the creation of any new specialized agencies required for the accomplishment of the purposes set forth in Article 55.
-### Article 60
+### Artikel 42
+Ist der Sicherheitsrat der Auffassung, dass die in Artikel 41 vorgesehenen Maßnahmen unzulänglich sein würden oder sich als unzulänglich erwiesen haben, so kann er mit Luft-, See- oder Landstreitkräften die zur Wahrung oder Wiederherstellung des Weltfriedens und der internationalen Sicherheit erforderlichen Maßnahmen durchführen. Sie können Demonstrationen, Blockaden und sonstige Einsätze der Luft-, See- oder Landstreitkräfte von Mitgliedern der Vereinten Nationen einschließen.
 
-Responsibility for the discharge of the functions of the Organization set forth in this Chapter shall be vested in the General Assembly and, under the authority of the General Assembly, in the Economic and Social Council, which shall have for this purpose the powers set forth in Chapter X.
-## Chapter X: The Economic and Social Council
-### Article 61
+### Artikel 43
+**1.** Alle Mitglieder der Vereinten Nationen verpflichten sich, zur Wahrung des Weltfriedens und der internationalen Sicherheit dadurch beizutragen, dass sie nach Maßgabe eines oder mehrerer Sonderabkommen dem Sicherheitsrat auf sein Ersuchen Streitkräfte zur Verfügung stellen, Beistand leisten und Erleichterungen einschließlich des Durchmarschrechts gewähren, soweit dies zur Wahrung des Weltfriedens und der internationalen Sicherheit erforderlich ist.
 
-1. The Economic and Social Council shall consist of fifty-four Members of the United Nations elected by the General Assembly. 2. Subject to the provisions of paragraph 3, eighteen members of the Economic and Social Council shall be elected each year for a term of three years. A retiring member shall be eligible for immediate re-election. 3. At the first election after the increase in the membership of the Economic and Social Council from twenty-seven to fifty-four members, in addition to the members elected in place of the nine members whose term of office expires at the end of that year, twenty-seven additional members shall be elected. Of these twenty-seven additional members, the term of office of nine members so elected shall expire at the end of one year, and of nine other members at the end of two years, in accordance with arrangements made by the General Assembly. 4. Each member of the Economic and Social Council shall have one representative. Functions and Powers
-### Article 62
+- **2.** Diese Abkommen haben die Zahl und Art der Streitkräfte, ihren Bereitschaftsgrad, ihren allgemeinen Standort sowie die Art der Erleichterungen und des Beistands vorzusehen.
+- **3.** Die Abkommen werden auf Veranlassung des Sicherheitsrats so bald wie möglich im Verhandlungswege ausgearbeitet. Sie werden zwischen dem Sicherheitsrat einerseits und Einzelmitgliedern oder Mitgliedergruppen andererseits geschlossen und von den Unterzeichnerstaaten nach Maßgabe ihres Verfassungsrechts ratifiziert.
 
-1. The Economic and Social Council may make or initiate studies and reports with respect to international economic, social, cultural, educational, health, and related matters and may make recommendations with respect to any such matters to the General Assembly, to the Members of the United Nations, and to the specialized agencies concerned. 2. It may make recommendations for the purpose of promoting respect for, and observance of, human rights and fundamental freedoms for all. 3. It may prepare draft conventions for submission to the General Assembly, with respect to matters falling within its competence. 4. It may call, in accordance with the rules prescribed by the United Nations, international conferences on matters falling within its competence.
-### Article 63
+### Artikel 44
+Hat der Sicherheitsrat die Anwendung von Gewalt beschlossen, so lädt er ein in ihm nicht vertretenes Mitglied, bevor er es zur Stellung von Streitkräften aufgr- und der nach Artikel 43 übernommenen Verpflichtungen auffordert, auf dessen Wunsch ein, an seinen Beschlüssen über den Einsatz von Kontingenten der Streitkräfte dieses Mitglieds teilzunehmen.
 
-1. The Economic and Social Council may enter into agreements with any of the agencies referred to in Article 57, defining the terms on which the agency concerned shall be brought into relationship with the United Nations. Such agreements shall be subject to approval by the General Assembly. 2. It may coordinate the activities of the specialized agencies through consultation with and recommendations to such agencies and through recommendations to the General Assembly and to the Members of the United Nations.
-### Article 64
+### Artikel 45
+Um die Vereinten Nationen zur Durchführung dringender militärischer Maßnahmen zu befähigen, halten Mitglieder der Organisation Kontingente ihrer Luftstreitkräfte zum sofortigen Einsatz bei gemeinsamen internationalen
 
-1. The Economic and Social Council may take appropriate steps to obtain regular reports from the specialized agencies. It may make arrangements with the Members of the United Nations and with the specialized agencies to obtain reports on the steps taken to give effect to its own recommendations and to recommendations on matters falling within its competence made by the General Assembly. 2. It may communicate its observations on these reports to the General Assembly .
-### Article 65
+Zwangsmaßnahmen bereit. Stärke und Bereitschaftsgrad dieser Kontingente sowie die Pläne für ihre gemeinsamen Maßnahmen legt der Sicherheitsrat mit Unterstützung des Generalstabsausschusses im Rahmen der in Artikel 43 erwähnten Sonderabkommen fest.
 
-The Economic and Social Council may furnish information to the Security Council and shall assist the Security Council upon its request.
-### Article 66
+### Artikel 46
+Die Pläne für die Anwendung von Waffengewalt werden vom Sicherheitsrat mit Unterstützung des Generalstabsausschusses aufgestellt.
 
-1. The Economic and Social Council shall perform such functions as fall within its competence in connection with the carrying out of the recommendations of the General Assembly. 2. It may, with the approval of the General Assembly, perform services at the request of Members of the United Nations and at the request of specialized agencies. 3. It shall perform such other functions as are specified elsewhere in the present Charter or as may be assigned to it by the General Assembly.
-### Article 67
+- **1.** Es wird ein Generalstabsausschuss eingesetzt, um den Sicherheitsrat in allen Fragen zu beraten und zu unterstützen, die dessen militärische Bedürfnisse zur Wahrung des Weltfriedens und der internationalen Sicherheit, den Einsatz und die Führung der dem Sicherheitsrat zur Verfügung gestellten Streitkräfte, die Rüstungsregelung und eine etwaige Abrüstung betreffen.
+- **2.** Der Generalstabsausschuss besteht aus den Generalstabschefs der ständigen Mitglieder des Sicherheitsrats oder ihren Vertretern. Ein nicht ständig im Ausschuss vertretenes Mitglied der Vereinten Nationen wird vom Ausschuss eingeladen, sich ihm zu assoziieren, wenn die Mitarbeit dieses Mitglieds für die wirksame Durchführung der Aufgaben des Ausschusses erforderlich ist.
 
-1. Each member of the Economic and Social Council shall have one vote. 2. Decisions of the Economic and Social Council shall be made by a majority of the members present and voting. Procedure
-### Article 68
+- **3.** Der Generalstabsausschuss ist unter der Autorität des Sicherheitsrats für die strategische Leitung aller dem Sicherheitsrat zur Verfügung gestellten Streitkräfte verantwortlich. Die Fragen bezüglich der Führung dieser Streitkräfte werden später geregelt.
+- **4.** Der Generalstabsausschuss kann mit Ermächtigung des Sicherheitsrats nach Konsultation mit geeigneten regionalen Einrichtungen regionale Unterausschüsse einsetzen.
 
-The Economic and Social Council shall set up commissions in economic and social fields and for the promotion of human rights, and such other commissions as may be required for the performance of its functions.
-### Article 69
+- **1.** Die Maßnahmen, die für die Durchführung der Beschlüsse des Sicherheitsrats zur Wahrung des Weltfriedens und der internationalen Sicherheit erforderlich sind, werden je nach dem Ermessen des Sicherheitsrats von allen oder von einigen Mitgliedern der Vereinten Nationen getroffen.
+- **2.** Diese Beschlüsse werden von den Mitgliedern der Vereinten Nationen unmittelbar sowie durch Maßnahmen in den geeigneten internationalen Einrichtungen durchgeführt, deren Mitglieder sie sind.
 
-The Economic and Social Council shall invite any Member of the United Nations to participate, without vote, in its deliberations on any matter of particular concern to that Member.
-### Article 70
+### Artikel 49
+Bei der Durchführung der vom Sicherheitsrat beschlossenen Maßnahmen leisten die Mitglieder der Vereinten Nationen einander gemeinsam handelnd Beistand.
 
-The Economic and Social Council may make arrangements for representatives of the specialized agencies to participate, without vote, in its deliberations and in those of the commissions established by it, and for its representatives to participate in the deliberations of the specialized agencies.
-### Article 71
+Ergreift der Sicherheitsrat gegen einen Staat Vorbeugungs- oder Zwangsmaßnahmen, so kann jeder andere Staat, ob Mitglied der Vereinten Nationen oder nicht, den die Durchführung dieser Maßnahmen vor besondere wirtschaftliche Probleme stellt, den Sicherheitsrat zwecks Lösung dieser Probleme konsultieren.
 
-The Economic and Social Council may make suitable arrangements for consultation with non-governmental organizations which are concerned with matters within its competence. Such arrangements may be made with international organizations and, where appropriate, with national organizations after consultation with the Member of the United Nations concerned.
-### Article 72
+### Artikel 51
+Diese Charta beeinträchtigt im Falle eines bewaffneten Angriffs gegen ein Mitglied der Vereinten Nationen keineswegs das naturgegebene Recht zur individuellen oder kollektiven Selbstverteidigung, bis der Sicherheitsrat die zur Wahrung des Weltfriedens und der internationalen Sicherheit erforderlichen Maßnahmen getroffen hat. Maßnahmen, die ein Mitglied in Ausübung dieses Selbstverteidigungsrechts trifft, sind dem Sicherheitsrat sofort anzuzeigen; sie berühren in keiner Weise dessen auf dieser Charta beruhende Befugnis und Pflicht, jederzeit die Maßnahmen zu treffen, die er zur Wahrung oder Wiederherstellung des Weltfriedens und der internationalen Sicherheit für erforderlich hält.
 
-1. The Economic and Social Council shall adopt its own rules of procedure, including the method of selecting its President. 2. The Economic and Social Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members.
-## Chapter XI: Declaration Regarding Non-Self-Governing Territories
-DECLARATION
-REGARDING NON-SELF-GOVERNING TERRITORIES
-### Article 73
+## Kapitel VIII: Regionale Abmachungen
+- **1.** Diese Charta schließt das Bestehen regionaler Abmachungen oder Einrichtungen zur Behandlung derjenigen die Wahrung des Weltfriedens und der internationalen Sicherheit betreffenden Angelegenheiten nicht aus, bei denen Maßnahmen regionaler Art angebracht sind; Voraussetzung hierfür ist, dass diese Abmachungen oder Einrichtungen und ihr Wirken mit den Zielen und Grundsätzen der Vereinten Nationen vereinbar sind.
+- **2.** Mitglieder der Vereinten Nationen, die solche Abmachungen treffen oder solche Einrichtungen schaffen, werden sich nach besten Kräften bemühen, durch Inanspruchnahme dieser Abmachungen oder Einrichtungen örtlich begrenzte Streitigkeiten friedlich beizulegen, bevor sie den Sicherheitsrat damit befassen.
+- **3.** Der Sicherheitsrat wird die Entwicklung des Verfahrens fördern, örtlich begrenzte Streitigkeiten durch Inanspruchnahme dieser regionalen Abmachungen oder Einrichtungen friedlich beizulegen, sei es auf Veranlassung der beteiligten Staaten oder aufgr- und von Überweisungen durch ihn selbst.
+- **4.** Die Anwendung der Artikel 34 und 35 wird durch diesen Artikel nicht beeinträchtigt.
 
-Members of the United Nations which have or assume responsibilities for the administration of territories whose peoples have not yet attained a full measure of self-government recognize the principle that the interests of the inhabitants of these territories are paramount, and accept as a sacred trust the obligation to promote to the utmost, within the system of international peace and security established by the present Charter, the well-being of the inhabitants of these territories, and, to this end: a. to ensure, with due respect for the culture of the peoples concerned, their political, economic, social, and educational advancement, their just treatment, and their protection against abuses; b. to develop self-government, to take due account of the political aspirations of the peoples, and to assist them in the progressive development of their free political institutions, according to the particular circumstances of each territory and its peoples and their varying stages of advancement; c. to further international peace and security; d. to promote constructive measures of development, to encourage research, and to co-operate with one another and, when and where appropriate, with specialized international bodies with a view to the practical achievement of the social, economic, and scientific purposes set forth in this Article; and e. to transmit regularly to the Secretary-General for information purposes, subject to such limitation as security and constitutional considerations may require, statistical and other information of a technical nature relating to economic, social, and educational conditions in the territories for which they are respectively responsible other than those territories to which Chapter XII and XIII apply.
-### Article 74
+- **1.** Der Sicherheitsrat nimmt gegebenenfalls diese regionalen Abmachungen oder Einrichtungen zur Durchführung von Zwangsmaßnahmen unter seiner Autorität in Anspruch. Ohne Ermächtigung des Sicherheitsrats dürfen Zwangsmaßnahmen aufgr- und regionaler Abmachungen oder seitens regionaler Einrichtungen nicht ergriffen werden; ausgenommen sind Maßnahmen gegen einen Feindstaat im Sinne des Absatzes 2, soweit sie in Artikel 107 oder in regionalen, gegen die Wiederaufnahme der Angriffspolitik eines solchen Staates gerichteten Abmachungen vorgesehen sind; die Ausnahme gilt, bis der Organisation auf Ersuchen der beteiligten Regierungen die Aufgabe zugewiesen wird, neue Angriffe eines solchen Staates zu verhüten.
+- **2.** Der Ausdruck "Feindstaat" in Absatz 1 bezeichnet jeden Staat, der während des Zweiten Weltkriegs Feind eines Unterzeichners dieser Charta war.
 
-Members of the United Nations also agree that their policy in respect of the territories to which this Chapter applies, no less than in respect of their metropolitan areas, must be based on the general principle of good-neighborliness, due account being taken of the interests and well-being of the rest of the world, in social, economic, and commercial matters.
-## Chapter XII: International Trusteeship System
-INTERNATIONAL
-TRUSTEESHIP SYSTEM
-### Article 75
+### Artikel 54
+Der Sicherheitsrat ist jederzeit vollständig über die Maßnahmen auf dem Laufenden zu halten, die zur Wahrung des Weltfriedens und der internationalen Sicherheit aufgr- und regionaler Abmachungen oder seitens regionaler Einrichtungen getroffen oder in Aussicht genommen werden.
 
-The United Nations shall establish under its authority an international trusteeship system for the administration and supervision of such territories as may be placed thereunder by subsequent individual agreements. These territories are hereinafter referred to as trust territories.
-### Article 76
+## Kapitel IX: Internationale Zusammenarbeit Auf Wirtschaftlichem Und Sozialem Gebiet
+### Artikel 55
+Um jenen Zustand der Stabilität und Wohlfahrt herbeizuführen, der erforderlich ist, damit zwischen den Nationen friedliche und freundschaftliche, auf der Achtung vor dem Grundsatz der Gleichberechtigung und Selbstbestimmung der Völker beruhende Beziehungen herrschen, fördern die Vereinten Nationen
 
-The basic objectives of the trusteeship system, in accordance with the Purposes of the United Nations laid down in Article 1 of the present Charter, shall be: a. to further international peace and security; b. to promote the political, economic, social, and educational advancement of the inhabitants of the trust territories, and their progressive development towards self-government or independence as may be appropriate to the particular circumstances of each territory and its peoples and the freely expressed wishes of the peoples concerned, and as may be provided by the terms of each trusteeship agreement; c. to encourage respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion, and to encourage recognition of the interdependence of the peoples of the world; and d. to ensure equal treatment in social, economic, and commercial matters for all Members of the United Nations and their nationals and also equal treatment for the latter in the administration of justice without prejudice to the attainment of the foregoing objectives and subject to the provisions of Article 80.
-### Article 77
+- a) die Verbesserung des Lebensstandards, die Vollbeschäftigung und die Voraussetzungen für wirtschaftlichen und sozialen Fortschritt und Aufstieg;
+- b) die Lösung internationaler Probleme wirtschaftlicher, sozialer, gesundheitlicher und verwandter Art sowie die internationale Zusammenarbeit auf den Gebieten der Kultur und der Erziehung;
+- c) die allgemeine Achtung und Verwirklichung der Menschenrechte und Grundfreiheiten für alle ohne Unterschied der Rasse, des Geschlechts, der Sprache oder der Religion.
 
-1. The trusteeship system shall apply to such territories in the following categories as may be placed thereunder by means of trusteeship agreements: a. territories now held under mandate; b. territories which may be detached from enemy states as a result of the Second World War; and c. territories voluntarily placed under the system by states responsible for their administration. 2. It will be a matter for subsequent agreement as to which territories in the foregoing categories will be brought under the trusteeship system and upon what terms.
-### Article 78
+### Artikel 56
+Alle Mitgliedstaaten verpflichten sich, gemeinsam und jeder für sich mit der Organisation zusammenzuarbeiten, um die in Artikel 55 dargelegten Ziele zu erreichen.
 
-The trusteeship system shall not apply to territories which have become Members of the United Nations, relationship among which shall be based on respect for the principle of sovereign equality.
-### Article 79
+- **1.** Die verschiedenen durch zwischenstaatliche Übereinkünfte errichteten Sonderorganisationen, die auf den Gebieten der Wirtschaft, des Sozialwesens, der Kultur, der Erziehung, der Gesundheit und auf verwandten Gebieten weitreichende, in ihren maßgebenden Urkunden umschriebene internationale Aufgaben zu erfüllen haben, werden gemäß Artikel 63 mit den Vereinten Nationen in Beziehung gebracht.
+- **2.** Diese mit den Vereinten Nationen in Beziehung gebrachten Organisationen sind im Folgenden als "Sonderorganisationen" bezeichnet.
 
-The terms of trusteeship for each territory to be placed under the trusteeship system, including any alteration or amendment, shall be agreed upon by the states directly concerned, including the mandatory power in the case of territories held under mandate by a Member of the United Nations, and shall be approved as provided for in Articles 83 and 85.
-### Article 80
+### Artikel 58
+Die Organisation gibt Empfehlungen ab, um die Bestrebungen und Tätigkeiten dieser Sonderorganisationen zu koordinieren.
 
-1. Except as may be agreed upon in individual trusteeship agreements, made under Articles 77, 79, and 81, placing each territory under the trusteeship system, and until such agreements have been concluded, nothing in this Chapter shall be construed in or of itself to alter in any manner the rights whatsoever of any states or any peoples or the terms of existing international instruments to which Members of the United Nations may respectively be parties. 2. Paragraph 1 of this Article shall not be interpreted as giving grounds for delay or postponement of the negotiation and conclusion of agreements for placing mandated and other territories under the trusteeship system as provided for in Article 77.
-### Article 81
+### Artikel 59
+Die Organisation veranlasst gegebenenfalls zwischen den in Betracht kommenden Staaten Verhandlungen zur Errichtung neuer Sonderorganisationen, soweit solche zur Verwirklichung der in Artikel 55 dargelegten Ziele erforderlich sind.
 
-The trusteeship agreement shall in each case include the terms under which the trust territory will be administered and designate the authority which will exercise the administration of the trust territory. Such authority, hereinafter called the administering authority, may be one or more states or the Organization itself.
-### Article 82
+Für die Wahrnehmung der in diesem Kapitel genannten Aufgaben der Organisation sind die Generalversammlung und unter ihrer Autorität der Wirtschafts- und Sozialrat verantwortlich; dieser besitzt zu diesem Zweck die ihm in Kapitel X zugewiesenen Befugnisse.
 
-There may be designated, in any trusteeship agreement, a strategic area or areas which may include part or all of the trust territory to which the agreement applies, without prejudice to any special agreement or agreements made under Article 43.
-### Article 83
+## Kapitel X: Der Wirtschafts- Und Sozialrat
+#### Zusammensetzung
+- **1.** Der Wirtschafts- und Sozialrat besteht aus vierundfünfzig von der Generalversammlung gewählten Mitgliedern der Vereinten Nationen.
+- **2.** Vorbehaltlich des Absatzes 3 werden alljährlich achtzehn Mitglieder des Wirtschafts- und Sozialrats für drei Jahre gewählt. Ein ausscheidendes Mitglied kann unmittelbar wiedergewählt werden.
+- **3.** Bei der ersten Wahl, die nach Erhöhung der Zahl der Ratsmitglieder von siebenundzwanzig auf vierundfünfzig stattfindet, werden zusätzlich zu den Mitgliedern, die anstelle der neun Mitglieder gewählt werden, deren Amtszeit mit dem betreffenden Jahr endet, siebenundzwanzig weitere Mitglieder des Wirtschafts- und Sozialrats gewählt. Die Amtszeit von neun dieser siebenundzwanzig zusätzlichen Mitglieder endet nach einem Jahr, diejenige von neun weiteren Mitgliedern nach zwei Jahren; das Nähere regelt die Generalversammlung.
+- **4.** Jedes Mitglied des Wirtschafts- und Sozialrats hat in diesem einen Vertreter.
 
-1. All functions of the United Nations relating to strategic areas, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the Security Council. 2. The basic objectives set forth in Article 76 shall be applicable to the people of each strategic area. 3. The Security Council shall, subject to the provisions of the trusteeship agreements and without prejudice to security considerations, avail itself of the assistance of the Trusteeship Council to perform those functions of the United Nations under the trusteeship system relating to political. economic, social, and educational matters in the strategic areas.
-### Article 84
+#### Aufgaben und Befugnisse
+### Artikel 62
+- **1.** Der Wirtschafts- und Sozialrat kann über internationale Angelegenheiten auf den Gebieten der Wirtschaft, des Sozialwesens, der Kultur, der Erziehung, der Gesundheit und auf verwandten Gebieten Untersuchungen durchführen oder bewirken sowie Berichte abfassen oder veranlassen; er kann zu jeder derartigen Angelegenheit an die Generalversammlung, die Mitglieder der Vereinten Nationen und die in Betracht kommenden Sonderorganisationen Empfehlungen richten.
+- **2.** Er kann Empfehlungen abgeben, um die Achtung und Verwirklichung der Menschenrechte und Grundfreiheiten für alle zu fördern.
+- **3.** Er kann über Angelegenheiten, für die er zuständig ist, Übereinkommen entwerfen und der Generalversammlung vorlegen.
+- **4.** Er kann nach den von den Vereinten Nationen festgesetzten Regeln internationale Konferenzen über Angelegenheiten einberufen, für die er zuständig ist.
 
-It shall be the duty of the administering authority to ensure that the trust territory shall play its part in the maintenance of international peace and security. To this end the administering authority may make use of volunteer forces, facilities, and assistance from the trust territory in carrying out the obligations towards the Security Council undertaken in this regard by the administering authority, as well as for local defense and the maintenance of law and order within the trust territory.
-### Article 85
+### Artikel 63
+**1.** Der Wirtschafts- und Sozialrat kann mit jeder der in Artikel 57 bezeichneten Organisationen Abkommen schließen, in denen die Beziehungen der betreffenden Organisation zu den Vereinten Nationen geregelt werden. Diese Abkommen bedürfen der Genehmigung durch die Generalversammlung.
 
-1. The functions of the United Nations with regard to trusteeship agreements for all areas not designated as strategic, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the General Assembly. 2. The Trusteeship Council, operating under the authority of the General Assembly, shall assist the General Assembly in carrying out these functions.
-## Chapter XIII: The Trusteeship Council
-### Article 86
+**2.** Er kann die Tätigkeit der Sonderorganisationen koordinieren, indem er Konsultationen mit ihnen führt und an sie, an die Generalversammlung und die Mitglieder der Vereinten Nationen Empfehlungen richtet.
 
-1. The Trusteeship Council shall consist of the following Members of the United Nations: a. those Members administering trust territories; b. such of those Members mentioned by name in Article 23 as are not administering trust territories; and c. as many other Members elected for three-year terms by the General Assembly as may be necessary to ensure that the total number of members of the Trusteeship Council is equally divided between those Members of the United Nations which administer trust territories and those which do not. 2. Each member of the Trusteeship Council shall designate one specially qualified person to represent it therein. Functions and Powers
-### Article 87
+### Artikel 64
+- **1.** Der Wirtschafts- und Sozialrat kann geeignete Schritte unternehmen, um von den Sonderorganisationen regelmäßig Berichte zu erhalten. Er kann mit den Mitgliedern der Vereinten Nationen und mit den Sonderorganisationen Abmachungen treffen, um Berichte über die Maßnahmen zu erhalten, die zur Durchführung seiner Empfehlungen und der Empfehlungen der Generalversammlung über Angelegenheiten getroffen werden, für die er zuständig ist.
+- **2.** Er kann der Generalversammlung seine Bemerkungen zu diesen Berichten mitteilen.
 
-The General Assembly and, under its authority, the Trusteeship Council, in carrying out their functions, may: a. consider reports submitted by the administering authority; b. accept petitions and examine them in consultation with the administering authority; c. provide for periodic visits to the respective trust territories at times agreed upon with the administering authority; and d. take these and other actions in conformity with the terms of the trusteeship agreements.
-### Article 88
+### Artikel 65
+Der Wirtschafts- und Sozialrat kann dem Sicherheitsrat Auskünfte erteilen und ihn auf dessen Ersuchen unterstützen.
 
-The Trusteeship Council shall formulate a questionnaire on the political, economic, social, and educational advancement of the inhabitants of each trust territory, and the administering authority for each trust territory within the competence of the General Assembly shall make an annual report to the General Assembly upon the basis of such questionnaire. Voting
-### Article 89
+- **1.** Der Wirtschafts- und Sozialrat nimmt alle Aufgaben wahr, für die er im Zusammenhang mit der Durchführung von Empfehlungen der Generalversammlung zuständig ist.
+- **2.** Er kann mit Genehmigung der Generalversammlung alle Dienste leisten, um die ihn Mitglieder der Vereinten Nationen oder Sonderorganisationen ersuchen.
+- **3.** Er nimmt alle sonstigen Aufgaben wahr, die ihm in dieser Charta oder durch die Generalversammlung zugewiesen werden.
 
-1. Each member of the Trusteeship Council shall have one vote. 2. Decisions of the Trusteeship Council shall be made by a majority of the members present and voting. Procedure
-### Article 90
+#### Abstimmung
+### Artikel 67
+- **1.** Jedes Mitglied des Wirtschafts- und Sozialrats hat eine Stimme.
+- **2.** Beschlüsse des Wirtschafts- und Sozialrats bedürfen der Mehrheit der anwesenden und abstimmenden Mitglieder.
 
-1. The Trusteeship Council shall adopt its own rules of procedure, including the method of selecting its President. 2. The Trusteeship Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members.
-### Article 91
+#### Verfahren
+### Artikel 68
+Der Wirtschafts- und Sozialrat setzt Kommissionen für wirtschaftliche und soziale Fragen und für die Förderung der Menschenrechte sowie alle sonstigen zur Wahrnehmung seiner Aufgaben erforderlichen Kommissionen ein.
 
-The Trusteeship Council shall, when appropriate, avail itself of the assistance of the Economic and Social Council and of the specialized agencies in regard to matters with which they are respectively concerned.
-## Chapter XIV: The International Court of Justice
-### Article 92
+Behandelt der Wirtschafts- und Sozialrat eine Angelegenheit, die für ein Mitglied der Vereinten Nationen von besonderem Belang ist, so lädt er es ein, ohne Stimmrecht an seinen Beratungen teilzunehmen.
 
-The International Court of Justice shall be the principal judicial organ of the United Nations. It shall function in accordance with the annexed Statute which is based upon the Statute of the Permanent Court of International Justice and forms an integral part of the present Charter.
-### Article 93
+### Artikel 70
+Der Wirtschafts- und Sozialrat kann Abmachungen dahingehend treffen, dass Vertreter der Sonderorganisationen ohne Stimmrecht an seinen Beratungen und an den Beratungen der von ihm eingesetzten Kommissionen teilnehmen und dass seine eigenen Vertreter an den Beratungen der Sonderorganisationen teilnehmen.
 
-1. All Members of the United Nations are ipso facto parties to the Statute of the International Court of Justice. 2. A state which is not a Member of the United Nations may become a party to the Statute of the International Court of Justice on conditions to be determined in each case by the General Assembly upon the recommendation of the Security Council.
-### Article 94
+### Artikel 71
+Der Wirtschafts- und Sozialrat kann geeignete Abmachungen zwecks Konsultation mit nichtstaatlichen Organisationen treffen, die sich mit Angelegenheiten seiner Zuständigkeit befassen. Solche Abmachungen können mit internationalen Organisationen und, soweit angebracht, nach Konsultation des betreffenden Mitglieds der Vereinten Nationen auch mit nationalen Organisationen getroffen werden.
 
-1. Each Member of the United Nations undertakes to comply with the decision of the International Court of Justice in any case to which it is a party. 2. If any party to a case fails to perform the obligations incumbent upon it under a judgment rendered by the Court, the other party may have recourse to the Security Council, which may, if it deems necessary, make recommendations or decide upon measures to be taken to give effect to the judgment.
-### Article 95
+- **1.** Der Wirtschafts- und Sozialrat gibt sich eine Geschäftsordnung; in dieser regelt er auch das Verfahren für die Wahl seines Präsidenten.
+- **2.** Der Wirtschafts- und Sozialrat tritt nach Bedarf gemäß seiner Geschäftsordnung zusammen; in dieser ist auch die Einberufung von Sitzungen auf Antrag der Mehrheit seiner Mitglieder vorzusehen.
 
-Nothing in the present Charter shall prevent Members of the United Nations from entrusting the solution of their differences to other tribunals by virtue of agreements already in existence or which may be concluded in the future.
-### Article 96
+## Kapitel XI: Erklärung Über Hoheitsgebiete
+**OHNE SELBSTREGIERUNG**
 
-1. The General Assembly or the Security Council may request the International Court of Justice to give an advisory opinion on any legal question. 2. Other organs of the United Nations and specialized agencies, which may at any time be so authorized by the General Assembly, may also request advisory opinions of the Court on legal questions arising within the scope of their activities.
-## Chapter XV: The Secretariat
-THE SECRETARIAT
-### Article 97
+### Artikel 73
+Mitglieder der Vereinten Nationen, welche die Verantwortung für die Verwaltung von Hoheitsgebieten haben oder übernehmen, deren Völker noch nicht die volle Selbstregierung erreicht haben, bekennen sich zu dem Grundsatz, dass die Interessen der Einwohner dieser Hoheitsgebiete Vorrang haben; sie übernehmen als heiligen Auftrag die Verpflichtung, im Rahmen des durch diese Charta errichteten Systems des Weltfriedens und der internationalen Sicherheit das Wohl dieser Einwohner aufs Äußerste zu fördern; zu diesem Zweck verpflichten sie sich,
 
-The Secretariat shall comprise a Secretary-General and such staff as the Organization may require. The Secretary-General shall be appointed by the General Assembly upon the recommendation of the Security Council. He shall be the chief administrative officer of the Organization.
-### Article 98
+- a) den politischen, wirtschaftlichen, sozialen und erzieherischen Fortschritt, die gerechte Behandlung und den Schutz dieser Völker gegen Missbräuche unter gebührender Achtung vor ihrer Kultur zu gewährleisten;
+- b) die Selbstregierung zu entwickeln, die politischen Bestrebungen dieser Völker gebührend zu berücksichtigen und sie bei der fortschreitenden Entwicklung ihrer freien politischen Einrichtungen zu unterstützen, und zwar je nach den besonderen Verhältnissen jedes Hoheitsgebiets, seiner Bevölkerung und deren jeweiliger Entwicklungsstufe;
 
-The Secretary-General shall act in that capacity in all meetings of the General Assembly, of the Security Council, of the Economic and Social Council, and of the Trusteeship Council, and shall perform such other functions as are entrusted to him by these organs. The Secretary-General shall make an annual report to the General Assembly on the work of the Organization.
-### Article 99
+- c) den Weltfrieden und die internationale Sicherheit zu festigen;
+- d) Aufbau- und Entwicklungsmaßnahmen zu fördern, die Forschungstätigkeit zu unterstützen sowie miteinander und gegebenenfalls mit internationalen Fachorganisationen zusammenzuarbeiten, um die in diesem Artikel dargelegten sozialen, wirtschaftlichen und wissenschaftlichen Ziele zu verwirklichen;
+- e) dem Generalsekretär mit der durch die Rücksichtnahme auf Sicherheit und Verfassung gebotenen Einschränkung zu seiner Unterrichtung regelmäßig statistische und sonstige Informationen technischer Art über das Wirtschafts-, Sozial- und Erziehungswesen in den nicht unter die Kapitel XII und XIII fallenden Hoheitsgebieten zu übermitteln, für die sie verantwortlich sind.
 
-The Secretary-General may bring to the attention of the Security Council any matter which in his opinion may threaten the maintenance of international peace and security.
-### Article 100
+Die Mitglieder der Vereinten Nationen sind sich ferner darin einig, dass die Politik, die sie für die unter dieses Kapitel fallenden Hoheitsgebiete verfolgen, nicht minder auf dem allgemeinen Grundsatz der guten Nachbarschaft in sozialen, wirtschaftlichen und Handelsangelegenheiten beruhen muss als die Politik, die sie für ihr Mutterland verfolgen; hierbei sind die Interessen und das Wohl der übrigen Welt gebührend zu berücksichtigen.
 
-1. In the performance of their duties the Secretary-General and the staff shall not seek or receive instructions from any government or from any other authority external to the Organization. They shall refrain from any action which might reflect on their position as international officials responsible only to the Organization. 2. Each Member of the United Nations undertakes to respect the exclusively international character of the responsibilities of the Secretary-General and the staff and not to seek to influence them in the discharge of their responsibilities.
-### Article 101
+## Kapitel XII: Das Internationale Treuhandsystem
+### Artikel 75
+Die Vereinten Nationen errichten unter ihrer Autorität ein internationales Treuhandsystem für die Verwaltung und Beaufsichtigung der Hoheitsgebiete, die aufgr- und späterer Einzelabkommen in dieses System einbezogen werden. Diese Hoheitsgebiete werden im Folgenden als Treuhandgebiete bezeichnet.
 
-1. The staff shall be appointed by the Secretary-General under regulations established by the General Assembly. 2. Appropriate staffs shall be permanently assigned to the Economic and Social Council, the Trusteeship Council, and, as required, to other organs of the United Nations. These staffs shall form a part of the Secretariat. 3. The paramount consideration in the employment of the staff and in the determination of the conditions of service shall be the necessity of securing the highest standards of efficiency, competence, and integrity. Due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible.
-## Chapter XVI: Miscellaneous Provisions
-MISCELLANEOUS
-PROVISIONS
-### Article 102
+### Artikel 76
+Im Einklang mit den in Artikel 1 dieser Charta dargelegten Zielen der Vereinten Nationen dient das Treuhandsystem hauptsächlich folgenden Zwecken:
 
-1. Every treaty and every international agreement entered into by any Member of the United Nations after the present Charter comes into force shall as soon as possible be registered with the Secretariat and published by it. 2. No party to any such treaty or international agreement which has not been registered in accordance with the provisions of paragraph I of this Article may invoke that treaty or agreement before any organ of the United Nations.
-### Article 103
+- a) den Weltfrieden und die internationale Sicherheit zu festigen;
+- b) den politischen, wirtschaftlichen, sozialen und erzieherischen Fortschritt der Einwohner der Treuhandgebiete und ihre fortschreitende Entwicklung zur Selbstregierung oder Unabhängigkeit so zu fördern, wie es den besonderen Verhältnissen eines jeden dieser Hoheitsgebiete und seiner Bevölkerung sowie deren frei geäußerten Wünschen entspricht und in dem diesbezüglichen Treuhandabkommen vorgesehen ist;
+- c) die Achtung vor den Menschenrechten und Grundfreiheiten für alle ohne Unterschied der Rasse, des Geschlechts, der Sprache oder der Religion zu fördern und das Bewusstsein der gegenseitigen Abhängigkeit der Völker der Welt zu stärken;
 
-In the event of a conflict between the obligations of the Members of the United Nations under the present Charter and their obligations under any other international agreement, their obligations under the present Charter shall prevail.
-### Article 104
+d) die Gleichbehandlung aller Mitglieder der Vereinten Nationen und ihrer Staatsangehörigen in sozialen, wirtschaftlichen und Handelsangelegenheiten sowie die Gleichbehandlung dieser Staatsangehörigen in der Rechtspflege sicherzustellen, ohne jedoch die Verwirklichung der vorgenannten Zwecke zu beeinträchtigen; Artikel 80 bleibt unberührt.
 
-The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessary for the exercise of its functions and the fulfillment of its purposes.
-### Article 105
+- **1.** Das Treuhandsystem findet auf die zu den folgenden Gruppen gehörenden Hoheitsgebiete Anwendung, soweit sie aufgr- und von Treuhandabkommen in dieses System einbezogen werden:
+- a) gegenwärtig bestehende Mandatsgebiete;
+- b) Hoheitsgebiete, die infolge des Zweiten Weltkriegs von Feindstaaten abgetrennt werden;
+- c) Hoheitsgebiete, die von den für ihre Verwaltung verantwortlichen Staaten freiwillig in das System einbezogen werden.
+- **2.** Die Feststellung, welche Hoheitsgebiete aus den genannten Gruppen in das Treuhandsystem einbezogen werden und welche Bestimmungen hierfür gelten, bleibt einer späteren Übereinkunft vorbehalten.
 
-1. The Organization shall enjoy in the territory of each of its Members such privileges and immunities as are necessary for the fulfillment of its purposes. 2. Representatives of the Members of the United Nations and officials of the Organization shall similarly enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Organization. 3. The General Assembly may make recommendations with a view to determining the details of the application of paragraphs 1 and 2 of this Article or may propose conventions to the Members of the United Nations for this purpose.
-## Chapter XVII: Transitional Security Arrangements
-TRANSITIONAL
-SECURITY ARRANGEMENTS
-### Article 106
+Das Treuhandsystem findet keine Anwendung auf Hoheitsgebiete, die Mitglied der Vereinten Nationen geworden sind; die Beziehungen zwischen Mitgliedern beruhen auf der Achtung des Grundsatzes der souveränen Gleichheit.
 
-Pending the coming into force of such special agreements referred to in Article 43 as in the opinion of the Security Council enable it to begin the exercise of its responsibilities under Article 42, the parties to the Four-Nation Declaration, signed at Moscow October 30, 1943, and France, shall, in accordance with the provisions of paragraph 5 of that Declaration, consult with one another and as occasion requires with other Members of the United Nations with a view to such joint action on behalf of the Organization as may be necessary for the purpose of maintaining international peace and security.
-### Article 107
+### Artikel 79
+Für jedes in das Treuhandsystem einzubeziehende Hoheitsgebiet werden die Treuhandbestimmungen einschließlich aller ihrer Änderungen und Ergänzungen von den unmittelbar beteiligten Staaten, zu denen bei Mandatsgebieten eines Mitglieds der Vereinten Nationen auch die Mandatsmacht zählt, in Form eines Abkommens vereinbart; sie bedürfen der Genehmigung nach den Artikeln 83 und 85.
 
-Nothing in the present Charter shall invalidate or preclude action, in relation to any state which during the Second World War has been an enemy of any signatory to the present Charter, taken or authorized as a result of that war by the Governments having responsibility for such action.
-## Chapter XVIII: Amendments
-AMENDMENTS
-### Article 108
+### Artikel 80
+**1.** Soweit in einzelnen, aufgr- und der Artikel 77, 79 und 81 geschlossenen Treuhandabkommen zur Einbeziehung eines Treuhandgebiets in das Treuhandsystem nichts anderes vereinbart wird und solange derartige Abkommen noch nicht geschlossen sind, ist dieses Kapitel nicht so auszulegen, als ändere es unmittelbar oder mittelbar die Rechte von Staaten oder Völkern oder in Kraft befindliche internationale Übereinkünfte, deren Vertragsparteien Mitglieder der Vereinten Nationen sind.
 
-Amendments to the present Charter shall come into force for all Members of the United Nations when they have been adopted by a vote of two thirds of the members of the General Assembly and ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations, including all the permanent members of the Security Council.
-### Article 109
+**2.** Aus Absatz 1 kann keine Rechtfertigung dafür abgeleitet werden, Verhandlungen über Abkommen zu der in Artikel 77 vorgesehenen Einbeziehung von Mandatsgebieten und sonstigen Hoheitsgebieten in das Treuhandsystem oder den Abschluss solcher Abkommen zu verzögern oder aufzuschieben.
 
-1. A General Conference of the Members of the United Nations for the purpose of reviewing the present Charter may be held at a date and place to be fixed by a two-thirds vote of the members of the General Assembly and by a vote of any nine members of the Security Council. Each Member of the United Nations shall have one vote in the conference. 2. Any alteration of the present Charter recommended by a two-thirds vote of the conference shall take effect when ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations including all the permanent members of the Security Council. 3. If such a conference has not been held before the tenth annual session of the General Assembly following the coming into force of the present Charter, the proposal to call such a conference shall be placed on the agenda of that session of the General Assembly, and the conference shall be held if so decided by a majority vote of the members of the General Assembly and by a vote of any seven members of the Security Council.
-## Chapter XIX: Ratification and Signature
-RATIFICATION
-AND SIGNATURE
-### Article 110
+### Artikel 81
+Jedes Treuhandabkommen enthält die Bestimmungen, nach denen das Treuhandgebiet zu verwalten ist, und bezeichnet die verwaltende Obrigkeit. Diese, im Folgenden als "Verwaltungsmacht" bezeichnet, kann ein Staat oder eine Staatengruppe oder die Organisation selbst sein.
 
-1. The present Charter shall be ratified by the signatory states in accordance with their respective constitutional processes. 2. The ratifications shall be deposited with the Government of the United States of America, which shall notify all the signatory states of each deposit as well as the Secretary-General of the Organization when he has been appointed. 3. The present Charter shall come into force upon the deposit of ratifications by the Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and by a majority of the other signatory states. A protocol of the ratifications deposited shall thereupon be drawn up by the Government of the United States of America which shall communicate copies thereof to all the signatory states. 4. The states signatory to the present Charter which ratify it after it has come into force will become original Members of the United Nations on the date of the deposit of their respective ratifications.
-### Article 111
+### Artikel 82
+Jedes Treuhandabkommen kann eine oder mehrere strategische Zonen bezeichnen, die das ganze Treuhandgebiet, für welches das Abkommen gilt, oder einen Teil davon umfassen; Sonderabkommen nach Artikel 43 bleiben unberührt.
 
-The present Charter, of which the Chinese, French, Russian, English, and Spanish texts are equally authentic, shall remain deposited in the archives of the Government of the United States of America. Duly certified copies thereof shall be transmitted by that Government to the Governments of the other signatory
+### Artikel 83
+**1.** Alle Aufgaben der Vereinten Nationen in Bezug auf strategische Zonen, einschließlich der Genehmigung der Treuhandabkommen sowie ihrer Änderungen und Ergänzungen, nimmt der Sicherheitsrat wahr.
+
+- **2.** Die in Artikel 76 dargelegten Hauptzwecke gelten auch für die Bevölkerung jeder strategischen Zone.
+- **3.** Unter Beachtung der Treuhandabkommen nimmt der Sicherheitsrat vorbehaltlich der Sicherheitserfordernisse die Unterstützung des Treuhandrats in Anspruch, um im Rahmen des Treuhandsystems diejenigen Aufgaben der Vereinten Nationen wahrzunehmen, die politische, wirtschaftliche, soziale und erzieherische Angelegenheiten in den strategischen Zonen betreffen.
+
+Die Verwaltungsmacht hat die Pflicht, dafür zu sorgen, dass das Treuhandgebiet seinen Beitrag zur Wahrung des Weltfriedens und der internationalen Sicherheit leistet. Zu diesem Zweck kann sie freiwillige Streitkräfte, Erleichterungen und Beistand von dem Treuhandgebiet in Anspruch nehmen, um die Verpflichtungen zu erfüllen, die sie in dieser Hinsicht gegenüber dem Sicherheitsrat übernommen hat, und um die örtliche Verteidigung und die Aufrechterhaltung von Recht und Ordnung innerhalb des Treuhandgebiets sicherzustellen.
+
+### Artikel 85
+**1.** Die Aufgaben der Vereinten Nationen in Bezug auf Treuhandabkommen für alle nicht als strategische Zonen bezeichneten Gebiete, einschließlich der Genehmigung der Treuhandabkommen sowie ihrer Änderungen und Ergänzungen, werden von der Generalversammlung wahrgenommen.
+
+**2.** Bei der Durchführung dieser Aufgaben wird die Generalversammlung von dem unter ihrer Autorität handelnden Treuhandrat unterstützt.
+
+## Kapitel XIII: Der Treuhandrat
+#### Zusammensetzung
+### Artikel 86
+- **1.** Der Treuhandrat besteht aus folgenden Mitgliedern der Vereinten Nationen:
+- a) den Mitgliedern, die Treuhandgebiete verwalten;
+- b) den in Artikel 23 namentlich aufgeführten Mitgliedern, soweit sie keine Treuhandgebiete verwalten;
+- c) so vielen weiteren von der Generalversammlung für je drei Jahre gewählten Mitgliedern, wie erforderlich sind, damit der Treuhandrat insgesamt zur Hälfte aus Mitgliedern der Vereinten Nationen besteht, die Treuhandgebiete verwalten, und zur Hälfte aus solchen, die keine verwalten.
+- **2.** Jedes Mitglied des Treuhandrats bestellt eine besonders geeignete Person zu seinem Vertreter im Treuhandrat.
+
+#### Aufgaben und Befugnisse
+
+### Artikel 87
+Die Generalversammlung und unter ihrer Autorität der Treuhandrat können bei der Wahrnehmung ihrer Aufgaben
+
+- a) von der Verwaltungsmacht vorgelegte Berichte prüfen;
+- b) Gesuche entgegennehmen und sie in Konsultation mit der Verwaltungsmacht prüfen;
+
+- c) regelmäßige Bereisungen der einzelnen Treuhandgebiete veranlassen, deren Zeitpunkt mit der Verwaltungsmacht vereinbart wird;
+- d) diese und sonstige Maßnahmen in Übereinstimmung mit den Treuhandabkommen treffen.
+
+Der Treuhandrat arbeitet einen Fragebogen über den politischen, wirtschaftlichen, sozialen und erzieherischen Fortschritt der Einwohner jedes Treuhandgebiets aus; die Verwaltungsmacht jedes Treuhandgebiets, für das die Generalversammlung zuständig ist, erstattet dieser aufgr- und des Fragebogens alljährlich Bericht.
+
+#### Abstimmung
+### Artikel 89
+- **1.** Jedes Mitglied des Treuhandrats hat eine Stimme.
+- **2.** Beschlüsse des Treuhandrats bedürfen der Mehrheit der anwesenden und abstimmenden Mitglieder.
+
+#### Verfahren
+### Artikel 90
+**1.** Der Treuhandrat gibt sich eine Geschäftsordnung; in dieser regelt er auch das Verfahren für die Wahl seines Präsidenten.
+
+**2.** Der Treuhandrat tritt nach Bedarf gemäß seiner Geschäftsordnung zusammen; in dieser ist auch die Einberufung von Sitzungen auf Antrag der Mehrheit seiner Mitglieder vorzusehen.
+
+### Artikel 91
+Der Treuhandrat nimmt gegebenenfalls die Unterstützung des Wirtschafts- und Sozialrats und der Sonderorganisationen in Angelegenheiten in Anspruch, für die sie zuständig sind.
+
+## Kapitel XIV: Der Internationale Gerichtshof
+### Artikel 92
+Der Internationale Gerichtshof ist das Hauptrechtsprechungsorgan der Vereinten Nationen. Er nimmt seine Aufgaben nach Maßgabe des beigefügten Statuts wahr, das auf dem Statut des Ständigen Internationalen Gerichtshofs beruht und Bestandteil dieser Charta ist.
+
+### Artikel 93
+- **1.** Alle Mitglieder der Vereinten Nationen sind ohne weiteres Vertragsparteien des Statuts des Internationalen Gerichtshofs.
+- **2.** Ein Staat, der nicht Mitglied der Vereinten Nationen ist, kann zu Bedingungen, welche die Generalversammlung jeweils auf Empfehlung des Sicherheitsrats festsetzt, Vertragspartei des Statuts des Internationalen Gerichtshofs werden.
+
+- **1.** Jedes Mitglied der Vereinten Nationen verpflichtet sich, bei jeder Streitigkeit, in der es Partei ist, die Entscheidung des Internationalen Gerichtshofs zu befolgen.
+- **2.** Kommt eine Streitpartei ihren Verpflichtungen aus einem Urteil des Gerichtshofs nicht nach, so kann sich die andere Partei an den Sicherheitsrat wenden; dieser kann, wenn er es für erforderlich hält, Empfehlungen abgeben oder Maßnahmen beschließen, um dem Urteil Wirksamkeit zu verschaffen.
+
+### Artikel 95
+Diese Charta schließt nicht aus, dass Mitglieder der Vereinten Nationen aufgr- und bestehender oder künftiger Abkommen die Beilegung ihrer Streitigkeiten anderen Gerichten zuweisen.
+
+- **1.** Die Generalversammlung oder der Sicherheitsrat kann über jede Rechtsfrage ein Gutachten des Internationalen Gerichtshofs anfordern.
+- **2.** Andere Organe der Vereinten Nationen und Sonderorganisationen können mit jeweiliger Ermächtigung durch die Generalversammlung ebenfalls Gutachten des Gerichtshofs über Rechtsfragen anfordern, die sich in ihrem Tätigkeitsbereich stellen.
+
+## Kapitel XV: Das Sekretariat
+### Artikel 97
+Das Sekretariat besteht aus einem Generalsekretär und den sonstigen von der Organisation benötigten Bediensteten. Der Generalsekretär wird auf Empfehlung des Sicherheitsrats von der Generalversammlung ernannt. Er ist der höchste Verwaltungsbeamte der Organisation.
+
+### Artikel 98
+Der Generalsekretär ist in dieser Eigenschaft bei allen Sitzungen der Generalversammlung, des Sicherheitsrats, des Wirtschafts- und Sozialrats und des Treuhandrats tätig und nimmt alle sonstigen ihm von diesen Organen zugewiesenen Aufgaben wahr. Er erstattet der Generalversammlung alljährlich über die Tätigkeit der Organisation Bericht.
+
+### Artikel 99
+Der Generalsekretär kann die Aufmerksamkeit des Sicherheitsrats auf jede Angelegenheit lenken, die nach seinem Dafürhalten geeignet ist, die Wahrung des Weltfriedens und der internationalen Sicherheit zu gefährden.
+
+### Artikel 100
+**1.** Der Generalsekretär und die sonstigen Bediensteten dürfen bei der Wahrnehmung ihrer Pflichten von einer Regierung oder von einer Autorität außerhalb der Organisation Weisungen weder erbitten noch entgegennehmen. Sie haben jede Handlung zu unterlassen, die ihrer Stellung als internationale, nur der Organisation verantwortliche Bedienstete abträglich sein könnte.
+
+**2.** Jedes Mitglied der Vereinten Nationen verpflichtet sich, den ausschließlich internationalen Charakter der Verantwortung des Generalsekretärs und der sonstigen Bediensteten zu achten und nicht zu versuchen, sie bei der Wahrnehmung ihrer Aufgaben zu beeinflussen.
+
+- **1.** Die Bediensteten werden vom Generalsekretär im Einklang mit Regelungen ernannt, welche die Generalversammlung erlässt.
+- **2.** Dem Wirtschafts- und Sozialrat, dem Treuhandrat und erforderlichenfalls anderen Organen der Vereinten Nationen werden geeignete ständige Bedienstete zugeteilt. Sie gehören dem Sekretariat an.
+- **3.** Bei der Einstellung der Bediensteten und der Regelung ihres Dienstverhältnisses gilt als ausschlaggebend der Gesichtspunkt, dass es notwendig ist, ein Höchstmaß an Leistungsfähigkeit, fachlicher Eignung und Ehrenhaftigkeit zu gewährleisten. Der Umstand, dass es wichtig ist, die Auswahl der Bediensteten auf möglichst breiter geografischer Grundlage vorzunehmen, ist gebührend zu berücksichtigen.
+
+## Kapitel XVI: Verschiedenes
+### Artikel 102
+- **1.** Alle Verträge und sonstigen internationalen Übereinkünfte, die ein Mitglied der Vereinten Nationen nach dem Inkrafttreten dieser Charta schließt, werden so bald wie möglich beim Sekretariat registriert und von ihm veröffentlicht.
+- **2.** Werden solche Verträge oder internationalen Übereinkünfte nicht nach Absatz 1 registriert, so können sich ihre Vertragsparteien bei einem Organ der Vereinten Nationen nicht auf sie berufen.
+
+### Artikel 103
+Widersprechen sich die Verpflichtungen von Mitgliedern der Vereinten Nationen aus dieser Charta und ihre Verpflichtungen aus anderen internationalen Übereinkünften, so haben die Verpflichtungen aus dieser Charta Vorrang.
+
+### Artikel 104
+Die Organisation genießt im Hoheitsgebiet jedes Mitglieds die Rechts- und Geschäftsfähigkeit, die zur Wahrnehmung ihrer Aufgaben und zur Verwirklichung ihrer Ziele erforderlich ist.
+
+- **1.** Die Organisation genießt im Hoheitsgebiet jedes Mitglieds die Vorrechte und Immunitäten, die zur Verwirklichung ihrer Ziele erforderlich sind.
+- **2.** Vertreter der Mitglieder der Vereinten Nationen und Bedienstete der Organisation genießen ebenfalls die Vorrechte und Immunitäten, deren sie bedürfen, um ihre mit der Organisation zusammenhängenden Aufgaben in voller Unabhängigkeit wahrnehmen zu können.
+- **3.** Die Generalversammlung kann Empfehlungen abgeben, um die Anwendung der Absätze 1 und 2 im Einzelnen zu regeln, oder sie kann den Mitgliedern der Vereinten Nationen zu diesem Zweck Übereinkommen vorschlagen.
+
+## Kapitel XVII: Übergangsbestimmungen Betreffend Die Sicherheit
+### Artikel 106
+Bis das Inkrafttreten von Sonderabkommen der in Artikel 43 bezeichneten Art den Sicherheitsrat nach seiner Auffassung befähigt, mit der Ausübung der ihm in Artikel 42 zugewiesenen Verantwortlichkeiten zu beginnen, konsultieren die Parteien der am 30. Oktober 1943 in Moskau unterzeichneten Viermächte-Erklärung und Frankreich nach Absatz 5 dieser Erklärung einander und gegebenenfalls andere Mitglieder der Vereinten Nationen, um gemeinsam alle etwa erforderlichen Maßnahmen zur Wahrung des Weltfriedens und der internationalen Sicherheit im Namen der Organisation zu treffen.
+
+### Artikel 107
+Maßnahmen, welche die hierfür verantwortlichen Regierungen als Folge des Zweiten Weltkriegs in Bezug auf einen Staat ergreifen oder genehmigen, der während dieses Krieges Feind eines Unterzeichnerstaats dieser Charta war, werden durch diese Charta weder außer Kraft gesetzt noch untersagt.
+
+## Kapitel XVIII: Änderungen
+### Artikel 108
+Änderungen dieser Charta treten für alle Mitglieder der Vereinten Nationen in Kraft, wenn sie mit Zweidrittelmehrheit der Mitglieder der Generalversammlung angenommen und von zwei Dritteln der Mitglieder der Vereinten Nationen einschließlich aller ständigen Mitglieder des Sicherheitsrats nach Maßgabe ihres Verfassungsrechts ratifiziert worden sind.
+
+- **1.** Zur Revision dieser Charta kann eine Allgemeine Konferenz der Mitglieder der Vereinten Nationen zusammentreten; Zeitpunkt und Ort werden durch Beschluss einer Zweidrittelmehrheit der Mitglieder der Generalversammlung und durch Beschluss von neun beliebigen Mitgliedern des Sicherheitsrats bestimmt. Jedes Mitglied der Vereinten Nationen hat auf der Konferenz eine Stimme.
+- **2.** Jede Änderung dieser Charta, die von der Konferenz mit Zweidrittelmehrheit empfohlen wird, tritt in Kraft, sobald sie von zwei Dritteln der Mitglieder der Vereinten Nationen einschließlich aller ständigen Mitglieder des Sicherheitsrats nach Maßgabe ihres Verfassungsrechts ratifiziert worden ist.
+
+**3.** Ist eine solche Konferenz nicht vor der zehnten Jahrestagung der Generalversammlung nach Inkrafttreten dieser Charta zusammengetreten, so wird der Vorschlag, eine solche Konferenz einzuberufen, auf die Tagesordnung jener Tagung gesetzt; die Konferenz findet statt, wenn dies durch Beschluss der Mehrheit der Mitglieder der Generalversammlung und durch Beschluss von sieben beliebigen Mitgliedern des Sicherheitsrats bestimmt wird.
+
+## Kapitel XIX: Ratifizierung Und Unterzeichnung
+- **1.** Diese Charta bedarf der Ratifizierung durch die Unterzeichnerstaaten nach Maßgabe ihres Verfassungsrechts.
+- **2.** Die Ratifikationsurkunden werden bei der Regierung der Vereinigten Staaten von Amerika hinterlegt; diese notifiziert jede Hinterlegung allen Unterzeichnerstaaten sowie dem Generalsekretär der Organisation, sobald er ernannt ist.
+- **3.** Diese Charta tritt in Kraft, sobald die Republik China, Frankreich, die Union der Sozialistischen Sowjetrepubliken, das Vereinigte Königreich Großbritannien und Nordirland und die Vereinigten Staaten von Amerika sowie die Mehrheit der anderen Unterzeichnerstaaten ihre Ratifikationsurkunden hinterlegt haben. Die Regierung der Vereinigten Staaten von Amerika errichtet sodann über die Hinterlegung der Ratifikationsurkunden ein Protokoll, von dem sie allen Unterzeichnerstaaten Abschriften übermittelt.
+- **4.** Die Unterzeichnerstaaten dieser Charta, die sie nach ihrem Inkrafttreten ratifizieren, werden mit dem Tag der Hinterlegung ihrer Ratifikationsurkunde ursprüngliche Mitglieder der Vereinten Nationen.
+
+Diese Charta, deren chinesischer, französischer, russischer, englischer und spanischer Wortlaut gleichermaßen verbindlich ist, wird im Archiv der Regierung der Vereinigten Staaten von Amerika hinterlegt. Diese übermittelt den Regierungen der anderen Unterzeichnerstaaten gehörig beglaubigte Abschriften.
+
+ZU URKUND DESSEN haben die Vertreter der Regierungen der Vereinten Nationen diese Charta unterzeichnet.
+
+GESCHEHEN in der Stadt San Francisco am 26. Juni 1945.
 
 ---
 
-*Quelle: [University of Minnesota Human Rights Library](https://hrlibrary.umn.edu/instree/auncharter.html), [United Nations](https://www.un.org/en/about-us/un-charter/full-text)*
+*Quelle: Deutsche Gesellschaft für die Vereinten Nationen (DGVN), BGBl. 1973 II S. 431*
