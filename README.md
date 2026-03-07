@@ -153,6 +153,8 @@ graph LR
     EnSiG["EnSiG"]
     KZV -->|3x| EnSiG
     BesG -->|2x| BeamtVG
+    HmbSUrlR["HmbSUrlR"]
+    HmbSUrlR -->|2x| BG
     DS_Anpassung_HH["DS-Anpassung-HH"]
     DS_Anpassung_HH -->|2x| KatSchG
     DS_Anpassung_HH -->|2x| RettDG_Entwurf
