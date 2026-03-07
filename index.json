@@ -139,7 +139,8 @@
       "path": "kritis/BSIG_BSI-Gesetz.md",
       "aliases": [
         "BSI-Gesetz",
-        "Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in der Informationstechnik von Einrichtungen"
+        "Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in der Informationstechnik von Einrichtungen",
+        "Gesetz über das Bundesamt für Sicherheit in der Informationstechnik"
       ]
     },
     "KRITIS-Dachgesetz": {
@@ -162,10 +163,25 @@
         "Hamburgisches Rettungsdienstgesetz"
       ]
     },
+    "BBKG": {
+      "path": "zivile-verteidigung/BBKG_BBK-Errichtungsgesetz.md",
+      "aliases": [
+        "BBK-Errichtungsgesetz",
+        "Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe"
+      ]
+    },
     "KZV": {
       "path": "zivile-verteidigung/KZV.md",
       "aliases": [
         "Konzeption Zivile Verteidigung"
+      ]
+    },
+    "THWG": {
+      "path": "zivile-verteidigung/THWG_THW-Gesetz.md",
+      "aliases": [
+        "THW-Gesetz",
+        "Gesetz über das Technische Hilfswerk",
+        "THW-Helferrechtsgesetz"
       ]
     },
     "ZSKG": {
@@ -200,7 +216,8 @@
       "path": "zivile-verteidigung/sicherstellungsgesetze/EltSV_Elektrizitaetssicherungsverordnung.md",
       "aliases": [
         "Elektrizitaetssicherungsverordnung",
-        "Verordnung zur Sicherung der Elektrizitätsversorgung in einer Versorgungskrise"
+        "Verordnung zur Sicherung der Elektrizitätsversorgung in einer Versorgungskrise",
+        "Elektrizitätssicherungsverordnung"
       ]
     },
     "EnSiG": {
@@ -351,13 +368,13 @@
     },
     {
       "from": "KRITIS-Dachgesetz",
-      "to": "TKG",
-      "count": 4
+      "to": "BSIG",
+      "count": 23
     },
     {
       "from": "KRITIS-Dachgesetz",
-      "to": "BSIG",
-      "count": 22
+      "to": "TKG",
+      "count": 4
     },
     {
       "from": "KRITIS-Dachgesetz",
@@ -367,7 +384,7 @@
     {
       "from": "NIS2UmsuCG",
       "to": "BSIG",
-      "count": 6
+      "count": 7
     },
     {
       "from": "NIS2UmsuCG",
@@ -405,6 +422,21 @@
       "count": 1
     },
     {
+      "from": "BBKG",
+      "to": "ZSKG",
+      "count": 1
+    },
+    {
+      "from": "KZV",
+      "to": "BBKG",
+      "count": 2
+    },
+    {
+      "from": "KZV",
+      "to": "EltSV",
+      "count": 2
+    },
+    {
       "from": "KZV",
       "to": "EnSiG",
       "count": 3
@@ -413,6 +445,11 @@
       "from": "KZV",
       "to": "GasSV",
       "count": 2
+    },
+    {
+      "from": "KZV",
+      "to": "THWG",
+      "count": 4
     },
     {
       "from": "KZV",
@@ -485,5 +522,5 @@
       "count": 1
     }
   ],
-  "graph_mermaid": "```mermaid\ngraph LR\n    BG[\"BG\"]\n    BeamtStG[\"BeamtStG\"]\n    BG -->|75x| BeamtStG\n    KRITIS_Dachgesetz[\"KRITIS-Dachgesetz\"]\n    BSIG[\"BSIG\"]\n    KRITIS_Dachgesetz -->|22x| BSIG\n    IfSG[\"IfSG\"]\n    GG[\"GG\"]\n    IfSG -->|15x| GG\n    KZV[\"KZV\"]\n    WiSiG[\"WiSiG\"]\n    KZV -->|9x| WiSiG\n    DG[\"DG\"]\n    BeamtVG[\"BeamtVG\"]\n    DG -->|8x| BeamtVG\n    DG -->|6x| BeamtStG\n    NIS2UmsuCG[\"NIS2UmsuCG\"]\n    NIS2UmsuCG -->|6x| BSIG\n    BeurtVO_Fw[\"BeurtVO-Fw\"]\n    BeurtVO_Fw -->|5x| BeamtStG\n    VerkLG[\"VerkLG\"]\n    KZV -->|5x| VerkLG\n    VerkSiG[\"VerkSiG\"]\n    KZV -->|5x| VerkSiG\n    BesG[\"BesG\"]\n    BesG -->|4x| BeamtStG\n    KatSO[\"KatSO\"]\n    KatSchG[\"KatSchG\"]\n    KatSO -->|4x| KatSchG\n    TKG[\"TKG\"]\n    KRITIS_Dachgesetz -->|4x| TKG\n    RettDG_Entwurf[\"RettDG-Entwurf\"]\n    RettDG_Entwurf -->|4x| GG\n    ZSKG[\"ZSKG\"]\n    KZV -->|4x| ZSKG\n    Resilienzstrategie[\"Resilienzstrategie\"]\n    Resilienzstrategie -->|4x| KZV\n    Resilienzstrategie -->|4x| ZSKG\n    GleichstG[\"GleichstG\"]\n    PersVG[\"PersVG\"]\n    GleichstG -->|3x| PersVG\n    RettDG[\"RettDG\"]\n    RettDG_Entwurf -->|3x| RettDG\n    EnSiG[\"EnSiG\"]\n    KZV -->|3x| EnSiG\n    BesG -->|2x| BeamtVG\n    DS_Anpassung_HH[\"DS-Anpassung-HH\"]\n    DS_Anpassung_HH -->|2x| KatSchG\n    DS_Anpassung_HH -->|2x| RettDG_Entwurf\n    KRITIS_Dachgesetz -->|2x| NIS2UmsuCG\n    RettDG_Entwurf -->|2x| ZSKG\n    GasSV[\"GasSV\"]\n    KZV -->|2x| GasSV\n    WasSiG[\"WasSiG\"]\n    KZV -->|2x| WasSiG\n    ASG[\"ASG\"]\n    KZV -->|2x| ASG\n    Resilienzstrategie -->|2x| BSIG\n    Resilienzstrategie -->|2x| GG\n    AGG[\"AGG\"]\n    AGG --> GG\n    BBG[\"BBG\"]\n    BBG --> GG\n    BeamtStG --> GG\n    BeurtVO_Fw --> BG\n    BG --> GG\n    DS_Anpassung_HH --> GG\n    RettDG --> RettDG_Entwurf\n    NIS2UmsuCG --> EnSiG\n    NIS2UmsuCG --> GasSV\n    NIS2UmsuCG --> TKG\n    RettDG_Entwurf --> IfSG\n    KZV --> GG\n    KZV --> BSIG\n    GasSV --> EnSiG\n    VerkSiG --> ZSKG\n```"
+  "graph_mermaid": "```mermaid\ngraph LR\n    BG[\"BG\"]\n    BeamtStG[\"BeamtStG\"]\n    BG -->|75x| BeamtStG\n    KRITIS_Dachgesetz[\"KRITIS-Dachgesetz\"]\n    BSIG[\"BSIG\"]\n    KRITIS_Dachgesetz -->|23x| BSIG\n    IfSG[\"IfSG\"]\n    GG[\"GG\"]\n    IfSG -->|15x| GG\n    KZV[\"KZV\"]\n    WiSiG[\"WiSiG\"]\n    KZV -->|9x| WiSiG\n    DG[\"DG\"]\n    BeamtVG[\"BeamtVG\"]\n    DG -->|8x| BeamtVG\n    NIS2UmsuCG[\"NIS2UmsuCG\"]\n    NIS2UmsuCG -->|7x| BSIG\n    DG -->|6x| BeamtStG\n    BeurtVO_Fw[\"BeurtVO-Fw\"]\n    BeurtVO_Fw -->|5x| BeamtStG\n    VerkLG[\"VerkLG\"]\n    KZV -->|5x| VerkLG\n    VerkSiG[\"VerkSiG\"]\n    KZV -->|5x| VerkSiG\n    BesG[\"BesG\"]\n    BesG -->|4x| BeamtStG\n    KatSO[\"KatSO\"]\n    KatSchG[\"KatSchG\"]\n    KatSO -->|4x| KatSchG\n    TKG[\"TKG\"]\n    KRITIS_Dachgesetz -->|4x| TKG\n    RettDG_Entwurf[\"RettDG-Entwurf\"]\n    RettDG_Entwurf -->|4x| GG\n    THWG[\"THWG\"]\n    KZV -->|4x| THWG\n    ZSKG[\"ZSKG\"]\n    KZV -->|4x| ZSKG\n    Resilienzstrategie[\"Resilienzstrategie\"]\n    Resilienzstrategie -->|4x| KZV\n    Resilienzstrategie -->|4x| ZSKG\n    GleichstG[\"GleichstG\"]\n    PersVG[\"PersVG\"]\n    GleichstG -->|3x| PersVG\n    RettDG[\"RettDG\"]\n    RettDG_Entwurf -->|3x| RettDG\n    EnSiG[\"EnSiG\"]\n    KZV -->|3x| EnSiG\n    BesG -->|2x| BeamtVG\n    DS_Anpassung_HH[\"DS-Anpassung-HH\"]\n    DS_Anpassung_HH -->|2x| KatSchG\n    DS_Anpassung_HH -->|2x| RettDG_Entwurf\n    KRITIS_Dachgesetz -->|2x| NIS2UmsuCG\n    RettDG_Entwurf -->|2x| ZSKG\n    BBKG[\"BBKG\"]\n    KZV -->|2x| BBKG\n    EltSV[\"EltSV\"]\n    KZV -->|2x| EltSV\n    GasSV[\"GasSV\"]\n    KZV -->|2x| GasSV\n    WasSiG[\"WasSiG\"]\n    KZV -->|2x| WasSiG\n    ASG[\"ASG\"]\n    KZV -->|2x| ASG\n    Resilienzstrategie -->|2x| BSIG\n    Resilienzstrategie -->|2x| GG\n    AGG[\"AGG\"]\n    AGG --> GG\n    BBG[\"BBG\"]\n    BBG --> GG\n    BeamtStG --> GG\n    BeurtVO_Fw --> BG\n    BG --> GG\n    DS_Anpassung_HH --> GG\n    RettDG --> RettDG_Entwurf\n    NIS2UmsuCG --> EnSiG\n    NIS2UmsuCG --> GasSV\n    NIS2UmsuCG --> TKG\n    RettDG_Entwurf --> IfSG\n    BBKG --> ZSKG\n    KZV --> GG\n    KZV --> BSIG\n    GasSV --> EnSiG\n    VerkSiG --> ZSKG\n```"
 }

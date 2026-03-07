@@ -14,7 +14,7 @@ BBankG Gesetz über die Deutsche Bundesbank
 
 BBK Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
 
-BBKG Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
+BBKG [Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe](BBKG_BBK-Errichtungsgesetz.md)
 
 EdB Eisenbahnen des Bundes
 
@@ -40,7 +40,7 @@ CBRN chemisch, biologisch, radiologisch und nuklear
 
 EBV Erdölbevorratungsverband
 
-EltSV Elektrizitätssicherungsverordnung
+EltSV [Elektrizitätssicherungsverordnung](sicherstellungsgesetze/EltSV_Elektrizitaetssicherungsverordnung.md)
 
 EnSiG [Energiesicherungsgesetz](sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md)
 
@@ -106,7 +106,7 @@ StAN Stärke- und Ausstattungsnachweisung
 
 THW Bundesanstalt Technisches Hilfswerk
 
-THWG Gesetz über das Technische Hilfswerk
+THWG [Gesetz über das Technische Hilfswerk](THWG_THW-Gesetz.md)
 
 UNESCO United Nations Educational, Scientific and Cultural Organisation
 
@@ -149,7 +149,7 @@ In der Erkenntnis, dass die Verteidigung des Bundesgebietes gegen Angriffe von a
 
 Hierbei wird die Zivile Verteidigung weiterhin im Rahmen des geltenden Rechts und der bestehenden völkerrechtlichen wie auch europarechtlichen Verpflichtungen und Befugnisse geleistet werden. Für die Verteidigung einschließlich des Schutzes der Zivilbevölkerung hat der Bund nach Artikel 73 Absatz 1 Nummer 1 des Grundgesetzes (GG) die ausschließliche Gesetzgebungskompetenz. Die Planung und Durchführung der Fachaufgaben auf dem Gebiet der Gesamtverteidigung werden vom Bundesministerium der Verteidigung (BMVg) und den übrigen Fachressorts jeweils eigenverantwortlich wahrgenommen. Die Zuständigkeit des Bundesministeriums des Innern (BMI) besteht in der unmittelbaren Verantwortung für die Aufgaben des Zivilschutzes und in der Koordinierung der ressortübergreifenden Angelegenheiten der Zivilen Verteidigung.
 
-Auf dem Gebiet der Zivilen Verteidigung führen die Länderfachverwaltungen die Bundesgesetze wie beispielsweise das [Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes](ZSKG_Zivilschutzgesetz.md) (ZSKG) im Auftrag des Bundes aus (Bundesauftragsverwaltung), soweit nicht bundeseigene Verwaltung wie beispielsweise im Gesetz über das Technische Hilfswerk (THWG) vorgesehen ist.
+Auf dem Gebiet der Zivilen Verteidigung führen die Länderfachverwaltungen die Bundesgesetze wie beispielsweise das [Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes](ZSKG_Zivilschutzgesetz.md) (ZSKG) im Auftrag des Bundes aus (Bundesauftragsverwaltung), soweit nicht bundeseigene Verwaltung wie beispielsweise im [Gesetz über das Technische Hilfswerk](THWG_THW-Gesetz.md) (THWG) vorgesehen ist.
 
 In diesem rechtlich-organisatorischen Rahmen hat die Zivile Verteidigung die Aufgabe, alle zivilen Maßnahmen zu planen, vorzubereiten und durchzuführen, die zur Herstellung und Aufrechterhaltung der Verteidigungsfähigkeit einschließlich der Versorgung und des Schutzes der Bevölkerung erforderlich sind. Hierzu gehört im Einzelnen,
 
@@ -583,7 +583,7 @@ Im Falle eines Ereignisses können auch außerhalb des Gebietes, in dem Katastro
 Zur Umsetzung der "Richtlinie 2013/59/Euratom des Rates vom 5. Dezember 2013 zur Festlegung grundlegender Sicherheitsnormen für den Schutz vor den Gefahren einer Exposition gegenüber ionisierender Strahlung und zur Aufhebung der Richtlinien 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom und 2003/122/Euratom" wird ein Strahlenschutzgesetz erarbeitet, das auch Regelungen zum radiologischen Notfallschutz beinhalten wird.
 
 ### 6.10 Technische Hilfe
-Die Länder treffen Vorkehrungen für technische Hilfeleistungen in friedensmäßigen Schadenslagen. Die technische Hilfe umfasst alle Einsätze, die sich nicht oder nicht nur auf das Verwenden von Löschmitteln bzw. die Leistung notfallmedizinischer Hilfe beschränken und bei denen Aggregate, Maschinen oder technisches Wissen bereitgestellt werden. In der Regel ist die Aufgabe im Bereich der Feuerwehren angesiedelt. Der Bund ergänzt die Fähigkeiten der Länder durch Bereitstellung seiner Vorhaltungen und Einrichtungen für den Zivilschutz, im Bereich der technischen Hilfe insbesondere durch die Bundesanstalt THW. Das THW leistet nach dem THWG als bundesweit und international agierende Einsatzorganisation technische Hilfe im In- und Ausland. § 1 Absatz 2 Nummer 3 THWG unterstreicht den nationalen Doppelnutzen der Zivilschutzorganisation THW, indem er dem THW die Aufgabe zuweist, bei der Bekämpfung von Katastrophen, öffentlichen Notständen und Unglücksfällen größeren Ausmaßes auf Anforderung der für die Gefahrenabwehr zuständigen Stellen technische Hilfe zu leisten.
+Die Länder treffen Vorkehrungen für technische Hilfeleistungen in friedensmäßigen Schadenslagen. Die technische Hilfe umfasst alle Einsätze, die sich nicht oder nicht nur auf das Verwenden von Löschmitteln bzw. die Leistung notfallmedizinischer Hilfe beschränken und bei denen Aggregate, Maschinen oder technisches Wissen bereitgestellt werden. In der Regel ist die Aufgabe im Bereich der Feuerwehren angesiedelt. Der Bund ergänzt die Fähigkeiten der Länder durch Bereitstellung seiner Vorhaltungen und Einrichtungen für den Zivilschutz, im Bereich der technischen Hilfe insbesondere durch die Bundesanstalt THW. Das THW leistet nach dem [THWG](THWG_THW-Gesetz.md) als bundesweit und international agierende Einsatzorganisation technische Hilfe im In- und Ausland. § 1 Absatz 2 Nummer 3 THWG unterstreicht den nationalen Doppelnutzen der Zivilschutzorganisation THW, indem er dem THW die Aufgabe zuweist, bei der Bekämpfung von Katastrophen, öffentlichen Notständen und Unglücksfällen größeren Ausmaßes auf Anforderung der für die Gefahrenabwehr zuständigen Stellen technische Hilfe zu leisten.
 
 Das THW ist als einzige Bundesorganisation bei Großschadenslagen und Krisen ursachenunabhängig auf kommunaler, Länder- und Bundesebene lageangepasst einsetzbar. Diese Fähigkeiten und damit Ergänzungen der Vorhaltungen der Länder umfassen insbesondere die folgenden Bereiche:
 
@@ -835,7 +835,7 @@ Auf Basis des Energiewirtschaftsgesetzes (EnWG), des Energiesicherungsgesetzes (
 #### 7.10.1 Versorgung mit Strom und Gas
 Den Netzbetreibern obliegt die Aufgabe eines sicheren Netzbetriebes nach den Vorgaben des Energiewirtschaftsgesetzes. Zur Abwehr oder Abmilderung einer drohenden Versorgungskrise können sie Eingriffe in die erzeugungsseitige Einspeisung von Strom/Gas und nachrangig auch Eingriffe in die Entnahme von Strom/Gas vornehmen. Gemäß § 16 Absatz 2 und § 16a EnWG besteht für Betreiber von Fernleitungsnetzen und Gasverteilernetzen die Möglichkeit, Gaseinspeisungen, Gastransporte sowie Gasausspeisungen anzupassen oder diese Anpassungen zu verlangen. Bei Gefahr, dass die vorhandene Erzeugungsleistung nicht mehr ausreicht, um den lebenswichtigen Bedarf an Energie zu sichern und dies durch eigene Maßnahmen der Netzbetreiber nicht abgewendet werden kann, haben die Übertragungsnetzbetreiber hierüber die Bundesnetzagentur zu unterrichten.
 
-Bei einer Erzeugungsmangellage kann die Bundesregierung durch Rechtsverordnung den Krisenfall nach dem [EnSiG](sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md) feststellen. Der Bundesnetzagentur wird dadurch die Aufgabe übertragen, als Bundeslastverteiler auf Basis der Elektrizitätssicherungsverordnung (EltSV) Verfügungen zur Deckung des lebenswichtigen Bedarfs an Strom zu erlassen, beispielsweise über Abschaltungen oder die bevorrechtigte Versorgung lebenswichtiger Einrichtungen. Für den Bereich der Gasversorgung sind entsprechende Regelungen in der GasSV enthalten. Für den konkreten Fall der Zivilen Verteidigung wird die Gasversorgung auf Basis des [WiSiG](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) durch die GasLastV geregelt. Das Bundesministerium für Wirtschaft und Energie (BMWi) agiert in diesem Fall als Bundeslastverteiler und die obersten Wirtschaftsbehörden der Länder als Gebietslastverteiler. Durch Landesrecht können den höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen- , Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden. Die Lastverteiler können an Unternehmen und Verbraucher Verfügungen erlassen, um eine Gefährdung der öffentlichen Gasversorgung zu beheben oder zu verhindern oder um die Auswirkungen einer Störung der Versorgung zu mindern.
+Bei einer Erzeugungsmangellage kann die Bundesregierung durch Rechtsverordnung den Krisenfall nach dem [EnSiG](sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md) feststellen. Der Bundesnetzagentur wird dadurch die Aufgabe übertragen, als Bundeslastverteiler auf Basis der [Elektrizitätssicherungsverordnung](sicherstellungsgesetze/EltSV_Elektrizitaetssicherungsverordnung.md) (EltSV) Verfügungen zur Deckung des lebenswichtigen Bedarfs an Strom zu erlassen, beispielsweise über Abschaltungen oder die bevorrechtigte Versorgung lebenswichtiger Einrichtungen. Für den Bereich der Gasversorgung sind entsprechende Regelungen in der GasSV enthalten. Für den konkreten Fall der Zivilen Verteidigung wird die Gasversorgung auf Basis des [WiSiG](sicherstellungsgesetze/WiSiG_Wirtschaftssicherstellungsgesetz.md) durch die GasLastV geregelt. Das Bundesministerium für Wirtschaft und Energie (BMWi) agiert in diesem Fall als Bundeslastverteiler und die obersten Wirtschaftsbehörden der Länder als Gebietslastverteiler. Durch Landesrecht können den höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen- , Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden. Die Lastverteiler können an Unternehmen und Verbraucher Verfügungen erlassen, um eine Gefährdung der öffentlichen Gasversorgung zu beheben oder zu verhindern oder um die Auswirkungen einer Störung der Versorgung zu mindern.
 
 Besonders schützenswerte Einrichtungen wie beispielsweise Krankenhäuser sind in der Regel mit Notstromaggregaten ausgestattet, um sich unabhängig von den Netzen der öffentlichen Versorgung für einen begrenzten Zeitraum (24 Stunden) eigenständig mit Elektrizität versorgen zu können. Dies bezieht sich jedoch überwiegend auf die intensivmedizinischen Bereiche von Krankenhäusern, so dass der Betrieb und die medizinische Versorgung im Übrigen nicht in vollem Umfang aufrechterhalten werden können. Die Erforderlichkeit zusätzlicher Vorsorgemaßnahmen ist Prüfgegenstand der Krankenhausalarm- und -einsatzplanung nach den Abschnitten 6.8.2 und 6.9.6.
 
@@ -960,8 +960,8 @@ Im Übrigen wird die Weiterentwicklung der Zivilen Verteidigung maßgeblich durc
 Die Vorgaben dieser Konzeption erhalten Verbindlichkeit, indem die hierfür erforderlichen Rechtsgrundlagen geschaffen sowie die vorhandenen Rechtsgrundlagen - soweit erforderlich - entsprechend angepasst werden. Dazu gehören insbesondere:
 
 - [Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes](ZSKG_Zivilschutzgesetz.md) (ZSKG),
-- Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBKG),
-- Gesetz über das Technische Hilfswerk (THWG),
+- [Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe](BBKG_BBK-Errichtungsgesetz.md) (BBKG),
+- [Gesetz über das Technische Hilfswerk](THWG_THW-Gesetz.md) (THWG),
 - Sicherstellungs-, Vorsorge- und Leistungsgesetze und deren Umsetzungsvorschriften,
 - Rahmenrichtlinien für die Gesamtverteidigung,
 - Ziviler Alarmplan,

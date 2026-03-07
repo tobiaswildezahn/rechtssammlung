@@ -16,7 +16,9 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 
 | Datei | Dokument |
 |-------|----------|
+| `zivile-verteidigung/BBKG_BBK-Errichtungsgesetz.md` | BBK-Errichtungsgesetz |
 | `zivile-verteidigung/KZV.md` | Konzeption Zivile Verteidigung |
+| `zivile-verteidigung/THWG_THW-Gesetz.md` | THW-Gesetz |
 | `zivile-verteidigung/ZSKG_Zivilschutzgesetz.md` | Zivilschutzgesetz |
 | `zivile-verteidigung/resilienz-katastrophen.md` | Deutsche Strategie zur Stärkung der Resilienz gegenüber Katastrophen |
 
@@ -26,7 +28,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 |-------|----------|
 | `zivile-verteidigung/sicherstellungsgesetze/ASG_Arbeitssicherstellungsgesetz.md` | Arbeitssicherstellungsgesetz |
 | `zivile-verteidigung/sicherstellungsgesetze/ESVG_Ernaehrungssicherstellungsgesetz.md` | Ernährungssicherstellungsgesetz |
-| `zivile-verteidigung/sicherstellungsgesetze/EltSV_Elektrizitaetssicherungsverordnung.md` | Elektrizitaetssicherungsverordnung |
+| `zivile-verteidigung/sicherstellungsgesetze/EltSV_Elektrizitaetssicherungsverordnung.md` | Elektrizitätssicherungsverordnung |
 | `zivile-verteidigung/sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md` | Energiesicherungsgesetz |
 | `zivile-verteidigung/sicherstellungsgesetze/GasSV_Gassicherungsverordnung.md` | Gassicherungsverordnung |
 | `zivile-verteidigung/sicherstellungsgesetze/PostG_Postgesetz_inkl_Sicherstellung.md` | Postgesetz |
@@ -107,7 +109,7 @@ graph LR
     BG -->|75x| BeamtStG
     KRITIS_Dachgesetz["KRITIS-Dachgesetz"]
     BSIG["BSIG"]
-    KRITIS_Dachgesetz -->|22x| BSIG
+    KRITIS_Dachgesetz -->|23x| BSIG
     IfSG["IfSG"]
     GG["GG"]
     IfSG -->|15x| GG
@@ -117,9 +119,9 @@ graph LR
     DG["DG"]
     BeamtVG["BeamtVG"]
     DG -->|8x| BeamtVG
-    DG -->|6x| BeamtStG
     NIS2UmsuCG["NIS2UmsuCG"]
-    NIS2UmsuCG -->|6x| BSIG
+    NIS2UmsuCG -->|7x| BSIG
+    DG -->|6x| BeamtStG
     BeurtVO_Fw["BeurtVO-Fw"]
     BeurtVO_Fw -->|5x| BeamtStG
     VerkLG["VerkLG"]
@@ -135,6 +137,8 @@ graph LR
     KRITIS_Dachgesetz -->|4x| TKG
     RettDG_Entwurf["RettDG-Entwurf"]
     RettDG_Entwurf -->|4x| GG
+    THWG["THWG"]
+    KZV -->|4x| THWG
     ZSKG["ZSKG"]
     KZV -->|4x| ZSKG
     Resilienzstrategie["Resilienzstrategie"]
@@ -153,6 +157,10 @@ graph LR
     DS_Anpassung_HH -->|2x| RettDG_Entwurf
     KRITIS_Dachgesetz -->|2x| NIS2UmsuCG
     RettDG_Entwurf -->|2x| ZSKG
+    BBKG["BBKG"]
+    KZV -->|2x| BBKG
+    EltSV["EltSV"]
+    KZV -->|2x| EltSV
     GasSV["GasSV"]
     KZV -->|2x| GasSV
     WasSiG["WasSiG"]
@@ -174,6 +182,7 @@ graph LR
     NIS2UmsuCG --> GasSV
     NIS2UmsuCG --> TKG
     RettDG_Entwurf --> IfSG
+    BBKG --> ZSKG
     KZV --> GG
     KZV --> BSIG
     GasSV --> EnSiG

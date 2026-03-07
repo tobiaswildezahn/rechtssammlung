@@ -24,7 +24,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 #### Inhaltsübersicht
 
-| Artikel 1  | Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in de Informationstechnik von Einrichtungen ([BSI-Gesetz](BSIG_BSI-Gesetz.md) – BSIG) |
+| Artikel 1  | [Gesetz über das Bundesamt für Sicherheit in der Informationstechnik](BSIG_BSI-Gesetz.md) und über die Sicherheit in de Informationstechnik von Einrichtungen ([BSI-Gesetz](BSIG_BSI-Gesetz.md) – BSIG) |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Artikel 2  | Änderung des BND-Gesetzes                                                                                                                                   |
 | Artikel 3  | Änderung der Sicherheitsüberprüfungsfeststellungsverordnung                                                                                                 |
