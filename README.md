@@ -10,7 +10,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 
 | Datei | Dokument |
 |-------|----------|
-| `grundgesetz/GG.md` | Grundgesetz für die Bundesrepublik Deutschland |
+| `grundgesetz/GG.md` | Grundgesetz |
 
 ### Zivile Verteidigung
 
@@ -20,16 +20,18 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | `zivile-verteidigung/ZSKG_Zivilschutzgesetz.md` | Zivilschutzgesetz |
 | `zivile-verteidigung/resilienz-katastrophen.md` | Deutsche Strategie zur Stärkung der Resilienz gegenüber Katastrophen |
 
+### Zivile Verteidigung
+
 #### Sicherstellungsgesetze
 
 | Datei | Dokument |
 |-------|----------|
 | `zivile-verteidigung/sicherstellungsgesetze/ASG_Arbeitssicherstellungsgesetz.md` | Arbeitssicherstellungsgesetz |
-| `zivile-verteidigung/sicherstellungsgesetze/ESVG_Ernaehrungssicherstellungsgesetz.md` | Ernaehrungssicherstellungsgesetz |
+| `zivile-verteidigung/sicherstellungsgesetze/ESVG_Ernaehrungssicherstellungsgesetz.md` | Ernährungssicherstellungsgesetz |
 | `zivile-verteidigung/sicherstellungsgesetze/EltSV_Elektrizitaetssicherungsverordnung.md` | Elektrizitaetssicherungsverordnung |
 | `zivile-verteidigung/sicherstellungsgesetze/EnSiG_Energiesicherungsgesetz.md` | Energiesicherungsgesetz |
 | `zivile-verteidigung/sicherstellungsgesetze/GasSV_Gassicherungsverordnung.md` | Gassicherungsverordnung |
-| `zivile-verteidigung/sicherstellungsgesetze/PostG_Postgesetz_inkl_Sicherstellung.md` | Postgesetz inkl Sicherstellung |
+| `zivile-verteidigung/sicherstellungsgesetze/PostG_Postgesetz_inkl_Sicherstellung.md` | Postgesetz |
 | `zivile-verteidigung/sicherstellungsgesetze/TKG_Telekommunikationsgesetz.md` | Telekommunikationsgesetz |
 | `zivile-verteidigung/sicherstellungsgesetze/VerkLG_Verkehrsleistungsgesetz.md` | Verkehrsleistungsgesetz |
 | `zivile-verteidigung/sicherstellungsgesetze/VerkSiG_Verkehrssicherstellungsgesetz.md` | Verkehrssicherstellungsgesetz |
@@ -40,7 +42,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 
 | Datei | Dokument |
 |-------|----------|
-| `kritis/KRITIS-Dachgesetz_BT-Drucksache.md` | Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen |
+| `kritis/KRITIS-Dachgesetz_BT-Drucksache.md` | KRITIS-Dachgesetz |
 | `kritis/NIS2UmsuCG_Bundesgesetzblatt.md` | NIS-2-Umsetzungsgesetz |
 
 ### Gesundheit
@@ -49,32 +51,34 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 |-------|----------|
 | `gesundheit/IfSG_Infektionsschutzgesetz.md` | Infektionsschutzgesetz |
 
+### Hamburg
+
 #### Katastrophenschutz
 
 | Datei | Dokument |
 |-------|----------|
-| `hamburg/katastrophenschutz/FeuerwG_HA.md` | Feuerwehrgesetz Hamburg |
+| `hamburg/katastrophenschutz/FeuerwG_HA.md` | FeuerwG HA |
 | `hamburg/katastrophenschutz/KatSO_Hamburg.md` | Katastrophenschutzordnung Hamburg |
-| `hamburg/katastrophenschutz/KatSchG_HA.md` | Hamburgisches Katastrophenschutzgesetz |
-| `hamburg/katastrophenschutz/RettDG_HA_2019.md` | Hamburgisches Rettungsdienstgesetz |
+| `hamburg/katastrophenschutz/KatSchG_HA.md` | HmbKatSG |
+| `hamburg/katastrophenschutz/RettDG_HA_2019.md` | HmbRettDG |
 
 #### Beamtenrecht
 
 | Datei | Dokument |
 |-------|----------|
-| `hamburg/beamtenrecht/BG_HA_2009.md` | Hamburgisches Beamtengesetz |
-| `hamburg/beamtenrecht/BeamtVG_HA.md` | Hamburgisches Beamtenversorgungsgesetz |
-| `hamburg/beamtenrecht/BesG_HA_2010.md` | Hamburgisches Besoldungsgesetz |
-| `hamburg/beamtenrecht/DG_HA.md` | Hamburgisches Disziplinargesetz |
-| `hamburg/beamtenrecht/GleichstG_HA_2015.md` | Hamburgisches Gleichstellungsgesetz |
-| `hamburg/beamtenrecht/PersVG_HA_2014.md` | Hamburgisches Personalvertretungsgesetz |
+| `hamburg/beamtenrecht/BG_HA_2009.md` | HmbBG |
+| `hamburg/beamtenrecht/BeamtVG_HA.md` | HmbBeamtVG |
+| `hamburg/beamtenrecht/BesG_HA_2010.md` | HmbBesG |
+| `hamburg/beamtenrecht/DG_HA.md` | HmbDG |
+| `hamburg/beamtenrecht/GleichstG_HA_2015.md` | HmbGleichstG |
+| `hamburg/beamtenrecht/PersVG_HA_2014.md` | HmbPersVG |
 
 #### Sonstige Hamburg
 
 | Datei | Dokument |
 |-------|----------|
 | `hamburg/BeurtVO-Fw.md` | Beurteilungsverordnung Feuerwehr |
-| `hamburg/SOG_HA.md` | Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung |
+| `hamburg/SOG_HA.md` | HmbSOG |
 | `hamburg/datenschutz-anpassung/21_12396_datenschutz_anpassung_katsg_fwg_rdg.md` | 12396 datenschutz anpassung katsg fwg rdg |
 
 ### Beamtenrecht Bund
@@ -84,8 +88,8 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | `beamtenrecht-bund/AGG.md` | Allgemeines Gleichbehandlungsgesetz |
 | `beamtenrecht-bund/ArbZG.md` | Arbeitszeitgesetz |
 | `beamtenrecht-bund/BBG.md` | Bundesbeamtengesetz |
-| `beamtenrecht-bund/BUrlG.md` | Mindesturlaubsgesetz für Arbeitnehmer |
-| `beamtenrecht-bund/BeamtStG.md` | Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern |
+| `beamtenrecht-bund/BUrlG.md` | Bundesurlaubsgesetz |
+| `beamtenrecht-bund/BeamtStG.md` | Beamtenstatusgesetz |
 
 ### Parlamentaria
 
