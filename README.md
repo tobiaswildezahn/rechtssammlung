@@ -20,8 +20,6 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | `zivile-verteidigung/ZSKG_Zivilschutzgesetz.md` | Zivilschutzgesetz |
 | `zivile-verteidigung/resilienz-katastrophen.md` | Deutsche Strategie zur Stärkung der Resilienz gegenüber Katastrophen |
 
-### Zivile Verteidigung
-
 #### Sicherstellungsgesetze
 
 | Datei | Dokument |
@@ -42,6 +40,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 
 | Datei | Dokument |
 |-------|----------|
+| `kritis/BSIG_BSI-Gesetz.md` | BSI-Gesetz |
 | `kritis/KRITIS-Dachgesetz_BT-Drucksache.md` | KRITIS-Dachgesetz |
 | `kritis/NIS2UmsuCG_Bundesgesetzblatt.md` | NIS-2-Umsetzungsgesetz |
 
@@ -106,6 +105,9 @@ graph LR
     BG["BG"]
     BeamtStG["BeamtStG"]
     BG -->|75x| BeamtStG
+    KRITIS_Dachgesetz["KRITIS-Dachgesetz"]
+    BSIG["BSIG"]
+    KRITIS_Dachgesetz -->|22x| BSIG
     IfSG["IfSG"]
     GG["GG"]
     IfSG -->|15x| GG
@@ -116,6 +118,8 @@ graph LR
     BeamtVG["BeamtVG"]
     DG -->|8x| BeamtVG
     DG -->|6x| BeamtStG
+    NIS2UmsuCG["NIS2UmsuCG"]
+    NIS2UmsuCG -->|6x| BSIG
     BeurtVO_Fw["BeurtVO-Fw"]
     BeurtVO_Fw -->|5x| BeamtStG
     VerkLG["VerkLG"]
@@ -127,7 +131,6 @@ graph LR
     KatSO["KatSO"]
     KatSchG["KatSchG"]
     KatSO -->|4x| KatSchG
-    KRITIS_Dachgesetz["KRITIS-Dachgesetz"]
     TKG["TKG"]
     KRITIS_Dachgesetz -->|4x| TKG
     RettDG_Entwurf["RettDG-Entwurf"]
@@ -148,7 +151,6 @@ graph LR
     DS_Anpassung_HH["DS-Anpassung-HH"]
     DS_Anpassung_HH -->|2x| KatSchG
     DS_Anpassung_HH -->|2x| RettDG_Entwurf
-    NIS2UmsuCG["NIS2UmsuCG"]
     KRITIS_Dachgesetz -->|2x| NIS2UmsuCG
     RettDG_Entwurf -->|2x| ZSKG
     GasSV["GasSV"]
@@ -157,6 +159,7 @@ graph LR
     KZV -->|2x| WasSiG
     ASG["ASG"]
     KZV -->|2x| ASG
+    Resilienzstrategie -->|2x| BSIG
     Resilienzstrategie -->|2x| GG
     AGG["AGG"]
     AGG --> GG
@@ -172,6 +175,7 @@ graph LR
     NIS2UmsuCG --> TKG
     RettDG_Entwurf --> IfSG
     KZV --> GG
+    KZV --> BSIG
     GasSV --> EnSiG
     VerkSiG --> ZSKG
 ```

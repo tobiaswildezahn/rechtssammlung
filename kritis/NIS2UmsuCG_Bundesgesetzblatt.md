@@ -24,7 +24,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 #### Inhaltsübersicht
 
-| Artikel 1  | Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in de Informationstechnik von Einrichtungen (BSI-Gesetz – BSIG) |
+| Artikel 1  | Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in de Informationstechnik von Einrichtungen ([BSI-Gesetz](BSIG_BSI-Gesetz.md) – BSIG) |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Artikel 2  | Änderung des BND-Gesetzes                                                                                                                                   |
 | Artikel 3  | Änderung der Sicherheitsüberprüfungsfeststellungsverordnung                                                                                                 |
@@ -65,7 +65,7 @@ Dieses Gesetz dient der Umsetzung der Richtlinie (EU) 2022/2555 des Europäische
 | Artikel    | 30 Inkrafttreten                                                                                                                                                                                   |  |  |
 |            | Artikel 1                                                                                                                                                                                          |  |  |
 |            | Gesetz                                                                                                                                                                                             |  |  |
-| über       | das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit<br>in der Informationstechnik von Einrichtungen<br>(BSI-Gesetz – BSIG)                                             |  |  |
+| über       | das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit<br>in der Informationstechnik von Einrichtungen<br>([BSI-Gesetz](BSIG_BSI-Gesetz.md) – BSIG)                                             |  |  |
 |            | Inhaltsübersicht                                                                                                                                                                                   |  |  |
 |            | Teil 1                                                                                                                                                                                             |  |  |
 |            | Allgemeine Vorschriften                                                                                                                                                                            |  |  |
@@ -1503,7 +1503,7 @@ In § 1 Nummer 8 wird die Angabe "§ 3 Absatz 1 Satz 2 Nummer 1, Nummer 13 Satz 
 
 Das Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz vom 23. Juni 2021 (BGBI. I S. 1982; 2022 I S. 1045), das zuletzt durch Artikel 44 des Gesetzes vom 12. Juli 2024 (BGBI. 2024 I Nr. 234) geändert worden ist, wird wie folgt geändert:
 
-In § 19 Absatz 4 Satz 4 wird die Angabe "§ 7d Satz 1 BSI-Gesetz" durch die Angabe "§ 17 Satz 1 des BSI-Gesetzes" ersetzt.
+In § 19 Absatz 4 Satz 4 wird die Angabe "§ 7d Satz 1 [BSI-Gesetz](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 17 Satz 1 des BSI-Gesetzes" ersetzt.
 
 #### Artikel 5
 
@@ -1553,7 +1553,7 @@ Die BSI-Kritisverordnung vom 22. April 2016 (BGBI. I S. 958), die zuletzt durch 
 
 "Verordnung
 
-zur Bestimmung kritischer Anlagen nach dem BSI-Gesetz".
+zur Bestimmung kritischer Anlagen nach dem [BSI-Gesetz](BSIG_BSI-Gesetz.md)".
 
 - 2. § 1 Absatz 1 wird wie folgt geändert:
   - a) Die Nummern 2 und 3 werden gestrichen.
@@ -1711,7 +1711,7 @@ Die BSI-IT-Sicherheitskennzeichenverordnung vom 24. November 2021 (BGBI. I S. 49
 - 2. In § 2 Nummer 4 wird die Angabe "§ 9c Absatz 3 Satz 1 des BSI-Gesetzes" durch die Angabe "§ 55 Absatz 3 Satz 1 des BSI-Gesetzes" ersetzt.
 - 3. In § 3 Absatz 1 Satz 1 wird die Angabe "§ 9c Absatz 2 des BSI-Gesetzes" durch die Angabe "§ 55 Absatz 2 des BSI-Gesetzes" ersetzt.
 - 4. In § 5 wird wie folgt geändert:
-  - a) In Absatz 4 wird die Angabe "§ 9c Absatz 5 BSIG" durch die Angabe "§ 55 Absatz 5 des BSI-Gesetzes" ersetzt
+  - a) In Absatz 4 wird die Angabe "[§ 9c Absatz 5 BSIG](BSIG_BSI-Gesetz.md)" durch die Angabe "§ 55 Absatz 5 des BSI-Gesetzes" ersetzt
   - b) In Absatz 5 Satz 1 Nummer 2 wird die Angabe "§§ 7 oder 7a des BSI-Gesetzes" durch die Angabe "§ 13 oder 14 des BSI-Gesetzes" und die Angabe "§ 9c Absatz 8 des BSI-Gesetzes" durch die Angabe "§ 55 Absatz 8 des BSI-Gesetzes" ersetzt.
 - 5. In § 6 Absatz 1 wird die Angabe "§ 9 des BSI-Gesetzes" durch die Angabe "§ 52 des BSI-Gesetzes" ersetzt.
 - 6. In § 7 Absatz 3 und § 9 Absatz 1 Satz 1 wird jeweils die Angabe "§ 9c des BSI-Gesetzes" durch die Angabe "§ 55 des BSI-Gesetzes" ersetzt.
@@ -2102,7 +2102,7 @@ Das Vertrauensdienstegesetz vom 18. Juli 2017 (BGBI. I S. 2745), das durch Artik
 
 # Außerkrafttreten
 
-Das BSI-Gesetz vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist, tritt am Tag nach der Verkündung dieses Gesetzes außer Kraft.
+Das [BSI-Gesetz](BSIG_BSI-Gesetz.md) vom 14. August 2009 (BGBI. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBI. I S. 1982) geändert worden ist, tritt am Tag nach der Verkündung dieses Gesetzes außer Kraft.
 
 {65}------------------------------------------------
 
