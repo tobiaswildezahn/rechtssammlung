@@ -24,7 +24,7 @@ Zudem wird mit dieser Drucksache der Buchstabe E des Bürgerschaftliche Ersuchen
 
 Die Bürgerschaft hatte den Senat wie folgt ersucht:
 
-"Der Senat wird ersucht, vor dem Hintergr- und veränderter Herausforderungen und Krisenszenarien den Bereich Katastrophen- und Bevölkerungsschutz im fachlich zuständigen Amt in der Innenbehörde zu stärken, unter Einbeziehung auch externer fachlicher Expertise in seinen Fähigkeiten breiter aufzustellen und diesen weiter zu professionalisieren und der Bürgerschaft bis zum 30. September 2023 zu berichten."
+"Der Senat wird ersucht, vor dem Hintergrund veränderter Herausforderungen und Krisenszenarien den Bereich Katastrophen- und Bevölkerungsschutz im fachlich zuständigen Amt in der Innenbehörde zu stärken, unter Einbeziehung auch externer fachlicher Expertise in seinen Fähigkeiten breiter aufzustellen und diesen weiter zu professionalisieren und der Bürgerschaft bis zum 30. September 2023 zu berichten."
 
 Mit dieser Drucksache wird dem entsprechenden Ersuchen nachgekommen und ein konkreter entsprechender Vorschlag zur Anpassung der erforderlichen Ermächtigungen im Haushaltsplan-Entwurf 2025/2026 vorgelegt.
 
@@ -70,7 +70,7 @@ Abweichend vom klassischen vorbeugenden Katastrophenschutz wird es darüber hina
 
 Mit Blick auf die Bundeswehr muss zukünftig auf Grund der veränderten militärischen Bedrohungslage mit weniger Unterstützungsmöglichkeiten bei nichtmilitärischen Lagen durch Amtshilfeverfahren gerechnet werden. Die Bundeswehr wird sich zunehmend auf Landes- und Bündnisverteidigung konzentrieren und bisherige Unterstützungen in Krisen und Katastrophen in diesen Umfang gegebenenfalls nicht mehr wahrnehmen können.
 
-Vor dem Hintergr- und der Notwendigkeiten für die zukünftige Wahrnehmung der Gesamtverteidigung wird es auch in Hamburg erforderlich sein, dass die Stadt Unterstützung und Hilfeleistungen für die Bundeswehr erbringt.
+Vor dem Hintergrund der Notwendigkeiten für die zukünftige Wahrnehmung der Gesamtverteidigung wird es auch in Hamburg erforderlich sein, dass die Stadt Unterstützung und Hilfeleistungen für die Bundeswehr erbringt.
 
 All dies macht deutlich, dass es zwingende Entwicklungsbedarfe für die Krisenbewältigungsfähigkeit aller staatlichen Institutionen und die Strukturen der zivilmilitärischen Zusammenarbeit gibt. Die Ansätze, diesen Bedarfen dauerhaft erfolgreich entgegentreten zu können, ergeben sich aus einer Neuausrichtung, die sich von den bisherigen klassischen Katastrophenschutzszenarien löst und hinwendet zu einem ganzheitlichen Bevölkerungsschutz, welcher sich mittels des "All-Gefahren-Ansatzes" auf verschiedene Gefahrenereignisse einstellt, dazu mit flexiblen, angepassten Konzepten arbeitet und die Vorbereitung auf solche Ereignisse mit einer erweiterten Ressourcenausstattung und stärkeren Fokussierung auf generelle Risiken aus den städtischen/kritischen Infrastrukturen ableitet.
 
@@ -424,7 +424,7 @@ Angesichts bereits erfolgter Hackerangriffe auf Institutionen wie die HAW Hambur
 | Neu etablierte Unterstützung für die fortlaufende Härtung (Sicherheitsupdates etc.) des AK-Netztes                | 400  | 400  | 400  | 400  |
 | Erhöhte Kosten für den IT-Betrieb des abgesetzten, neuen Standortes voraus sichtlich bis 2028 (Überseering 35)    | 200  | 200  | 200  | 200  |
 
-1. Auch die Zugangskontrollen der Polizeiliegenschaften sind zwingend zu erneuern. Darin vereint aktuell ist sowohl der physische Zugang zu den Liegenschaften als auch die Berechtigung aller Polizeimitarbeitenden, auf die polizeilichen IT-Systeme zuzugreifen. Hintergr- und ist der End-of-life der zugrundeliegenden Technologie und dadurch ausgelöste Sicherheitsbedenken. Hierfür entstehen Mehrbedarfe einmalig (investiv) im Haushaltsjahr 2025 – in Höhe von 1.500 Tsd. Euro für Neue Dienstausweise (prozessor-basierte Smart-Cards), Lesegeräte für Dienstausweise für Gebäude und Rechner, Programmiergeräte für neue Dienstausweise sowie sonstige Kleingeräte wie Ladegeräte, Dockingstationen. Der in der nachfolgenden Übersicht über die 1.500 Tsd. Euro hinausgehende Betrag wird aus den bereits vorhandenen Ermächtigungen des Aufgabenbereichs AB 275 "Polizei" finanziert.
+1. Auch die Zugangskontrollen der Polizeiliegenschaften sind zwingend zu erneuern. Darin vereint aktuell ist sowohl der physische Zugang zu den Liegenschaften als auch die Berechtigung aller Polizeimitarbeitenden, auf die polizeilichen IT-Systeme zuzugreifen. Hintergrund ist der End-of-life der zugrundeliegenden Technologie und dadurch ausgelöste Sicherheitsbedenken. Hierfür entstehen Mehrbedarfe einmalig (investiv) im Haushaltsjahr 2025 – in Höhe von 1.500 Tsd. Euro für Neue Dienstausweise (prozessor-basierte Smart-Cards), Lesegeräte für Dienstausweise für Gebäude und Rechner, Programmiergeräte für neue Dienstausweise sowie sonstige Kleingeräte wie Ladegeräte, Dockingstationen. Der in der nachfolgenden Übersicht über die 1.500 Tsd. Euro hinausgehende Betrag wird aus den bereits vorhandenen Ermächtigungen des Aufgabenbereichs AB 275 "Polizei" finanziert.
 
 Im Bereich der Leistungen betragen die Ermächtigungen ab 2026 jährlich 500 Tsd. Euro für Betriebskosten für folgende Externe Leistungen (u.a. Dataport AöR, Sprinkenhof GmbH, Dallmann, Digitronic):
 
