@@ -98,6 +98,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | Datei | Dokument |
 |-------|----------|
 | `parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md` | 16376 entwurf rettungsdienstgesetz |
+| `parlamentaria/Drs_22-16268_Bevoelkerungsschutz.md` | 22-16268 Bevoelkerungsschutz |
 
 ## Querverweise
 
@@ -144,6 +145,9 @@ graph LR
     VerkSiG -->|10x| GG
     BeamtStG -->|9x| GG
     DG -->|9x| BeamtVG
+    Drs["Drs"]
+    KatSchG["KatSchG"]
+    Drs -->|9x| KatSchG
     KZV["KZV"]
     WiSiG["WiSiG"]
     KZV -->|9x| WiSiG
@@ -167,7 +171,6 @@ graph LR
     PersVG["PersVG"]
     PersVG -->|5x| BG
     PersVG -->|5x| DG
-    KatSchG["KatSchG"]
     DS_Anpassung_HH -->|5x| KatSchG
     VerkLG["VerkLG"]
     KZV -->|5x| VerkLG
@@ -185,6 +188,7 @@ graph LR
     NATOVertrag["NATOVertrag"]
     UNCharta["UNCharta"]
     NATOVertrag -->|4x| UNCharta
+    Drs -->|4x| KZV
     KZV -->|4x| EnSiG
     THWG["THWG"]
     KZV -->|4x| THWG
@@ -222,6 +226,10 @@ graph LR
     NIS2UmsuCG -->|2x| EnSiG
     NIS2UmsuCG -->|2x| NATOVertrag
     RettDG_Entwurf -->|2x| ZSKG
+    Drs -->|2x| KRITIS_Dachgesetz
+    Drs -->|2x| EnSiG
+    Drs -->|2x| WasSiG
+    Drs -->|2x| ASG
     BBKG["BBKG"]
     KZV -->|2x| BBKG
     KZV -->|2x| EltSV
@@ -261,6 +269,10 @@ graph LR
     NIS2UmsuCG --> GasSV
     RettDG_Entwurf --> KatSchG
     RettDG_Entwurf --> IfSG
+    Drs --> ZSKG
+    Drs --> VerkSiG
+    Drs --> WiSiG
+    Drs --> SOG
     BBKG --> ZSKG
     KZV --> TKG
     ZSKG --> THWG
