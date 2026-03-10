@@ -98,7 +98,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | Datei | Dokument |
 |-------|----------|
 | `parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md` | 16376 entwurf rettungsdienstgesetz |
-| `parlamentaria/23_03191_personalverwaltung_und_befoerderungsstrategie_bei_der_feuerwehr_hamburg.md` | Schriftliche Kleine Anfrage |
+| `parlamentaria/23_03195_jahresbericht_2026_des_rechnungshofs_der_freien_und_hansestadt_hamburg.md` | JAHRESBERICHT 2026 |
 | `parlamentaria/Drs_22-16268_Bevoelkerungsschutz.md` | 22-16268 Bevoelkerungsschutz |
 
 ## Querverweise
@@ -189,6 +189,11 @@ graph LR
     NATOVertrag["NATOVertrag"]
     UNCharta["UNCharta"]
     NATOVertrag -->|4x| UNCharta
+    23["23"]
+    ArbZG["ArbZG"]
+    23 -->|4x| ArbZG
+    23 -->|4x| BG
+    23 -->|4x| SOG
     Drs -->|4x| KZV
     KZV -->|4x| EnSiG
     THWG["THWG"]
@@ -241,7 +246,6 @@ graph LR
     ESVG -->|2x| GG
     ESVG -->|2x| VerkSiG
     EnSiG -->|2x| BSIG
-    ArbZG["ArbZG"]
     PostG -->|2x| ArbZG
     VerkSiG -->|2x| ZSKG
     AGG["AGG"]
@@ -270,8 +274,7 @@ graph LR
     NIS2UmsuCG --> GasSV
     RettDG_Entwurf --> KatSchG
     RettDG_Entwurf --> IfSG
-    23["23"]
-    23 --> Drs
+    23 --> BesG
     Drs --> ZSKG
     Drs --> VerkSiG
     Drs --> WiSiG
