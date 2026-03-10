@@ -98,6 +98,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | Datei | Dokument |
 |-------|----------|
 | `parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md` | 16376 entwurf rettungsdienstgesetz |
+| `parlamentaria/23_03191_personalverwaltung_und_befoerderungsstrategie_bei_der_feuerwehr_hamburg.md` | Schriftliche Kleine Anfrage |
 | `parlamentaria/Drs_22-16268_Bevoelkerungsschutz.md` | 22-16268 Bevoelkerungsschutz |
 
 ## Querverweise
@@ -269,6 +270,8 @@ graph LR
     NIS2UmsuCG --> GasSV
     RettDG_Entwurf --> KatSchG
     RettDG_Entwurf --> IfSG
+    23["23"]
+    23 --> Drs
     Drs --> ZSKG
     Drs --> VerkSiG
     Drs --> WiSiG
