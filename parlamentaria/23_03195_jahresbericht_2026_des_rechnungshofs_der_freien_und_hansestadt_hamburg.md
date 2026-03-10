@@ -931,7 +931,7 @@ Die nicht verbrauchten Ermächtigungen wurden vollständig ins Folgejahr übertr
 
 Die Ansatzerhöhungen korrespondieren auch hier weitestgehend mit entsprechenden Erlösanpassungen innerhalb derselben Produktgruppe.
 
-62. Fall 9: Der Senat hat nur einen Monat später erneut eine Verstärkung der *Globalen Mehrkosten* der PG 295.12 "Zentrale Programme E" beantragt (siehe Fall 7). Die beantragten zusätzlichen Mittel betrugen 2,7 Mio. Euro und dienten der Erstellung einer kommunalen Wärmeplanung. Die Mittel stammten aus der PG 283.01 "Zentrale Ansätze I" des EP 9.2 (Allgemeine Finanzwirtschaft).16 Die Bürgerschaft hat dem Antrag am 13. November 2024 zugestimmt. Aus einer Schriftlichen Kleinen Anfrage aus dem Juli des Folgejahres ging hervor, dass von den für 2024 bewilligten Mitteln im Haushaltsjahr 2024 rund 2,6 Mio. Euro noch nicht verwendet wurden. Die im Haushaltsjahr 2024 nicht in Anspruch genommenen Kostenermächtigungen zur Umsetzung des Projektes Wärmeplanung 2.0 waren auf einen sukzessiven Personalaufbau zurückzuführen. Dementsprechend erfolgte auch die Beauftragung externer Firmen zur Unterstützung der Umsetzung der Projektaufträge entsprechend versetzt.17
+62. Fall 9: Der Senat hat nur einen Monat später erneut eine Verstärkung der *Globalen Mehrkosten* der PG 295.12 "Zentrale Programme E" beantragt (siehe Fall 7). Die beantragten zusätzlichen Mittel betrugen 2,7 Mio. Euro und dienten der Erstellung einer kommunalen Wärmeplanung. Die Mittel stammten aus der PG 283.01 "Zentrale Ansätze I" des EP 9.2 (Allgemeine Finanzwirtschaft).16 Die Bürgerschaft hat dem Antrag am 13. November 2024 zugestimmt. Aus einer [Schriftlichen Kleinen Anfrage](23_03256_notfallversorgung_in_der_krise_ii.md) aus dem Juli des Folgejahres ging hervor, dass von den für 2024 bewilligten Mitteln im Haushaltsjahr 2024 rund 2,6 Mio. Euro noch nicht verwendet wurden. Die im Haushaltsjahr 2024 nicht in Anspruch genommenen Kostenermächtigungen zur Umsetzung des Projektes Wärmeplanung 2.0 waren auf einen sukzessiven Personalaufbau zurückzuführen. Dementsprechend erfolgte auch die Beauftragung externer Firmen zur Unterstützung der Umsetzung der Projektaufträge entsprechend versetzt.17
 
 Diese Entwicklung hätte die Behörde bereits zum Antragszeitpunkt Ende September 2024 absehen müssen, gleichwohl hat sie die entsprechenden Mittel – entgegen dem Fälligkeitsprinzip – für das Haushaltsjahr 2024 eingeworben. Der ins Folgejahr übertragene Rest betrug, wie bereits aufgezeigt, 15,6 Mio. Euro.
 
@@ -3497,7 +3497,7 @@ An- und Abmeldungen können online ohne Identitätsüberprüfung vorgenommen wer
 
 *Hunderegister spiegelt Anzahl der Hunde in Hamburg nicht wider*
 
-751. Sowohl statistische Auswertungen zum Beispiel zur Beantwortung Schriftlicher Kleiner Anfragen als auch die Mitteilungen an die Hundesteuerstelle sind insofern zweifelhaft. Das Hunderegister führt die Dateninkonsistenz auf fehlende Abmeldungen der Halterinnen und Halter sowie die bisher nicht vorhandene Rückmel-
+751. Sowohl statistische Auswertungen zum Beispiel zur Beantwortung [Schriftlicher Kleiner Anfragen](23_03256_notfallversorgung_in_der_krise_ii.md) als auch die Mitteilungen an die Hundesteuerstelle sind insofern zweifelhaft. Das Hunderegister führt die Dateninkonsistenz auf fehlende Abmeldungen der Halterinnen und Halter sowie die bisher nicht vorhandene Rückmel-
 
 - dung der Hundesteuerstelle zu den dort verarbeiteten An- oder Abmeldungen zurück.
 - 752. Der Rechnungshof hat die mangelhafte Datenqualität beanstandet und gefordert, diese zu verbessern.
