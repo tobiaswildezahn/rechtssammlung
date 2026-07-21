@@ -79,7 +79,9 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 
 | Datei | Dokument |
 |-------|----------|
+| `hamburg/BIS_Geschaeftsordnung.md` | Geschaeftsordnung |
 | `hamburg/BeurtVO-Fw.md` | Beurteilungsverordnung Feuerwehr |
+| `hamburg/BuergGO_HA_2025.md` | BürgGO HA 2025 | Landesnorm Hamburg | Gesamtausgabe | Geschäftsordnung der Hamburgischen Bürgerschaft vom 26. März 2025 | gültig ab: 26.03.2025 |
 | `hamburg/SOG_HA.md` | HmbSOG |
 | `hamburg/datenschutz-anpassung/21_12396_datenschutz_anpassung_katsg_fwg_rdg.md` | 12396 datenschutz anpassung katsg fwg rdg |
 
@@ -99,6 +101,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 |-------|----------|
 | `parlamentaria/21_16376_entwurf_rettungsdienstgesetz.md` | 16376 entwurf rettungsdienstgesetz |
 | `parlamentaria/23_03256_notfallversorgung_in_der_krise_ii.md` | Schriftliche Kleine Anfrage |
+| `parlamentaria/BT-Drs_V-2873_Notstandsverfassung_Rechtsausschuss.md` | V-2873 Notstandsverfassung Rechtsausschuss |
 | `parlamentaria/Drs_22-16268_Bevoelkerungsschutz.md` | 22-16268 Bevoelkerungsschutz |
 
 ## Querverweise
@@ -124,6 +127,8 @@ graph LR
     RettDG["RettDG"]
     RettDG_Entwurf -->|25x| RettDG
     BeamtVG -->|22x| BeamtStG
+    BT_Drs["BT-Drs"]
+    BT_Drs -->|20x| GG
     DG["DG"]
     DG -->|17x| BG
     TKG["TKG"]
@@ -211,6 +216,8 @@ graph LR
     KatSchG -->|3x| GG
     BSIG -->|3x| GG
     NIS2UmsuCG -->|3x| GG
+    BIS["BIS"]
+    Drs -->|3x| BIS
     KZV -->|3x| GG
     Resilienzstrategie -->|3x| BSIG
     Resilienzstrategie -->|3x| NATOVertrag
@@ -251,6 +258,7 @@ graph LR
     BBG --> BeamtStG
     BBG --> ASG
     BeamtStG --> ASG
+    BIS --> BG
     BeurtVO_Fw --> GG
     SOG --> BeamtStG
     SOG --> BG
@@ -270,6 +278,9 @@ graph LR
     NIS2UmsuCG --> GasSV
     RettDG_Entwurf --> KatSchG
     RettDG_Entwurf --> IfSG
+    BT_Drs --> WiSiG
+    BT_Drs --> VerkSiG
+    BT_Drs --> ESVG
     Drs --> ZSKG
     Drs --> VerkSiG
     Drs --> WiSiG

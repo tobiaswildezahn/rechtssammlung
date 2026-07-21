@@ -331,7 +331,7 @@ Sie zahlte dem Hamburger Sportb- und Zuwendungsmittel für Sportinfrastrukturma�
 
 Vom Hamburger Sportb- und vorgelegte Zwischenverwendungs- und Verwendungsnachweise prüfte die Behörde weder nach dem unverzüglich durchzuführenden Standardverfahren noch weitergehend. Überdies machte sie Rückforderungsansprüche nicht geltend und überprüfte die Zuwendungen auch nicht auf ihre Zielerreichung.
 
-Der Rechnungshof hat entsprechende Verstöße gegen das Zuwendungsrecht bereits im Rahmen früherer Prüfungen vorgefunden und beanstandet. Ihren damaligen Zusagen zur Beachtung des Zuwendungsrechts ist die BIS weiterhin nicht nachgekommen. Ihre zur aktuellen Prüfung gegebenen Zusagen will sie nun beachten und dem Rechnungshof bezüglich der Umsetzung berichten.
+Der Rechnungshof hat entsprechende Verstöße gegen das Zuwendungsrecht bereits im Rahmen früherer Prüfungen vorgefunden und beanstandet. Ihren damaligen Zusagen zur Beachtung des Zuwendungsrechts ist die [BIS](../hamburg/BIS_Geschaeftsordnung.md) weiterhin nicht nachgekommen. Ihre zur aktuellen Prüfung gegebenen Zusagen will sie nun beachten und dem Rechnungshof bezüglich der Umsetzung berichten.
 
 #### Zuwendungen in der Kinder- und Jugendhilfe
 *Bezirksämter Hamburg-Mitte, Hamburg-Nord und Wandsbek*
@@ -383,7 +383,7 @@ Die Behörde für Justiz und Verbraucherschutz (BJV) hat im Bereich Arbeitsschut
 
 Die Behörde für Inneres und Sport (BIS) in Hamburg ist für die Glücksspielaufsicht zuständig und erhebt Gebühren auf Grundlage der einschlägigen Gebührenordnung. Bei der Ermittlung der Gebühren hat sie den Kostendeckungsgrundsatz teilweise nicht eingehalten.
 
-Im Bereich des Glücksspiels übersteigt der wirtschaftliche Wert von Amtshandlungen für die Glücksspielbetreiber häufig die mit der Amtshandlung verursachten Kosten. Die Verwaltung darf daher kostenüberdeckende Gebühren verlangen und hat dies auch getan – allerdings fehlte es an nachvollziehbaren und überprüfbaren Kriterien für die Festlegung kostenüberdeckender Gebühren. Dies führt dazu, dass die Gebührenordnung in vielen Fällen keine rechtssichere Grundlage für Gebührenforderungen bietet. Der Rechnungshof hat die BIS aufgefordert, die Gebühren künftig nach betriebswirtschaftlichen Grundsätzen und gebührenrechtlichen Vorschriften zu ermitteln und die Gebührenordnung neuzufassen.
+Im Bereich des Glücksspiels übersteigt der wirtschaftliche Wert von Amtshandlungen für die Glücksspielbetreiber häufig die mit der Amtshandlung verursachten Kosten. Die Verwaltung darf daher kostenüberdeckende Gebühren verlangen und hat dies auch getan – allerdings fehlte es an nachvollziehbaren und überprüfbaren Kriterien für die Festlegung kostenüberdeckender Gebühren. Dies führt dazu, dass die Gebührenordnung in vielen Fällen keine rechtssichere Grundlage für Gebührenforderungen bietet. Der Rechnungshof hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, die Gebühren künftig nach betriebswirtschaftlichen Grundsätzen und gebührenrechtlichen Vorschriften zu ermitteln und die Gebührenordnung neuzufassen.
 
 ## Gebühren und Aufwandserstattung bei der Feuerwehr (ohne Rettungsdienst, Akademie und Erstattung Bund)
 *Behörde für Inneres und Sport / Feuerwehr Hamburg*
@@ -1966,7 +1966,7 @@ Weitergehende Recherchen innerhalb der Polizei sowie bei der Staatsanwaltschaft 
 - 335. Bei der Staatsanwaltschaft hat er angeregt zu prüfen, ob sie ungenutzte Stellplätze in Fahrradparkhäusern wie dem in der Kellinghusenstraße5 zur Verwahrung akquirieren kann, um die verbleibende Verwahrlast der Polizei zu mindern.
 
 ### Ministerielle Steuerung
-- 336. Nach der Geschäftsordnung der Behörde für Inneres und Sport (BIS) obliegt ihrem Amt A die ministerielle Steuerung der Aufgabenwahrnehmung innerhalb der Behörde, um ein rechtmäßiges, zweckmäßiges und wirtschaftliches Verwaltungshandeln zu sichern. Das Amt A kann den anderen Ämtern – d. h. auch der Polizei – insoweit Vorgaben machen und hat in Konfliktfällen die Entscheidungskompetenz. Dem Amt A waren die Engpässe in der Asservatenverwaltung der Polizei schon vor der Prüfung des Rechnungshofs grundsätzlich bekannt. Jedoch haben auch die vom Rechnungshof aufgezeigten Mängel (Tzn. [325](#page-10-0) f. und [330](#page-11-0) ff.) das Amt A nicht bewogen, von seiner Steuerungsmöglichkeit gegenüber der Polizei Gebrauch zu machen.
+- 336. Nach der [Geschäftsordnung der Behörde für Inneres](../hamburg/BIS_Geschaeftsordnung.md) und Sport (BIS) obliegt ihrem Amt A die ministerielle Steuerung der Aufgabenwahrnehmung innerhalb der Behörde, um ein rechtmäßiges, zweckmäßiges und wirtschaftliches Verwaltungshandeln zu sichern. Das Amt A kann den anderen Ämtern – d. h. auch der Polizei – insoweit Vorgaben machen und hat in Konfliktfällen die Entscheidungskompetenz. Dem Amt A waren die Engpässe in der Asservatenverwaltung der Polizei schon vor der Prüfung des Rechnungshofs grundsätzlich bekannt. Jedoch haben auch die vom Rechnungshof aufgezeigten Mängel (Tzn. [325](#page-10-0) f. und [330](#page-11-0) ff.) das Amt A nicht bewogen, von seiner Steuerungsmöglichkeit gegenüber der Polizei Gebrauch zu machen.
 - 337. Die Behörde für Justiz und Verbraucherschutz (BJV) lässt sich als Aufsichtsbehörde über die Staatsanwaltschaften von diesen seit Februar 2023 monatlich über die Angelegenheiten der Asservatenverwaltung schriftlich berichten. Auch zur Konkretisierung asservatenbezogener Regelungen in den Richtlinien für das Strafverfahren und das Bußgeldverfahren hatte die damalige Justizbehörde im Jahr 1982 eine Verwaltungsvorschrift erlassen, die sie zuletzt im Jahr 2007 aktualisiert hat. Die BJV hat es versäumt, diese Verwaltungsvorschrift der aktuellen
 
 *Hoher Bestand an Fahrrädern belastet Ver-*
@@ -1977,7 +1977,7 @@ Weitergehende Recherchen innerhalb der Polizei sowie bei der Staatsanwaltschaft 
 
 Situation der Asservatenverwaltung der Staatsanwaltschaft anzupassen. Sie entspricht nicht mehr der aktuellen Arbeitsweise und dem Volumen der Asservatenverwaltung der Staatsanwaltschaft. Gemessen an den Erkenntnissen dieser Prüfung wären insbesondere Regelungen zur Herstellung einer angemessenen eigenen Informationslage (Tz. [328](#page-11-0)) geboten. Darüber hinaus könnte das bereits praktizierte monatliche Berichtswesen verstetigt werden.
 
-338. Der Rechnungshof hat die unzureichende ministerielle Steuerung beanstandet. Er hat die BIS aufgefordert, Möglichkeiten und inhaltliche Vorgaben für die Steuerung der Asservatenverwaltung der Polizei zu prüfen. Die BJV hat er aufgefordert, die Verwaltungsvorschrift zeitnah und unter Berücksichtigung der Erkenntnisse aus dieser Prüfung zu aktualisieren.
+338. Der Rechnungshof hat die unzureichende ministerielle Steuerung beanstandet. Er hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, Möglichkeiten und inhaltliche Vorgaben für die Steuerung der Asservatenverwaltung der Polizei zu prüfen. Die BJV hat er aufgefordert, die Verwaltungsvorschrift zeitnah und unter Berücksichtigung der Erkenntnisse aus dieser Prüfung zu aktualisieren.
 
 ### Stellungnahme der Verwaltung
 339. Die BIS und die BJV haben zugesagt, den Forderungen des Rechnungshofs nachzukommen sowie seine Anregungen aufzugreifen und zu prüfen.
@@ -3871,7 +3871,7 @@ Quelle: Sportfördervertrag 2021-2024 und Anschlussvereinbarung 2023-2024
 <sup>1</sup> § 37 Absatz 4 LHO.
 
 - 838. Im Rahmen früherer Prüfungen beim LSP hatte der Rechnungshof bereits Verstöße gegen die Außerachtlassung der Zweimonatsfrist beanstandet. Die BIS hatte deren künftige Einhaltung zugesagt.3
-- 839. Der Rechnungshof hat erneut beanstandet, dass die BIS Zuwendungsmittel an den HSB auszahlte, die nicht voraussichtlich innerhalb von zwei Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt wurden. Er hat die BIS aufgefordert, künftig nach den Vorgaben der VV zu § 46 LHO zu verfahren.
+- 839. Der Rechnungshof hat erneut beanstandet, dass die [BIS](../hamburg/BIS_Geschaeftsordnung.md) Zuwendungsmittel an den HSB auszahlte, die nicht voraussichtlich innerhalb von zwei Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt wurden. Er hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, künftig nach den Vorgaben der VV zu § 46 LHO zu verfahren.
 
 #### Verwendungsnachweisprüfungen
 - 840. Die auf Basis des Sportfördervertrages 2021 bis 2024 jeweils für zwei Jahre erlassenen Zuwendungsbescheide verpflichten den HSB
@@ -3894,8 +3894,8 @@ Quelle: Sportfördervertrag 2021-2024 und Anschlussvereinbarung 2023-2024
 
 <sup>4</sup> Nr. 13.1 VV zu § 46 LHO.
 
-- 845. Der Rechnungshof hat beanstandet, dass die BIS die vom HSB als Zwischenverwendungsnachweis und Verwendungsnachweis vorgelegten Unterlagen nicht unverzüglich einer Standardprüfung unterzog.
-- 846. Er hat die BIS aufgefordert, die vorliegenden sowie die künftig eingehenden Zwischenverwendungsnachweis- und Verwendungsnachweisunterlagen unverzüglich Standardprüfungen zu unterziehen sowie dies in Vermerken zu dokumentieren.
+- 845. Der Rechnungshof hat beanstandet, dass die [BIS](../hamburg/BIS_Geschaeftsordnung.md) die vom HSB als Zwischenverwendungsnachweis und Verwendungsnachweis vorgelegten Unterlagen nicht unverzüglich einer Standardprüfung unterzog.
+- 846. Er hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, die vorliegenden sowie die künftig eingehenden Zwischenverwendungsnachweis- und Verwendungsnachweisunterlagen unverzüglich Standardprüfungen zu unterziehen sowie dies in Vermerken zu dokumentieren.
 
 Zudem hat er der BIS empfohlen, sowohl auf eine Verschlankung von Inhalt und Umfang der Zwischenverwendungsnachweise und Verwendungsnachweise als auch auf eine gesammelte Vorlage zu dem im Bescheid genannten Terminen hinzuwirken.
 
@@ -3907,8 +3907,8 @@ Zudem hat er der BIS empfohlen, sowohl auf eine Verschlankung von Inhalt und Umf
 *Keine weitergehenden Verwendungsnachweisprüfungen*
 
 - 849. Der LSP hat dazu vorgetragen, dass der HSB als Erstempfangender bereits umfänglich die Nachweise der Letztempfangenden geprüft habe. Der Rechnungshof hat dazu klargestellt, dass Prüfungen des HSB die Behörde nicht von ihrer Prüfungsverantwortung für die zweckentsprechende und wirtschaftliche Mittelverwendung entbinden.
-- 850. Im Zusammenhang mit früheren Rechnungshofprüfungen im Sportbereich hatte sich die BIS verpflichtet, in einem angemessenen Prüfungsturnus weitergehende Prüfungen durchzuführen, soweit es sich um wiederkehrende Zuwendungen handelt.7
-- 851. Der Rechnungshof hat beanstandet, dass die BIS keine weitergehende Prüfung der Zwischenverwendungsnachweise und Verwendungsnachweise durchführte. Er hat die BIS aufgefordert, sowohl die versäumten weitergehenden Prüfungen nachzuholen als auch künftig unverzüglich die erforderlichen weitergehenden Prüfungen durchzuführen sowie dies zu dokumentieren.
+- 850. Im Zusammenhang mit früheren Rechnungshofprüfungen im Sportbereich hatte sich die [BIS](../hamburg/BIS_Geschaeftsordnung.md) verpflichtet, in einem angemessenen Prüfungsturnus weitergehende Prüfungen durchzuführen, soweit es sich um wiederkehrende Zuwendungen handelt.7
+- 851. Der Rechnungshof hat beanstandet, dass die [BIS](../hamburg/BIS_Geschaeftsordnung.md) keine weitergehende Prüfung der Zwischenverwendungsnachweise und Verwendungsnachweise durchführte. Er hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, sowohl die versäumten weitergehenden Prüfungen nachzuholen als auch künftig unverzüglich die erforderlichen weitergehenden Prüfungen durchzuführen sowie dies zu dokumentieren.
 
 #### Rückforderungen
 
@@ -3919,15 +3919,15 @@ Zudem hat er der BIS empfohlen, sowohl auf eine Verschlankung von Inhalt und Umf
 <sup>6</sup> Nr. 13.2 VV zu § 46 LHO.
 
 - 853. Nach dem Hamburgischen Verwaltungsverfahrensgesetz kann ein unanfechtbarer Zuwendungsbescheid widerrufen werden, wenn die Leistung nicht für den in dem Zuwendungsbescheid bestimmten Zweck verwendet wird. Der Widerruf ist nur innerhalb eines Jahres seit dem Zeitpunkt zulässig, zu dem die Behörde Kenntnis von Tatsachen erhält, die den Widerruf rechtfertigen. Im Falle eines Widerrufs mit Wirkung für die Vergangenheit sind bereits erbrachte Leistungen zu erstatten. Die zu erstattende Leistung ist durch schriftlichen Verwaltungsakt festzusetzen.8
-- 854. Bis auf eine Ausnahme (Änderung aufgr- und einer Mitteilung des HSB, dass weniger Mittel verbraucht wurden) hob die BIS keine gegenüber dem HSB im Prüfungszeitraum erlassenen Zuwendungsbescheide auf und erließ auch keine Rückforderungsbescheide.
+- 854. Bis auf eine Ausnahme (Änderung aufgr- und einer Mitteilung des HSB, dass weniger Mittel verbraucht wurden) hob die [BIS](../hamburg/BIS_Geschaeftsordnung.md) keine gegenüber dem HSB im Prüfungszeitraum erlassenen Zuwendungsbescheide auf und erließ auch keine Rückforderungsbescheide.
 
 *Widerrufs- und Rückforderungsbescheide fehlen*
 
 - Allerdings führte das LSP in Bezug auf eine Zuwendung für Digitalisierungsmaßnahmen über 75 Tsd. Euro unmittelbar nach Eingang des Verwendungsnachweises eine Prüfung durch und ermittelte im Jahr 2023 einen nicht verausgabten Betrag von rund 42 Tsd. Euro. Einen Widerrufs- und Rückforderungsbescheid erließ es hierzu jedoch bisher nicht.
 - Zudem prüfte das LSP Rückforderungsansprüche in Bezug auf die Grundförderung für das Jahr 2023 nicht abschließend, obwohl der HSB mitgeteilt hatte, dass im Bereich Förderung der Sportjugendarbeit Mittel in Höhe von rund 116 Tsd. Euro nicht verbraucht worden seien. Auch hierzu erließ es keinen Widerrufs- und Rückforderungsbescheid.
 - 855. Zur Vermeidung von finanziellen Schäden für die FHH ist regelmäßig eine umgehende Prüfung eingehender Unterlagen und eine Ermessensentscheidung über den Widerruf nebst Geltendmachung des Rückzahlungsbetrages binnen Jahresfrist erforderlich.
-- 856. Der Rechnungshof hat beanstandet, dass die BIS in einem Fall Rückforderungsansprüche trotz abschließender Prüfung nicht umgehend geltend machte und in einem anderen Fall mögliche Rückforderungsansprüche trotz positiver Kenntnis von Tatsachen, die einen Widerruf des Zuwendungsbescheids rechtfertigen, nicht umgehend prüfte und geltend machte.
-- 857. Er hat die BIS aufgefordert, künftig nicht nur Verwendungsnachweisunterlagen, sondern auch sonstige Mitteilungen zu nicht verbrauchten Mitteln umgehend zu prüfen, unter Einhaltung der Jahresfrist über einen Widerruf zu entscheiden sowie einen etwaigen Rückzahlungsbetrag geltend zu machen.
+- 856. Der Rechnungshof hat beanstandet, dass die [BIS](../hamburg/BIS_Geschaeftsordnung.md) in einem Fall Rückforderungsansprüche trotz abschließender Prüfung nicht umgehend geltend machte und in einem anderen Fall mögliche Rückforderungsansprüche trotz positiver Kenntnis von Tatsachen, die einen Widerruf des Zuwendungsbescheids rechtfertigen, nicht umgehend prüfte und geltend machte.
+- 857. Er hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, künftig nicht nur Verwendungsnachweisunterlagen, sondern auch sonstige Mitteilungen zu nicht verbrauchten Mitteln umgehend zu prüfen, unter Einhaltung der Jahresfrist über einen Widerruf zu entscheiden sowie einen etwaigen Rückzahlungsbetrag geltend zu machen.
 - 858. Der HSB hat im Prüfungsverfahren erklärt, dass er die Rückforderungsansprüche trotz Verfristung bedienen werde.
 
 # Erfolgskontrollen
@@ -3941,8 +3941,8 @@ Zudem hat er der BIS empfohlen, sowohl auf eine Verschlankung von Inhalt und Umf
 
 *Keine Überprüfung der Zielerreichung*
 
-- 863. Auch die Überprüfung von Zielen, Maßnahmen und Kennzahlen anhand von Erfolgskontrollen hatte die BIS dem Rechnungshof bereits im Rahmen einer früheren Prüfung zugesagt.10
-- 864. Der Rechnungshof hat die fehlende Überprüfung der Zuwendungen auf ihre Zielerreichung durch die BIS erneut beanstandet. Er hat die BIS aufgefordert, die fehlenden Prüfungen umgehend nachzuholen und künftig Erfolgskontrollen durchzuführen.
+- 863. Auch die Überprüfung von Zielen, Maßnahmen und Kennzahlen anhand von Erfolgskontrollen hatte die [BIS](../hamburg/BIS_Geschaeftsordnung.md) dem Rechnungshof bereits im Rahmen einer früheren Prüfung zugesagt.10
+- 864. Der Rechnungshof hat die fehlende Überprüfung der Zuwendungen auf ihre Zielerreichung durch die [BIS](../hamburg/BIS_Geschaeftsordnung.md) erneut beanstandet. Er hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, die fehlenden Prüfungen umgehend nachzuholen und künftig Erfolgskontrollen durchzuführen.
 
 Überdies hat der Rechnungshof der BIS empfohlen, auf eine übersichtlichere Gestaltung der Angaben zur Ziel- und Kennzahlenerreichung hinzuwirken.
 
@@ -3959,8 +3959,8 @@ Zudem hat er der BIS empfohlen, sowohl auf eine Verschlankung von Inhalt und Umf
 <sup>9</sup> Nr. 13.3 VV zu § 46 LHO.
 
 - 869. Soweit Verträge oder Regelungsinhalte fehlen, könnte sich dies für die FHH nachteilig auswirken. Falls ein Verein der Bewilligungsbehörde oder dem Rechnungshof die Mitwirkung im Rahmen einer weitergehenden Verwendungsnachweisprüfung verweigert, wären diese bzw. dieser beispielsweise daran gehindert, eine solche durchzuführen.
-- 870. Der Rechnungshof hat beanstandet, dass die BIS obwohl der HSB die Förderrichtlinien mit ihr abgestimmt hat – bisher nicht darauf hingewirkt hat, dass alle erforderlichen Regelungsinhalte von den Förderrichtlinien bzw. Verträgen umfasst sind.
-- 871. Der Rechnungshof hat die BIS aufgefordert, darauf hinzuwirken, dass die privatrechtlichen Verträge zur Weitergabe der Zuwendungsmittel zwischen dem HSB und den Vereinen und Verbänden künftig alle erforderlichen Regelungsinhalte umfassen.
+- 870. Der Rechnungshof hat beanstandet, dass die [BIS](../hamburg/BIS_Geschaeftsordnung.md) obwohl der HSB die Förderrichtlinien mit ihr abgestimmt hat – bisher nicht darauf hingewirkt hat, dass alle erforderlichen Regelungsinhalte von den Förderrichtlinien bzw. Verträgen umfasst sind.
+- 871. Der Rechnungshof hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, darauf hinzuwirken, dass die privatrechtlichen Verträge zur Weitergabe der Zuwendungsmittel zwischen dem HSB und den Vereinen und Verbänden künftig alle erforderlichen Regelungsinhalte umfassen.
 
 #### Stellungnahme der Verwaltung
 872. Die BIS hat zugesagt, alle Forderungen des Rechnungshofs umzusetzen, dabei auch seine Empfehlungen zu berücksichtigen und ihn über den Stand der Umsetzung in Kenntnis zu setzen.
@@ -4413,7 +4413,7 @@ sätzen nach § 2 Absatz 1 ArbSchGebO enthaltenen Personalgemeinkosten-Aufschlag
 # Erhebung von Gebühren für die Glücksspielaufsicht
 *Behörde für Inneres und Sport*
 
-996. Die Behörde für Inneres und Sport (BIS) nimmt in Hamburg die Aufgaben der Glücksspielaufsicht wahr. Zu diesen Aufgaben gehören insbesondere die Unterbindung unerlaubten Glücksspiels, die Erteilung von Erlaubnissen der Wettvermittlungsstellen und der Hamburgischen öffentlichen Spielbank, zur Veranstaltung von Lotterien sowie die Vermittlung staatlicher Lotterieangebote. Für die Vornahme ihrer Amtshandlungen erhebt die BIS Gebühren auf Grundlage der Gebührenordnung für das Glücksspielwesen. Bedingt durch unterschiedliche Laufzeiten der jeweiligen Erlaubnisse schwanken die Gebührenerlöse zwischen einzelnen Haushaltsjahren erheblich. Im Jahr 2024 konnte die Glücksspielaufsicht beispielsweise ca. 300 Tsd. Euro Gebührenerlöse verzeichnen.1
+996. Die Behörde für Inneres und Sport (BIS) nimmt in Hamburg die Aufgaben der Glücksspielaufsicht wahr. Zu diesen Aufgaben gehören insbesondere die Unterbindung unerlaubten Glücksspiels, die Erteilung von Erlaubnissen der Wettvermittlungsstellen und der Hamburgischen öffentlichen Spielbank, zur Veranstaltung von Lotterien sowie die Vermittlung staatlicher Lotterieangebote. Für die Vornahme ihrer Amtshandlungen erhebt die [BIS](../hamburg/BIS_Geschaeftsordnung.md) Gebühren auf Grundlage der Gebührenordnung für das Glücksspielwesen. Bedingt durch unterschiedliche Laufzeiten der jeweiligen Erlaubnisse schwanken die Gebührenerlöse zwischen einzelnen Haushaltsjahren erheblich. Im Jahr 2024 konnte die Glücksspielaufsicht beispielsweise ca. 300 Tsd. Euro Gebührenerlöse verzeichnen.1
 
 #### Ermittlung von Gebühren
 - 997. Die Behörden und Ämter müssen nach § 6 Absatz 1 Satz 1 Gebührengesetz (GebG) bei der Ermittlung der Gebühr die nach betriebswirtschaftlichen Grundsätzen ansatzfähigen Gesamtkosten berücksichtigen (Grundsatz der Kostendeckung).
@@ -4422,29 +4422,29 @@ sätzen nach § 2 Absatz 1 ArbSchGebO enthaltenen Personalgemeinkosten-Aufschlag
 
 *Grundsatz der Kostendeckung missachtet*
 
-1000. Der Rechnungshof hat dies als Verstoß gegen § 6 Absatz 1 Satz 1 GebG beanstandet und die BIS aufgefordert, zukünftig die nach betriebswirtschaftlichen Grundsätzen ansatzfähigen Gesamtkosten zu berücksichtigen.
+1000. Der Rechnungshof hat dies als Verstoß gegen § 6 Absatz 1 Satz 1 GebG beanstandet und die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, zukünftig die nach betriebswirtschaftlichen Grundsätzen ansatzfähigen Gesamtkosten zu berücksichtigen.
 
 # Wirtschaftlicher Wert der Amtshandlung
 - 1001. Gemäß des gebührenrechtlichen Äquivalenzprinzips darf die Gebühr nicht in einem Missverhältnis zum wirtschaftlichen Wert der Amtshandlung stehen. Wird dieses Verhältnis gewahrt, darf die Behörde auch (deutlich) kostenüberdeckende Gebühren verlangen.
-- 1002. Von dieser Möglichkeit hat die BIS Gebrauch gemacht, indem sie überwiegend Gebühren mit einem Kostendeckungsgrad von deutlich über 100 % festgelegt hat.
+- 1002. Von dieser Möglichkeit hat die [BIS](../hamburg/BIS_Geschaeftsordnung.md) Gebrauch gemacht, indem sie überwiegend Gebühren mit einem Kostendeckungsgrad von deutlich über 100 % festgelegt hat.
 - 1003. Der Rechnungshof hat festgestellt, dass es in der Regel an objektiv nachvollziehbaren Kriterien zur Ermittlung des wirtschaftlichen Werts der Amtshandlung man-
 
 *Wirtschaftlicher Wert ist nicht bestimmt*
 
 <sup>1</sup> Berücksichtigt sind hier nur die landesrechtlichen Gebührenerlöse. Gebührenerlöse, die bspw. durch Erlaubnisse der Gemeinsamen Glücksspielbehörde der Länder entstehen und an denen die FHH beteiligt wird, sind hier nicht enthalten.
 
-gelte bzw. die BIS nicht erläutern konnte, worin konkret der zugrunde gelegte wirtschaftliche Wert überhaupt besteht. Die Behörde konnte damit nicht belegen, dass die durch sie (deutlich kostenüberdeckend) erhobenen Gebühren nicht in einem Missverhältnis zum wirtschaftlichen Wert für den Gebührenpflichtigen stehen.
+gelte bzw. die [BIS](../hamburg/BIS_Geschaeftsordnung.md) nicht erläutern konnte, worin konkret der zugrunde gelegte wirtschaftliche Wert überhaupt besteht. Die Behörde konnte damit nicht belegen, dass die durch sie (deutlich kostenüberdeckend) erhobenen Gebühren nicht in einem Missverhältnis zum wirtschaftlichen Wert für den Gebührenpflichtigen stehen.
 
-1004. Der Rechnungshof hat dies als Verstoß gegen das Äquivalenzprinzip aus § 6 Absatz 1 Satz 3 GebG beanstandet und die BIS aufgefordert, die Gebühren künftig entsprechend den gebührenrechtlichen Vorschriften festzulegen.
+1004. Der Rechnungshof hat dies als Verstoß gegen das Äquivalenzprinzip aus § 6 Absatz 1 Satz 3 GebG beanstandet und die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, die Gebühren künftig entsprechend den gebührenrechtlichen Vorschriften festzulegen.
 
 ## Festlegung von Gebührenrahmen
-- 1005. Ein Teil der durch die BIS in der Gebührenordnung festgelegten Gebühren sind sog. Rahmengebühren. Die Behörde kann innerhalb dieses Rahmens – also zum Beispiel 500 Euro bis 20.000 Euro – die Höhe der Gebühr in eigenem Ermessen festsetzen. Laut BIS sollte bereits mit dem unteren Rahmensatz Kostendeckung sichergestellt werden. Wie der Höchstsatz festgelegt wurde, konnte die Behörde nicht darlegen. Die Behörde hat den (breiten) Rahmen allgemein damit begründet, dass ihr so ein ausreichend großer Spielraum zur Festsetzung einer kostendeckenden Gebühr im Einzelfall verbliebe.
+- 1005. Ein Teil der durch die [BIS](../hamburg/BIS_Geschaeftsordnung.md) in der Gebührenordnung festgelegten Gebühren sind sog. Rahmengebühren. Die Behörde kann innerhalb dieses Rahmens – also zum Beispiel 500 Euro bis 20.000 Euro – die Höhe der Gebühr in eigenem Ermessen festsetzen. Laut BIS sollte bereits mit dem unteren Rahmensatz Kostendeckung sichergestellt werden. Wie der Höchstsatz festgelegt wurde, konnte die Behörde nicht darlegen. Die Behörde hat den (breiten) Rahmen allgemein damit begründet, dass ihr so ein ausreichend großer Spielraum zur Festsetzung einer kostendeckenden Gebühr im Einzelfall verbliebe.
 - 1006. Im Regelfall ist der Gebührenrahmen so zu bemessen, dass an der unteren Grenze des Rahmens die Gebühren für einfach gelagerte Fälle und an der oberen Grenze die Gebühren für aufwendigere Fälle festgesetzt werden. Das gebührenrechtliche Kostendeckungsprinzip ist gewahrt, wenn innerhalb des Rahmens – je nach Aufwand – eine mindestens kostendeckende Gebühr festgesetzt werden kann. Der Gebührenrahmen kann dann auch unter Beachtung des Äquivalenzprinzips und damit des wirtschaftlichen Werts der Amtshandlung genutzt werden.
 - 1007. Die Argumentation der BIS und ihr Anliegen größtmöglicher Handlungsfreiheit tragen nicht. Sowohl das gebührenrechtliche Kostendeckungsprinzip als auch das Äquivalenzprinzip verlangen für die Bestimmung von Gebühren bzw. von Gebührenrahmen die Verwendung objektiver und überprüfbarer Kriterien. Dem genügt ein unbestimmter Gebührenrahmen ohne Berücksichtigung von Schwierigkeit und Wertigkeit der Amtshandlung nicht.
 
 *Gebührenrahmen sind unbestimmt*
 
-1008. Der Rechnungshof hat die Unbestimmtheit der Gebührenrahmen als Verstoß gegen § 6 Absatz 1 GebG beanstandet und die BIS aufgefordert, die Berechnung der Gebühr entsprechend den gebührenrechtlichen Vorschriften vorzunehmen.
+1008. Der Rechnungshof hat die Unbestimmtheit der Gebührenrahmen als Verstoß gegen § 6 Absatz 1 GebG beanstandet und die [BIS](../hamburg/BIS_Geschaeftsordnung.md) aufgefordert, die Berechnung der Gebühr entsprechend den gebührenrechtlichen Vorschriften vorzunehmen.
 
 # Strukturelle Überlegungen
 - 1009. Die durch den Rechnungshof festgestellten Mängel haben offengelegt, dass die Gebührenordnung für das Glücksspielwesen keine durchgehend rechtssichere Basis für die Erhebung von Gebühren darstellt.

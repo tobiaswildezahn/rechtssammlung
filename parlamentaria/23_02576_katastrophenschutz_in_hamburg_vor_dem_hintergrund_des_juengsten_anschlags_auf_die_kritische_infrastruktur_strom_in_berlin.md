@@ -60,7 +60,7 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundla
 *Frage 1: Welche konkreten Fälle und Szenarien sind im Rahmen des Hamburger Katastrophenschutzes vorbereitet, und inwiefern werden diese regelmäßig geübt und aktualisiert?*
 
 ### Antwort zu Frage 1:
-Durch die federführende BIS werden in einem fortlaufenden Prozess potenzielle Risiken, die sich unter anderem aus Naturgefahren, extremen Wetter- oder Großschadensereignissen sowie großflächigen Versorgungsstörungen ergeben, betrachtet und weiterentwickelt. Die Aufgaben einzelner Katastrophenschutzbehörden und deren Zusammenarbeit werden in besonderen Richtlinien des Katastrophenschutzes für beispielsweise Hochwasserereignisse, Pandemien oder Flugunfälle festgelegt. Diese Regelungen werden regelmäßig geübt und überprüft.
+Durch die federführende [BIS](../hamburg/BIS_Geschaeftsordnung.md) werden in einem fortlaufenden Prozess potenzielle Risiken, die sich unter anderem aus Naturgefahren, extremen Wetter- oder Großschadensereignissen sowie großflächigen Versorgungsstörungen ergeben, betrachtet und weiterentwickelt. Die Aufgaben einzelner Katastrophenschutzbehörden und deren Zusammenarbeit werden in besonderen Richtlinien des Katastrophenschutzes für beispielsweise Hochwasserereignisse, Pandemien oder Flugunfälle festgelegt. Diese Regelungen werden regelmäßig geübt und überprüft.
 
 Insbesondere klimatisch veränderte Rahmenbedingungen erfordern regelmäßige Anpassungen, um neueste Erkenntnisse, Methodiken sowie technische Neuerungen in die konzeptionelle Ausgestaltung des Katastrophenschutzes der Freien und Hansestadt Hamburg einfließen zu lassen. Die erarbeiteten Strategien und Szenarien werden in unterschiedlichen Übungsformaten, unter Einbindung der jeweils betroffenen Fachbehörden, Einsatzorganisationen und weiterer relevanter Akteure, überprüft. Dabei fließen die hier sowie bei der Nachbereitung realer Einsatzlagen gesammelten Erkenntnisse systematisch in die Weiterentwicklung der Konzepte ein.
 
@@ -123,7 +123,7 @@ Tabelle 2
 
 Aufwendungen für Übungen werden grundsätzlich aus den jeweiligen Haushaltsmitteln der beteiligten Behörden finanziert und beziehen sich primär auf die Arbeitszeit. Eine entsprechende Auswertung der eingesetzten Personalstunden liegt nicht vor.
 
-Durch die federführende BIS wurden für zentrale Katastrophenschutzübungen Kosten gem. folgender Tabelle für, Verpflegung, Material und Dienstleistungen aufgewendet:
+Durch die federführende [BIS](../hamburg/BIS_Geschaeftsordnung.md) wurden für zentrale Katastrophenschutzübungen Kosten gem. folgender Tabelle für, Verpflegung, Material und Dienstleistungen aufgewendet:
 
 Tabelle 3
 
@@ -187,7 +187,7 @@ Die Bestimmung der zuständigen Katastrophenschutzbehörden und die Verteilung i
 ### Antwort zu Frage 8:
 Die strategischen Konzepte zum Katastrophenschutz in Hamburg orientieren sich an einer belastbaren, praktischen Umsetzbarkeit sowie einer realistischen Ressourcenplanung.
 
-Die Zuständigkeiten der zu beteiligenden Fachbehörden und Organisationen sind in der Hamburger Katastrophenschutzordnung definiert. Darüber hinaus werden durch die BIS ressortübergreifende Abstimmungsformate genutzt, um erkannte Schnittstellen und konkrete Verantwortlichkeiten eindeutig zuzuordnen. Ergänzend hierzu werden unterschiedliche Maßnahmen der Aus- und Fortbildung zur Schaffung einheitlicher Standards in den zu beteiligenden Behörden sowie zur individuellen Qualifizierung des Personals ergriffen.
+Die Zuständigkeiten der zu beteiligenden Fachbehörden und Organisationen sind in der Hamburger Katastrophenschutzordnung definiert. Darüber hinaus werden durch die [BIS](../hamburg/BIS_Geschaeftsordnung.md) ressortübergreifende Abstimmungsformate genutzt, um erkannte Schnittstellen und konkrete Verantwortlichkeiten eindeutig zuzuordnen. Ergänzend hierzu werden unterschiedliche Maßnahmen der Aus- und Fortbildung zur Schaffung einheitlicher Standards in den zu beteiligenden Behörden sowie zur individuellen Qualifizierung des Personals ergriffen.
 
 Siehe im Übrigen Vorbemerkung und Drs. 22/16268.
 

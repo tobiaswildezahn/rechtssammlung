@@ -140,7 +140,7 @@ Innerhalb eines Einzelplans werden Personalkosten nach den Regelungen zu § 37 L
 ### Antwort zu Frage 13:
 Jeweils bei Abordnungen zu anderen Dienstherren oder in andere Behörden der FHH.
 
-*Frage 14: Kosten in welcher Höhe wurden für das in die BIS entsendete Personal aus den Aufgabenbereichen AB275 und AB277 seit dem Jahre 2018 jährlich aufgewendet?*
+*Frage 14: Kosten in welcher Höhe wurden für das in die [BIS](../hamburg/BIS_Geschaeftsordnung.md) entsendete Personal aus den Aufgabenbereichen AB275 und AB277 seit dem Jahre 2018 jährlich aufgewendet?*
 
 # Antwort zu Frage 14:
 Innerhalb eines Einzelplans werden grundsätzlich keine Kosten erstattet, vergleiche Verwaltungsvorschriften zu § 37 LHO. Daher erfolgt kein systematisches Vorhalten der hier nachgefragten Daten, die deshalb aus einer Vielzahl von Datensätzen manuell gefiltert werden müssten. Dieses ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
