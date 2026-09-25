@@ -1,0 +1,202 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/6493"
+wahlperiode: 22
+id: 77996
+titel: "Personalversorgung an staatlichen Schulen im Schuljahr 2021/2022 (Nachfragen zu Drs. 22/5511)"
+datum_anfrage: "2021-11-22"
+datum_drucksache: "2021-11-30"
+urheber: ["Sabine Boeddinghaus"]
+fraktionen: ["Die Linke"]
+vorgang: 71384
+seiten: 12
+fragen: 5
+einzelfragen: 10
+antwortbloecke: 3
+beantwortet: true
+zitierte_drucksachen: ["22/5511", "21/14091", "22/6350", "22/4983"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/77996"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/77996/22_06493_personalversorgung_an_staatlichen_schulen_im_schuljahr_2021_2022_nachfragen_zu_drs_22_5511"
+abgerufen: "2026-09-24"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/6493: Personalversorgung an staatlichen Schulen im Schuljahr 2021/2022 (Nachfragen zu Drs. 22/5511)
+
+> Schriftliche Kleine Anfrage der Abgeordneten Sabine Boeddinghaus (DIE LINKE) vom 22.11.21 und Antwort des Senats · Drucksache vom 30.11.2021  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/77996) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/77996/22_06493_personalversorgung_an_staatlichen_schulen_im_schuljahr_2021_2022_nachfragen_zu_drs_22_5511)
+
+## Einleitung für die Fragen
+
+Auf meine Fragen aus dem August dieses Jahres zur Personalversorgung an Hamburgs staatlichen Schulen antwortete der Senat, entsprechende Zahlen lägen erst im Herbst 2021 vor, also jetzt.
+
+Ich frage den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Bereits im Dezember eines Jahres erhalten die Schulen eine Übersicht der voraussichtlichen Lehrerstellenbedarfe für den 1. August des kommenden Schuljahres bereitgestellt. Grundlage sind die jeweils prognostizierten Schülerzahlen.
+
+Nach Abschluss der Anmelderunde erfolgt eine Aktualisierung der Schülerzahlen und der entsprechenden Lehrerstellenbedarfe in den Eingangsklassen.
+
+Im Mai eines Jahres sind die Bedarfsberechnungen für den 1. August regelhaft abgeschlossen, sodass die Schulen verlässlich das kommende Schuljahr planen können.
+
+Nach der Schuljahreserhebung im September erfolgt schließlich eine finale Anpassung der schülerbezogenen Grundbedarfe auf Grundlage der tatsächlichen Schülerzahlen. Auf diesen Planungsgrundlagen entscheiden jeweils die Schulen nach den konkreten Bedingungen vor Ort, in welchem Umfang und zu welchem Zeitpunkt sie die von der für Bildung zuständigen Behörde freigegebenen Stellen dauerhaft besetzen.
+
+Dabei gibt es kein vorab festgelegtes Einstellungskontingent für das einzelne Schuljahr. Im Rahmen des Konzepts der selbstverantworteten Schule entscheiden die Schulen nach den konkreten Bedingungen vor Ort selbst, in welchem Umfang und zu welchem Zeitpunkt sie Stellen dauerhaft besetzen. Siehe Drs. 21/14091.
+
+Aus diesen Entscheidungen sich ergebende mögliche Personalüber- oder -unterhänge werden dann im Rahmen der Zuweisungen in den schulischen Vertretungsbudgets berücksichtigt.
+
+Dieser Prozess wird seit über zehn Jahren erfolgreich praktiziert, hat sich bewährt und trägt zur Planungssicherheit aller Beteiligten bei.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
+
+Wie plant der Senat/die zuständige Behörde ihren Personaleinsatz, wenn verlässliche Zahlen zur Personalversorgung erst dann vorliegen, wenn ein gutes Drittel des Schuljahres vergangen ist?
+
+### Frage 2
+
+Kann der Senat/die zuständige Behörde den Hamburger Schulen Planungssicherheit vor dem Beginn des Schuljahres garantieren?
+
+### Frage 3
+
+Wie hoch sind die jeweiligen Bedarfe an Lehrer:innenstellen an den Hamburger staatlichen Schulen? (Bitte in einer Excel-Tabelle pro Schule in VZÄ sowie die Schulnummer, die Schulform und den Sozialindex angeben.)
+
+#### Antwort zu Fragen 1, 2 und 3
+
+Siehe Vorbemerkung und Drs. 22/6350.
+
+### Frage 4
+
+In welchem VZÄ-Umfang sind die jeweiligen Planstellen besetzt?
+
+Wie hoch ist die jeweilige VZÄ-Vakanz pro Schule?
+
+Wie viele dieser Lehrer:innenstellen sind mit verbeamteten Lehrkräften besetzt?
+
+Wie viele dieser Lehrer:innenstellen sind mit befristeten Lehrkräften besetzt?
+
+Welche Gründe liegen jeweils für Vakanzen von Stellen vor?
+
+Wie hoch liegt dabei der Anteil aufgrund von existierenden Mangelfächern und welche sind dies im Einzelnen? (Bitte in einer Excel- Tabelle pro Schule in VZÄ sowie die Schulnummer, die Schulform und den Sozialindex angeben.)
+
+#### Antwort zu Frage 4
+
+Zu den Besetzungen sowie Vakanzen siehe Drs. 22/6350.
+
+Eine Differenzierung von Vakanzen nach einzelnen Fächern ist nicht möglich, weil Stellen beziehungsweise Stellenanteile weder im Stellenplan noch bei der Zuweisung an die Schulen fachspezifisch differenziert werden.
+
+Zu den Mangelfächern siehe https://www.hamburg.de/contentblob/12745610/ f020ffcfd7b7b5dd3d21f3fdc73f776b/data/quereinstieg.pdf.
+
+Zur Anzahl der verbeamteten beziehungsweise befristeten Lehrkräfte siehe Anlage.
+
+### Frage 5
+
+Welche Schritte plant der Senat/die zuständige Behörde, um die Bedarfe an zusätzlichen Lehrkräften bei anwachsender Schüler:innenzahl zu decken?
+
+#### Antwort zu Frage 5
+
+Der Senat stellt auf verschiedenen Ebenen sicher, dass die Bedarfe an zusätzlichen Lehrkräften auch bei weiter wachsenden Schülerzahlen jederzeit gedeckt werden: Zum einen hat der Senat den Umfang der Stellen für Lehrkräfte im Vorbereitungsdienst sowie die Ausbildungskapazitäten am Landesinstitut für Lehrerbildung und Schulentwicklung deutlich von 855 auf 1.215 Plätze erhöht. So können jährlich durchschnittlich 810 Lehrkräfte ihre Ausbildung im Vorbereitungsdienst beenden und stehen damit dem Hamburger Lehrerarbeitsmarkt zur Verfügung. Durch diese Erhöhung der Ausbildungsplätze im Vorbereitungsdienst um 40 Prozent wird auch der prognostizierte Anstieg der Schülerzahlen von 25 Prozent aufgefangen. Diese Größenordnung sichert künftig die Lehrerversorgung in Hamburg. Siehe hierzu Drs. 22/5511.
+
+Zum anderen wurde eine Vielzahl von Maßnahmen ergriffen, um die Attraktivität des Hamburger Schuldienstes weiter zu erhöhen. Hamburg stellt die Lehrkräfte unbefristet ein und verbeamtet diese. So hat beispielsweise die Bürgerschaft die schrittweise Anhebung der Besoldung für alle Grundschullehrkräfte beschlossen, es wurde das Grundschullehramt eingeführt, und es wurde die Möglichkeit eines Vorbereitungsdienstes in Teilzeit geschaffen. Siehe Drs. 22/4983.
+
+Anlage
+
+0,834,430,901,402,230,921,372,000,532,091,771,776,722,460,002,903,042,281,600,741,200,540,946,612,031,165,884,550,780,511,961,681,673,680,000,00 Lehrkräfte* Vollkräfte befristet Anzahl 1622422323431040655523119449621334700 beschäftigter Personen
+
+32,9125,3216,4017,1320,7820,2318,5112,6625,6320,7220,0124,3218,5315,3812,5017,8220,6119,9919,9632,9918,8418,5010,7216,9945,4111,9524,0031,7918,4410,4715,8123,0720,7235,5220,1717,88 Vollkräfte verbeamtete Lehrkräfte* 3827182124292215312526282421142323243040232412215814274123122030254427222021 Anzahl Personen September Stand 111334233242146511641561421112252456 Sozialindex Schulen, allgemeinbildenden an Hafencity Weg AuSternschanze Park der StraßeLehrkräfte in Schule Heidberg Nikolai Gut Finkenwerder Glinder MümmelmannsbergRahewinkelEdwin-Scharff-Ring EckerkoppelSt.PauliLohkampstraße LandwehrAmKirchdorfArchenholzstraße St. Pachthof HasenwegArnkielstraßeOsterbrookPoppenbüttel Bramfeld amFlottbeker Schule Finkenwerder der Schleemer Grundschule Hohe Beim An SpeckenreyeStengelestraßeAmSterntalerstraßeBonhoefferstraßeFuchsbergredderBahrenfelder Schroeder Klein derbeschäftigter NameGrundschuleGrundschuleGrundschuleAueschuleKatharinenschuleGrundschuleGrundschuleGrundschuleHeinrich-Wolgast-SchuleSchuleGrundschuleGrundschuleGrundschuleWesterschuleGrundschuleGoldbek-SchuleSchuleFritz-Köhne-SchuleGrundschuleGrundschuleGrundschuleGrundschuleElbkinderSchuleGanztagsgrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleLouiseGrundschuleSchule befristet und SchulformGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenverbeamteter 505850595074510051015102510351045105510651115117511851195124512751305134513651375139514351585160516751695171517251735174517552025205520652085209Anzahl Schul-Nr.
+
+1,112,020,001,483,680,221,270,360,000,000,850,383,831,652,111,460,001,560,391,020,000,003,631,261,461,400,850,002,041,351,440,000,000,871,840,000,000,53 Lehrkräfte* Vollkräftebefristet Anzahl 340351310011826304120010333203220012001 beschäftigter Personen
+
+19,6730,576,9532,9027,7522,3925,4421,7221,6618,8516,6717,3022,8914,7922,8114,6716,3022,4220,8216,3020,5024,9037,1918,3520,4915,4717,7118,9022,2817,7022,777,032,631,0018,6118,6512,9923,90 Vollkräfteverbeamtete Lehrkräfte* 273684038313433302424212721342121292419283252252325242531202683122251530Anzahl Personen
+
+55245633655535556642522312234114426646 Sozialindex
+
+Elbe Weg Weg Landstraße Hauptstraße der Flottbek an Baakenhafen Isebek Thadenstraße MarienthalGoosacker Groß HornNydamerFranzosenkoppel Luruper SinstorferAm Hoheluft Schule Parkder Rothestraße Trenknerweg IserbargLehmkuhlenwegMarschwegMendelssohnstraßeIserbrook SchenefelderSchulkampWindmühlenweg FurtwegLangbargheide RungwischWesperlohKroonhorstBarlsheide amAn EduardstraßeKielortallee der NameLoki-Schmidt-SchuleSchuleGanztagsschuleGrundschuleTheodor-Haubach-SchuleSchuleGrundschuleGrundschuleGorch-Fock-SchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleRudolf-Roß-GrundschuleGrundschuleGrundschuleGrundschuleFridtjof-Nansen-SchuleSchuleSchuleGrundschuleMax-Traeger-SchuleSchuleSchuleSchuleSchuleGrundschuleGrundschuleSchuleSchuleGrundschuleSchuleSchule SchulformGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+52105211521252145216521752205231523252345235523652375238523952405243524452485250525252635264526552675270527152745277527852805285529352955301530453055308 Schul-Nr.
+
+0,000,070,513,650,534,711,310,670,790,701,480,160,832,250,361,153,380,370,571,283,690,701,352,780,873,251,312,232,481,430,541,620,570,000,000,732,450,40 Lehrkräfte* Vollkräftebefristet Anzahl 01171842315124126214514517564313100161 beschäftigter Personen
+
+17,0021,766,9021,5018,4027,5212,0820,0312,0620,4717,0921,9821,4515,8016,6517,0823,5212,7312,429,3612,8818,8223,5223,4211,4017,2316,4027,1419,3217,6213,6227,1819,0217,9313,7728,1619,5317,25 Vollkräfteverbeamtete Lehrkräfte* 2429102926341624162724292819202230161711142229281322233525241732222119342722Anzahl Personen
+
+45555644554555454555365566544425533344 Sozialindex
+
+Straße Lieth Straße Uhlenhorst der Bindfeldweg Sachsenweg Ballerstaedtweg der SchuleBrehmwegLutterothstraße RellingerTornquiststraßeTurmwegRönnkampAnna-Susanna-Stieg BurgunderwegHeidackerDöhrnstraßeFrohmestraßeHinterMolkenbuhrstraßeSethwegVizelinstraßeWegenkampMoorflagen RöthmoorwegAlsterdorferForsmannstraßeHumboldtstraßeKnauerstraße auf Genslerstraße Lämmersieth EberhofwegKrohnstiegNeubergerwegOhkampStockflethweg der NameSchuleSchuleWolfgang-Borchert-SchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleMarie-Beschütz-SchuleSchuleAdolph-Schönfelder-SchuleSchuleGrundschuleSchuleCarl-Cohn-SchuleCarl-Götze-SchuleSchuleSchuleSchuleSchuleSchule SchulformGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+53095310531153125315531653285330533153325333533453355336533953425344534553475348534954005404540554095413541654305437543854395462546354645469547254735476 Schul-Nr.
+
+0,853,112,112,784,460,672,351,151,580,630,360,000,001,851,282,311,081,411,650,360,570,000,840,990,660,710,810,851,082,110,651,621,102,973,350,750,002,65 Lehrkräfte* Vollkräftebefristet Anzahl 15436352421002342241101221112323346105 beschäftigter Personen
+
+24,449,1016,0321,8616,8815,8415,4518,8017,8510,9623,307,9417,3318,3518,6616,3220,5324,3017,1119,5615,7623,2321,3419,1418,1915,0921,8511,3015,9117,5621,7717,9015,6511,6723,3311,8619,6724,70 Vollkräfteverbeamtete Lehrkräfte* 3311202521192023211730112028272530332625213026232417311322232420191530132433Anzahl Personen
+
+42441133136656555656645563443351334254 Sozialindex
+
+Straße Markt Weg Höhe Straße Straße Teichwiesen Gartenstadt Großlohering Neurahlstedt Tonndorf Islandstraße Schule Sooren Walde den der RatsmühlendammAmBekassinenauBrockdorffstraßeCharlottenburger Kamminer Potsdamer AlsterredderamDuvenstedterAnBergstedtBuckhornHinsbleekAhrensburgerEulenkrugstraßeRedderLemsahl-MellingstedtMüssenredder GrützmühlenwegStrengeWildschwanbrookRahlstedterTraberwegEenstockHeinrich-Helbing-StraßeFahrenkrönAppelhoffSurenlandFabriciusstraßeAnBandwirkerstraßeBovestraßeHasselbrook der NameSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleGrundschuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchule SchulformGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+54805502550355045505550655075508551055145520552255235525552655295530553255335534553555375538554055415542554455505551555755585564556555685575557755785581 Schul-Nr.
+
+2,512,912,842,210,502,390,000,502,210,423,990,780,352,981,761,232,641,740,001,260,991,531,314,4515,391,101,080,572,170,801,601,412,174,750,001,971,563,58 Lehrkräfte* Vollkräftebefristet Anzahl 5364130141811532440313210222213122360465 beschäftigter Personen
+
+16,1413,1914,4222,1515,6918,6415,5431,4023,399,0924,3323,8821,1815,8114,5725,5122,674,985,8113,8310,0811,4511,4311,8753,1130,9220,2627,5923,8524,237,7517,4734,5134,054,7523,2430,5528,43 Vollkräfteverbeamtete Lehrkräfte* 171416312023193526113031291717292967171316141565402532263092341415273734Anzahl Personen
+
+12541132333424112355555225322444322122 Sozialindex
+
+Johannisland Am Haake Forst Kehre Damm Allermöhe StraßeStraße Kiefernberg Fährstraße der Landweg Straße MendelstraßeHeidhorst Alten am An Schule Eichtalpark der ÖjendorferamRichardstraßeWielandstraßeOppelnerJenfelderSander Ernst-Henning-StraßeLeuschnerstraßeMax-Eichholz-RingNettelnburg Friedrich-Frank-Bogen MittlererAltengamme-DeichCurslack-NeuengammeFünfhausen-WarwischOchsenwerderZollenspiekerDempwolffstraßeGrumbrechtstraßeInRönneburgKapellenweg MarmstorfNeulandScheeßeler Cranz der NameSchuleSchuleSchuleSchuleSchuleSchuleSchuleAnton-Rée-SchuleSchuleSchuleSchuleSchuleGrundschuleGrundschuleSchuleClara-Grunwald-SchuleAdolph-Diesterweg-SchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGeorg-Kerschensteiner-GrundschuleSchuleSchuleSchuleGrundschuleElbinselschuleSchuleGanztagsschuleGanztagsgrundschuleGrundschule SchulformGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+55865587558855915592559456025603560456055607561056115612561456155616563056315634563556445648570157045706570757085710571357145718571957425743574457475749 Schul-Nr.
+
+1,402,542,240,535,036,261,645,872,415,231,590,0012,431,213,623,101,752,101,732,051,832,740,113,463,234,692,708,367,394,664,890,944,454,095,270,003,494,99 Lehrkräfte* Vollkräftebefristet Anzahl 2431794134104021376674645147106181391041310110610 beschäftigter Personen
+
+15,0126,2418,4715,1415,4926,0332,1050,6860,5563,5928,074,5054,5338,9160,9638,3865,5563,1351,6368,5226,6234,3915,4826,9538,5464,3447,2351,4575,3563,1750,3538,3645,6156,5247,7050,0533,1943,63 Vollkräfteverbeamtete Lehrkräfte* 193323231928385974733556749704781736282313917294777606388786344546761613949Anzahl Personen
+
+33142123444525556646----36345563454454 Sozialindex (GBS)
+
+Georg St. Ganztagsgrundschule Studierende Offene
+
+- AbendschuleHolstentor Damm mitdem ausländische für Neugraben Burgweide Vor Süderelbe Rotherbaum Rissen AlstertalBuckhorn Corveystraße OhmoorAltonaBlankeneseAllermöhe HeidbergOldenfeldeBornbrook Schule der Gymnasium Arp-Schnitger-Stieg RotenhäuserSchnuckendriftOhrnswegan der NameSchuleGrundschuleSchuleSchuleSchuleSchuleKurt-Körber-GymnasiumFriedrich-Ebert-GymnasiumMatthias-Claudius-GymnasiumGymnasiumStruenseeGymnasiumHelmut-Schmidt-GymnasiumGymnasiumAlbert-Schweitzer-GymnasiumGymnasiumGymnasiumChristianeumHeisenberg-GymnasiumWalddörfer-GymnasiumAbendgymnasiumAbendschuleHansa-KollegStudienkollegJohannes-Brahms-GymnasiumGymnasiumGoethe-GymnasiumLise-Meitner-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumMargaretha-Rothe-GymnasiumGymnasiumGymnasiumGymnasiumImmanuel-Kant-GymnasiumAlexander-von-Humboldt-Gymnasium SchulformGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasien
+
+57535755576157625768577358005801580258035805580658075809581058115812581358145816581858195820582158225823582458255829583058315832583458355837583858395840 Schul-Nr.
+
+2,761,512,685,341,446,034,304,422,981,560,262,457,244,955,281,275,426,382,082,251,232,074,443,422,351,072,021,303,192,710,001,630,846,303,850,931,360,70 Lehrkräfte* Vollkräftebefristet Anzahl 75483151012103181591331315442610105263760531511242 beschäftigter Personen
+
+54,3938,8053,6545,3561,3957,7558,0956,5449,4142,3825,9151,6050,5749,9359,8657,5355,0158,1260,4745,107,0064,3958,7343,0654,6564,6748,7161,5657,8350,8775,4841,6839,0250,4243,9716,9867,6935,55 Vollkräfteverbeamtete Lehrkräfte* 644363547572737257492966616178686768705577969506177617671639348476149228341Anzahl Personen
+
+65655455624454564546545466656666425--- Sozialindex
+
+Kommunikation und Hören Gymnasium Johanneums Bergedorf Bergedorf des Gymnasium Gymnasium HoheluftEppendorf Kaiser-Friedrich-UferLohbrügge Oberalster FinkenwerderDörpsweg KlosterschuleLerchenfeldRahlstedt AlleeBondenwaldFarmsen Hochrad MeiendorfOthmarschen GrootmoorOhlstedtOsterbekMarienthalHummelsbüttel Schule Bildungszentrum Dönhoff Weiss Marckmannstraße Hirtenweg der NameMarionGymnasiumGymnasiumHansa-GymnasiumGymnasiumGymnasiumLuisen-GymnasiumCarl-von-Ossietzky-GymnasiumGymnasiumLouiseGymnasiumGymnasiumAlbrecht-Thaer-GymnasiumCharlotte-Paulsen-GymnasiumEmilie-Wüstenfeld-GymnasiumHelene-Lange-GymnasiumGymnasiumGymnasiumGymnasiumWilhelm-GymnasiumDeutsch-FranzösischesGymnasiumGymnasiumGymnasiumGelehrtenschuleGymnasiumHeilwig-GymnasiumGymnasiumGymnasiumHeinrich-Heine-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumSchuleElbschuleSchule SchulformGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienSonderschulenSonderschulenSonderschulen
+
+58415842584458455846584758485849585058535856585958605862586358645866586858695872587958815882588558865887588858905891589458955896589758985899512151455219 Schul-Nr.
+
+1,431,540,782,440,363,627,103,251,942,970,612,001,401,643,651,950,610,000,690,721,022,381,136,897,793,884,903,212,5614,229,9213,446,744,538,2612,979,306,17 Lehrkräfte* Vollkräftebefristet Anzahl 223416105252243542022262131671176272623161014241613 beschäftigter Personen
+
+25,9617,8517,0411,9018,7921,989,1523,1721,1924,7720,6521,1016,9525,6919,8417,1344,6821,3718,5521,8325,5030,1116,6774,3698,9183,2277,3542,6143,6962,84125,2180,5896,07104,8781,61107,6656,8658,55 Vollkräfteverbeamtete Lehrkräfte* 302221132426112624292424202923225325202828362087116969352557313987115127961376766Anzahl Personen
+
+-----------------------235445221352341 Sozialindex
+
+Sehbehinderte Teichweg und Alter HübenerTonndorf Blinde Damm Heidberg für HelmuthSchuleBergstedtAm MümmelmannsbergBergedorf Horn Schule Stadtteilschule Schule KielkampLokstedterAltonaAltona-WestBergedorfEimsbüttelSüderelbeHarburgBillstedtWilhelmsburgMitteWinterhudeNordWandsbek-NordWandsbek-Süd TegelwegParacelsusstraßeBekkampWeidemoorElfenwieseNymphenweg und der Trebitsch Kästner NameSchuleSchuleReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZKurt-Juster-SchuleBildungszentrumSchuleSchuleSchuleSchuleSchuleSchuleStadtteilschuleGyulaStadtteilschuleStadtteilschuleIlse-Löwenstein-SchuleAlbert-Schweitzer-SchuleMax-Schmeling-StadtteilschuleGrund-StadtteilschuleStadtteilschuleHeinrich-Hertz-SchuleStadtteilschuleErichFritz-Schumacher-SchuleGeschwister-Scholl-Stadtteilschule SchulformSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulen
+
+52455346535053515352535353545355535653575358535953605361536254175418541954475515561357225723504350465048504950525053505450565057506150625063506450655066 Schul-Nr.
+
+5,875,4415,835,821,546,122,632,627,650,006,045,934,705,180,333,465,014,293,624,8513,688,911,370,000,873,527,732,103,168,872,287,013,590,602,150,682,713,48 Lehrkräfte* Vollkräftebefristet Anzahl 12142811411951501513713297105725162016114516411715147 beschäftigter Personen
+
+2,0048,7468,1661,8856,7082,6644,0369,2963,3336,6361,3194,3659,3691,24 115,6685,36126,4995,9687,5639,89109,6583,4665,3442,5576,9270,9990,1085,1274,5086,7350,38100,5864,4677,8288,8267,5942,7646,73 Vollkräfteverbeamtete Lehrkräfte* 25777716495497970447311769106 143104147117100471391067548938210310787112561166887105784954Anzahl Personen
+
+45342155433225551522123145323423124222 Sozialindex
+
+Kirchdorf
+
+Weg Stadtteil Altrahlstedt im BlankenesePoppenbüttelFinkenwerderBahrenfeldEidelstedt WalddörferKirchwerderWinterhudeÖjendorfEppendorfSüderelbeLohbrüggeWilhelmsburg MeiendorfVeddel Rissen AltonaStellingenBramfeldRichard-Linde-WegStübenhoferFlottbekOldenfeldeLurup Hamburg-Mitte Schule Stadtteilschule Schule See der Schule HafenCity am auf und der Krause Ehre NameJulius-Leber-SchuleIrena-Sendler-SchuleGoethe-Schule-HarburgIdaNelson-Mandela-SchuleSchuleMax-Brauer-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleBrüder-Grimm-SchuleStadtteilschuleSchuleCampusStadtteilschuleGrund-Elisabeth-Lange-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleEmilStadtteilschule SchulformStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulen
+
+50675069507050715072507550765077507950805081508350845085508750885089509050935094509550975098509952955649565056515654565556565657565856595660566156625663 Schul-Nr.
+
+9,776,086,9513,0211,996,90 Lehrkräfte* Vollkräftebefristet Anzahl 15141217249 beschäftigter Personen
+
+68,7082,1084,3898,2594,5447,56 Vollkräfteverbeamtete Lehrkräfte* 76979911010854Anzahl Personen
+
+352321 Sozialindex
+
+Hafen NiendorfAmFischbek-Falkenberg Schule Maretstraße der NameLessing-StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleOtto-Hahn-SchuleSchule SchulformStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulen Abordnungen 566456655667566956705703 ohne Schul-Nr. *

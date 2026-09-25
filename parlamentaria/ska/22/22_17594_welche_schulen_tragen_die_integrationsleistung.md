@@ -1,0 +1,852 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/17594"
+wahlperiode: 22
+id: 89915
+titel: "Welche Schulen tragen die Integrationsleistung?"
+datum_anfrage: "2025-01-16"
+datum_drucksache: "2025-01-24"
+urheber: ["Sabine Boeddinghaus"]
+fraktionen: ["Die Linke"]
+vorgang: 83337
+seiten: 40
+fragen: 5
+einzelfragen: 5
+antwortbloecke: 4
+beantwortet: true
+zitierte_drucksachen: ["22/10007", "22/10978", "22/15024", "22/14656"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/89915"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/89915/22_17594_welche_schulen_tragen_die_integrationsleistung"
+abgerufen: "2026-09-24"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/17594: Welche Schulen tragen die Integrationsleistung?
+
+> Schriftliche Kleine Anfrage der Abgeordneten Sabine Boeddinghaus (DIE LINKE) vom 16.01.25 und Antwort des Senats · Drucksache vom 24.01.2025  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/89915) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/89915/22_17594_welche_schulen_tragen_die_integrationsleistung)
+
+## Einleitung für die Fragen
+
+Die Integrationsleistung ist in Hamburg ungleich auf die Schulen verteilt (siehe Drs. 22/10007 und 22/10978). Im Schuljahr 2022/2023 waren nicht nur mehr Internationale Vorbereitungsklassen (IVK) an Stadtteilschulen angesiedelt als an Gymnasien; ein Großteil der Schüler*innen kam nach Abschluss der IVK an Stadtteilschulen. Das Lagebild ist seit zwei Jahren öffentlich, sodass der Senat Zeit hatte, die Ungleichheit anzugehen.
+
+Ich frage den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Internationale Vorbereitungsklassen (IVK) und Basisklassen (BK) sind als sogenannte Willkommensklassen schulformunabhängig. Daher gilt für die weiterführenden Schulen bereits seit Jahren das grundsätzliche Prinzip, dass eine möglichst gleichmäßige Verteilung zwischen Gymnasien und Stadtteilschulen angestrebt und auch erfolgreich umgesetzt wird. Darüber hinaus ist ebenfalls seit längerer Zeit eine nahezu gleichmäßige Verteilung dieser Klassen auf Schulen in allen Sozialindizes gewährleistet, siehe auch Drs. 22/15024 und 22/14656.
+
+Das schulische Aufnahmesystem für neu zugewanderte Schülerinnen und Schüler sieht vor, dass diese zunächst für bis zu zwölf Monate eine IVK besuchen. Nicht alphabetisierte Schülerinnen und Schüler besuchen zuvor ebenfalls bis zu zwölf Monate lang eine BK. Im Anschluss an die IVK wechseln die Schülerinnen und Schüler in eine Regelklasse und erhalten dort zusätzliche Förderung.
+
+Bezüglich der Schulform gilt beim Wechsel in die Jahrgangsstufe 5 immer die Wahlfreiheit der Sorgeberechtigten. Wenn Schülerinnen und Schüler aus der IVK 5/6 in die Jahrgangsstufen 5 oder 6 übergehen, empfiehlt die Zeugniskonferenz die Schulform. Es gilt auch hier die Wahlfreiheit der Sorgeberechtigten. Gehen Schülerinnen und Schüler aus einer IVK in die Jahrgangsstufe 7 oder höher über, entscheidet die Zeugniskonferenz über die Schulform. Dabei sind neben dem Alter die individuellen Lernstände und Lernmöglichkeiten der Schülerinnen und Schüler zu berücksichtigen. Der Wechsel aus einer IVK in eine Regelklasse an einem Gymnasium ist – unabhängig davon, ob diese IVK an einer Stadtteilschule oder an einem Gymnasium geführt wird – dann möglich, wenn die Schülerin beziehungsweise der Schüler die gymnasialen Anforderungen unter Berücksichtigung von § 13 Ausbildungs- und Prüfungsordnung für die Grundschule und die Jahrgangsstufen 5 bis 10 der Stadtteilschule und des Gymnasiums (APO-GrundStGy) erfüllt. In den weiterführenden Schulen soll §13 APO-GrundStGy auch dann als Maßstab für die künftige Beschulung zugrunde gelegt werden, wenn es nicht um den Übergang in die Jahrgangsstufe 7 geht, sondern um den Übergang in höhere Jahrgangsstufen.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
+
+An wie vielen Schulen sind IVK eingerichtet und wie viele Schüler*innen haben sie derzeit? (Bitte für die Schuljahre 2023/2024 und 2024/2025 mit Schulform, Sozialindex und Schulregion in einer Excel-Tabelle angeben und kenntlich machen, wo es sich um reguläre IVK und wo um IVK für den Erwerb des ESA beziehungsweise MSA handelt.)
+
+#### Antwort zu Frage 1
+
+IVK werden bedarfsgerecht eingerichtet beziehungsweise laufen entsprechend aus, daher verändert sich die Anzahl der eingerichteten Klassen im Laufe des Schuljahres. Mit Stand 1. September 2023 wurden 3.609 Schülerinnen und Schüler in 315 IVK unterrichtet. Zum 1. September 2024 waren 280 IVK eingerichtet, in denen 2.513 Schülerinnen und Schüler unterrichtet wurden. Im Übrigen siehe Anlagen 1 und 2 sowie Vorbemerkung.
+
+### Frage 2
+
+Welche Schulen haben derzeit wie viele Schüler*innen aus ehemaligen Basis- und IV-Klassen in ihren Regelklassen? (Bitte je Schule mit Schulform, Sozialindex und Bezirk in einer Excel-Tabelle angeben.)
+
+### Frage 3
+
+In welche Klassenstufen der Regelklassen gehen an den Hamburger Schulen derzeit wie viel ehemalige Schüler*innen der Basis-/IV-Klassen? (Bitte pro Schule mit Schulform, Sozialindex und Bezirk in einer Excel-Tabelle angeben.)
+
+#### Antwort zu Fragen 2 und 3
+
+Für das Schuljahr 2023/2024 siehe Anlage 3. Die Daten für das Schuljahr 2024/2025 werden in der Schuljahresstatistik 2024 erfasst und stehen nach Validierung und Qualitätssicherung zur Verfügung. Sie werden nach derzeitigem Planungsstand im Frühjahr 2025 veröffentlicht.
+
+### Frage 4
+
+Über wie viele Schüler*innen in IVK mit sonderpädagogischem Förderbedarf hat die Behörde Kenntnis?
+
+#### Antwort zu Frage 4
+
+Im Schuljahr 2023/2024 hatten 23 Schülerinnen und Schüler in IVK an staatlichen allgemeinbildenden Schulen einen sonderpädagogischen Förderbedarf (Quelle: Schuljahresstatistik 2023; Sonderpädagogische Förderbedarfe: Einträge in den Schulverwaltungsprogrammen mit Stand zum Ende des ersten Halbjahrs des Schuljahres 2023/ 2024). Die Daten für das Schuljahr 2024/2025 werden in der Schuljahresstatistik 2024 erfasst und stehen nach Validierung und Qualitätssicherung zur Verfügung. Sie werden nach derzeitigem Planungsstand im Frühjahr 2025 veröffentlicht.
+
+### Frage 5
+
+Welches Verfahren sieht die Behörde für die Beschulung von Schüler*innen mit sonderpädagogischem Förderbedarf im Rahmen von IVK vor?
+
+#### Antwort zu Frage 5
+
+Bei einem vermuteten speziellen sonderpädagogischen Förderbedarf (körperliche und motorische Entwicklung, geistige Entwicklung, Hören und Kommunikation, Sehen, Autismus) gelten in einer Basis IVK dieselben Verfahrenswege gemäß der Verordnung über die Ausbildung von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf (AO-SF) vom 31. Oktober 2012 wie sie auch in den Regelklassen angewandt werden. Die Schule wendet sich unter Einbeziehung der Sorgeberechtigten an das zuständige Regionale Bildungs- und Beratungszentrum (ReBBZ) beziehungsweise an „Fachstelle Flucht“ im ReBBZ Mitte. Die ReBBZ sind durch die für Bildung zuständige Behörde mit der Klärung des sonderpädagogischen Förderbedarfs und des geeigneten Lernortes beauftragt.
+
+Soweit Hinweise auf einen möglichen sonderpädagogischen Förderbedarf bei Schülerinnen und Schülern einer IVK vorliegen, wird diesen unter Einbeziehung der Sorgeberechtigten nachgegangen. Zur Unterstützung können bei Bedarf sonderpädagogische Fachkräfte, die Förderkoordinationskraft, Sprachlernberatende, sozialpädagogische
+
+Fachkräfte, Sprach- und Kulturmittler sowie das zuständige ReBBZ beziehungsweise die „Fachstelle Flucht“ im ReBBZ Mitte hinzugezogen werden.
+
+Bei einem vermuteten Förderbedarf in den Bereichen Lernen, Sprache sowie emotionale und soziale Entwicklung (LSE) beobachten und dokumentieren die Lehrkräfte der IVK und die unterstützenden schulischen Fachkräfte die Lernentwicklung und führen auf dieser Grundlage eine Förderung einschließlich sonderpädagogischer Unterstützung durch. Für die Förderung stehen systemische Ressourcen zur Verfügung. Eine Feststellung des Förderbedarfs im Bereich LSE erfolgt nach Umschulung in eine Regelklasse.
+
+Anlage 1
+
+191918127137101418167961451512191621286161713111622015 der in Schülerinnen Klasse Schüler und Anzahl IVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKESAIVKIVKMSAMSAESAESAIVKIVKESAESAESAIVKIVKIVKESAESA IVK IVKIVKIVKIVK IVKIVKIVK IVKIVK Klassenart index Sozial- 11112331111111122422221111111122 Schulform GrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Lerngruppen) und KirchdorfKirchdorfKirchdorfKirchdorf StadtteilStadtteilStadtteilStadtteilBasisklassen ParkParkPark imimimim Schulname Damm WegWegWegWegWegWeg (ohne Burgweide VeddelVeddel HafenAmHafenAm2023 OsterbrookOsterbrookSt.Pauli PachthofPachthof SchleemerSchleemerSchleemerder derder HafenCity AmAmAmAnBeimBeimRotenhäuserStengelestraße aufaufStübenhoferStübenhoferStübenhoferStübenhoferStübenhoferStübenhofer September Fritz-Köhne-SchuleFritz-Köhne-SchuleGrundschuleGrundschuleGrundschuleHeinrich-Wolgast-SchuleRudolf-Roß-GrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleBrüder-Grimm-SchuleBrüder-Grimm-SchuleCampusNelson-Mandela-SchuleNelson-Mandela-SchuleNelson-Mandela-SchuleNelson-Mandela-SchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleStadtteilschuleStadtteilschule
+1. am Schulen Stadtteil PauliGeorg RothenburgsortRothenburgsortHammHammSt.St.NeustadtBillbrookBillbrookBillbrookWilhelmsburgHornHornWilhelmsburgHornHornHornHafenCityWilhelmsburgWilhelmsburgWilhelmsburgWilhelmsburgVeddelVeddelWilhelmsburgWilhelmsburgWilhelmsburgWilhelmsburgWilhelmsburgWilhelmsburgNeustadtNeustadt allgemeinbildenden BezirkanIVK Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-Mitte
+
+171717562198911161131213412181916998141813101810513156 der in Schülerinnen Klasse Schüler undAnzahl ESAESAMSAIVKESAESAESAIVKIVKIVKIVKESAIVKIVKIVKIVKIVKESAESAESAESAIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVK IVKIVKIVK IVKIVKIVK IVK IVKIVKIVKIVK Klassenart index Sozial- 222332222222211111111111144222222 Schulform StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium
+
+Schulname HafenHafenHafen AmAmAmFinkenwerderFinkenwerderHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHornHornMümmelmannsbergMümmelmannsbergMümmelmannsbergMümmelmannsbergMümmelmannsbergMümmelmannsbergÖjendorfWilhelmsburgWilhelmsburgWilhelmsburgWilhelmsburgWilhelmsburg KlosterschuleKlosterschule GymnasiumGymnasium WeissWeiss StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumLouiseLouise
+
+Stadtteil Georg Georg NeustadtNeustadtNeustadtFinkenwerderFinkenwerderHammHammHammHammHammHammHornHornBillstedtBillstedtBillstedtBillstedtBillstedtBillstedtBillstedtWilhelmsburgWilhelmsburgWilhelmsburgWilhelmsburgWilhelmsburg St. St.WilhelmsburgWilhelmsburgBillstedtBillstedtHammHamm
+
+Bezirk Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-Mitte
+
+121591771416717178991614356951214612188201712911614 der in Schülerinnen Klasse Schüler undAnzahl IVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKESAESAIVKESAIVKIVKIVKIVKIVKIVKESA IVKIVK IVK IVK Klassenart index Sozial- 2222244n.v.2234553551531533355225663 Schulform GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumSonderschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumGymnasium
+
+Schulname Sternschanze FlottbekFlottbek AltonaAltonaBahrenfeldBlankeneseBlankeneseFlottbekLurupRissen GymnasiumGymnasiumGymnasiumGymnasiumGymnasium FranzosenkoppelFranzosenkoppelGoosackerGroßGroßThadenstraße GymnasiumGymnasium WeissWeissWeissWeissWeiss Mitte IserbargIserbrookLangbargheideRothestraßeBejaran-Schule LouiseLouiseLouiseLouiseLouiseStruenseeStruenseeReBBZGanztagsgrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleSchuleSchuleSchuleSchuleEstherGeschwister-Scholl-StadtteilschuleMax-Brauer-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleChristianeumChristianeumGoethe-Gymnasium
+
+Stadtteil Flottbek Flottbek PauliPauli HammHammHammHammHammSt.St.HammSternschanzeLurupLurupOsdorfBahrenfeldBahrenfeldAltona-AltstadtRissenIserbrookLurupOttensenGroßLurupBahrenfeldAltona-NordAltona-NordBahrenfeldBlankeneseBlankeneseGroßLurupRissenOthmarschenOthmarschenLurup
+
+Bezirk Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltona
+
+15101131315213172012121110171611161011121477121517231310188 der in Schülerinnen Klasse Schüler undAnzahl ESAIVKIVKIVKIVKIVKIVKIVKIVKIVKESAMSAIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKESA IVK IVKIVK IVK Klassenart index Sozial- 344566666654466n.v.n.v.4555334436433344 Schulform GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumSonderschuleSonderschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleStadtteilschule
+
+Schulname LiethLieth GymnasiumGymnasium derder AlleeAlleeAltonaBlankeneseBlankeneseHochradOthmarschenOthmarschenOthmarschenRissen DönhoffDönhoffAltonaAltona-WestAnna-Susanna-StiegDöhrnstraßeHinterHinterMolkenbuhrstraßeMolkenbuhrstraßeMoorflagenMoorflagenRungwischTurmwegVizelinstraßeWegenkampWegenkampWegenkamp Schule Ehre Goethe-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumLise-Meitner-GymnasiumLise-Meitner-GymnasiumMarionMarionReBBZReBBZSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleWolfgang-Borchert-SchuleIda
+
+Stadtteil LurupAltona-NordAltona-NordOttensenBlankeneseBlankeneseOthmarschenOthmarschenOthmarschenOthmarschenRissenOsdorfOsdorfBlankeneseBlankeneseAltona-AltstadtLurupSchnelsenLokstedtLokstedtLokstedtStellingenStellingenNiendorfNiendorfEidelstedtRotherbaumLokstedtStellingenStellingenStellingenEimsbüttelHarvestehude
+
+Bezirk AltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttel
+
+72171716131215515111213172618176551332017181981114496 der in Schülerinnen Klasse Schüler undAnzahl ESAESAIVKESAESAIVKIVKIVKESAESAESAIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVK IVKIVK IVKIVK IVKIVKIVK Klassenart index Sozial- 444225554455555544555664543533544 Schulform StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschule
+
+Schulname EidelstedtEidelstedtNiendorfNiendorfNiendorfStellingenStellingen Uhlenhorst BallerstaedtwegBallerstaedtweg BondenwaldDörpswegDörpswegHoheluftKaiser-Friedrich-UferKaiser-Friedrich-Ufer der SchuleSchule aufEberhofwegEberhofwegHumboldtstraßeKrohnstiegKrohnstieg EhreEhre IdaIdaJulius-Leber-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleAlbrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumEmilie-Wüstenfeld-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHelene-Lange-GymnasiumWilhelm-GymnasiumCarl-Cohn-SchuleCarl-Cohn-SchuleGrundschuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchule
+
+Stadtteil HarvestehudeHarvestehudeSchnelsenEidelstedtEidelstedtNiendorfNiendorfNiendorfStellingenStellingenStellingenStellingenStellingenStellingenEimsbüttelNiendorfEidelstedtEidelstedtHoheluft-WestEimsbüttelEimsbüttelHarvestehudeHarvestehudeWinterhudeWinterhudeOhlsdorfOhlsdorfUhlenhorstLangenhornLangenhornBarmbek-SüdLangenhornLangenhorn
+
+Bezirk EimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord
+
+noch Anlage 1
+
+51451618111318161716152117121017171141717917181417714213174 der in Schülerinnen Klasse Schüler undAnzahl IVKIVKIVKIVKIVKIVKESAESAESAESAIVKIVKIVKIVKIVKIVKIVKESAESAIVKESAESAIVKIVKIVKESAESAIVKIVKIVKIVKIVKIVK IVKIVKIVKIVK IVKIVK IVKIVK IVKIVK Klassenart index Sozial- 113446222244442225555544222556656 Schulform GrundschuleGrundschuleGrundschuleGrundschuleGrundschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumGymnasiumGymnasiumGymnasium
+
+TeichwegTeichwegTeichweg AlterAlterAlterEppendorfEppendorfEppendorf HübenerHübenerHübener Schulname JohanneumsJohanneums Heidberg desdes AmHelmuthHelmuthHelmuthWinterhude SchuleSchuleSchuleSchule StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule AlstertalEppendorf LämmersiethLämmersiethNeubergerwegOhkampRatsmühlendamm undundundundundund KrauseKrauseKrauseKrause SchuleSchuleSchuleSchuleSchuleAlbert-Schweitzer-SchuleEmilEmilEmilEmilFritz-Schumacher-SchuleFritz-Schumacher-SchuleFritz-Schumacher-SchuleFritz-Schumacher-SchuleGrund-Grund-Grund-Grund-Grund-Grund-Heinrich-Hertz-SchuleHeinrich-Hertz-SchuleIlse-Löwenstein-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleAlbert-Schweitzer-GymnasiumGelehrtenschuleGelehrtenschuleGymnasiumGymnasium
+
+Stadtteil Barmbek-NordBarmbek-NordLangenhornFuhlsbüttelFuhlsbüttelOhlsdorfBarmbek-NordBarmbek-NordBarmbek-NordDulsbergLangenhornLangenhornLangenhornLangenhornDulsbergDulsbergDulsbergEppendorfEppendorfHoheluft-OstWinterhudeWinterhudeBarmbek-SüdLangenhornBarmbek-NordBarmbek-NordBarmbek-NordWinterhudeOhlsdorfWinterhudeWinterhudeFuhlsbüttelEppendorf
+
+Bezirk Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord
+
+noch Anlage 1
+
+51418131628815111149318117991818313171317368149188 der in Schülerinnen Klasse Schüler undAnzahl ESAIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKESAESAIVKIVKIVKIVKIVKIVKIVKIVKIVKMSAIVKESA IVK IVKIVK IVK IVK Klassenart index Sozial- 556646335633113334433322221523444 Schulform GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule
+
+AltrahlstedtAltrahlstedt Tonndorf Schulname Weg StraßeStraßeStraße Schule BergstedtBramfeldMeiendorfOldenfeldeOldenfeldePoppenbüttel HeidbergHeidberg StadtteilschuleStadtteilschule EichtalparkEichtalpark See AhrensburgeramamBrockdorffstraßeBuckhornFabriciusstraßeKamminerPotsdamerPotsdamerSurenlandSurenlandSurenlandWielandstraßeWielandstraßeundund am Trebitsch GymnasiumGymnasiumHeilwig-GymnasiumHeilwig-GymnasiumMargaretha-Rothe-GymnasiumSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrund-Grund-GyulaMax-Schmeling-StadtteilschuleOtto-Hahn-SchuleOtto-Hahn-SchuleOtto-Hahn-SchuleSchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule
+
+Stadtteil LangenhornLangenhornAlsterdorfAlsterdorfBarmbek-NordVolksdorfWandsbekWandsbekRahlstedtVolksdorfBramfeldRahlstedtRahlstedtRahlstedtFarmsen-BerneFarmsen-BerneFarmsen-BerneEilbekEilbekRahlstedtRahlstedtTonndorfMarienthalJenfeldJenfeldJenfeldSteilshoopBergstedtBramfeldRahlstedtRahlstedtRahlstedtHummelsbüttel
+
+Bezirk Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek
+
+noch Anlage 1
+
+220111331433461141810104161876161316151597161312158 der in Schülerinnen Klasse Schüler undAnzahl ESAIVKESAIVKIVKIVKIVKIVKESAIVKESAESAIVKIVKIVKIVKESAESAIVKIVKIVKIVKESAIVKIVKIVKIVKIVKIVKIVKIVKIVKIVK IVK IVK IVK IVKIVK IVKIVK IVK Klassenart index Sozial- 445555465522555666444466333411224 Schulform StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGrundschuleGrundschuleGrundschuleGrundschuleGrundschule
+
+Schulname PoppenbüttelPoppenbüttelWalddörferWalddörfer BuckhornHummelsbüttelHummelsbüttelMarienthalMarienthalMeiendorfMeiendorfMeiendorfOberalsterOhlstedtOhlstedtOldenfeldeOldenfeldeOsterbekRahlstedt Ernst-Henning-Straße StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleCarl-von-Ossietzky-GymnasiumCarl-von-Ossietzky-GymnasiumCharlotte-Paulsen-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHeinrich-Heine-GymnasiumHeinrich-Heine-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumMatthias-Claudius-GymnasiumClara-Grunwald-SchuleClara-Grunwald-SchuleClara-Grunwald-SchuleClara-Grunwald-SchuleSchule
+
+Stadtteil HummelsbüttelPoppenbüttelVolksdorfVolksdorfPoppenbüttelPoppenbüttelWandsbekVolksdorfHummelsbüttelHummelsbüttelMarienthalMarienthalRahlstedtRahlstedtRahlstedtSaselWohldorf-OhlstedtWohldorf-OhlstedtRahlstedtRahlstedtBramfeldRahlstedtPoppenbüttelPoppenbüttelBramfeldBramfeldBramfeldWandsbekNeuallermöheNeuallermöheNeuallermöheNeuallermöheBergedorf
+
+Bezirk WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekBergedorfBergedorfBergedorfBergedorfBergedorf
+
+noch Anlage 1
+
+1817101573131817118914181614131545181014697119131414 der in Schülerinnen Klasse Schüler undAnzahl IVKIVKIVKIVKESAESAIVKIVKIVKIVKESAIVKIVKESAESAESAIVKESAESAESAIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKIVKESAIVK IVKIVK IVK IVKIVKIVK IVKIVKIVK IVK Klassenart index Sozial- 442322233523344444455552133222333 Schulform GrundschuleGrundschuleGrundschuleGrundschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleGrundschuleStadtteilschuleStadtteilschuleStadtteilschule
+
+Johannisland Schulname Am BergedorfBergedorfBergedorfBergedorf Kiefernberg Straße BergedorfBergedorfKirchwerderLohbrügge am AllermöheAllermöheBornbrookBornbrookBornbrookBornbrookLohbrüggeLohbrügge Ernst-Henning-StraßeErnst-Henning-StraßeFriedrich-Frank-BogenSander Arp-Schnitger-StiegCranzDempwolffstraßeDempwolffstraße SchuleSchuleSchuleSchuleGretel-Bergmann-SchuleGretel-Bergmann-SchuleGretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHansa-GymnasiumHansa-GymnasiumLuisen-GymnasiumLuisen-GymnasiumGanztagsgrundschuleGeorg-Kerschensteiner-GrundschuleGrundschuleSchuleSchuleSchuleSchuleGoethe-Schule-HarburgLessing-StadtteilschuleLessing-Stadtteilschule
+
+Stadtteil BergedorfBergedorfBergedorfBergedorfNeuallermöheNeuallermöheNeuallermöheLohbrüggeLohbrüggeKirchwerderLohbrüggeNeuallermöheNeuallermöheLohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrüggeBergedorfBergedorfBergedorfBergedorfNeugraben-FischbekEißendorfHeimfeldNeuenfeldeCranzEißendorfEißendorfHarburgWilstorfWilstorf
+
+Bezirk BergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburg
+
+noch Anlage 1
+
+137181347878121014813181110414 der in Schülerinnen Klasse Schüler undAnzahl IVKIVKESAESAIVKIVKESAIVKIVKIVKIVKIVKESAIVKIVKESAIVKIVKIVK IVKIVK IVK IVK IVK Klassenart index Sozial- 3322443333444445553 Schulform StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium
+
+Schulname Fischbek-FalkenbergSüderelbeSüderelbe Süderelbe Süderelbe Schule Lessing-StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleAlexander-von-Humboldt-GymnasiumAlexander-von-Humboldt-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-Gymnasium Gymnasium GymnasiumHeisenberg-GymnasiumHeisenberg-GymnasiumHeisenberg-GymnasiumImmanuel-Kant-GymnasiumImmanuel-Kant-GymnasiumImmanuel-Kant-GymnasiumKatholische Behörde Stadtteil zuständigen WilstorfNeugraben-FischbekNeugraben-FischbekNeugraben-FischbekWilstorfWilstorfHeimfeldHeimfeldHeimfeldHeimfeldNeugraben-FischbekNeugraben-FischbekEißendorfEißendorfEißendorfMarmstorfMarmstorfMarmstorfHarburg Bildung für der vorhanden Daten Bezirk nicht = HarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburg Quelle: n.v.
+
+Anlage 2  
+15 11 9 12 9 4 1 5 14 10 13 10 11 1 16 14 5 2 3 10 10 18 1 10 18 11 13 10 7 11 12 11 9 7  
+der  
+in Schülerinnen Klasse Schüler  
+und Anzahl
+
+ESA ESA MSA MSA MSA ESA ESA ESA ESA MSA ESA ESA ESA MSA Klassenart IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK index Sozial- 1 1 2 3 1 1 1 1 1 1 1 2 3 2 2 2 2 2 1 1 1 1 1 2 2 2 2 2 3 2 2 2 2 2 Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Lerngruppen) und Kirchdorf Kirchdorf Kirchdorf Kirchdorf Kirchdorf Stadtteil Stadtteil Stadtteil Stadtteil StadtteilBasisklassen Park Park Park im im im im im Schulname Damm Weg Weg Weg Weg(ohne Burgweide Veddel HafenAm HafenAm HafenAm HafenAm HafenAm Finkenwerder Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte2024 Osterbrook St.Pauli Pachthof Schleemer Schleemer Schleemer der der HafenCity Am Am Am An Beim Rotenhäuser Stengelestraße auf Stübenhofer Stübenhofer Stübenhofer Stübenhofer September Fritz-Köhne-Schule Grundschule Grundschule Heinrich-Wolgast-Schule Schule Schule Schule Schule Schule Schule Schule Brüder-Grimm-Schule Campus Nelson-Mandela-Schule Nelson-Mandela-Schule Nelson-Mandela-Schule Nelson-Mandela-Schule Nelson-Mandela-Schule Schule Schule Schule Schule Schule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule
+1. am Schulen Stadtteil Pauli Georg Pauli Rothenburgsort Hamm St. St. Billbrook Billbrook Billbrook Wilhelmsburg Horn Wilhelmsburg Horn Horn HafenCity Wilhelmsburg Wilhelmsburg Wilhelmsburg Wilhelmsburg Wilhelmsburg Veddel Wilhelmsburg Wilhelmsburg Wilhelmsburg Wilhelmsburg Neustadt Neustadt Neustadt Neustadt St. Finkenwerder Hamm Hamm Hamm Hamm Hamm allgemeinbildenden BezirkanIVK Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte
+
+19 18 18 19 10 16 13 16 14 8 11 16 5 7 5 15 10 19 16 14 12 14 20 8 6 3 11 11 6 6 7 3 1 17 12  
+der  
+inSchülerinnen Klasse Schüler  
+undAnzahl
+
+ESA ESA ESA ESA ESA ESA Klassenart IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK index Sozial- 2 2 2 1 1 1 1 1 1 1 1 1 4 2 2 2 2 2 2 2 2 2 2 n.v. 4 3 5 5 4 5 1 5 3 1 5 Schulform Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule
+
+Schulname Sternschanze Flottbek Flottbek Schule Hamburg-Mitte Horn Horn Mümmelmannsberg Mümmelmannsberg Mümmelmannsberg Mümmelmannsberg Mümmelmannsberg Öjendorf Wilhelmsburg Wilhelmsburg Wilhelmsburg Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Goosacker Groß Groß Thadenstraße Klosterschule Weiss Weiss Weiss Weiss Weiss Weiss Mitte Iserbrook Langbargheide Rothestraße Bejarano Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Helmut-Schmidt-Gymnasium Helmut-Schmidt-Gymnasium Kurt-Körber-Gymnasium Kurt-Körber-Gymnasium Louise Louise Louise Louise Louise Louise ReBBZ Ganztagsgrundschule Grundschule Grundschule Grundschule Grundschule Schule Schule Schule Esther Geschwister-Scholl-Stadtteilschule Max-Brauer-Schule
+
+Stadtteil Georg Hamm Horn Horn Billstedt Billstedt Billstedt Billstedt Billstedt Billstedt Wilhelmsburg Wilhelmsburg Wilhelmsburg St. Wilhelmsburg Wilhelmsburg Billstedt Billstedt Hamm Hamm Hamm Hamm Hamm Hamm Hamm Sternschanze Osdorf Bahrenfeld Bahrenfeld Altona-Altstadt Iserbrook Lurup Ottensen Bahrenfeld Lurup Bahrenfeld
+
+Bezirk Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona
+
+2 5 17 16 8 12 3 9 9 7 10 14 15 7 14 8 4 13 14 13 10 2 6 5 6 19 1 3 16 15 14 17 9 14 12  
+der  
+inSchülerinnen Klasse Schüler  
+undAnzahl
+
+ESA ESA ESA ESA ESA ESA ESA ESA ESA ESA MSA ESA ESA ESA Klassenart IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK index Sozial- 3 3 5 5 2 2 5 6 3 3 4 4 5 6 5 4 6 n.v. 5 5 4 4 3 6 4 4 4 4 4 2 2 5 5 4 5 Schulform Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium
+
+Schulname Lieth Gymnasium Altona Altona Blankenese Blankenese Flottbek Lurup Rissen Eidelstedt Eidelstedt Niendorf Niendorf Stellingen der Allee Allee Altona Othmarschen Rissen Dönhoff Altona Döhrnstraße Hinter Molkenbuhrstraße Molkenbuhrstraße Röthmoorweg Turmweg Vizelinstraße Schule Schule Schule Ehre Ehre Ehre Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Christianeum Goethe-Gymnasium Goethe-Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Lise-Meitner-Gymnasium Marion ReBBZ Schule Schule Schule Schule Schule Schule Schule Ida Ida Ida Julius-Leber-Schule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Albrecht-Thaer-Gymnasium
+
+Stadtteil Flottbek Altona-Nord Altona-Nord Blankenese Blankenese Groß Lurup Rissen Othmarschen Lurup Lurup Altona-Nord Altona-Nord Ottensen Othmarschen Rissen Osdorf Blankenese Altona-Altstadt Lokstedt Lokstedt Stellingen Stellingen Schnelsen Rotherbaum Lokstedt Harvestehude Harvestehude Harvestehude Schnelsen Eidelstedt Eidelstedt Niendorf Niendorf Stellingen Stellingen
+
+Bezirk Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel
+
+15 12 5 15 13 14 9 2 7 15 8 7 11 6 5 11 11 12 9 3 14 11 12 12 11 13 13 14 15 16 12 1 10 13 18  
+der  
+inSchülerinnen Klasse Schüler  
+undAnzahl
+
+ESA ESA ESA ESA ESA ESA ESA ESA ESA MSA ESA ESA ESA Klassenart IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK index Sozial- 5 5 5 5 4 4 5 5 6 6 3 5 4 4 5 3 2 2 3 6 2 2 2 2 4 4 4 4 2 2 2 2 5 5 5 Schulform Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule
+
+Teichweg Teichweg Teichweg Teichweg Alter Alter Alter Alter Eppendorf Eppendorf Schulname Grundschule Ballerstaedtweg Eschenweg Schule Schule Schule Schule Bondenwald Dörpsweg Dörpsweg Kaiser-Friedrich-Ufer Ohmoor Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Humboldtstraße Krohnstieg Lämmersieth Lämmersieth Neubergerweg und und und und und und Lindgren Krause Krause Krause Krause Albrecht-Thaer-Gymnasium Albrecht-Thaer-Gymnasium Albrecht-Thaer-Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Helene-Lange-Gymnasium Wilhelm-Gymnasium Astrid Carl-Cohn-Schule Grundschule Grundschule Schule Schule Schule Schule Schule Albert-Schweitzer-Schule Emil Emil Emil Emil Fritz-Schumacher-Schule Fritz-Schumacher-Schule Fritz-Schumacher-Schule Fritz-Schumacher-Schule Grund- Grund- Grund- Grund- Grund- Grund- Heinrich-Hertz-Schule
+
+Stadtteil Stellingen Stellingen Stellingen Niendorf Eidelstedt Eidelstedt Eimsbüttel Niendorf Harvestehude Harvestehude Langenhorn Winterhude Ohlsdorf Fuhlsbüttel Barmbek-Süd Langenhorn Barmbek-Nord Barmbek-Nord Langenhorn Ohlsdorf Barmbek-Nord Barmbek-Nord Barmbek-Nord Barmbek-Nord Langenhorn Langenhorn Langenhorn Langenhorn Dulsberg Dulsberg Dulsberg Dulsberg Eppendorf Eppendorf Winterhude
+
+Bezirk Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord
+
+1 10 14 17 17 4 12 11 14 15 4 8 11 15 4 6 11 6 6 11 7 16 14 4 10 17 19 14 18 9 15 10 8 17 8  
+der  
+inSchülerinnen Klasse Schüler  
+undAnzahl
+
+ESA ESA ESA ESA ESA ESA ESA ESA ESA ESA ESA ESA Klassenart IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK index Sozial- 4 4 2 2 2 5 6 5 5 6 6 4 3 2 5 5 3 1 1 3 3 4 3 3 3 2 2 2 1 2 3 4 4 5 5 Schulform Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium
+
+Altrahlstedt Altrahlstedt Hübener Hübener Hübener Tonndorf Schulname Heidberg Straße Straße Schule Am Helmuth Helmuth Helmuth Bramfeld Meiendorf Oldenfelde Poppenbüttel Walddörfer Neurahlstedt Eppendorf Heidberg Heidberg Stadtteilschule Stadtteilschule Eichtalpark See am Brockdorffstraße Buckhorn Fabriciusstraße Potsdamer Potsdamer Surenland Surenland Wielandstraße und und am Trebitsch Ilse-Löwenstein-Schule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Albert-Schweitzer-Gymnasium Gymnasium Gymnasium Gymnasium Heilwig-Gymnasium Heilwig-Gymnasium Margaretha-Rothe-Gymnasium Grundschule Schule Schule Schule Schule Schule Schule Schule Schule Schule Grund- Grund- Gyula Otto-Hahn-Schule Otto-Hahn-Schule Otto-Hahn-Schule Schule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Carl-von-Ossietzky-Gymnasium
+
+Stadtteil Barmbek-Süd Langenhorn Barmbek-Nord Barmbek-Nord Barmbek-Nord Ohlsdorf Eppendorf Langenhorn Langenhorn Alsterdorf Alsterdorf Barmbek-Nord Rahlstedt Wandsbek Rahlstedt Volksdorf Bramfeld Rahlstedt Rahlstedt Farmsen-Berne Farmsen-Berne Eilbek Rahlstedt Rahlstedt Tonndorf Jenfeld Jenfeld Jenfeld Steilshoop Bramfeld Rahlstedt Rahlstedt Poppenbüttel Volksdorf Poppenbüttel
+
+Bezirk Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek
+
+noch Anlage 2  
+9 15 13 17 18 4 20 2 6 10 14 6 4 8 3 8 10 13 15 14 5 5 15 10 11 17 17 5 1 6 15 17 2 3 4  
+der  
+inSchülerinnen Klasse Schüler  
+undAnzahl
+
+ESA ESA ESA ESA ESA ESA ESA ESA ESA ESA ESA ESA Klassenart IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK index Sozial- 4 6 5 2 2 5 5 5 6 6 6 4 4 4 6 3 3 4 1 1 3 3 1 2 2 2 3 3 4 3 4 4 4 4 4 Schulform Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium
+
+Schulname Bergedorf Bergedorf Lohbrügge Buckhorn Hummelsbüttel Marienthal Marienthal Meiendorf Meiendorf Meiendorf Oberalster Ohlstedt Ohlstedt Oldenfelde Oldenfelde Osterbek Allermöhe Bornbrook Bornbrook Bornbrook Lohbrügge Lohbrügge Ernst-Henning-Straße Ernst-Henning-Straße Friedrich-Frank-Bogen Charlotte-Paulsen-Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Heinrich-Heine-Gymnasium Johannes-Brahms-Gymnasium Johannes-Brahms-Gymnasium Matthias-Claudius-Gymnasium Clara-Grunwald-Schule Clara-Grunwald-Schule Schule Schule Schule Gretel-Bergmann-Schule Gretel-Bergmann-Schule Gretel-Bergmann-Schule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium
+
+Stadtteil Wandsbek Volksdorf Hummelsbüttel Marienthal Marienthal Rahlstedt Rahlstedt Rahlstedt Sasel Wohldorf-Ohlstedt Wohldorf-Ohlstedt Rahlstedt Rahlstedt Bramfeld Poppenbüttel Bramfeld Bramfeld Wandsbek Neuallermöhe Neuallermöhe Bergedorf Bergedorf Bergedorf Neuallermöhe Neuallermöhe Neuallermöhe Lohbrügge Lohbrügge Lohbrügge Neuallermöhe Lohbrügge Lohbrügge Lohbrügge Lohbrügge Lohbrügge
+
+Bezirk Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf
+
+noch Anlage 2  
+20 14 6 9 8 7 15 12 7 11 12 17 5 12 12 14 12 13 15 18 15 15 13 16 9 12 16  
+der  
+inSchülerinnen Klasse Schüler  
+undAnzahl
+
+ESA ESA ESA ESA ESA ESA Klassenart IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK IVK index Sozial- 5 5 5 2 3 2 2 2 3 1 1 2 2 4 4 3 3 3 3 4 4 4 4 4 5 5 5 Schulform Gymnasium Gymnasium Gymnasium Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium
+
+Schulname Bergedorf Bergedorf Bergedorf Süderelbe Süderelbe Süderelbe Süderelbe Arp-Schnitger-Stieg Cranz Dempwolffstraße Dempwolffstraße Maretstraße Maretstraße Hansa-Gymnasium Hansa-Gymnasium Luisen-Gymnasium Georg-Kerschensteiner-Grundschule Schule Schule Schule Schule Lessing-Stadtteilschule Schule Schule Stadtteilschule Stadtteilschule Alexander-von-Humboldt-Gymnasium Alexander-von-Humboldt-Gymnasium Friedrich-Ebert-Gymnasium Friedrich-Ebert-Gymnasium Friedrich-Ebert-Gymnasium Friedrich-Ebert-Gymnasium Gymnasium Gymnasium Heisenberg-Gymnasium Heisenberg-Gymnasium Heisenberg-Gymnasium Immanuel-Kant-Gymnasium Immanuel-Kant-Gymnasium Immanuel-Kant-Gymnasium Behörde Stadtteil zuständigen Bergedorf Bergedorf Bergedorf Eißendorf Neuenfelde Cranz Eißendorf Eißendorf Wilstorf Harburg Harburg Neugraben-Fischbek Neugraben-Fischbek Wilstorf Wilstorf Heimfeld Heimfeld Heimfeld Heimfeld Neugraben-Fischbek Neugraben-Fischbek Eißendorf Eißendorf Eißendorf Marmstorf Marmstorf Marmstorf Bildung für der vorhanden Bezirk Daten nicht = Bergedorf Bergedorf Bergedorf Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Quelle: n.v.
+
+Anlage 3
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2023/24 11
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Schuljahrstaatlichen 9 iman 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+8 Schule 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+7 derRegelklassen 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 in 6 Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+
+5 Sozialindex
+
+0 0 1 2 0 1 1 0 1 4 0 0 5 0 0 3 4 und
+
+0 0 1 0 0 0 0 1 0 1 0 1 0 0 2 1 0
+
+3 Schulform 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 5Vorbereitungsklassen
+
+1 0 3 0 0 0 1 0 0 0 0 0 0 0 0 2 0 Bezirk,
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 sowieinternationalen VSK index Sozial- 3 2 1 1 4 1 2 2 1 1 1 2 3 3 4 1 1und/oder JahrgangsstufeBasis- Am Horn Parkder nachder am an Schulname Hafencity der Schule AueschuleFinkenwerder ElbinselschuleFritz-Köhne-SchuleGanztagsschuleFährstraßeGrundschuleBaakenhafenGrundschuleArchenholzstraße GrundschuleGrundschuleKirchdorfGrundschuleMümmelmannsberGrundschuleOsterbrookGrundschuleRahewinkelGrundschuleSt.PauliHeinrich-Wolgast-SchuleKatharinenschuleinRudolf-Roß-GrundschuleSchuleSchleemerSchuleBurgweideSchülerje undSchulen Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule GrundschuleSchülerinnen der BezirkHauptstelleEhemaligeallgemeinbildenden Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte
+
+0 0 0 0 0 0 0 0 0 0 0 0 11 0 3 16 3 13
+
+0 0 0 0 0 0 0 0 0 0 0 0 11 0 2 25 5 13
+
+0 0 0 0 0 0 0 0 0 0 0 0 11 0 1 24 4 10
+
+0 0 0 0 0 0 0 0 0 0 10 0 9 11 20 34 17 55
+
+0 0 0 0 0 0 0 0 0 0 20 0 16 13 22 35 16 58
+
+0 0 0 0 0 0 0 0 0 0 18 0 11 21 9 25 11 57
+
+0 0 0 0 0 0 0 0 0 0 12 8 12 10 8 20 9 53
+
+0 0 0 0 0 0 0 0 0 0 12 1 4 5 0 9 3 32 6Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 6 3 4 2 4 10 12 40
+
+4 13 1 5 4 5 0 6 1 0 0 0 0 1 0 0 0 0
+
+0 5 0 1 0 2 1 3 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 1 1 2 2 2 1 2 1 1 4 2 4 2 1 1 2 3 2 Am Weg der der HafenCity Stadtteil AnAuBeim Hohe imauf Schulname SchuleGlinderSchulePachthofSchuleBonhoefferstraßeSchuleFuchsbergredderSchuleLandwehrSchuleRotenhäuserSchuleSpeckenreyeSchuleStengelestraßeSchuleSterntalerstraßeWesterschuleFinkenwerderBrüder-Grimm-Schule CampusNelson-Mandela-SchuleSchuleVeddelSchuleStübenhoferStadtteilschuleHafenStadtteilschuleFinkenwerderStadtteilschuleHamburg-Mitte Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule
+
+der BezirkHauptstelle Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte
+
+3 1 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+8 11 2 5 1 3 2 2 26 0 0 0 0 0 0 0 0 0
+
+6 6 1 2 0 6 1 3 21 0 0 0 0 1 0 0 0 0
+
+28 29 17 8 0 1 1 3 41 0 1 7 0 1 0 0 0 0
+
+34 28 13 20 4 4 1 9 32 4 3 6 0 0 0 0 0 0
+
+28 34 21 12 2 0 7 10 19 4 1 5 4 0 0 0 0 0
+
+28 30 11 20 1 1 7 9 7 0 2 1 2 0 0 0 0 0
+
+19 14 4 11 0 6 10 7 12 0 0 2 1 0 0 0 0 0 6Jahrgangsstufe 8 2 5 2 4 5 3 2 1 0 1 0 0 0 0 21 11 14
+
+0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 6 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 2 1 1 1 4 4 2 2 2 4 n.v. n.v. n.v. n.v. 6 2 4 2 Schulname Weiss Billstedt Mitte Sternschanze Elbeder StadtteilschuleHornStadtteilschuleMümmelmannsberStadtteilschuleÖjendorfStadtteilschuleWilhelmsburgGymnasiumFinkenwerderGymnasiumKlosterschuleHelmut-Schmidt-GymnasiumKurt-Körber-GymnasiumLouiseGymnasiumStruenseeGymnasium ReBBZ ReBBZReBBZWilhelmsburgSchuleMarckmannstraßeElbkinderGrundschuleFridtjof-Nansen-SchuleGanztagsgrundschuleGanztagsschulean Schulform Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Sonderschule Sonderschule Sonderschule Sonderschule Grundschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Hamburg-Mitte Altona Altona Altona Altona
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+6Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+1 0 1 5 14 4 3 0 2 0 0 1 4 1 2 2 0 1
+
+0 0 1 0 3 2 0 0 1 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 6 4 2 3 5 2 4 5 4 5 1 5 5 6 1 1 5 5 Groß Weg Schroeder Barlsheide Iserbarg IserbrookKlein Kroonhorst Schulname Gorch-Fock-SchuleGrundschuleArnkielstraßeGrundschuleFranzosenkoppelGrundschuleGoosackerGrundschuleFlottbekGrundschuleLuruperGrundschuleThadenstraßeLoki-Schmidt-SchuleLouiseSchuleSchuleBahrenfelder Schule Schule SchuleSchuleFlottbeker SchuleSchuleLangbargheideSchuleLehmkuhlenwegSchuleMarschweg Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona
+
+0 0 0 0 0 0 0 0 0 0 3 0 6 0 0 4 0 0
+
+0 0 0 0 0 0 0 0 0 0 10 1 4 2 0 6 1 0
+
+0 0 0 0 0 0 0 0 0 2 5 0 4 0 2 5 6 0
+
+0 0 0 0 0 0 0 0 0 9 25 2 27 8 17 13 7 1
+
+0 0 0 0 0 0 0 0 0 10 15 0 22 8 15 10 19 3
+
+0 0 0 0 0 0 0 0 0 14 22 5 24 17 20 15 22 11
+
+0 0 0 0 0 0 0 0 0 12 17 5 6 7 9 10 18 0
+
+0 0 0 0 0 0 0 0 0 8 9 8 9 7 8 15 4 2 6Jahrgangsstufe 0 0 0 0 0 0 0 0 3 8 6 4 8 2 9 4 12 10
+
+4 2 0 2 0 3 2 0 0 0 0 1 0 0 0 0 0 0
+
+1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 3 5 5 6 6 4 6 5 4 3 1 5 3 5 2 2 5 6
+
+Kieler Schulkamp Wesperloh Bejarano Schulname SchuleMendelssohnstraßSchuleRothestraßeSchuleSchenefelder SchuleSchuleTrenknerweg SchuleSchuleWindmühlenwegTheodor-Haubach-SchuleCampusStraßeEstherSchuleGeschwister-Scholl-Max-Brauer-SchuleStadtteilschuleAltonaStadtteilschuleBlankeneseStadtteilschuleFlottbekStadtteilschuleLurupStadtteilschuleRissen Christianeum Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium
+
+der BezirkHauptstelle Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 3 3 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+
+5 2 0 1 0 0 1 4 1 0 0 0 0 0 0 0 0
+
+6 5 0 2 2 4 2 7 7 2 1 3 0 2 0 0 0
+
+5 12 1 1 2 4 2 0 3 0 0 0 0 2 0 0 0
+
+5 7 2 3 10 2 2 6 5 4 1 2 0 0 0 0 0
+
+2 4 6 4 5 1 0 5 5 2 0 0 0 3 0 0 0
+
+1 0 2 3 4 2 1 2 0 2 0 0 0 0 0 0 0
+
+6Jahrgangsstufe 4 4 1 1 3 2 3 0 0 1 0 0 1 0 0 0 10
+
+0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1
+
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 3 4 5 6 6 6 5 4 6 n.v. n.v. n.v. n.v. n.v. 5 6 3 Allee Dönhoff AltonaAltona- Hirtenweg Kielkamp und Schulname Goethe-Gymnasium GymnasiumGymnasiumAltonaGymnasiumBlankeneseGymnasiumHochradGymnasiumOthmarschenGymnasiumRissenLise-Meitner-GymnasiumMarionGymnasiumElbschuleBildungszentrumHörenKommunikation ReBBZReBBZWest Schule SchuleGrundschuleBindfeldwegGrundschuleHoheluftGrundschuleLohkampstraße Schulform Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Sonderschule Sonderschule Sonderschule Sonderschule Sonderschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Altona Eimsbüttel Eimsbüttel Eimsbüttel
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0
+
+6Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 4 3 0 1 0 1 1 0 2 0 1 1 0 0 2
+
+0 1 0 0 0 0 1 2 0 0 1 0 0 0 1 0 0 0
+
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+
+0 0 0 2 0 0 1 0 0 1 0 1 0 1 1 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 5 2 6 4 4 5 5 4 5 3 4 5 6 5 4 5 5 4
+
+der der An Anna- Brehmweg Furtweg HeidackerHinter Kielortallee MoorflagenRellinger Rönnkamp Schulname GrundschuleSachsenwegMax-Traeger-SchuleSchuleIsebekSchuleSusanna-Stieg SchuleSchuleBurgunderwegSchuleDöhrnstraßeSchuleEduardstraßeSchuleFrohmestraße Schule SchuleSchuleLieth SchuleSchuleLutterothstraßeSchuleMolkenbuhrstraße SchuleSchuleStraße Schule Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel
+
+0 0 0 0 0 0 0 0 0 2 3 5 3 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 1 5 2 4 5 2 0 1 2 0
+
+0 0 0 0 0 0 0 0 4 5 4 8 9 3 0 0 2 2
+
+0 0 0 0 0 0 0 0 15 7 22 16 15 7 0 1 0 1
+
+0 0 0 0 0 0 0 0 11 19 22 11 25 2 0 9 0 3
+
+0 0 0 0 0 0 0 0 13 18 16 19 14 3 0 2 2 0
+
+0 0 0 0 0 0 0 0 22 28 12 13 19 4 1 1 5 1
+
+0 0 0 0 0 0 0 0 19 23 13 18 13 4 0 0 4 2 6Jahrgangsstufe 0 0 0 0 0 0 0 0 8 7 3 9 4 0 1 4 0 17
+
+2 2 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0
+
+1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 1 0 3 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 3 3 5 5 6 4 5 5 4 4 2 5 4 5 5 5 5 6
+
+Schule Rungwisch Sethweg Turmweg Schulname Ehre SchuleRöthmoorweg Schule SchuleSchuleTornquiststraße SchuleSchuleVizelinstraßeSchuleWegenkampWolfgang-Borchert-Schule IdaJulius-Leber-SchuleStadtteilschuleEidelstedtStadtteilschuleNiendorfStadtteilschuleStellingenAlbrecht-Thaer-GymnasiumDeutsch-FranzösischesEmilie-Wüstenfeld-GymnasiumGymnasiumBondenwaldGymnasiumCorveystraße Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium
+
+der BezirkHauptstelle Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+2 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 2 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 4 4 1 0 1 2 2 0 0 0 0 0 0 0 0 0 0
+
+0 7 3 2 0 5 1 1 0 0 0 0 0 0 0 0 0 0
+
+1 0 3 1 0 4 1 0 0 0 0 0 0 0 0 0 0 0
+
+5 1 4 2 0 2 0 2 0 0 0 0 0 0 0 0 0 0
+
+3 0 7 0 0 1 2 2 0 0 0 0 0 0 0 0 0 0
+
+6Jahrgangsstufe 3 2 1 2 1 6 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 1 0 5 0 1 2 0 0 0 0 6
+
+0 0 0 0 0 0 0 0 1 3 0 0 0 0 2 0 0 0
+
+0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 4 5 5 5 5 6 6 n.v. 4 5 5 5 4 4 6 6 6 5
+
+Am St. der Eimsbüttel auf Schulname GymnasiumDörpswegGymnasiumHoheluftGymnasiumKaiser-Friedrich-GymnasiumOhmoorGymnasiumRotherbaumHelene-Lange-GymnasiumWilhelm-Gymnasium ReBBZAdolph-Schönfelder- Carl-Cohn-Schule Carl-Götze-Schule Goldbek-SchuleGrundschuleHeidbergGrundschuleBallerstaedtwegGrundschuleNikolaiMarie-Beschütz-SchuleSchuleAlsterdorferSchuleUhlenhorst Schulform Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Eimsbüttel Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord
+
+0 0 0 0 0 0 0 0 0 0 0 0 11 3 13 2 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 10 2 16 3 3 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 20 6 13 4 3 3
+
+0 0 0 0 0 0 0 0 0 0 0 1 34 27 19 6 7 10
+
+0 0 0 0 0 0 0 0 0 0 0 0 21 23 39 9 3 12
+
+0 0 0 0 0 0 0 0 0 0 0 0 23 33 20 14 3 12
+
+0 0 0 0 0 0 0 0 0 0 0 3 26 16 14 3 6 9
+
+0 0 0 0 0 0 0 0 0 0 0 1 15 12 15 9 7 8 6Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 0 3 7 8 15 16 13 14
+
+9 1 1 3 1 6 6 0 7 6 0 4 0 0 3 0 0 0
+
+4 0 0 2 0 3 2 2 2 5 0 2 0 0 0 0 0 0
+
+4 0 0 0 0 1 1 1 10 0 0 0 0 0 0 0 0 0
+
+6 0 1 0 0 0 0 1 11 1 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 index Sozial- 3 5 4 5 6 3 2 3 4 4 4 5 2 4 2 5 5 4 Krohnstieg Ohkamp und und Krause Schulname SchuleEberhofwegSchuleForsmannstraßeSchuleGenslerstraßeSchuleHumboldtstraßeSchuleKnauerstraße SchuleSchuleLämmersiethSchuleNeubergerweg SchuleSchuleRatsmühlendammSchuleStockflethwegAlbert-Schweitzer-SchuleEmilSchuleFritz-Schumacher-SchuleGrund-StadtteilschuleGrund-StadtteilschuleHeinrich-Hertz-SchuleIlse-Löwenstein-Schule Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule
+
+der BezirkHauptstelle Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord
+
+0 9 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+2 6 1 1 1 1 0 1 0 1 1 2 0 0 0 0 0 0
+
+3 10 4 2 0 2 0 1 0 1 1 0 0 0 0 0 1 0
+
+5 25 2 0 0 3 0 2 0 0 1 0 0 1 1 1 1 0
+
+8 32 8 0 0 1 1 11 0 1 1 2 1 0 1 1 1 0
+
+10 31 11 1 2 2 2 4 0 3 1 2 0 0 1 0 0 0
+
+6 32 9 0 3 5 0 2 0 13 1 2 0 0 1 2 1 0
+
+9 12 1 1 0 4 8 1 0 4 0 12 1 0 1 2 1 0 6Jahrgangsstufe 5 3 3 2 1 4 5 2 2 0 6 1 0 1 0 1 0 11
+
+0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 4 2 5 5 6 5 6 5 4 5 6 4 n.v. n.v. n.v. n.v. n.v. 5 Am am und Hübener Nord Lokstedter Johanneums Schulname Blinde StadtteilschuleHeidbergStadtteilschuleHelmuthStadtteilschuleWinterhudeAlbert-Schweitzer-GymnasiumGelehrtenschuledesGymnasiumAlstertalGymnasiumEppendorfGymnasiumHeidbergGymnasiumLangenhornGymnasiumLerchenfeldHeilwig-GymnasiumMargaretha-Rothe-GymnasiumBildungszentrumfür Kurt-Juster-Schule ReBBZReBBZWinterhudeSchuleDammGrundschuleGut Schulform Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Sonderschule Sonderschule Sonderschule Sonderschule Sonderschule Grundschule
+
+der BezirkHauptstelle Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Hamburg-Nord Wandsbek
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+6Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+1 1 1 0 0 0 0 2 3 1 0 7 0 12 0 0 8 2
+
+0 0 1 3 0 0 0 1 0 1 1 1 0 12 0 0 1 0
+
+0 0 0 0 0 0 0 6 1 1 0 0 0 6 2 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 2 4 1 1 6 5 3 3 5 5 3 6 6 2 2 6 6 4 Sooren Waldeden der Weg am Am AmAn An Schulname GrundschuleBramfeldGrundschuleEckerkoppelGrundschuleEdwin-Scharff-GrundschuleGroßloheringGrundschuleHasenwegGrundschuleIslandstraßeGrundschuleMarienthalGrundschuleNeurahlstedtGrundschuleNydamerGrundschulePoppenbüttelGrundschuleTonndorfSchuleAhrensburgerSchuleAlsterredderSchuleEichtalpark Schule SchuleSchuleTeichwiesenSchuleGartenstadt Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+6Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+3 5 1 1 2 1 1 1 1 1 0 9 0 2 6 0 0 1
+
+0 1 0 1 1 1 0 0 0 0 0 2 0 0 2 0 0 1
+
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 1 2 4 5 5 4 5 1 5 3 5 3 5 5 4 3 5 1 Appelhoff Bergstedt Buckhorn Eenstock Heinrich- HinsbleekJenfelder Schulname SchuleSchuleBandwirkerstraßeSchuleBekassinenau SchuleSchuleBovestraßeSchuleBrockdorffstraße SchuleSchuleCharlottenburgerSchuleDuvenstedter SchuleSchuleEulenkrugstraßeSchuleFabriciusstraßeSchuleFahrenkrönSchuleGrützmühlenwegSchuleHasselbrookSchuleHelbing-Straße SchuleSchuleStraße Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 5
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 1 4
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 3 4 2
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 16 11 9
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 11 14 12
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 16 14 12
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 19 28 7
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 10 12 2 6Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 8 8 17
+
+4 0 1 1 0 8 0 2 0 0 5 1 5 0 3 2 0 0
+
+0 0 0 0 0 3 3 1 0 0 2 0 0 0 3 0 0 0
+
+1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0
+
+0 0 0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 3 6 4 1 1 1 4 6 5 6 3 4 4 3 3 3 3 5 Kamminer Lemsahl- Öjendorfer Oppelner Potsdamer Höhe Redder Strenge Surenland Traberweg und Tonndorf Trebitsch Kästner Schulname SchuleStraßeSchuleMellingstedtSchuleMüssenredderSchuleDammSchuleStraßeSchuleStraßeSchuleRahlstedter SchuleSchuleRichardstraße Schule Schule SchuleSchuleWielandstraßeSchuleWildschwanbrookErichSchuleGrund-StadtteilschuleGyulaSchuleIrena-Sendler-Schule Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule
+
+der BezirkHauptstelle Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek
+
+2 5 0 2 3 2 1 5 2 0 0 0 0 0 0 0 0 0
+
+6 5 0 2 4 5 2 13 1 3 1 0 3 1 2 4 0 2
+
+4 9 3 9 6 2 3 12 3 2 0 2 2 1 3 2 1 0
+
+19 30 8 15 19 13 9 27 12 1 2 3 4 3 2 8 1 1
+
+30 25 11 26 17 8 16 32 9 1 3 1 1 5 4 10 6 2
+
+24 37 15 23 10 10 14 31 4 1 3 1 1 0 2 7 6 3
+
+24 27 14 23 17 10 13 31 8 1 8 2 2 1 1 2 3 3
+
+20 21 6 7 8 10 9 21 6 1 9 2 4 0 3 4 2 3 6Jahrgangsstufe 1 5 6 6 8 0 5 0 6 1 5 4 7 0 11 17 10 20
+
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 2 2 1 5 2 3 4 4 5 5 4 6 4 6 5 2 5 6
+
+See am Schulname Max-Schmeling-Stadtteilschule Otto-Hahn-Schule SchuleStadtteilschuleBergstedtStadtteilschuleBramfeldStadtteilschuleMeiendorfStadtteilschuleOldenfeldeStadtteilschulePoppenbüttelStadtteilschuleWalddörferCarl-von-Ossietzky-GymnasiumCharlotte-Paulsen-GymnasiumGymnasiumBuckhornGymnasiumFarmsenGymnasiumGrootmoorGymnasiumHummelsbüttelGymnasiumMarienthalGymnasiumMeiendorfGymnasiumOberalster Schulform Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium
+
+der BezirkHauptstelle Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 2 0 4 0 3 5 2 0 0 0 0 0 0 0 0 0 0
+
+0 1 1 1 0 0 0 3 0 0 0 0 0 0 0 0 0 0
+
+2 2 2 2 2 2 4 3 1 0 1 1 1 0 0 0 0 0
+
+0 4 2 5 2 7 5 1 1 2 0 0 2 0 0 0 0 0
+
+0 7 3 4 6 8 6 3 2 1 1 0 1 0 0 0 0 0
+
+0 6 6 1 1 6 3 1 1 2 0 0 0 0 0 0 0 0
+
+1 6 3 5 2 3 11 0 1 6 1 0 1 0 0 0 0 0 6Jahrgangsstufe 0 7 6 3 1 8 9 3 0 0 1 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 19 9 3
+
+0 0 0 0 0 0 0 0 0 0 1 0 0 4 2 2 6 1
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 5 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 4 1 1 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 6 4 4 4 6 3 4 6 n.v. n.v. n.v. n.v. n.v. 2 2 1 4 2 Wandsbek- Wandsbek- Bekkamp Tegelweg Schulname GymnasiumOhlstedtGymnasiumOldenfeldeGymnasiumOsterbekGymnasiumRahlstedtHeinrich-Heine-GymnasiumJohannes-Brahms-GymnasiumMatthias-Claudius-GymnasiumWalddörfer-GymnasiumReBBZNordReBBZSüd SchuleSchuleParacelsusstraße SchuleAdolph-Diesterweg-SchuleAnton-Rée-SchuleAllermöheClara-Grunwald-SchuleGrundschuleHeidhorstGrundschuleMendelstraße Schulform Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Sonderschule Sonderschule Sonderschule Sonderschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Wandsbek Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf
+
+0 0 0 0 0 0 0 0 0 0 0 0 3 3 1 4 3 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 7 6 0 7 1 1
+
+0 0 0 0 0 0 0 0 0 0 0 0 8 9 0 4 5 4
+
+0 0 0 0 0 0 0 0 0 0 0 0 31 23 21 25 4 1
+
+0 0 0 0 0 0 0 0 0 0 0 0 24 19 14 27 12 1
+
+0 0 0 0 0 0 0 0 0 0 0 0 37 39 11 24 8 2
+
+0 0 0 0 0 0 0 0 0 0 0 0 35 23 5 22 11 7
+
+0 0 0 0 0 0 0 0 0 0 0 0 18 20 6 17 7 7 6Jahrgangsstufe 0 0 0 0 0 0 0 0 0 0 0 0 6 6 20 23 28 15
+
+0 0 13 4 0 1 5 1 0 1 8 3 0 0 2 0 0 0
+
+0 1 3 0 0 1 0 2 1 1 2 0 0 0 0 0 0 0
+
+0 0 2 1 0 1 0 2 0 3 9 0 0 0 0 0 0 0
+
+0 0 2 0 0 1 0 1 0 0 5 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 5 5 3 1 5 3 3 3 4 5 3 5 2 3 5 2 3 3 Curslack- Ernst- Friedrich- Max- Mittlerer Sander Schulname SchuleAltengamme-SchuleNeuengammeSchuleHenning-StraßeSchuleFrank-BogenSchuleFünfhausen-SchuleLeuschnerstraßeSchuleEichholz-RingSchuleLandwegSchuleNettelnburgSchuleOchsenwerderSchuleStraßeSchuleZollenspiekerGretel-Bergmann-SchuleStadtteilschuleBergedorfStadtteilschuleKirchwerderStadtteilschuleLohbrüggeStadtteilschuleRichard-Linde-GymnasiumAllermöhe Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium
+
+der BezirkHauptstelle Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+2 1 0 3 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+
+1 2 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+
+6 3 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+2 3 0 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+
+3 4 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 8 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+1 2 9 3 1 1 0 0 0 0 0 0 0 0 0 0 6 0
+
+6Jahrgangsstufe 5 6 9 1 1 0 0 0 0 0 0 0 0 0 0 0 3 0
+
+0 0 0 0 0 0 3 7 1 1 0 2 0 3 3 10 3 0
+
+0 0 0 0 0 0 0 2 2 1 0 0 0 1 6 1 1 0
+
+0 0 0 0 0 0 0 2 2 0 0 1 1 0 2 1 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 4 4 5 5 n.v. n.v. 2 2 3 2 3 4 2 3 2 2 2 5 am An Alten Park Weg der Bergedorf amArp- Cranz In Schulname Am Haake GymnasiumBornbrookGymnasiumLohbrüggeHansa-GymnasiumLuisen-Gymnasium ReBBZSchuleWeidemoorGanztagsgrundschuleGeorg-Kerschensteiner-GrundschuleKiefernbergGrundschulederGrundschuleNeugrabenGrundschuleSinstorfer SchuleSchuleSchnitger-Stieg SchuleSchuleDempwolffstraßeSchuleGrumbrechtstraßeSchuleForst Schulform Gymnasium Gymnasium Gymnasium Gymnasium Sonderschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule
+
+der BezirkHauptstelle Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Bergedorf Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg
+
+0 0 0 0 0 0 0 12 3 7 0 2 6 0 0 0 0 0
+
+0 0 0 0 0 0 0 4 7 12 0 4 4 1 1 1 2 0
+
+0 0 0 0 0 0 0 6 7 7 0 3 2 1 2 5 2 0
+
+0 0 0 0 0 0 0 18 22 23 20 16 20 1 6 9 3 2
+
+0 0 0 0 0 0 0 17 22 34 17 18 32 1 9 5 4 0
+
+0 0 0 0 0 0 0 29 35 39 21 24 29 7 11 7 3 0
+
+0 0 0 0 0 0 0 17 27 35 22 12 27 4 8 7 1 3
+
+0 0 0 0 0 0 0 13 25 22 21 10 13 14 14 8 3 4 6Jahrgangsstufe 0 0 0 0 0 0 0 9 5 3 9 4 3 24 20 14 10 20
+
+0 5 0 0 1 2 0 0 0 0 14 0 0 0 0 0 0 0
+
+0 0 0 0 0 1 0 0 0 0 13 1 0 0 0 0 0 0
+
+0 1 0 0 1 1 0 0 0 0 6 1 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+VSK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 index Sozial- 2 4 4 2 3 4 4 2 3 3 1 3 2 4 3 4 4 5 Marmstorf Neuland Ohrnsweg Rönneburg Kehre Schulname SchuleKapellenweg Schule Schule Schule SchuleSchuleScheeßelerSchuleSchnuckendriftElisabeth-Lange-SchuleGoethe-Schule-HarburgLessing-StadtteilschuleSchuleMaretstraßeStadtteilschuleFischbek-StadtteilschuleSüderelbeAlexander-von-Humboldt-Friedrich-Ebert-GymnasiumGymnasiumSüderelbeHeisenberg-GymnasiumImmanuel-Kant-Gymnasium Schulform Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium
+
+der BezirkHauptstelle Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg Harburg
+
+0 0 0 0 194 13
+
+0 0 0 0 371 12
+
+0 0 1 2 408 11
+
+5 0 1 0  
+10 1.198  
+11 1 0 3  
+9 1.334
+
+5 4 1 3
+
+8 1.403
+
+3 1 2 0
+
+7 1.212
+
+0 2 0 1 6 937Jahrgangsstufe 0 0 0 1 5 885
+
+0 0 0 0 4 448
+
+0 0 0 0 3 163
+
+0 0 0 0 2 102
+
+0 0 0 0 64
+
+VSK 0 0 0 0 1  
+2023  
+index Sozial- n.v. n.v. n.v. n.v.  
+Schuljahresstatistik Harburg Süderelbe Elfenwiese Schulname Behörde, ReBBZ ReBBZ SchuleSchuleNymphenweg  
+zuständigen  
+Schulform Sonderschule Sonderschule Sonderschule Sonderschule Bildung  
+für  
+derder vergeben  
+Daten nicht  
+= BezirkHauptstelle Harburg Harburg Harburg Harburg Insgesamt Quelle: n.v.

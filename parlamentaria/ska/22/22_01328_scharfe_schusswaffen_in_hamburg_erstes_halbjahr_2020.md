@@ -1,0 +1,135 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/1328"
+wahlperiode: 22
+id: 72492
+titel: "Scharfe Schusswaffen in Hamburg – erstes Halbjahr 2020"
+datum_anfrage: "2020-09-07"
+datum_drucksache: "2020-09-15"
+urheber: ["Dirk Nockemann"]
+fraktionen: ["AfD"]
+vorgang: 66272
+seiten: 2
+fragen: 14
+einzelfragen: 14
+antwortbloecke: 7
+beantwortet: true
+zitierte_drucksachen: ["21/14951", "22/13"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/72492"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/72492/22_01328_scharfe_schusswaffen_in_hamburg_erstes_halbjahr_2020"
+abgerufen: "2026-09-24"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/1328: Scharfe Schusswaffen in Hamburg – erstes Halbjahr 2020
+
+> Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 07.09.20 und Antwort des Senats · Drucksache vom 15.09.2020  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/72492) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/72492/22_01328_scharfe_schusswaffen_in_hamburg_erstes_halbjahr_2020)
+
+## Einleitung für die Fragen
+
+Der Besitz von scharfen beziehungsweise erlaubnispflichtigen Schusswaffen setzt in Deutschland gemäß Waffengesetz (WaffG) eine Waffenbesitzkarte voraus. Diese wird in der Regel von Jägern, Sportschützen, Waffensammlern oder Erben geführt und berechtigt den Träger, Waffen und Munition getrennt zu Hause zu lagern und sie auf dem Weg zur fachgerechten Benutzung, wie zum Beispiel der Jagd zu transportieren. Der Waffenschein indes ist ausschließlich Personen vorbehalten, deren Sicherheit akut bedroht ist, weshalb sie das Recht haben, scharfe Schusswaffen verdeckt in der Öffentlichkeit zu führen.
+
+Vor diesem Hintergrund frage ich den Senat:
+
+## Fragen und Antworten
+
+### Frage 1
+
+Wie viele Waffenbesitzkarten und Waffenscheine waren zum
+30.6.2020 in Hamburg registriert?
+
+#### Antwort zu Frage 1
+
+Tabelle 1
+
+Stichtag Anzahl Waffenbesitzkarten Anzahl Waffenscheine
+30.06.2020 14.565 185
+
+### Frage 2
+
+Wie viele Waffenbesitzkarten beziehen sich gegenwärtig auf folgende Gruppen: Jäger, Sportschützen, Waffensammler, Erben?
+
+#### Antwort zu Frage 2
+
+In der nachstehenden Tabelle wird die Anzahl der zum Stichtag 30. Juni 2020 als Inhaberin beziehungsweise Inhaber von Waffenbesitzkarten im Sinne der Fragestellung registrierten Personen dargestellt:
+
+Tabelle 2
+
+Jäger 3.951  
+Sportschützen 2.955  
+Waffensammler 50  
+Erben 463
+
+Im Übrigen siehe Drs. 21/14951.
+
+### Frage 3
+
+Wie oft hat die Polizei im ersten Halbjahr 2020 Verstöße gegen das Führen von scharfen Schusswaffen in der Öffentlichkeit dokumentiert?
+
+### Frage 4
+
+Wie viele scharfe Schusswaffen hat die Polizei im besagten Zeitraum sichergestellt?
+
+### Frage 5
+
+Wie oft sind im ersten Halbjahr 2020 bei polizeilich dokumentierten Straftaten scharfe Schusswaffen mitgeführt beziehungsweise eingesetzt worden?
+
+#### Antwort zu Fragen 3, 4 und 5
+
+Siehe Drs. 21/14951.
+
+### Frage 6
+
+Sind dem Senat für den besagten Zeitraum Fälle bekannt, bei denen der Einsatz von scharfen Schusswaffen schwerwiegende körperliche Verletzungen zur Folge hatte?
+
+#### Antwort zu Frage 6
+
+Siehe Drs. 22/13.
+
+### Frage 7
+
+Unter welchen Bedingungen wird die Ausstellung einer Waffenbesitzkarte beziehungsweise eines Waffenscheins abgelehnt?
+
+### Frage 8
+
+Wie oft ist es im ersten Halbjahr 2020 zu einer solchen Ablehnung gekommen und wie lautete die häufigste Begründung?
+
+#### Antwort zu Fragen 7 und 8
+
+Siehe Drs. 21/14951.
+
+### Frage 9
+
+Wie häufig sind der Polizei im besagten Zeitraum Dienstwaffen abhandengekommen und wie oft konnten diese später sichergestellt werden?
+
+### Frage 10
+
+Um was für Waffen handelte es sich dabei?
+
+#### Antwort zu Fragen 9 und 10
+
+Im ersten Halbjahr 2020 sind bei der Polizei keine Dienstwaffen abhandengekommen.
+
+Im Übrigen siehe Drs. 21/14951.
+
+### Frage 11
+
+Mit welchen Schusswaffen wurde dabei gehandelt?
+
+### Frage 12
+
+Wie oft hat die Polizei seit dem 1.1.2020 illegale Kriegswaffen sichergestellt?
+
+### Frage 13
+
+Um was für Waffen handelt es sich dabei?
+
+### Frage 14
+
+Kann der Senat schätzen, wie viele illegale scharfe Schutzwaffen gegenwärtig im Umlauf sind?
+
+#### Antwort zu Fragen 11 bis 14
+
+Siehe Drs. 21/14951.

@@ -1,0 +1,380 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/3255"
+wahlperiode: 22
+id: 74533
+titel: "Schulformwechsler/-innen des Schuljahres 2019/2020"
+datum_anfrage: "2021-02-11"
+datum_drucksache: "2021-02-19"
+urheber: ["Sabine Boeddinghaus"]
+fraktionen: ["Die Linke"]
+vorgang: 68065
+seiten: 21
+fragen: 8
+einzelfragen: 11
+antwortbloecke: 5
+beantwortet: true
+zitierte_drucksachen: ["21/20189", "22/672"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/74533"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/74533/22_03255_schulformwechsler_innen_des_schuljahres_2019_2020"
+abgerufen: "2026-09-24"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/3255: Schulformwechsler/-innen des Schuljahres 2019/2020
+
+> Schriftliche Kleine Anfrage der Abgeordneten Sabine Boeddinghaus (DIE LINKE) vom 11.02.21 und Antwort des Senats · Drucksache vom 19.02.2021  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/74533) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/74533/22_03255_schulformwechsler_innen_des_schuljahres_2019_2020)
+
+## Einleitung für die Fragen
+
+Gerade hat der Schulsenator Zahlen der Schuljahresstatistik vorgestellt. Gemäß dem Hamburgischen Schulgesetz (HmbSG) müssen Schüler/-innen, die einen bestimmten Notendurchschnitt nach Klasse 6 am Gymnasium (Gym) nicht erreicht haben, diese Schule verlassen und eine Stadtteilschule (STS) besuchen. Darüber hinaus finden aus unterschiedlichen Gründen auch während der gesamten Sekundarstufe I (Sek I) Wechsel von Gym auf STS statt.
+
+Ich frage den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Entgegen zahlreicher Befürchtungen mussten am Ende des Schuljahres nicht mehr, sondern weniger Schülerinnen und Schüler das Gymnasium nach Klasse 6 verlassen und auf die Stadtteilschule wechseln. Wechselten in den vergangenen Jahren durchschnittlich 928 Schülerinnen und Schüler (2019 955 Schülerinnen und Schüler, 2018 933 Schülerinnen und Schüler und 2017 895 Schülerinnen und Schüler), so waren es 2020 nur 827 Schülerinnen und Schüler.
+
+Die Anzahl der Hamburger Schülerinnen und Schülern insgesamt, die das Gymnasium zwischen Klasse 5 und 12 verlassen und ihre Schullaufbahn an einer Stadtteilschule fortführen, ist im Vergleich zum Vorjahr deutlich von 1.553 auf 1.474 gesunken. Erfasst sind dabei auch Schülerinnen und Schüler, die aus einem anderen Land auf eine Hamburger Stadtteilschule wechselten, sowie Schulformwechsler, die von einer Regelklasse in eine Internationale Vorbereitungsklasse oder Basisklasse wechseln.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
+
+Wie viele Schüler/-innen wechselten Ende der sechsten Klasse zum Schuljahr 2019/2020 von einem Gym auf eine STS?
+
+Wie viele dieser Schüler/-innen hatten eine Gymnasialempfehlung?
+
+(Bitte die Antworten zu Frage 1 in einer Excel-Tabelle zusammenführen, die die Zahl der Schüler/-innen absolut und relativ und zusätzlich eine Differenzierung nach Geschlecht aufführt.)
+
+### Frage 2
+
+Von welchen Gymnasien wechselten wie viele Schüler/-innen auf welche STS? (Bitte in einer Excel-Tabelle angeben, die den Sozialindex, den Bezirk und die Gesamtzahl der Schüler/-innen aufführt.)
+
+#### Antwort zu Fragen 1 und 2
+
+Siehe Drs. 21/20189.
+
+### Frage 3
+
+Für wie viele Schüler/-innen wurden zum Ende des Schuljahres 2019/ 2020 Anträge auf Wechsel vom Gym an die STS gestellt?
+
+Wie viele dieser Schüler/-innen hatten eine Gymnasialempfehlung?
+
+(Bitte die Antworten zu Frage 3 in einer Excel-Tabelle zusammenführen, die die Zahl der Schüler/-innen absolut und relativ und zusätzlich eine Differenzierung nach Geschlecht aufführt.)
+
+#### Antwort zu Frage 3
+
+Siehe Drs. 22/672. Im Rahmen der Antragsbearbeitung wird weder die Gymnasialempfehlung noch das Geschlecht gesondert erfasst.
+
+### Frage 4
+
+Wie viele dieser Anträge wurden bewilligt, wie viele nicht und wie viele Schüler/-innen, für die die Anträge gestellt wurden, wechselten zum Schuljahr 2019/2020 tatsächlich vom Gym auf die STS? (Bitte die Zahlen gesamt und differenziert nach Schülern und Schülerinnen angeben, die abgebenden und die aufnehmenden Schulen mit Sozialindex und Bezirk angeben.)
+
+#### Antwort zu Frage 4
+
+Siehe Drs. 22/672. Hinsichtlich der tatsächlich vollzogenen Wechsel, die zum Schuljahr 2020/2021 in den Jahrgangsstufen 5 bis 12 von einem Gymnasium auf eine Stadtteilschule wechselten, siehe Anlage.
+
+### Frage 5
+
+Wie viele dieser Anträge waren zum Schuljahr 2019/2020 entschieden, wie lange waren sie anhängig und wie viele sind nach Schuljahresbeginn entschieden worden?
+
+#### Antwort zu Frage 5
+
+Siehe auch Drs. 21/20189.
+
+### Frage 6
+
+Wie viele Schüler/-innen wechselten im Schuljahr 2019/2020 in Klasse 10 an STS und Gym in die Sekundarstufe II? (Bitte in einer Excel-Tabelle absolut wie unterschieden nach Gym und STS, Geschlecht angeben sowie angeben, wie viele Schüler/-innen in jeder Kategorie eine Gymnasialempfehlung hatten.)
+
+### Frage 7
+
+Wie viele Schüler/-innen haben am Ende der Klasse 10 im letzten Schuljahr den erforderlichen Notendurchschnitt für einen Übergang in die Klassenstufe 11 an Gym und STS nicht erreicht und mussten deshalb die Klasse wiederholen?
+
+Wie viele dieser Schüler/-innen hatten eine Gymnasialempfehlung?
+
+(Bitte die Antworten zu Frage 7 in einer Excel-Tabelle zusammenführen, die die Zahl der Schüler/-innen absolut und relativ und zusätzlich eine Differenzierung nach Geschlecht aufführt.)
+
+### Frage 8
+
+Fanden am Ende der Klasse 10 Wechsel vom Gym an die STS statt?
+
+Wenn ja, bitte in absoluten Zahlen der Schüler/-innen, der abgebenden Gym und der aufnehmenden STS mit Sozialindex, Schulbezirk und Gesamtzahl der Schüler/-innen in einer Excel-Tabelle angeben.)
+
+#### Antwort zu Fragen 6, 7 und 8
+
+Siehe Drs. 21/20189.
+
+Bürgerschaft der Freien und Hansestadt Hamburg – 22. Wahlperiode Drucksache 22/3255 Anlage lich 2--2--1-311---1111107111351-191-22- weib-
+
+9211211-11--113----942--54-11621211 davon lich männ- AnzahlSuSgesamt 11211411114111131111191131189113531431
+
+342 22311222444542 11122134 32222 sind* Schule
+
+e Aufnehmend Sozialindex1) gewechselt Teichweg Weg Schulname Alter Stadtteilschule Schule Hafen Hafen FinkenwerderFischbek-FalkenbergSüderelbe Altona VeddelAmHamburg-MitteHorn EppendorfWinterhude VeddelAmHornStübenhoferWilhelmsburg Fischbek-Falkenberg LohbrüggeRichard-Linde-Weg Hamburg-MitteHorn Stadtteilschule der der Schule auf und aufHamburger Aufnehmende Ehre eine StadtteilschuleStadtteilschuleStadtteilschule StadtteilschuleGretel-Bergmann-SchuleIdaSchuleStadtteilschuleStadtteilschuleStadtteilschuleGrund-Heinrich-Hertz-SchuleIlse-Löwenstein-SchuleStadtteilschuleStadtteilschuleGoethe-Schule-HarburgOtto-Hahn-Schule Nelson-Mandela-SchuleSchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleLessing-StadtteilschuleStadtteilschule StadtteilschuleStadtteilschuleBrüder-Grimm-SchuleStadtteilschuleStadtteilschule auf Bezirk Gymnasium AufnehmendeSchule Hamburg-MitteHarburgHarburg AltonaBergedorfEimsbüttelHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHarburgWandsbek Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHarburgHarburg BergedorfBergedorfHamburg-MitteHamburg-MitteHamburg-Mitte einem ) 655 55555555555555 22222222 22222 Schulevon Abgebende Sozialindex1 2020/21 Schuljahrzum Schulname Gesamt Gesamt Gesamt die Schule(SuS), Finkenwerder Klosterschule FinkenwerderFinkenwerderFinkenwerder KlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleKlosterschuleSchülern Abgebende und GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumHelmut-Schmidt-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumKurt-Körber-Gymnasium BezirkSchülerinnen Abgebende SchuleAnzahl Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-Mitte
+
+231---11122151--1114-11-1-1221--1-8- 213
+
+11-11112--112111-181-11-1121-11-191 -23
+
+3411112312327211122211211124311111171 236
+
+11nv222 3511212423 2nv 31222225223 5 nv31
+
+Teichweg und Alter Weg Hübener Hübener Brecht Paulus Schule St.Hafen Hafen Georg Hafen MümmelmannsbergÖjendorfSt.Ehestorfer NiendorfVeddelAmHornMümmelmannsberg Helmuth Altona AmHamburg-MitteHorn HelmuthWinterhude Bramfeld Blankenese Am e.V. Schule Schule SchuleStadtteilschule der Schule Morgenstern Schule auf Stadtteilschule und Krause Krause Ehre Ehre StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleMax-Schmeling-StadtteilschuleOtto-Hahn-Schule IdaStadtteilschuleSchuleStadtteilschuleStadtteilschuleStadtteilschuleEmilIlse-Löwenstein-SchuleStadtteilschuleLessing-Stadtteilschule StadtteilschulePrivate KatholischeStadtteilschuleStadtteilschuleStadtteilschuleEmilGrund-StadtteilschuleStadtteilschuleMax-Schmeling-StadtteilschuleOtto-Hahn-SchuleStadtteilschule StadtteilschuleChristianKindergartenIdaStadtteilschule Hamburg-MitteHamburg-MitteHamburg-MitteHarburgWandsbekWandsbek EimsbüttelEimsbüttelHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-NordHamburg-NordHamburg-NordHarburg AltonaHamburg-Mitte Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbekWandsbek Altona EimsbüttelEimsbüttelHamburg-Mitte 222222 2222222222 nvnv 55555555555 4 444
+
+Gesamt Gesamt Gesamt Brecht Gesamt GymnasiumBrechtBrecht GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasium Gymnasium GymnasiumGymnasiumGymnasium WeissWeissWeissWeissWeissWeissWeissWeissWeissWeissWeiss Kurt-Körber-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumKurt-Körber-GymnasiumLouiseLouiseLouiseLouiseLouiseLouiseLouiseLouiseLouiseLouiseLouisePrivatesPrivatesPrivatesSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleSankt-Ansgar-SchuleStruensee StruenseeStruenseeStruensee Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-Mitte Hamburg-MitteHamburg-MitteHamburg-Mitte
+
+-6---12--115761122129721111132 -9 --4--1
+
+17111-111--680---2-29316---741 17 114131
+
+11311113111111156112414181037111873 116 118132
+
+4 212nv32225 12 13322 nv15233 nv3 nv51nv24
+
+Teichweg Teichweg und Alter (Stadtteilschule) Alter Hessepark Schule im Hafen Georg HafenGeorg (Stadtteilschule) Eppendorf Richard-Linde-WegAmHamburg-MitteSt. Poppenbüttel Lurup BahrenfeldFlottbekLurupEidelstedt AltonaBahrenfeldFlottbek NiendorfAmSt. Eppendorf Schule e.V. Stadtteilschule Stadtteilschule Morgenstern Schule und und Krause Ehre Stadtteilschule StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleWichern-SchuleEmilGrund-Otto-Hahn-SchuleStadtteilschule Geschwister-Scholl-StadtteilschuleStadtteilschule Geschwister-Scholl-StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Bugenhagen-SchuleGeschwister-Scholl-StadtteilschuleMax-Brauer-SchuleStadtteilschuleStadtteilschuleStadtteilschuleChristianKindergartenIda Joseph-Carlebach-SchuleStadtteilschuleStadtteilschuleStadtteilschuleGrund-Stadtteilschule Hamburg-Nord BergedorfHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-NordHamburg-NordWandsbekWandsbek AltonaAltona AltonaAltonaAltonaAltonaEimsbüttel AltonaAltonaAltonaAltonaAltonaAltona EimsbüttelEimsbüttel EimsbüttelEimsbüttelHamburg-MitteHamburg-MitteHamburg-NordHamburg-Nord
+
+4 555555555 66 44444 444444 44 444444
+
+Gesamt Gesamt Gesamt (Gymnasium) (Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium) Gesamt AlleeAlleeAlleeAlleeAlleeAllee AlleeAllee AlleeAlleeAlleeAlleeAlleeAllee GymnasiumGymnasium StruenseeStruenseeWichern-SchuleWichern-SchuleWichern-SchuleWichern-SchuleWichern-SchuleWichern-SchuleWichern-SchuleWichern-SchuleWichern-SchuleWichern-SchuleGesamtChristianeumChristianeumChristianeumGoethe-GymnasiumGoethe-GymnasiumGoethe-GymnasiumGoethe-GymnasiumGoethe-GymnasiumGoethe-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltona AltonaAltona AltonaAltonaAltonaAltonaAltonaAltona
+
+-23-131- -51-1-21341-1-3-1621-362----22
+
+23321141 110-1113-2211-221-7--235-11114-
+
+25622451 115112151562112511132126112111162
+
+5 52331 nv 524nv nv5 nv153533 nv354 nv34nv2 nv
+
+Altrahlstedt Hessepark Hessepark Hessepark Hessepark Hübener Hessepark im im im im im Hafen Georg Georg BahrenfeldBlankeneseRissen FlottbekRissenSt.Helmuth Winterhude AltonaBahrenfeldFlottbekAm BlankeneseLurupRissenSt. Blankenese BahrenfeldBlankenese Stadtteilschule Schule und Ehre Stadtteilschule Max-Brauer-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleAugust-Hermann-Francke-SchuleUhlenhorst StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Bugenhagen-SchuleStadtteilschule Bugenhagen-SchuleGeschwister-Scholl-StadtteilschuleMax-Brauer-SchuleStadtteilschuleStadtteilschuleIdaGrund- Bugenhagen-SchuleStadtteilschuleStadtteilschuleStadtteilschule Bugenhagen-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Bugenhagen-Schule Hamburg-Nord AltonaAltonaAltonaAltonaHamburg-Mitte Hamburg-Nord AltonaAltonaAltonaHamburg-Mitte AltonaAltona AltonaAltonaAltonaAltonaAltonaEimsbüttelWandsbek AltonaAltonaAltonaAltona AltonaAltonaAltonaHamburg-MitteHamburg-Nord Altona 4 55555 5 6666 66 6666666 6666 nvnvnvnvnv 4
+
+Gesamt Gesamt Gesamt Gesamt Gesamt Gesamt Gesamt Allee Altona Blankenese Hochrad Othmarschen Rissen Allee AltonaAltonaAltonaAltonaAltona Altona BlankeneseBlankeneseBlankeneseBlankenese HochradHochrad OthmarschenOthmarschenOthmarschenOthmarschenOthmarschenOthmarschenOthmarschen RissenRissenRissenRissen GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumJenisch-GymnasiumJenisch-GymnasiumJenisch-GymnasiumJenisch-GymnasiumJenisch-GymnasiumJenisch-GymnasiumLise-Meitner-Gymnasium
+
+AltonaAltonaAltonaAltonaAltonaAltonaAltona AltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltona
+
+3-5311152-1212--19-1-196-1-2--311-2151114
+
+23221111-1-3-111-711131011111127-343---103
+
+53752226211513111161214197121312101445151217
+
+135321 nv52534221 nvnv4 234252 nv23nv145 4
+
+Teichweg Alter (Stadtteilschule) Hessepark Altona Altona im Hafen Georg Hafen Altona AmEppendorfWinterhude BahrenfeldBlankeneseFlottbekLurupAm AltonaBlankeneseFlottbekRissenEidelstedtHornÖjendorf St.Eppendorf Altona EidelstedtNiendorfStadtteilschule Schule Schule und Ehre Ehre Geschwister-Scholl-StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Bugenhagen-SchuleMax-Brauer-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Rudolf-Steiner-SchuleStadtteilschuleStadtteilschule StadtteilschuleIdaJulius-Leber-SchuleStadtteilschuleStadtteilschuleGrund- Rudolf-Steiner-SchuleStadtteilschuleIdaJoseph-Carlebach-SchuleStadtteilschuleStadtteilschuleStadtteilschule Julius-Leber-Schule AltonaAltonaAltonaAltonaAltonaHamburg-Mitte AltonaAltonaAltonaAltonaAltonaAltonaEimsbüttelHamburg-MitteHamburg-Mitte AltonaHamburg-MitteHamburg-Nord AltonaEimsbüttelEimsbüttelEimsbüttelEimsbüttelHamburg-Nord AltonaAltonaEimsbüttelEimsbüttelHamburg-MitteHamburg-NordHamburg-Nord Eimsbüttel
+
+444444 666666666 444 555555 5555555 6
+
+Gesamt Gesamt Gesamt Gesamt Gesamt Gymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasium Bondenwald DönhoffDönhoffDönhoffDönhoffDönhoffDönhoffDönhoffDönhoffDönhoffDönhoff Lise-Meitner-GymnasiumLise-Meitner-GymnasiumLise-Meitner-GymnasiumLise-Meitner-GymnasiumLise-Meitner-GymnasiumLise-Meitner-GymnasiumLise-Meitner-GymnasiumMarionMarionMarionMarionMarionMarionMarionMarionMarionMarionStruenseeStruenseeStruenseeStruensee Albrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumAlbrecht-Thaer-GymnasiumEmilie-Wüstenfeld-GymnasiumEmilie-Wüstenfeld-GymnasiumEmilie-Wüstenfeld-GymnasiumEmilie-Wüstenfeld-GymnasiumEmilie-Wüstenfeld-GymnasiumEmilie-Wüstenfeld-GymnasiumEmilie-Wüstenfeld-GymnasiumEmilie-Wüstenfeld-GymnasiumGymnasium Gesamt AltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttel
+
+1495-42- --11221-68---17---1-1--1511210-8
+
+148312-1 13-11--1282111511311712-61-111310
+
+281781621 13123211816211321132181211121321318
+
+25 3453nv nv4nv 13342544 52345 5233534 45
+
+Wandsbek Alsterdorf EidelstedtNiendorf NiendorfStellingenGeorgSt. Eppendorf Bahrenfeld EidelstedtNiendorf Altona EppendorfWinterhude AltonaFlottbek NiendorfStellingenEppendorf Niendorf Schule Schule Schule Schule Ehre Ehre Ehre Ehre StadtteilschuleStadtteilschule IdaJulius-Leber-SchuleStadtteilschuleStadtteilschuleStadtteilschuleBugenhagen-Schule(Stadtteilschule)StadtteilschuleRudolf-Steiner-Schule Geschwister-Scholl-StadtteilschuleStadtteilschuleIdaJulius-Leber-SchuleStadtteilschuleStadtteilschuleFritz-Schumacher-SchuleIrena-Sendler-Schule Max-Brauer-SchuleStadtteilschuleIdaStadtteilschuleStadtteilschule Max-Brauer-SchuleStadtteilschuleStadtteilschuleIdaStadtteilschuleStadtteilschuleStadtteilschule Julius-Leber-SchuleStadtteilschule EimsbüttelEimsbüttel EimsbüttelEimsbüttelEimsbüttelEimsbüttelHamburg-Mitte Hamburg-NordHamburg-NordWandsbek AltonaAltonaEimsbüttelEimsbüttelEimsbüttelEimsbüttelHamburg-NordWandsbek AltonaAltonaEimsbüttelHamburg-NordHamburg-Nord AltonaAltonaAltonaEimsbüttelEimsbüttelEimsbüttelHamburg-Nord EimsbüttelEimsbüttel
+
+66 55555 555 55555555 55555 5555555 66
+
+Gesamt Gesamt Gesamt Gesamt Gesamt Bondenwald Corveystraße Dörpsweg Hoheluft Kaiser-Friedrich-Ufer BondenwaldBondenwald CorveystraßeCorveystraßeCorveystraßeCorveystraßeCorveystraße CorveystraßeCorveystraßeCorveystraße DörpswegDörpswegDörpswegDörpswegDörpswegDörpswegDörpswegDörpsweg HoheluftHoheluftHoheluftHoheluftHoheluft Kaiser-Friedrich-UferKaiser-Friedrich-UferKaiser-Friedrich-UferKaiser-Friedrich-UferKaiser-Friedrich-UferKaiser-Friedrich-UferKaiser-Friedrich-Ufer OhmoorOhmoor GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium
+
+EimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttel EimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttel
+
+--8-21-1-4-----1--13-11-1 1-1884--1211
+
+11151--221611518-11211--1- -1-410411-1--
+
+112312123110115181113411111 11112188111311
+
+3nv 5331nv5 2313 531 3nv212nv nv24 3 3nv56
+
+Teichweg Alter (Stadtteilschule) Hafen Hafen Georg StellingenGeorgSt. StellingenHafenAmGeorgSt.Winterhude AltonaFlottbek Am Niendorf Am EidelstedtHafenAmHamburg-Mitte St. Bahrenfeld Niendorf Bonifatiusschule Stadtteilschule Schule Schule Schule und Ehre Ehre Ehre StadtteilschuleStadtteilschule Max-Brauer-SchuleIdaStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule StadtteilschuleStadtteilschuleStadtteilschuleLessing-Stadtteilschule StadtteilschuleKatholischeStadtteilschule IdaSophie-Barat-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleAugust-Hermann-Francke-SchuleUhlenhorstGrund-Heinrich-Hertz-Schule Stadtteilschule IdaJoseph-Carlebach-SchuleStadtteilschuleAlbert-Schweitzer-Schule EimsbüttelHamburg-Mitte AltonaEimsbüttelEimsbüttelHamburg-MitteHamburg-MitteHamburg-Nord AltonaAltonaHamburg-MitteHarburg EimsbüttelHamburg-MitteHamburg-Mitte EimsbüttelEimsbüttelEimsbüttelHamburg-MitteHamburg-MitteHamburg-Mitte Hamburg-NordHamburg-NordHamburg-Nord Altona EimsbüttelEimsbüttelEimsbüttelHamburg-Nord 66 555555 nvnvnvnv 666 666666 666 nv 6666
+
+Exupéry' Exupéry'Exupéry'Exupéry'Exupéry'St. Gesamt St.St.St.St.de dededede'Antoine Uhlenhorst 'Antoine'Antoine'Antoine'Antoine Uhlenhorst Gesamt Gesamt Hambourg Gesamt Gesamt HambourgHambourgHambourgHambourg Gymnasium de Gymnasium dededede Ohmoor OhmoorOhmoor FrançaisFrançaisFrançaisFrançaisFrançais ChristlichesChristliches GymnasiumGymnasiumGymnasiumHelene-Lange-GymnasiumHelene-Lange-GymnasiumHelene-Lange-GymnasiumHelene-Lange-GymnasiumHelene-Lange-GymnasiumHelene-Lange-GymnasiumHelene-Lange-GymnasiumLycéeLycéeLycéeLycéeLycéeSophie-Barat-SchuleSophie-Barat-SchuleSophie-Barat-SchuleSophie-Barat-SchuleWilhelm-GymnasiumWilhelm-GymnasiumWilhelm-GymnasiumWilhelm-GymnasiumWilhelm-GymnasiumWilhelm-Gymnasium Wilhelm-GymnasiumWilhelm-GymnasiumWilhelm-GymnasiumWilhelm-Gymnasium ahfsahfsAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-Gymnasium Gesamt EimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttel EimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord
+
+- 1-12--1-1011---114 - ---111-13-51--1
+
+1 111121-110-1111--4 1 111-4-21-14-12-
+
+1 212321112012111118 1 111151223191121
+
+nv nv4242545 2222445 nv nv444 24424 3nv4nv
+
+Teichweg Alter (Stadtteilschule) Hübener Hübener Wandsbek Alsterdorf Alsterdorf Heidberg Heidberg Heidberg AmHelmuthWinterhude Poppenbüttel Eidelstedt AmEppendorfPoppenbüttel AmHelmuth Eppendorf Schule Schule Stadtteilschule Schule und Krause Krause EhreAugust-Hermann-Francke-SchuleUhlenhorstBugenhagen-Schule(Stadtteilschule)Fritz-Schumacher-SchuleGrund-StadtteilschuleStadtteilschuleStadtteilschuleIrena-Sendler-SchuleStadtteilschule Gretel-Bergmann-SchuleStadtteilschuleBrüder-Grimm-SchuleEmilStadtteilschuleStadtteilschuleStadtteilschule August-Hermann-Francke-SchuleUhlenhorstBugenhagen-Schule(Stadtteilschule)Heinrich-Hertz-SchuleIlse-Löwenstein-SchuleGoethe-Schule-Harburg EmilFritz-Schumacher-SchuleStadtteilschuleStadtteilschuleIrena-Sendler-Schule IdaJoseph-Carlebach-SchuleStadtteilschuleRudolf-Steiner-Schule Hamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbek BergedorfEimsbüttelHamburg-MitteHamburg-NordHamburg-NordHamburg-NordWandsbek Hamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHarburg Hamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbek EimsbüttelEimsbüttelHamburg-NordWandsbek 6 66666666 nvnvnvnvnvnvnv 6 6666 55555 6666
+
+Gesamt Gesamt Gesamt Johanneums Gesamt Johanneums JohanneumsJohanneumsJohanneumsJohanneums des des desdesdesdes Alstertal AlstertalAlstertalAlstertalAlstertalAlstertal EppendorfEppendorfEppendorfEppendorf Gymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium Albert-Schweitzer-Gymnasium Albert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlbert-Schweitzer-GymnasiumAlsterringAlsterringAlsterringAlsterringAlsterringAlsterringAlsterringAlsterring Gelehrtenschule GelehrtenschuleGelehrtenschuleGelehrtenschuleGelehrtenschuleGelehrtenschuleGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium Hamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord Hamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord
+
+2 --111-31-12 -2111--3113-11 -12-2711-1
+
+3 11-2-15-1-1 11--111--712- 51-3-12--1-
+
+5 11131181113 13112113120131 52232191111
+
+nv24425 3nvnv2 nv22442542 1nv6 nv2445 5245
+
+(Stadtteilschule) TeichwegAlter TeichwegAlter TeichwegAlter Hübener Hübener Alsterdorf Alsterdorf Heidberg Georg AmHelmuthPoppenbüttel Hamburg-Mitte HelmuthWinterhude ÖjendorfSt. EppendorfWinterhude Blankenese Walddörfer Schule Schule Stadtteilschule Stadtteilschule Stadtteilschule Schule und und und Krause Krause Ehre Bugenhagen-Schule(Stadtteilschule)EmilFritz-Schumacher-SchuleStadtteilschuleStadtteilschuleStadtteilschule IdaJoseph-Carlebach-SchuleSophie-Barat-SchuleStadtteilschuleAugust-Hermann-Francke-SchuleUhlenhorstEmilGrund-Heinrich-Hertz-SchuleIlse-Löwenstein-SchuleStadtteilschuleStadtteilschuleIrena-Sendler-SchuleOtto-Hahn-Schule StadtteilschuleStadtteilschuleAlbert-Schweitzer-SchuleBugenhagen-Schule(Stadtteilschule)Grund-Heinrich-Hertz-SchuleStadtteilschuleStadtteilschule StadtteilschuleGrund-Heinrich-Hertz-SchuleStadtteilschule Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbek EimsbüttelEimsbüttelEimsbüttelHamburg-Mitte Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbek Hamburg-MitteHamburg-MitteHamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord AltonaHamburg-NordHamburg-NordWandsbek
+
+555555 4444 444444444 555 55555 4444
+
+Gesamt Gesamt Gesamt Gesamt Eppendorf Heidberg Lerchenfeld HeidbergHeidbergHeidbergHeidbergHeidbergHeidberg LerchenfeldLerchenfeldLerchenfeldLerchenfeld LerchenfeldLerchenfeldLerchenfeldLerchenfeldLerchenfeldLerchenfeldLerchenfeldLerchenfeldLerchenfeld Gymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHeilwig-GymnasiumHeilwig-GymnasiumHeilwig-Gymnasium Heilwig-GymnasiumHeilwig-GymnasiumHeilwig-GymnasiumHeilwig-GymnasiumHeilwig-GymnasiumHeilwig-GymnasiumHeinrich-Hertz-SchuleHeinrich-Hertz-SchuleHeinrich-Hertz-SchuleHeinrich-Hertz-Schule Hamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord
+
+3-1111-3111-10-1211- 12 3-11---1--170- -1
+
+11--2-13--11911---1 -- -14111-113682 11
+
+41113116112119122111 12 311511111141382 12
+
+41223225234 13425nv nv2 nv4 nv 1455 4 nv4
+
+Teichweg Teichweg Weg Alter Alter Hübener Brecht Alsterdorf Georg Hafen KirchwerderÖjendorfStübenhofer HelmuthWinterhude BramfeldMeiendorf EidelstedtNiendorfSt. Alsterpalais Fischbek-Falkenberg AmEppendorfBergstedtPoppenbüttel Schule Stadtteilschule Stadtteilschule See Schule und am und Stadtteilschule Krause Ehre StadtteilschuleStadtteilschuleStadtteilschuleEmilFranz-von-Assisi-SchuleGrund-StadtteilschuleStadtteilschuleSchuleStadtteilschuleStadtteilschule Geschwister-Scholl-StadtteilschuleIdaJulius-Leber-SchuleStadtteilschuleStadtteilschuleStadtteilschuleBugenhagen-Schule(Stadtteilschule)Grund-Zukunftsschule(Stadtteilschule)Stadtteilschule Private StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Julius-Leber-SchuleAugust-Hermann-Francke-SchuleUhlenhorstFritz-Schumacher-Schule BergedorfHamburg-MitteHamburg-MitteHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbekWandsbek AltonaEimsbüttelEimsbüttelEimsbüttelEimsbüttelHamburg-Mitte Hamburg-NordHamburg-Nord Hamburg-NordHarburg Hamburg-Mitte Hamburg-MitteHamburg-NordWandsbekWandsbek Eimsbüttel Hamburg-NordHamburg-Nord 44444444444 nvnvnvnvnvnv nvnv nvnv nv nvnvnvnv 5 55
+
+Gesamt Gesamt Hamburg HamburgHamburgHamburgHamburg Gesamt (Gymnasium) (Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium)(Gymnasium) (Gymnasium)(Gymnasium) (Gymnasium)(Gymnasium) Gesamt Talent-Schule Talent-SchuleTalent-SchuleTalent-SchuleTalent-Schule Hamburg HamburgHamburgHamburgHamburgHamburgHamburg HamburgHamburg HamburgHamburg Gesamt SchoolSchoolSchoolSchoolSchool SchuleSchuleSchuleSchuleSchuleSchule SchuleSchule SchuleSchuleSchule AngabeAngabePrivatePrivatePrivatePrivatePrivate Heinrich-Hertz-SchuleMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumMargaretha-Rothe-GymnasiumModerneModerneModerneModerneModerneModerne ModerneModerne ModerneModerneModerneohneohneOKOOKOOKOOKOOKOGesamtCarl-von-Ossietzky-Gymnasium Carl-von-Ossietzky-GymnasiumCarl-von-Ossietzky-Gymnasium Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord Hamburg-NordHamburg-Nord Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbek WandsbekWandsbek
+
+-414-111-1-11234115-5-1-251--1-2- 11-211
+
+17-213182-1----1--2151-114-111361 --1411
+
+11116142921111235117110111391112381 111622
+
+24nv545 2312nv62242422nv33 34nv55 4 nv42344
+
+Teichweg Teichweg Teichweg Alter Alter Alter Bergstedt Paulus HübenerTonndorf Wandsbek Bergstedt Tonndorf St.Hafen Georg Schule Schule BergstedtMeiendorfPoppenbüttel AmHornSt. Helmuth BramfeldOldenfelde BergstedtWalddörfer Kirchwerder Schule Schule Schule Stadtteilschule Schule Stadtteilschule Stadtteilschule und und und Trebitsch Kästner KästnerTrebitsch Krause Grund-Irena-Sendler-SchuleRudolf-Steiner-SchuleStadtteilschuleStadtteilschuleStadtteilschule Brüder-Grimm-SchuleKatholischeStadtteilschuleStadtteilschuleStadtteilschuleAlbert-Schweitzer-SchuleEmilGrund-Ilse-Löwenstein-SchuleStadtteilschuleGyulaMax-Schmeling-StadtteilschuleOtto-Hahn-SchuleRudolf-Steiner-SchuleStadtteilschuleStadtteilschule ErichIrena-Sendler-SchuleRudolf-Steiner-SchuleStadtteilschuleStadtteilschule StadtteilschuleAugust-Hermann-Francke-SchuleUhlenhorstFritz-Schumacher-SchuleGrund-ErichGyulaIrena-Sendler-Schule Hamburg-NordWandsbekWandsbekWandsbekWandsbekWandsbek Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek WandsbekWandsbekWandsbekWandsbekWandsbek Bergedorf Hamburg-NordHamburg-NordHamburg-NordWandsbekWandsbekWandsbek
+
+555555 5555555555555555 66666 4 444444
+
+Gesamt Gesamt Gesamt Buckhorn BuckhornBuckhornBuckhornBuckhornBuckhorn Farmsen FarmsenFarmsenFarmsenFarmsenFarmsenFarmsen Carl-von-Ossietzky-GymnasiumCarl-von-Ossietzky-GymnasiumCarl-von-Ossietzky-GymnasiumCarl-von-Ossietzky-GymnasiumCarl-von-Ossietzky-GymnasiumCarl-von-Ossietzky-GymnasiumCarl-von-Ossietzky-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumCharlotte-Paulsen-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium
+
+WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek WandsbekWandsbekWandsbekWandsbekWandsbekWandsbek
+
+--1-411218--1111-- 151-1121112-1-12571201-
+
+11-1-112-1011--1212 -511-2214-23111255121-1
+
+1111422411811112312 11021134251432124101224111
+
+2nv5343 24nvnv55 5nv nv424245 2212234223 1nv
+
+Teichweg Teichweg Alter Alter Altrahlstedt Weg Wandsbek BergstedtWandsbek Hübener Tonndorf Alsterdorf Georg Heidberg Georg Schule BergstedtBramfeldMeiendorfOldenfelde BergstedtWalddörfer NiendorfSt. AmHelmuth Poppenbüttel HornMümmelmannsberg Ehestorfer Bramfeld MümmelmannsbergSt. Schule Stadtteilschule Stadtteilschule Stadtteilschule und und und Trebitsch Krause Max-Schmeling-StadtteilschuleRudolf-Steiner-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Grund-Irena-Sendler-SchuleRudolf-Steiner-SchuleRudolf-Steiner-SchuleStadtteilschuleStadtteilschule StadtteilschuleStadtteilschuleBugenhagen-Schule(Stadtteilschule)Fritz-Schumacher-SchuleGrund-StadtteilschuleStadtteilschuleIrena-Sendler-SchuleStadtteilschule Brüder-Grimm-SchuleStadtteilschuleStadtteilschuleEmilStadtteilschuleGrund-GyulaMax-Schmeling-StadtteilschuleOtto-Hahn-SchuleStadtteilschule StadtteilschuleStadtteilschule WandsbekWandsbekWandsbekWandsbekWandsbekWandsbek Hamburg-NordWandsbekWandsbekWandsbekWandsbekWandsbek EimsbüttelHamburg-Mitte Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbek Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-NordHarburgWandsbekWandsbekWandsbekWandsbekWandsbek Hamburg-MitteHamburg-Mitte
+
+444444 666666 44 4444444 3333333333 55
+
+Gesamt Gesamt Gesamt Gesamt Farmsen Grootmoor Hummelsbüttel Marienthal FarmsenFarmsenFarmsenFarmsenFarmsenFarmsen GrootmoorGrootmoorGrootmoorGrootmoorGrootmoorGrootmoor HummelsbüttelHummelsbüttel HummelsbüttelHummelsbüttelHummelsbüttelHummelsbüttelHummelsbüttelHummelsbüttelHummelsbüttel MarienthalMarienthalMarienthalMarienthalMarienthalMarienthalMarienthalMarienthalMarienthalMarienthal MeiendorfMeiendorf GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium
+
+WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek
+
+12-221-3214- --21--31-31-511-21311101512
+
+--1---11591 112-116-13116-424-15-16-1--
+
+121221147231 1141119116211115261461261612
+
+333442345 2 nv24535 nvnv545 23425435 4223
+
+Teichweg Teichweg Teichweg Altrahlstedt Alter AlterAltrahlstedt Alter Tonndorf Bergstedt Tonndorf Hübener Alsterdorf Georg (Stadtteilschule) Schule Eidelstedt Schule BramfeldMeiendorfWalddörfer BergstedtBramfeldPoppenbüttel St. BergstedtMeiendorfWalddörfer BergstedtMeiendorfOldenfeldeWalddörfer Helmuth Schule Schule Stadtteilschule Stadtteilschule StadtteilschuleStadtteilschule Stadtteilschule und und undund und Trebitsch Trebitsch Kästner Kästner Wichern-SchuleErich Grund-Gyula Irena-Sendler-SchuleOtto-Hahn-SchuleStadtteilschuleStadtteilschuleStadtteilschule StadtteilschuleBugenhagen-Schule(Stadtteilschule)Grund-Irena-Sendler-SchuleStadtteilschuleStadtteilschuleStadtteilschule StadtteilschuleRudolf-Steiner-SchuleStadtteilschuleStadtteilschuleStadtteilschule Grund-Grund-Gyula Otto-Hahn-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Fritz-Schumacher-SchuleGrund-StadtteilschuleErich Hamburg-MitteWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek Eimsbüttel Hamburg-NordHamburg-NordWandsbekWandsbekWandsbekWandsbek Hamburg-MitteWandsbekWandsbekWandsbekWandsbek Hamburg-NordWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek Hamburg-NordHamburg-NordHamburg-NordWandsbek
+
+555555555 5 555555 66666 55555555 5555
+
+Gesamt Gesamt Gesamt Gesamt Meiendorf Oberalster Ohlstedt Oldenfelde MeiendorfMeiendorfMeiendorfMeiendorfMeiendorfMeiendorfMeiendorfMeiendorfMeiendorf Oberalster OberalsterOberalsterOberalsterOberalsterOberalsterOberalster OhlstedtOhlstedtOhlstedtOhlstedtOhlstedt OldenfeldeOldenfeldeOldenfeldeOldenfeldeOldenfeldeOldenfeldeOldenfeldeOldenfelde OsterbekOsterbekOsterbekOsterbek GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium
+
+WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek
+
+-111-214--1143141322012-3118-1 1-1-11--3
+
+121-139111172-332-21--121-41- -13141115
+
+13211523112211517452411215211211 114152118
+
+344223 11233422435 24nv555 2nv nv22423344
+
+Teichweg Teichweg Teichweg Altrahlstedt Alter Altrahlstedt Alter Alter Altrahlstedt Tonndorf Tonndorf Bergstedt Hübener Tonndorf Hafen Georg Schule Schule Schule Bramfeld AmMümmelmannsberg MeiendorfOldenfeldeWalddörfer BergstedtPoppenbüttelWalddörfer EidelstedtSt. Helmuth Schule Schule Schule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule Stadtteilschule und und und und und und Trebitsch Kästner Trebitsch Kästner Trebitsch Krause Grund-GyulaIrena-Sendler-SchuleMax-Schmeling-StadtteilschuleOtto-Hahn-SchuleStadtteilschule StadtteilschuleStadtteilschuleGrund-ErichGrund-GyulaMax-Schmeling-StadtteilschuleOtto-Hahn-SchuleStadtteilschuleStadtteilschuleStadtteilschule Grund-Irena-Sendler-SchuleRudolf-Steiner-SchuleStadtteilschuleStadtteilschuleStadtteilschule StadtteilschuleStadtteilschuleAugust-Hermann-Francke-SchuleUhlenhorstEmilGrund-Ilse-Löwenstein-SchuleStadtteilschuleErichGrund-GyulaIrena-Sendler-Schule WandsbekWandsbekWandsbekWandsbekWandsbekWandsbek Hamburg-MitteHamburg-MitteHamburg-NordWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek Hamburg-NordWandsbekWandsbekWandsbekWandsbekWandsbek EimsbüttelHamburg-Mitte Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbekWandsbekWandsbek
+
+555555 55555555555 666666 44 444444444
+
+Gesamt Gesamt Gesamt Osterbek Rahlstedt OsterbekOsterbekOsterbekOsterbekOsterbekOsterbek RahlstedtRahlstedtRahlstedtRahlstedtRahlstedtRahlstedtRahlstedtRahlstedtRahlstedtRahlstedtRahlstedt GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHeinrich-Heine-GymnasiumHeinrich-Heine-GymnasiumHeinrich-Heine-GymnasiumHeinrich-Heine-GymnasiumHeinrich-Heine-GymnasiumHeinrich-Heine-GymnasiumHeinrich-Heine-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-Gymnasium Johannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-Gymnasium
+
+WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek
+
+241152-1-1 13---1-11-11-11226198-51-1-7-12
+
+-5-231111- -4412-1-21192-12272181645211911-
+
+2913831211 1741211131302124413416111553126122
+
+235 221nv3 nv224244223 32455 nv24321 243
+
+Teichweg Bergedorf Alter Hübener Tonndorf Tonndorf Georg (Stadtteilschule) Schule Schule Stadtteilschule BramfeldWalddörfer Hamburg-MitteHornMümmelmannsbergSt. HelmuthFischbek-Falkenberg Bramfeld Hamburg-Mitte BergstedtWalddörfer BergedorfLohbrüggeRichard-Linde-WegÖjendorf KirchwerderLohbrügge Schule StadtteilschuleSee Schuleam und Trebitsch Trebitsch Krause Christliche Ehre SchuleStadtteilschuleStadtteilschule StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleWichern-SchuleAugust-Hermann-Francke-SchuleUhlenhorstEmilGrund-Ilse-Löwenstein-SchuleStadtteilschuleStadtteilschuleGyulaMax-Schmeling-StadtteilschuleOtto-Hahn-SchuleStadtteilschule IdaStadtteilschuleGyulaStadtteilschuleStadtteilschule ahfsGretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Gretel-Bergmann-SchuleStadtteilschuleStadtteilschule WandsbekWandsbekWandsbek Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-Mitte Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHarburgWandsbekWandsbekWandsbekWandsbek EimsbüttelHamburg-MitteWandsbekWandsbekWandsbek BergedorfBergedorfBergedorfBergedorfBergedorfHamburg-Mitte BergedorfBergedorfBergedorf
+
+444 44444 4444444444 66666 444444 444
+
+Gesamt Gesamt Gesamt Gesamt Allermöhe AllermöheAllermöheAllermöheAllermöheAllermöheAllermöhe BornbrookBornbrookBornbrook Johannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumJohannes-Brahms-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-Gymnasium Matthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumMatthias-Claudius-GymnasiumWalddörfer-GymnasiumWalddörfer-GymnasiumWalddörfer-GymnasiumWalddörfer-GymnasiumWalddörfer-GymnasiumWalddörfer-Gymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium Gesamt WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorf
+
+9-21 116-1315231111191--21217--121-4531-4
+
+51-- -81-22711----14-2133--9112--1555-12
+
+14121 124115312341111331215421161132119108116
+
+2211 nv nv2443211nv22 nv244321 244325 124
+
+Teichweg Teichweg Bergedorf Bergedorf Alter Alter Georg Hafen Stadtteilschule Stadtteilschule Richard-Linde-WegEidelstedtMümmelmannsbergÖjendorf BergedorfKirchwerderLohbrüggeRichard-Linde-WegMümmelmannsbergÖjendorfSt. Süderelbe BergedorfKirchwerderLohbrüggeRichard-Linde-WegAm BergedorfKirchwerderLohbrüggeRichard-Linde-WegPoppenbüttel Stadtteilschule Stadtteilschule und und Christliche Christliche StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleAugust-Hermann-Francke-SchuleUhlenhorst ahfsGretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGrund-Stadtteilschule ahfsGretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Gretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Nelson-Mandela-SchuleGrund-Goethe-Schule-Harburg BergedorfEimsbüttelHamburg-MitteHamburg-Mitte Hamburg-Nord BergedorfBergedorfBergedorfBergedorfBergedorfBergedorfHamburg-MitteHamburg-MitteHamburg-MitteHamburg-NordHarburg BergedorfBergedorfBergedorfBergedorfBergedorfBergedorfHamburg-Mitte BergedorfBergedorfBergedorfBergedorfBergedorfWandsbek Hamburg-MitteHamburg-NordHarburg
+
+4444 4 55555555555 5555555 666666 555
+
+Gesamt Gesamt Gesamt Gesamt Bergedorf Bergedorf BergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorf BergedorfBergedorfBergedorfBergedorfBergedorfBergedorf Bornbrook Lohbrügge BornbrookBornbrookBornbrookBornbrook Bornbrook LohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrüggeLohbrügge GymnasiumGymnasiumGymnasiumGymnasium GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHansa-GymnasiumHansa-GymnasiumHansa-GymnasiumHansa-GymnasiumHansa-GymnasiumHansa-GymnasiumHansa-GymnasiumHansa-GymnasiumLuisen-GymnasiumLuisen-GymnasiumLuisen-GymnasiumLuisen-GymnasiumLuisen-GymnasiumLuisen-GymnasiumLuisen-Gymnasium Alexander-von-Humboldt-GymnasiumAlexander-von-Humboldt-GymnasiumAlexander-von-Humboldt-Gymnasium Gesamt BergedorfBergedorfBergedorfBergedorf BergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfBergedorfHarburgHarburgHarburg
+
+1281111-66-22-121611113527533213251-2105- 1
+
+5-8----11051792-35-2-1631210-511643-141211 -
+
+6216111111611191121566312198391538329681162261 1
+
+32 231nv24312422 43nv242 4324 43112 43 nv
+
+Süd Teichweg Alter Weg Weg HarburgWeg Weg Weg Harburg Georg Hafen Ehestorfer Eidelstedt St. EhestorferFischbek-FalkenbergSüderelbe EhestorferFischbek-FalkenbergSüderelbe EhestorferFischbek-Falkenberg AmEhestorfer Bonifatiusschule Stadtteilschule SchuleStadtteilschuloberstufe und Maretstraße Maretstraße Niels-Stensen-Gymnasium Lessing-StadtteilschuleStadtteilschule StadtteilschuleKatholischeNelson-Mandela-SchuleStadtteilschuleGrund-Goethe-Schule-HarburgLessing-StadtteilschuleSchuleStadtteilschuleStadtteilschuleStadtteilschuleOtto-Hahn-Schule Goethe-Schule-HarburgLessing-StadtteilschuleRudolf-Steiner-SchuleStadtteilschuleStadtteilschuleStadtteilschule Goethe-Schule-HarburgLessing-StadtteilschuleStadtteilschuleStadtteilschule Goethe-Schule-HarburgLessing-StadtteilschuleSchuleStadtteilschuleStadtteilschule Goethe-Schule-HarburgKatholischeKatholischeam HarburgHarburg EimsbüttelHamburg-MitteHamburg-MitteHamburg-MitteHamburg-NordHarburgHarburgHarburgHarburgHarburgHarburgWandsbek HarburgHarburgHarburgHarburgHarburgHarburg HarburgHarburgHarburgHarburg HarburgHarburgHarburgHarburgHarburg HarburgHarburg Harburg
+
+55 555555555555 555555 5555 45555 44 4
+
+Gesamt Gesamt Gesamt Gesamt Gesamt Süderelbe SüderelbeSüderelbeSüderelbeSüderelbeSüderelbeSüderelbe Alexander-von-Humboldt-GymnasiumAlexander-von-Humboldt-GymnasiumAlexander-von-Humboldt-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumFriedrich-Ebert-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHeisenberg-GymnasiumHeisenberg-GymnasiumHeisenberg-GymnasiumHeisenberg-GymnasiumHeisenberg-GymnasiumImmanuel-Kant-GymnasiumImmanuel-Kant-GymnasiumImmanuel-Kant-GymnasiumImmanuel-Kant-GymnasiumImmanuel-Kant-GymnasiumImmanuel-Kant-GymnasiumNiels-Stensen-GymnasiumNiels-Stensen-Gymnasium Niels-Stensen-Gymnasium
+
+HarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburgHarburg Harburg
+
+685-112151--11 - 312111- 119-10322132-1259
+
+2851-52---12-- 1 4----11 -11215-1-11-11-42
+
+817011641511211 1 7121121 1221115332242122101
+
+1235244432nv nv 423121nv nv2244343nv25455
+
+Teichweg und (Stadtteilschule) Alter Altrahlstedt Schule Hafen Georg Heidberg AltonaBahrenfeldBlankeneseLurupRissenBergedorfKirchwerderLohbrüggeRichard-Linde-Weg EidelstedtStellingenAmHamburg-MitteMümmelmannsbergSt. Am Fischbek-Falkenberg BergstedtMeiendorfPoppenbüttelWalddörfer e.V. Schule Hamburg Stadtteilschule Stadtteilschule Morgenstern und und Krause Schule Geschwister-Scholl-StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleChristianKindergartenJoseph-Carlebach-Schule Julius-Leber-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleAugust-Hermann-Francke-SchuleUhlenhorstEmilGrund-StadtteilschuleGoethe-Schule-HarburgLessing-StadtteilschuleStadtteilschuleGrund-NeueOtto-Hahn-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule AltonaAltonaAltonaAltonaAltonaAltonaBergedorfBergedorfBergedorfBergedorfEimsbüttel Eimsbüttel EimsbüttelEimsbüttelEimsbüttelHamburg-MitteHamburg-MitteHamburg-MitteHamburg-Mitte Hamburg-NordHamburg-NordHamburg-NordHamburg-NordHarburgHarburgHarburgWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbek nvnvnvnvnvnvnvnvnvnvnv nv nvnvnvnvnvnvnv nvnvnvnvnvnvnvnvnvnvnvnvnvnv
+
+Gesamt
+
+Sonstige** Niels-Stensen-Gymnasium Gesamt Gesamt HarburgHarburg Sonstige
+
+721----
+
+753----
+
+1.474----
+
+wurden beschult wechseln
+
+vor) Stadtteilschule Vorbereitungsklasse Sozialindex Hamburger ein  
+eine Internationalen auf oder Land verpflichtend  
+anderen nicht liegt Basisklasse  
+einem einer Schulen in aus  
+Vorjahr die  
+im Schüler  
+die und nicht-staatlichen  
+den Schüler,  
+2020 (an und Schülerinnen  
+B. z. vorhanden Schulstatistik Schülerinnen nicht  
+= Sonstige: nv Insgesamt Quelle: *ohne **1)

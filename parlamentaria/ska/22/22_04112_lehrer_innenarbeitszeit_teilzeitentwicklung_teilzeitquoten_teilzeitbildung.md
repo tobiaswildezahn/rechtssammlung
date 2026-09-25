@@ -1,0 +1,286 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/4112"
+wahlperiode: 22
+id: 75429
+titel: "Lehrer-/-innenarbeitszeit: Teilzeitentwicklung, Teilzeitquoten – Teilzeitbildung?"
+datum_anfrage: "2021-04-22"
+datum_drucksache: "2021-04-30"
+urheber: ["Sabine Boeddinghaus"]
+fraktionen: ["Die Linke"]
+vorgang: 68909
+seiten: 23
+fragen: 6
+einzelfragen: 6
+antwortbloecke: 5
+beantwortet: true
+zitierte_drucksachen: ["21/16902"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/75429"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/75429/22_04112_lehrer_innenarbeitszeit_teilzeitentwicklung_teilzeitquoten_teilzeitbildung"
+abgerufen: "2026-09-24"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/4112: Lehrer-/-innenarbeitszeit: Teilzeitentwicklung, Teilzeitquoten – Teilzeitbildung?
+
+> Schriftliche Kleine Anfrage der Abgeordneten Sabine Boeddinghaus (DIE LINKE) vom 22.04.21 und Antwort des Senats · Drucksache vom 30.04.2021  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/75429) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/75429/22_04112_lehrer_innenarbeitszeit_teilzeitentwicklung_teilzeitquoten_teilzeitbildung)
+
+## Einleitung für die Fragen
+
+In der letzten Legislatur fragten wir in einer Großen Anfrage nach der Entwicklung der Stundenumfänge der Lehrkräfte Hamburgs (Drs. 21/16902). Zwar bekamen wir wenig Antwort auf unsere Fragen, aber dennoch nicht uninteressante Informationen über die Arbeitszeit der Hamburger Lehrkräfte. In der Senatsantwort enthalten war eine Aufstellung der Teilzeitquote an Hamburger Schulen in drei Schuljahren. Vor dem Hintergrund des Festhaltens an der überholten Lehrer-/-innenarbeitszeitverordnung (LAZVO), wie im Koalitionsvertrag zwischen SPD und GRÜNEN festgehalten, ist es angebracht, detaillierter nach den Teilzeitquoten und Stundenumfängen zu fragen. Relevant für den Umfang, in dem die einzelnen Lehrkräfte den Kindern und Jugendlichen zur Verfügung stehen, ist selbstredend nicht nur der Grad der Teilzeit, sondern auch die Ausprägung der Teilzeit.
+
+Ich frage den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Für Lehrkräfte, die ihrer Beschäftigung mit einer reduzierten Stundenzahl nachgehen möchten, gelten die für die Beamtinnen und Beamten und Tarifbeschäftigten der Freien und Hansestadt Hamburg entsprechenden gesetzlichen und tariflichen Regelungen zur Teilzeitarbeit.
+
+Beamtinnen und Beamte können eine Teilzeitbeschäftigung gemäß § 62 Hamburgisches Beamtengesetz (HmbBG) voraussetzungslos ohne Angabe von Gründen mit mindestens der Hälfte der regelmäßigen Arbeitszeit oder gemäß § 63 HmbBG aus familiären Gründen mit mindestens einem Viertel der regelmäßigen Arbeitszeit ausüben, soweit dienstliche Belange dem nicht entgegenstehen. Tarifbeschäftigte können genauso eine Teilzeit entweder voraussetzungslos oder aber aufgrund familiärer Gründe gemäß § 11 Tarifvertrag für den öffentlichen Dienst der Länder in Verbindung mit den Vorschriften des Teilzeit- und Befristungsgesetzes beantragen. Gemäß §§ 13 bis 15 Hamburgisches Gesetz zur Gleichstellung von Frauen und Männern im öffentlichen Dienst soll der Dienstherr im Rahmen der dienstlichen Möglichkeiten und der geltenden Bestimmungen des Dienst- und Arbeitsrechts die Vereinbarkeit von Beruf und Familie ermöglichen. Dazu gehört die Möglichkeit, die berufliche Tätigkeit in Teilzeit auszuüben.
+
+Um für die Lehrkräfte die Vereinbarkeit von Beruf und Kindererziehung, Pflege von Angehörigen oder anderen Verpflichtungen beziehungsweise Lebenssituationen sicherzustellen, ist die Ermöglichung einer Teilzeitbeschäftigung ein wichtiges Instrument. In den Schulen können in aller Regel zwischen Schulleitungen und Lehrkräften die dienstlichen Belange und individuellen Wünsche der Lehrkräfte so abgestimmt werden, dass den Anträgen auf Teilzeit entsprochen werden kann. Auch vor dem Hinter
+
+grund der zurzeit angespannten Lage auf dem Lehrkräftearbeitsmarkt ist die Ermöglichung einer Teilzeitbeschäftigung ein wichtiges Instrument, die an den Schulen vorhandenen Personalressourcen optimal auszuschöpfen. So kann flexibel auf Wechsel, Anträge auf ganz- oder mehrjährige Beurlaubungen oder auf vorzeitige Pensionierung reagiert werden.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
+
+Wie stellt sich die Teilzeitquote der Lehrkräfte an allgemeinbildenden Schulen im Schuljahr 2019/2020 und im Schuljahr 2020/2021 dar? (Bitte in einer Excel-Tabelle angeben wie Anlage 1 in Drs. 21/16902.)
+
+### Frage 2
+
+Welchen Umfang hat die Teilzeit an den einzelnen Schulen, in den einzelnen Schulformen und in den unterschiedlichen Sozialindizes? (Bitte in einer Excel-Tabelle die Stundenumfänge der Teilzeit – 100 Prozent = ein VZÄ mit 46,57 Stunden pro Woche – pro Schule (im Durchschnitt der Gesamtheit der Teilzeit), pro Schulform und pro Sozialindex angeben.)
+
+#### Antwort zu Fragen 1 und 2
+
+Siehe Anlagen 1 und 2.
+
+### Frage 3
+
+Wie viele Lehrkräfte arbeiten zu wie viel Prozent in Teilzeit? (Bitte in einer Excel-Tabelle in 10-Prozent-Abstufungen von 100 Prozent angeben, einmal gesamt, einmal je Schulform, einmal je Sozialindex.)
+
+#### Antwort zu Frage 3
+
+Die Anzahl der teilzeitbeschäftigten Lehrkräfte nach Schulformen an staatlichen allgemeinbildenden Schulen mit Stand Dezember 2020 ist der nachfolgenden Übersicht zu entnehmen:
+
+Tabelle 1
+
+Schulformen  
+Teilzeitumfang  
+Grundschulen Sonderschulen Stadtteilschulen Gymnasien  
+Anzahl von 0 bis 49 % 752 76 577 597  
+Anzahl von 50 bis 59 % 588 56 407 315  
+Anzahl von 60 bis 69 % 560 60 399 349  
+Anzahl von 70 bis 79 % 969 129 1.005 777  
+Anzahl von 80 bis 99 % 1.129 146 716 555
+
+Die Anzahl der teilzeitbeschäftigten Lehrkräfte nach Sozialindex an staatlichen allgemeinbildenden Schulen mit Stand Dezember 2020 ist der nachfolgenden Übersicht zu entnehmen:
+
+Tabelle 2
+
+Sozialindex  
+Teilzeitumfang  
+1 2 3 4 5 6  
+Anzahl von 0 bis 49 % 159 281 243 439 539 248  
+Anzahl von 50 bis 59 % 118 199 195 274 339 176  
+Anzahl von 60 bis 69 % 94 220 196 272 351 170  
+Anzahl von 70 bis 79 % 260 483 365 553 699 375  
+Anzahl von 80 bis 99 % 215 393 333 526 639 279
+
+Die vorgenommenen Kategorien der Teilzeitumfänge können technisch nicht vollständig in 10-Prozent-Schritten ausgewertet werden. Hierzu bedarf es einer manuellen Auszählung von über 4.500 Fällen, die in der für die Beantwortung einer Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht durchgeführt werden kann.
+
+### Frage 4
+
+Aus der Senatsantwort auf die Drs. 21/16902 ergaben sich im Durchschnitt folgende Teilzeitquoten für die einzelnen Schulformen: Grundschule 62,48 Prozent, Gymnasium 52,03 Prozent, Stadtteilschule 46,48 Prozent. Welche Gründe hat der Senat/die zuständige Behörde für diese Quoten?
+
+#### Antwort zu Frage 4
+
+Die Gründe für die genannten Teilzeitquoten basieren auf dem Antragsverhalten der teilzeitbeschäftigten Lehrkräfte. Die Genehmigung der Teilzeitanträge erfolgt auf Grundlage der in der Vorbemerkung genannten Rechtsvorschriften.
+
+### Frage 5
+
+Kann der Senat/die zuständige Behörde für jede der drei Schulformen beziffern, wie hoch der Stellenumfang der jeweiligen Teilzeitquoten ist?
+
+Wenn ja, bitte einmal gesamt und einmal pro Schulform angeben.
+
+#### Antwort zu Frage 5
+
+Der Stellen- beziehungsweise Vollkräfteumfang der teilzeitbeschäftigten Lehrkräfte an allgemeinbildenden staatlichen Schulen ist der nachfolgenden Übersicht zu entnehmen:
+
+Tabelle 3
+
+Schulformen Vollkräftewert  
+Grundschulen 2.547  
+Sonderschulen 306  
+Stadtteilschulen 1.952  
+Gymnasien 1.575
+
+### Frage 6
+
+Welche Schritte erwägt der Senat/die zuständige Behörde, um die Teilzeitquote unter den Lehrkräften zu senken?
+
+#### Antwort zu Frage 6
+
+Keine. Im Übrigen siehe Vorbemerkung.
+
+Anlage 1
+
+44%44%48%62%53%94%46%83%59%56%66%54%65%78%100%39%72%54%62%67%47%57%86%82%48%81%65%44%45%74%63%55%79%61%69%88% Teilzeitquote 2020/21 48392526303424233934354140271183635393347352922317017434731192939336134 gesamt
+
+172619242222202518155711192123121631204230 Schuljahr 2117121616321119231923222621 teilzeit
+
+2722131014213416151219146011101615112515441613624268713813194 vollzeit
+
+54%30%42%70%48%86%35%75%68%51%68%46%60%82%100%48%61%39%63%63%53%47%86%79%41%77%61%38%51%74%50%57%77%55%70%87%Schulen Teilzeitquote 2019/20 48372427252923204039383935281212833413245322819296218395531162839295730 gesamt
+
+815272026182123110171326202415241512481115282381630164026 Schuljahr 261110191225 teilzeitallgemeinbildenden an 222614813415513191221145011112015122117441714724278812913174 vollzeit Lehrkräfte der Teilzeitquote Zweigstelle Hafencity mit AuSternschanze Park der Straße Schule in Heidberg Nikolai Finkenwerder Glinder MümmelmannsbergRahewinkelEdwin-Scharff-Ring EckerkoppelSt.PauliLohkampstraße LandwehrAmKirchdorfArchenholzstraße St. Pachthof HasenwegArnkielstraßeOsterbrookPoppenbüttel Bramfeld Karlshöhe Neuwerk Finkenwerder Grundschuleder Schleemer Hohe Beim An SpeckenreyeStengelestraßeAmSterntalerstraßeBonhoefferstraßeFuchsbergredderBahrenfelder Schroeder Schulname GrundschuleGrundschuleGrundschuleAueschuleKatharinenschuleGrundschuleGrundschuleGrundschuleHeinrich-Wolgast-SchuleSchuleGrundschuleGrundschuleGrundschuleWesterschuleInselschuleGrundschuleGoldbek-SchuleSchuleFritz-Köhne-SchuleGrundschuleGrundschuleGrundschuleGrundschuleElbkinderSchuleGanztagsgrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleLouiseGrundschule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+71%83%65%67%78%84%86%77%90%77%73%89%88%66%69%78%73%50%74%59%35%68%75%70%55%58%85%69%68%79%42%42%80%63%79%58% Teilzeitquote 2020/21 24364612464336393935332726352641262238372328326629312626283826335242919 gesamt
+
+836363130352724242323183219112822819244616182218193011144152311 Schuljahr 173030 teilzeit
+
+761641075948933128971110151598201313489815191968 vollzeit
+
+- 69%77%56%50%72%79%83%78%83%61%61%88%81%64%70%76%78%52%70%62%43%72%79%73%55%52%77%71%72%78%40%49% 60%71%60%Schulen Teilzeitquote 2019/20 - 2631431243343536353128262636233727233334232529672927222425372537 252815 gesamt
+
+- 15209 631272928291917232123162821122321101823491614171718291018 Schuljahr 182424 teilzeitallgemeinbildenden an
+- 1086 8719612768612113513796111013137618131357781519 vollzeit Lehrkräfte der 2020) AugustTeilzeitquote
+1. (ab Weg Elbe Weg Weg Landstraße Hauptstraße der Flottbek an IsebekHoheluft Flottbeker Thadenstraße MarienthalGoosacker Groß HornNydamerFranzosenkoppel Luruper Sinstorfer der Klein Rothestraße Trenknerweg IserbargLehmkuhlenwegMarschwegMendelssohnstraßeIserbrook SchenefelderSchulkampWindmühlenweg FurtwegLangbargheide RungwischWesperlohKroonhorstBarlsheide An Eduardstraße Schulname SchuleLoki-Schmidt-SchuleSchuleGanztagsschuleGrundschuleTheodor-Haubach-SchuleSchuleGrundschuleGrundschuleGorch-Fock-SchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleRudolf-Roß-GrundschuleGrundschuleGrundschuleGrundschuleFridtjof-Nansen-SchuleSchuleSchuleGrundschuleMax-Traeger-SchuleSchuleSchuleSchuleSchuleGrundschuleSchuleGrundschuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+75%72%72%50%70%93%65%71%63%76%77%67%60%75%60%71%77%74%81%77%60%31%46%73%69%47%85%74%73%64%72%73%69%48%60%67% Teilzeitquote 2020/21 32323684330462127253030403230212642212620162633321734275533292239232524 gesamt
+
+430283015171923202424181520311720125122422829204021211627111516 Schuljahr 242326 teilzeit
+
+8910413216610671016812661146811149109571512861212108 vollzeit
+
+67%57%68%0%59%93%65%72%59%59%79%64%62%77%50%73%74%66%81%75%53%41%41%72%77%41%81%76%57%59%73%74%70%48%52%67%Schulen Teilzeitquote 2019/20 30283103429431827172825373124222341212417172229301731255134261937252524 gesamt
+
+0202728131610221623241216172717189792123725192920191426121316 Schuljahr 201621 teilzeitallgemeinbildenden  
+an  
+10121001421551176914712661446810138710662214751113128 vollzeit  
+Lehrkräfte  
+der  
+Teilzeitquote
+
+Straße Lieth Straße Uhlenhorst der Bindfeldweg Sachsenweg Ballerstaedtweg der KielortalleeBrehmwegLutterothstraße RellingerTornquiststraßeTurmwegRönnkampAnna-Susanna-Stieg BurgunderwegHeidackerDöhrnstraßeFrohmestraßeHinterMolkenbuhrstraßeSethwegVizelinstraßeWegenkampMoorflagen RöthmoorwegAlsterdorferForsmannstraßeHumboldtstraßeKnauerstraße auf Genslerstraße Lämmersieth EberhofwegKrohnstieg Schulname SchuleSchuleSchuleWolfgang-Borchert-Schule*SchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleMarie-Beschütz-SchuleSchuleAdolph-Schönfelder-SchuleSchuleGrundschuleSchuleCarl-Cohn-SchuleCarl-Götze-SchuleSchuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+47%81%80%70%40%73%52%63%57%72%57%71%88%54%65%58%88%90%86%77%82%80%60%75%81%66%56%77%50%78%71%81%68%42%43%46% Teilzeitquote 2020/21 383725301530313023293735253517242630293038253028322927302241172750263024 gesamt
+
+622161913212125221911142327252331201821261915231132122234111311 Schuljahr 18302021 teilzeit
+
+2075998151110816103166103347751276101271195516151713 vollzeit
+
+54%76%79%68%72%67%56%70%64%67%51%66%95%70%47%59%85%86%88%64%79%63%63%64%83%61%52%74%68%85%83%79%66%35%45%52%Schulen Teilzeitquote 2019/20 372924281827253322243532213715222729322833243028292827272240182444232925 gesamt
+
+713232528182615191824171420153415192981313 Schuljahr 2022191913181423141618212026 teilzeitallgemeinbildenden an 177595911108817111118944410791110511137763515151612 vollzeit Lehrkräfte der Teilzeitquote Straße Markt Weg Höhe Straße Straße Teichwiesen Seebek Großlohering Neurahlstedt Tonndorf Islandstraße Sooren Walde den der NeubergerwegOhkampStockflethwegRatsmühlendammAmBekassinenauBrockdorffstraßeCharlottenburger Kamminer Potsdamer AlsterredderamDuvenstedterAnBergstedtBuckhornHinsbleekAhrensburgerEulenkrugstraßeRedderLemsahl-MellingstedtMüssenredder GrützmühlenwegStrengeWildschwanbrookRahlstedterTraberwegEenstockAnFahrenkrönAppelhoffSurenland Schulname SchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleGrundschuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+60%56%73%79%46%54%60%75%61%41%71%45%51%43%73%76%74%54%53%38%64%77%60%70%64%81%71%75%64%90%67%68%33%57%40%58% Teilzeitquote 2020/21 431826392624254023272438351445343124193942131023142117289449334436351531 gesamt
+
+633262313101527106169171221604422301220618 Schuljahr 26101931121315301411171718 teilzeit
+
+178781411101091672117812881192415347545734511142415913 vollzeit
+
+62%50%73%77%43%38%52%69%62%45%52%45%54%58%74%78%69%54%50%42%70%92%56%71%67%71%71%74%58%91%57%67%34%57%27%58%Schulen Teilzeitquote 2019/20 42162639212123362631214237194232292618434012921181717278046284332371131 gesamt
+
+8193098122516141119201131252014918281151512121220464216291121318 Schuljahr 26 teilzeitallgemeinbildenden  
+an  
+16879121311111017102317811791292512146655734412142116813 vollzeit  
+Lehrkräfte  
+der  
+Teilzeitquote
+
+Forst Kehre Damm Allermöhe StraßeStraße Landweg Gartenstadt Straße MendelstraßeHeidhorst Alten der Eichtalpark der AnBandwirkerstraßeBovestraßeHasselbrookÖjendorferamRichardstraßeWielandstraßeOppelnerJenfelderSander Ernst-Henning-StraßeLeuschnerstraßeMax-Eichholz-RingNettelnburg Friedrich-Frank-Bogen MittlererAltengamme-DeichCurslack-NeuengammeFünfhausen-WarwischOchsenwerderZollenspiekerDempwolffstraßeGrumbrechtstraßeInRönneburgKapellenweg MarmstorfNeulandScheeßeler Schulname SchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleAnton-Rée-SchuleSchuleSchuleSchuleSchuleGrundschuleGrundschuleSchuleClara-Grunwald-SchuleAdolph-Diesterweg-SchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGeorg-Kerschensteiner-GrundschuleSchuleSchuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+noch Anlage 1
+
+- 63%59%25%55%63%63%55% 68%68%64% 48%44%60%59%58%62%68%58%59%61%52%50%39%30%53%29%37%48%40%55%67%43%46%25% Teilzeitquote 2020/21
+- 4871833494922 443728 274325944337222622312922333040282723353321582820 gesamt
+
+- 218313112 302518 131915552523151513191511139218101114181425135 Schuljahr 3042 teilzeit
+
+- 1829615181810 141210 142410391814711912141120211920171221157331515 vollzeit
+
+58%57%29%62%59%57%50% 64%61%72%57%40%38%60%57%57%61%52%59%42%58%48%37%54%32%55%29%38%33%39%39%78%42%48%25%Schulen Teilzeitquote 2019/20 4361734394422 36312923254225934233232719312919373140283224383123532920 gesamt
+
+221232511 231921131016155324201216818147201022812815121822145 Schuljahr 2535 teilzeitallgemeinbildenden an 1826513161911 131281015261040181311111113151217211820201623195311515 vollzeit Lehrkräfte der 2020) Juli Kommunikation
+31.Teilzeitquote Ganztagsgrundschule und (bis Sehbehinderte Hören und Johannisland Offene Weg Am - Haake Damm Blinde Damm Kiefernberg Fährstraße der für Burgweide am An Neugraben Stübenhofer der Bildungszentrum Cranz Arp-Schnitger-Stieg RotenhäuserSchnuckendrift OhrnsweganMarckmannstraße HirtenwegKielkampLokstedterAltonaAltona-WestBergedorfEimsbüttelSüderelbeHarburgBillstedtWilhelmsburgMitteWinterhudeNordWandsbek-NordWandsbek-Süd TegelwegParacelsusstraße Schulname GrundschuleElbinselschuleSchuleGanztagsschuleGanztagsgrundschuleGrundschuleSchuleGrundschule(GBS)SchuleSchuleGrundschuleSchuleSchuleSchuleElbschuleSchuleSchuleSchuleReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZKurt-Juster-SchuleBildungszentrumSchuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulen
+
+noch Anlage 1
+
+59%41%40%55%43%57%60%47%56%63%66%48%59%56%59%41%56%49%52%48%19%48%64%68%69%53%63%58%53%53%45%58%58%67%47%47% Teilzeitquote 2020/21 3227422244708077368359795187877189355221365086758510293775168787171546266 gesamt
+
+7245551595459452736354141362931 Schuljahr 1911171219404836205239383049512950172710 teilzeit
+
+131625102530324116312041213836423918251129263124264834322432433030183335 vollzeit
+
+61%52%47%52%49%59%54%49%38%64%57%50%57%48%52%42%50%46%51%52%21%53%58%63%64%50%68%59%61%43%36%53%52%56%45%50%Schulen Teilzeitquote 2019/20 3127432347647971297453784682736984374723425178767310591785763726673486270 gesamt
+
+9274548475262463527263538272835 Schuljahr 1914201223384335114730392639382942172412 teilzeitallgemeinbildenden an 121323112426363618272339204335404220231133243328265329322236463135213435 vollzeit Lehrkräfte der
+
+Georg St.Teilzeitquote Studierende AbendschuleHolstentor mitdem ausländische Gymnasium Vor für Süderelbe Rissen AlstertalBuckhorn Corveystraße OhmoorAltonaBlankeneseAllermöhe HeidbergOldenfeldeBornbrook Gymnasium BekkampWeidemoorElfenwieseNymphenweg Dönhoff Schulname SchuleSchuleSchuleSchuleKurt-Körber-GymnasiumFriedrich-Ebert-GymnasiumMatthias-Claudius-GymnasiumGymnasiumStruenseeHelmut-Schmidt-GymnasiumGymnasiumAlbert-Schweitzer-GymnasiumGymnasiumGymnasiumChristianeumHeisenberg-GymnasiumWalddörfer-GymnasiumAbendgymnasiumAbendschuleHansa-KollegStudienkollegJohannes-Brahms-GymnasiumGymnasiumGoethe-GymnasiumLise-Meitner-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumMargaretha-Rothe-GymnasiumGymnasiumGymnasiumGymnasiumImmanuel-Kant-GymnasiumAlexander-von-Humboldt-GymnasiumMarion Schulform SonderschulenSonderschulenSonderschulenSonderschulenGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasien
+
+noch Anlage 1
+
+55%38%58%64%57%58%61%46%44%34%77%62%59%65%53%65%53%51%62%31% 66%60%60%48%59%51%63%66%47%59%45%67%62%44%51% Teilzeitquote 2020/21 49667187888389635432817678857610079756026 8782656782707687689858588563115 gesamt
+
+8 574939324836485732582639532859 Schuljahr 27254156504854292411624746554065423837 teilzeit
+
+2241303138353534302119293230363537372318 303326353434283036403219323556 vollzeit
+
+- 53%54%54%64%53%54%57%44%44%41%72%64%49%57%46%58%48%42%56% 66%55%62%48%45%55%60%62%48%56%39%63%58%41%56%Schulen Teilzeitquote 2019/20 - 49726586838381725034757071867191717159 8578616775648086699156547954113 gesamt
+
+- Schuljahr 26393555444546322214544535493353343033 564338323435485333512234462263 teilzeitallgemeinbildenden an - 23333031393835402820212536373838374126 293523354129323336403420333250 vollzeit Lehrkräfte der Exupéry' St. deTeilzeitquote 'Antoine 2020) Hübener Johanneums August Bergedorf Bergedorf Hambourg 1. des de Helmuth Gymnasium (ab HoheluftEppendorf Kaiser-Friedrich-UferLohbrügge Oberalster FinkenwerderDörpsweg KlosterschuleLerchenfeldRahlstedt AlleeBondenwaldFarmsen Hochrad MeiendorfOthmarschen GrootmoorOhlstedtOsterbekMarienthalHummelsbüttel Weiss Français Schulname GymnasiumGymnasiumHansa-GymnasiumGymnasiumGymnasiumLuisen-GymnasiumCarl-von-Ossietzky-GymnasiumGymnasiumLouiseGymnasiumGymnasiumAlbrecht-Thaer-GymnasiumCharlotte-Paulsen-GymnasiumEmilie-Wüstenfeld-GymnasiumHelene-Lange-GymnasiumGymnasiumGymnasiumGymnasiumWilhelm-GymnasiumLycée(Gymnasium)GymnasiumGymnasiumGymnasiumGelehrtenschuleGymnasiumHeilwig-GymnasiumGymnasiumGymnasiumHeinrich-Heine-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumStadtteilschule Schulform GymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasien GymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienStadtteilschulen
+
+noch Anlage 1
+
+57%51%58%62%63%48%46%42%48%49%48%65%49%53%60%58%52%43%43%54%71%60%62%34%58%51%47%67%42%58%27%53%30%38%50%52% Teilzeitquote 2020/21 143113113666511417911814514312317685781671181651231135915411889569696116129981167013388112146100 gesamt Schuljahr 815866414155835070705911442411016885534932109715519564954874167197026437352 teilzeit
+
+625547252459966875736462433766508070642745473437404762425749516362697348 vollzeit
+
+53%46%58%60%59%41%45%33%45%46%38%62%45%49%58%49%46%57%37%55%71%58%55%35%60%51%48%62%44%57%35%53%34%38%45%49%Schulen Teilzeitquote 2019/20 124109109536110416412313514212117885741639915313410751146106836210194123115104105711208311313298 gesamt Schuljahr 66506332364373416166461113836954971764028104624622614859714660256328435948 teilzeitallgemeinbildenden an 585946212561918274767567473868508258672342443740404664445845465755707350 vollzeit Lehrkräfte der KirchdorfTeilzeitquote Teichweg Alter Stadtteil im Tonndorf Heidberg Schule BergstedtAm MümmelmannsbergBergedorf Horn BlankenesePoppenbüttelFinkenwerderBahrenfeldEidelstedt WalddörferKirchwerderWinterhudeÖjendorfEppendorfSüderelbeLohbrüggeWilhelmsburg Schule Stadtteilschule See Schule und am Trebitsch Kästner Ehre Schulname GyulaStadtteilschuleStadtteilschuleIlse-Löwenstein-SchuleAlbert-Schweitzer-SchuleMax-Schmeling-StadtteilschuleGrund-StadtteilschuleStadtteilschuleHeinrich-Hertz-SchuleStadtteilschuleErichFritz-Schumacher-SchuleGeschwister-Scholl-StadtteilschuleJulius-Leber-SchuleIrena-Sendler-SchuleGoethe-Schule-HarburgIdaNelson-Mandela-SchuleSchuleMax-Brauer-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleBrüder-Grimm-Schule Schulform StadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulen
+
+noch Anlage 1
+
+44%45%44%38%51%40%49%44%46%40%44%45%61%41%49%47%56%49%36%49%44% Teilzeitquote 2020/21 5562629167701166495995585110911269411712113715289 gesamt Schuljahr 242827353428572844402438673762446559497439 teilzeit
+
+313435563342593651593147435464505262887850 vollzeit
+
+39%50%51%37%49%34%46%28%36%36%37%51%60%38%40%59%48%51%27%45%42%Schulen Teilzeitquote 2019/20 516463866567111608474517410410012610010212412913788 gesamt Schuljahr 203232323223511730271938623851594963356237 teilzeitallgemeinbildenden an 313231543344604354473236426275415361947551 vollzeit Lehrkräfte versorgt. der Lehrkräften abgeordnetenTeilzeitquote mit Weg Altrahlstedt Weg 2019/20 Hafen Schuljahr MeiendorfVeddelRissen Ehestorfer StellingenBramfeldRichard-Linde-WegStübenhoferFlottbekOldenfeldeLurup Hamburg-Mitte NiendorfAmFischbek-Falkenberg im Schule Stadtteilschule der wurde auf und Maretstraße Schulname StadtteilschuleSchuleStadtteilschuleGrund-StadtteilschuleKurt-Tucholsky-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleKrauseEmilStadtteilschuleLessing-StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleOtto-Hahn-SchuleSchule Wolfgang-Borchert-Schule Schulform StadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulen *Die
+
+Anlage 2
+
+656,7400,0336,1530,3448,21.012,3343,0611,7577,8580,7601,4675,8820,2705,1230,5721,5423,3687,7671,6650,8470,6807,5535,8435,11.873,1291,7530,6679,9803,2332,6477,8899,9613,81.300,1919,4534,6 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember 112344223251236411521561221113343356Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigtenvonstaatlichen Stundenumfangallgemeinbildenden Zweigstelle Hafencity mitWeg AuSternschanze Park Straße der Schule in Heidberg Nikolai Finkenwerder Glinder MümmelmannsbergRahewinkelEdwin-Scharff-Ring EckerkoppelSt.PauliLohkampstraße LandwehrAmKirchdorfArchenholzstraße St. Pachthof HasenwegArnkielstraßeOsterbrookPoppenbüttel Bramfeld KarlshöheFlottbeker Finkenwerder der Grundschule Schleemer Hohe Beim An SpeckenreyeStengelestraßeAmSterntalerstraßeBonhoefferstraßeFuchsbergredderBahrenfelder Schroeder Klein Schulname GrundschuleGrundschuleGrundschuleAueschuleKatharinenschuleGrundschuleGrundschuleGrundschuleHeinrich-Wolgast-SchuleSchuleGrundschuleGrundschuleGrundschuleWesterschuleGrundschuleGoldbek-SchuleSchuleFritz-Köhne-SchuleGrundschuleGrundschuleGrundschuleGrundschuleElbkinderSchuleGanztagsgrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleLouiseGrundschuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+888,0924,8182,91.156,71.047,3947,2936,81.064,3739,7604,1717,1719,1725,6523,9888,0507,0298,5789,3676,8224,5616,1722,81.332,7428,4530,1574,4472,0558,8830,9312,0451,4125,5465,5710,8332,0794,7 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember 452335446566255466324333132341136525Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigtenvonstaatlichen Stundenumfangallgemeinbildenden Elbe Weg Weg Landstraße Hauptstraße der Flottbek an IsebekHoheluft Thadenstraße MarienthalGoosacker Groß HornNydamerFranzosenkoppel Luruper Sinstorfer der Rothestraße Trenknerweg IserbargLehmkuhlenwegMarschwegMendelssohnstraßeIserbrook SchenefelderSchulkampWindmühlenweg FurtwegLangbargheide RungwischWesperlohKroonhorstBarlsheide An EduardstraßeKielortallee Schulname Loki-Schmidt-SchuleSchuleGanztagsschuleGrundschuleTheodor-Haubach-SchuleSchuleGrundschuleGrundschuleGorch-Fock-SchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleRudolf-Roß-GrundschuleGrundschuleGrundschuleGrundschuleFridtjof-Nansen-SchuleSchuleSchuleGrundschuleMax-Traeger-SchuleSchuleSchuleSchuleSchuleGrundschuleSchuleGrundschuleSchuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+615,0758,8118,6752,3919,0907,4410,4597,1443,6701,3522,5734,1779,6457,0547,8577,9947,2558,3588,6291,5185,2332,7772,3607,4168,1879,8591,01.021,1608,4592,8533,0835,6366,4527,6430,1469,7 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember 244556545545453513452555655333145343Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigtenvonstaatlichen Stundenumfangallgemeinbildenden
+
+Straße Lieth Straße der Sachsenweg Ballerstaedtweg Bindfeldweg Uhlenhorst der BrehmwegLutterothstraße RellingerTornquiststraßeTurmwegRönnkampAnna-Susanna-Stieg BurgunderwegHeidackerDöhrnstraßeFrohmestraßeHinterMolkenbuhrstraßeSethwegVizelinstraßeWegenkampMoorflagen RöthmoorwegAlsterdorferForsmannstraßeHumboldtstraßeKnauerstraße auf Genslerstraße Lämmersieth EberhofwegKrohnstiegNeubergerweg Schulname SchuleSchuleWolfgang-Borchert-SchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleMarie-Beschütz-SchuleSchuleAdolph-Schönfelder-SchuleSchuleGrundschuleSchuleCarl-Cohn-SchuleCarl-Götze-SchuleSchuleSchuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+775,7606,5609,3211,6673,2527,1600,3380,0621,5602,6617,8604,6526,9215,3514,2689,2795,0797,0725,1964,1637,6534,3601,5870,5619,0477,9702,9347,9955,7462,5650,61.085,7369,4349,2289,0835,6 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember 544455123414665666566665446334335234Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigtenvonstaatlichen Stundenumfangallgemeinbildenden Straße Markt Weg Höhe Straße Straße Teichwiesen Seebek Gartenstadt Großlohering Neurahlstedt Tonndorf Islandstraße Sooren Walde den der der OhkampStockflethwegRatsmühlendammAmBekassinenauBrockdorffstraßeCharlottenburger Kamminer Potsdamer AlsterredderamDuvenstedterAnBergstedtBuckhornHinsbleekAhrensburgerEulenkrugstraßeRedderLemsahl-MellingstedtMüssenredder GrützmühlenwegStrengeWildschwanbrookRahlstedterTraberwegEenstockAnFahrenkrönAppelhoffSurenlandAn Schulname SchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleGrundschuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+342,9638,5856,2343,4436,3448,0841,1456,3334,7498,1597,7543,6209,0932,0837,4817,3371,5338,6462,5896,4260,6156,2428,4304,5518,9331,1594,11.784,41.420,5686,2975,4354,5576,0151,6506,8815,6 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember 352135411334344242225555552254215543Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigtenvonstaatlichen Stundenumfangallgemeinbildenden
+
+Forst Kehre Damm Allermöhe StraßeStraße Kiefernberg Landweg Straße MendelstraßeHeidhorst Alten am Eichtalpark der BandwirkerstraßeBovestraßeHasselbrookÖjendorferamRichardstraßeWielandstraßeOppelnerJenfelderSander Ernst-Henning-StraßeLeuschnerstraßeMax-Eichholz-RingNettelnburg Friedrich-Frank-Bogen MittlererAltengamme-DeichCurslack-NeuengammeFünfhausen-WarwischOchsenwerderZollenspiekerDempwolffstraßeGrumbrechtstraßeInRönneburgKapellenweg MarmstorfNeulandScheeßeler Schulname SchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleAnton-Rée-SchuleSchuleSchuleSchuleSchuleGrundschuleGrundschuleSchuleClara-Grunwald-SchuleAdolph-Diesterweg-SchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGeorg-Kerschensteiner-GrundschuleSchuleSchuleSchuleGrundschule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulen
+
+1.197,362,9589,8877,01.013,7368,91.034,8852,8511,7351,4676,0417,61.751,4866,7623,6491,5556,5413,2676,1683,5268,6451,6318,1731,9310,6593,8338,9628,5586,1486,6794,1371,2114,1577,1327,2491,3 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember 13122321521-------------------------Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigten (GBS)vonstaatlichen KommunikationStundenumfang Ganztagsgrundschule und Sehbehinderte allgemeinbildenden Hören und Johannisland Offene Am - Haake Damm Blinde Damm für Fährstraße der An Neugraben Burgweide der Bildungszentrum Cranz Arp-Schnitger-Stieg RotenhäuserSchnuckendriftOhrnsweganMarckmannstraße HirtenwegKielkampLokstedterAltonaAltona-WestBergedorfEimsbüttelSüderelbeHarburgBillstedtWilhelmsburgMitteWinterhudeNordWandsbek-NordWandsbek-Süd TegelwegParacelsusstraßeBekkampWeidemoorElfenwiese Schulname ElbinselschuleSchuleGanztagsschuleGanztagsgrundschuleGrundschuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleElbschuleSchuleSchuleSchuleReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZReBBZKurt-Juster-SchuleBildungszentrumSchuleSchuleSchuleSchuleSchule Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulenSonderschulen
+
+371,21.860,52.469,81.771,91.794,11.084,71.167,01.541,52.389,11.251,81.925,62.014,51.571,63.077,51.295,41.219,92.900,41.915,22.708,21.450,51.312,6988,53.225,62.184,91.772,1604,71.709,81.495,31.687,82.455,11.181,81.927,8584,82.219,6724,71.353,0 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember -24544622144234144431255533225451423Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigtenvonstaatlichen
+
+KirchdorfStundenumfang Teichweg allgemeinbildenden Alter Stadtteil im HübenerTonndorf Heidberg HelmuthSchuleBergstedtAm MümmelmannsbergBergedorf Horn BlankenesePoppenbüttelFinkenwerderBahrenfeldEidelstedt WalddörferKirchwerderWinterhudeÖjendorfEppendorfSüderelbeLohbrügge Schule Stadtteilschule See Schule Nymphenweg und am Trebitsch Kästner Ehre Schulname SchuleStadtteilschuleGyulaStadtteilschuleStadtteilschuleIlse-Löwenstein-SchuleAlbert-Schweitzer-SchuleMax-Schmeling-StadtteilschuleGrund-StadtteilschuleStadtteilschuleHeinrich-Hertz-SchuleStadtteilschuleErichFritz-Schumacher-SchuleGeschwister-Scholl-StadtteilschuleJulius-Leber-SchuleIrena-Sendler-SchuleGoethe-Schule-HarburgIdaNelson-Mandela-SchuleSchuleMax-Brauer-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschule Schulform SonderschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulen
+
+1.957,91.485,5711,5921,1846,71.088,51.076,4831,01.552,6747,81.266,31.168,4759,51.090,22.168,11.189,21.924,31.418,41.618,81.823,71.289,31.905,11.233,2578,01.122,71.456,01.146,3507,61.490,71.065,01.138,0949,01.371,21.443,4766,91.529,1 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember 124143223322332223514212545426656656Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigtenvonstaatlichen Stundenumfangallgemeinbildenden Weg Altrahlstedt Weg Hafen Wilhelmsburg MeiendorfVeddelRissen EhestorferAltonaStellingenBramfeldRichard-Linde-WegStübenhoferFlottbekOldenfeldeLurup Hamburg-Mitte NiendorfAmFischbek-Falkenberg Schule Süderelbe Rissen AlstertalBuckhorn Stadtteilschule der Gymnasium auf und Maretstraße Schulname StadtteilschuleBrüder-Grimm-SchuleStadtteilschuleSchuleStadtteilschuleGrund-StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleKrauseEmilStadtteilschuleLessing-StadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleOtto-Hahn-SchuleSchuleKurt-Körber-GymnasiumFriedrich-Ebert-GymnasiumMatthias-Claudius-GymnasiumGymnasiumStruenseeHelmut-Schmidt-GymnasiumGymnasiumAlbert-Schweitzer-GymnasiumGymnasiumGymnasiumChristianeumHeisenberg-GymnasiumWalddörfer-Gymnasium Schulform StadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasien
+
+385,6778,8301,1230,5755,51.539,11.348,71.546,71.582,11.748,91.308,0901,4897,1744,91.141,01.187,4971,9764,9976,6834,7818,61.199,81.696,51.240,21.281,61.207,4818,5734,3303,21.773,11.290,21.303,51.597,31.225,81.645,11.203,1 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember ----45446564455455656555655255555554Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigtenvonstaatlichen
+
+Georg St.Stundenumfangallgemeinbildenden Studierende AbendschuleHolstentor Bergedorf Bergedorf mitdem ausländische Gymnasium Vor für Corveystraße OhmoorAltonaBlankeneseAllermöhe HeidbergOldenfeldeBornbrook HoheluftEppendorf Kaiser-Friedrich-UferLohbrügge Oberalster GymnasiumFinkenwerderDörpsweg KlosterschuleLerchenfeld Dönhoff Weiss Schulname AbendgymnasiumAbendschuleHansa-KollegStudienkollegJohannes-Brahms-GymnasiumGymnasiumGoethe-GymnasiumLise-Meitner-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumMargaretha-Rothe-GymnasiumGymnasiumGymnasiumGymnasiumImmanuel-Kant-GymnasiumAlexander-von-Humboldt-GymnasiumMarionGymnasiumGymnasiumHansa-GymnasiumGymnasiumGymnasiumLuisen-GymnasiumCarl-von-Ossietzky-GymnasiumGymnasiumLouiseGymnasiumGymnasiumAlbrecht-Thaer-GymnasiumCharlotte-Paulsen-GymnasiumEmilie-Wüstenfeld-GymnasiumHelene-Lange-GymnasiumGymnasiumGymnasium
+
+Schulform GymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasien
+
+1.090,31.183,8267,31.748,81.385,91.003,3865,51.429,8931,51.528,31.460,9956,81.762,0650,71.122,11.400,3692,4 Woche pro 2020)an Arbeitszeit-Stundenumfang Dezember 56646466556666534Lehrkräften Sozialindex (Stand Schulenteilzeitbeschäftigten (Gymnasium)vonstaatlichen Exupéry' St. deStundenumfangallgemeinbildenden 'Antoine Johanneums Hambourg des de Rahlstedt AlleeBondenwaldFarmsen Hochrad MeiendorfOthmarschen GrootmoorOhlstedtOsterbekMarienthalHummelsbüttel Français Schulname GymnasiumWilhelm-GymnasiumLycéeGymnasiumGymnasiumGymnasiumGelehrtenschuleGymnasiumHeilwig-GymnasiumGymnasiumGymnasiumHeinrich-Heine-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasium
+
+Schulform GymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienGymnasien

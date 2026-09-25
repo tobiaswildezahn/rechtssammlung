@@ -1,0 +1,216 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/6358"
+wahlperiode: 22
+id: 77855
+titel: "Häusliche Gewalt gegen Männer 2020"
+datum_anfrage: "2021-11-11"
+datum_drucksache: "2021-11-19"
+urheber: ["Olga Petersen"]
+fraktionen: ["AfD"]
+vorgang: 71311
+seiten: 4
+fragen: 11
+einzelfragen: 21
+antwortbloecke: 9
+beantwortet: true
+zitierte_drucksachen: ["20/10994", "21/6475", "21/11936", "21/19677", "22/530", "22/4261"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/77855"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/77855/22_06358_haeusliche_gewalt_gegen_maenner_2020"
+abgerufen: "2026-09-24"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/6358: Häusliche Gewalt gegen Männer 2020
+
+> Schriftliche Kleine Anfrage der Abgeordneten Olga Petersen (AfD) vom 11.11.21 und Antwort des Senats · Drucksache vom 19.11.2021  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/77855) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/77855/22_06358_haeusliche_gewalt_gegen_maenner_2020)
+
+## Einleitung für die Fragen
+
+Nach der – nicht repräsentativen – Pilotstudie „Gewalt gegen Männer“ (2004) widerfuhr jedem vierten der befragten 200 Männer einmal oder mehrmals mindestens ein Akt körperlicher Gewalt durch die aktuelle oder letzte Partnerin. Dabei wurde allerdings wesentlich häufiger von psychischer als von physischer Gewalt berichtet.
+
+Zudem hat die Pilotstudie festgestellt, dass Männern, denen soziale Kontrolle (Eifersuchtshandlungen, Kontaktverbote, Kontrollieren von Post und Anrufen et cetera) durch die Partnerin widerfährt, mit deutlich größerer Wahrscheinlichkeit auch körperliche Angriffe in der Partnerschaft erleben.
+
+In Häufigkeit und Schwere weisen diese Übergriffe allerdings deutliche Unterschiede zu der von Frauen erlebten höheren Gewaltintensität in Partnerschaften auf. So erleben Frauen deutlich häufiger systematische und chronifizierte schwere Gewalt und Misshandlungen, die in Muster von Macht, Einschüchterung und Kontrolle eingebettet sind.
+
+Vor diesem Hintergrund frage ich den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Bereits das Konzept zur Bekämpfung von Gewalt gegen Frauen und Mädchen, Menschenhandel und Gewalt in der Pflege berücksichtigt ausdrücklich männliche Opfer häuslicher Gewalt. Der Senat hat zudem mehrfach das Hilfesystem für von häuslicher Gewalt betroffene Frauen und Männer dargestellt. So sind alle Beratungsangebote für Opfer von häuslicher Gewalt überregional und richten sich an Frauen und Männer gleichermaßen. Männliche Opfer häuslicher Gewalt werden insbesondere von den Fachberatungsstellen Opferhilfe Hamburg e.V., der Interventionsstelle bei häuslicher Gewalt und Stalking, intervento – proaktive Interventionsstelle bei häuslicher Gewalt und Stalking sowie den interkulturellen Fachberatungsstellen LÂLE in der IKB e.V. - Interkulturelle Beratungsstelle für Opfer von häuslicher Gewalt und Zwangsheirat (LÂLE) und i.bera – Interkulturelle Beratungsstelle für Betroffene von häuslicher Gewalt und Zwangsheirat (i.bera) beraten. Eine Abgrenzung oder Quotierung innerhalb der Beratungsangebote zur Bemessung von Zuwendungs- oder Stellenanteilen wird nicht vorgenommen.
+
+Im Übrigen siehe Drs. 20/10994, 21/6475, 21/11936, 21/19677 und 22/530.
+
+Dies vorausgeschickt, beantwortet der Senat teilweise auf Grundlage von Auskünften der Opferhilfe Hamburg e.V., intervento – proaktive Interventionsstelle bei häuslicher Gewalt und Stalking sowie den interkulturellen Fachberatungsstellen LÅLE und i.bera die Fragen wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
+
+Gibt es in Hamburg Beratungsangebote speziell für Männer, die Opfer häuslicher Gewalt werden?
+
+Wenn ja, welche? Bitte jeweils nach Bezirk und Beratungsstelle/ Träger auflisten.
+
+Wenn nein, warum nicht?
+
+#### Antwort zu Frage 1
+
+Siehe Vorbemerkung.
+
+### Frage 2
+
+Wie viele Mitarbeiter/VZÄ sind im Rahmen der jeweiligen Beratungsangebote tätig? Bitte einzeln nach Beratungsstelle auflisten.
+
+#### Antwort zu Frage 2
+
+Für den Zuwendungszeitraum 2021/2022 wurden für die Festlegung der Personalkosten für die intervento – proaktive Interventionsstelle bei häuslicher Gewalt und Stalking (intervento) des Trägers verikom – Verbund für interkulturelle Kommunikation und Bildung e.V. (verikom) 7,65 Stellen, für die Beratungsstelle i.bera/verikom 3,92 Stellen, für die Beratungsstelle LÂLE 5,14 Stellen und für die Beratungsstelle der Opferhilfe Hamburg e.V. 4,18 Stellen zunächst zugrunde gelegt.
+
+Im Rahmen der Umsetzung des bürgerschaftlichen Ersuchens Drs. 22/4261 wurden die Stellenanteile der Beratungsstellen befristet bis zum 31.12.2022 erhöht. Dabei wurde den Anträgen der Träger gefolgt, weshalb es teilweise zu Verschiebungen innerhalb des Gesamtzeitraums bis zum 31.12.2022 kommt.
+
+Durch die Erhöhung ergeben sich folgende Stellenanteile:
+
+Tabelle 1
+
+Beratungsstelle Zeitraum Stellen gesamt  
+Opferhilfe Hamburg e.V. 01.09.2021 – 31.12.2022 4,49  
+i.bera 01.07.2021 – 31.12.2021 4,26  
+01.01.2022 – 31.12.2022 4,11  
+LÂLE 01.07.2021 – 31.12.2021 5,62  
+01.01.2022 – 31.12.2022 5,42  
+intervento 01.10.2021 – 31.12.2021 8,09  
+01.01.2022 – 31.12.2022 8,54
+
+Der jeweilige Träger entscheidet in eigener Verantwortung über die Besetzung der Stellen und damit über die Anzahl der Mitarbeiterinnen beziehungsweise Mitarbeiter.
+
+Im Übrigen siehe Vorbemerkung und Drs. 22/4261.
+
+### Frage 3
+
+Wie viele Kontakte im Rahmen der Opferberatung hatten die einzelnen Beratungsstellen im Jahr 2020 bis zum jetzigen Zeitpunkt? Bitte nach Jahr und jeweiliger Beratungsstelle auflisten.
+
+#### Antwort zu Frage 3
+
+Tabelle 2
+
+Anzahl Beratungen insgesamt  
+Ohne Zuordnung zu einzelnen Gewaltphänomenen und inkl. Beratung Frauen/Männer/divers  
+Beratungsstelle 2020 2021*  
+Opferhilfe Hamburg e.V. 2.801 2.431  
+i.bera 2.408 1.211  
+LÂLE 2.503 2.693  
+intervento 2.646 1.657
+
+\* Stand 30.09.2021
+
+Quelle: Die Daten wurden durch den Träger erhoben.
+
+### Frage 4
+
+Wie viele Frauenhäuser gibt es in Hamburg?
+
+#### Antwort zu Frage 4
+
+Siehe Drs. 22/530.
+
+### Frage 5
+
+Gibt es in Hamburg Männerhäuser?
+
+Wenn ja, bitte nach Bezirk auflisten.
+
+Wenn nein, warum nicht?
+
+### Frage 6
+
+Gibt es in Hamburg weitere Unterbringungsmöglichkeiten für Männer, die in akuten Notsituationen Zuflucht suchen?
+
+Wenn ja, welche? Bitte jeweils nach Bezirk auflisten. Wie oft wurde das im Jahr 2020 bis zum jetzigen Zeitpunkt in Anspruch genommen? Bitte jeweils nach Unterkunft und Jahr auflisten.
+
+#### Antwort zu Fragen 5 und 6
+
+Siehe Drs. 21/6475 und 22/530.
+
+### Frage 7
+
+Erhalten die Beratungsstellen/Träger finanzielle Mittel von der Freien und Hansestadt Hamburg?
+
+Wenn ja, in welcher Höhe? Bitte jeweils das Jahr 2020 bis zum jetzigen Zeitpunkt nach Beratungsstelle/Träger auflisten. In welcher Höhe, in welchem Einzelplan und in welcher Produktgruppe schlagen sich die Zuwendungen jeweils im Haushaltsplan-Entwurf 2021/2022 nieder?
+
+#### Antwort zu Frage 7
+
+Für den Zuwendungszeitraum 2021/2022 wurden intervento des Trägers verikom
+1.257.471,78 Euro, der Beratungsstelle i.bera/verikom 681.618,06 Euro, der Beratungsstelle LÂLE 788.872,78 Euro und der Opferhilfe Hamburg e.V. 728.438,36 Euro bewilligt. Die über die Drs. 22/4261 ersuchten befristeten Mittel sind hierin schon enthalten, siehe Drs. 22/4261 und Antwort zu 2.
+
+Die Gesamtausgaben für die jeweiligen Zuwendungen an die Beratungsstellen werden über die Produktgruppe 255.03 im Einzelplan 4 gedeckt.
+
+Im Übrigen siehe Drs. 22/530.
+
+### Frage 8
+
+Wie hoch waren die Zuwendungen für Einrichtungen für Frauen im gleichen Zeitraum?
+
+#### Antwort zu Frage 8
+
+Siehe Vorbemerkung sowie Drs. 22/530.
+
+### Frage 9
+
+Wie viele weibliche Opfer häuslicher Gewalt wurden im Jahr 2020 bis zum jetzigen Zeitpunkt in Hamburg registriert und wie viele haben Hilfe bei einer Beratungsstelle gesucht? Wie viele davon waren geflüchtete Frauen?
+
+### Frage 10
+
+Wie viele männliche Opfer häuslicher Gewalt wurden im Jahr 2020 bis zum jetzigen Zeitpunkt in Hamburg registriert und wie viele haben Hilfe bei einer Beratungsstelle gesucht? Wie viele davon waren geflüchtete Männer?
+
+#### Antwort zu Fragen 9 und 10
+
+Fälle der häuslichen Gewalt oder der Beziehungsgewalt werden in der Polizeilichen Kriminalstatistik (PKS) der Behörde für Inneres und Sport (BIS) nicht gesondert ausgewiesen. Ersatzweise wird die Anzahl der Opfer in der Kategorie Partnerschaften (Ehepartner, eingetragene Lebenspartnerschaft, Partner nicht ehelicher Lebensgemeinschaften, ehemalige Partnerschaften) für die ausgewählten PKS-Schlüssel „Gewaltkriminalität“ und „Vorsätzliche einfache Körperverletzung“ dargestellt.
+
+Die PKS ist auf Jahresauswertungen ausgelegt. In der PKS wird ein Fall in dem Monat gezählt, in dem er erfasst wurde. Die Tatzeit bleibt dabei unberücksichtigt. Innerhalb eines Berichtsjahres unterliegt der PKS-Datenbestand einer ständigen Pflege, zum Beispiel durch Hinzufügen von nachträglich ermittelten Tatverdächtigen oder die Herausnahme von Taten, die sich im Nachhinein nicht als Straftat erwiesen haben. Unterjährige Auswertungen erfolgen immer kumulativ, das heißt, es werden die Summen von Januar bis zum betreffenden Monat gezählt. Zur Gewährleistung eines Mindestmaßes an Validität werden für 2021 die bis zum 3. Quartal in der PKS erfassten Straftaten dargestellt. Ein Rückschluss auf Gesamtjahreszahlen anhand unterjähriger Zahlen ist wegen der dargestellten Grundlagen und Einflussfaktoren nur eingeschränkt und nicht mit hinreichender Sicherheit möglich.
+
+Die Anzahl der weiblichen Opfer stellt sich wie folgt dar:
+
+Tabelle 3
+
+Jahr 2020 2021 (bis 30. September)  
+Gewaltkriminalität 534 341  
+Vorsätzliche einfache Körperverletzung 2.734 1.841  
+Gesamt 3.268 2.182
+
+Quelle: PKS
+
+Die Anzahl der männlichen Opfer stellt sich wie folgt dar:
+
+Tabelle 4
+
+Jahr 2020 2021 (bis 30. September)  
+Gewaltkriminalität 220 170  
+Vorsätzliche einfache Körperverletzung 813 522  
+Gesamt 1.033 692
+
+Quelle: PKS
+
+Im Übrigen siehe Drs. 22/530.
+
+Die Beratungsstellen sind per Zuwendungsbescheid zur Übermittlung von Jahresstatistiken bis zum Ende des 1. Quartals für das Vorjahr verpflichtet. Nach Geschlechtern erfasste Daten für 2021 liegen daher noch nicht vor. Der Aufenthaltsstatus der Betroffenen wird statistisch nicht erfasst.
+
+Tabelle 5
+
+Beratungsstellen Ratsuchende häusliche Gewalt  
+2020  
+Frauen Männer  
+Opferhilfe Hamburg e.V. 145 15  
+i.bera 157 5  
+LÂLE 233 26  
+intervento 929 81
+
+Quelle: Die Daten wurden durch den Träger erhoben.
+
+### Frage 11
+
+Wie werden mögliche männliche Opfer häuslicher Gewalt auf die Beratungsangebote aufmerksam gemacht? Gibt es gesonderte öffentliche Kampagnen der Opferhilfestellen?
+
+#### Antwort zu Frage 11
+
+Siehe Drs. 21/11936, 21/6475 und 22/530.

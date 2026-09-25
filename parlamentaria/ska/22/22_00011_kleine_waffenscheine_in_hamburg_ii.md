@@ -1,0 +1,93 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/11"
+wahlperiode: 22
+id: 70119
+titel: "Kleine Waffenscheine in Hamburg (II)"
+datum_anfrage: "2020-03-18"
+datum_drucksache: "2020-03-24"
+urheber: ["Dirk Nockemann"]
+fraktionen: ["AfD"]
+vorgang: 63852
+seiten: 2
+fragen: 8
+einzelfragen: 8
+antwortbloecke: 4
+beantwortet: true
+zitierte_drucksachen: ["21/14952"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70119"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/70119/22_00011_kleine_waffenscheine_in_hamburg_ii"
+abgerufen: "2026-09-25"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/11: Kleine Waffenscheine in Hamburg (II)
+
+> Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 18.03.20 und Antwort des Senats · Drucksache vom 24.03.2020  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/70119) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/70119/22_00011_kleine_waffenscheine_in_hamburg_ii)
+
+## Einleitung für die Fragen
+
+Einem Beitrag des „Handelsblattes“ zufolge hat die Anzahl ausgestellter kleiner Waffenscheine seit 2015 stark zugenommen. Bis zum 31. Dezember 2017 waren in Deutschland 557.560 dieser Genehmigungen ausgestellt worden („Bundesbürger rüsten auf“. „Handelsblatt“. 01.02.2018. Seite 8). Die Tatsache, dass zum 31. Januar 2016 bundesweit lediglich 300.949 kleine Waffenscheine registriert gewesen waren, lässt für den genannten Zeitraum eine Steigerung von 53,9 Prozent erkennen.
+
+Vor diesem Hintergrund frage ich den Senat:
+
+## Fragen und Antworten
+
+### Frage 1
+
+Wie viele kleine Waffenscheine waren zu folgenden Stichtagen in Hamburg registriert?
+
+a) 31.10.2018;
+
+b) 31.12.2019.
+
+#### Antwort zu Fragen 1 a) und 1 b)
+
+Tabelle 1
+
+Stichtag Anzahl kleine Waffenscheine
+31.12.2019 7.918
+
+Im Übrigen siehe Drs. 21/14952.
+
+### Frage 2
+
+Wie oft hat die Polizei in den Jahren 2018 und 2019 Verstöße gegen das Führen von Schreckschusswaffen in der Öffentlichkeit dokumentiert?
+
+### Frage 3
+
+Wie viele Schreckschusswaffen hat die Polizei im besagten Zeitraum sichergestellt?
+
+### Frage 4
+
+Wie oft sind in den Jahren 2018 und 2019 bei polizeilich dokumentierten Straftaten Schreckschusswaffen mitgeführt beziehungsweise eingesetzt worden?
+
+#### Antwort zu Fragen 2, 3 und 4
+
+Siehe Drs. 21/14952.
+
+### Frage 5
+
+Sind dem Senat für den besagten Zeitraum Fälle bekannt, bei denen der Einsatz von Schreckschusswaffen schwerwiegende körperliche Verletzungen zur Folge hatte?
+
+#### Antwort zu Frage 5
+
+Statistiken im Sinne der Fragestellung werden nicht geführt.
+
+### Frage 6
+
+Wie oft ist es in den Jahren 2018 und 2019 zu einer solchen Ablehnung gekommen und wie lautete die häufigste Begründung?
+
+### Frage 7
+
+Hat es in den Jahren 2018 und 2019 Fälle gegeben, in denen Schreckschusswaffen durch Modifikationen dergestalt verändert worden sind, dass sie scharfe Munition verschießen konnten?
+
+### Frage 8
+
+Wie häufig ist es im besagten Zeitraum zur unerlaubten Benutzung von Schreckschusswaffen im öffentlichen Raum gekommen?
+
+#### Antwort zu Fragen 6, 7 und 8
+
+Siehe Drs. 21/14952.

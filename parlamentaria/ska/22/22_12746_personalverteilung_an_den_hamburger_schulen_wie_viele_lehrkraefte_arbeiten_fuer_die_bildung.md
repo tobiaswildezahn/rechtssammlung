@@ -1,0 +1,173 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/12746"
+wahlperiode: 22
+id: 84697
+titel: "Personalverteilung an den Hamburger Schulen – wie viele Lehrkräfte arbeiten für die Bildung?"
+datum_anfrage: "2023-08-24"
+datum_drucksache: "2023-09-01"
+urheber: ["Sabine Boeddinghaus"]
+fraktionen: ["Die Linke"]
+vorgang: 78617
+seiten: 6
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
+beantwortet: true
+zitierte_drucksachen: ["22/10930"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/84697"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/84697/22_12746_personalverteilung_an_den_hamburger_schulen_wie_viele_lehrkraefte_arbeiten_fuer_die_bildung"
+abgerufen: "2026-09-24"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/12746: Personalverteilung an den Hamburger Schulen – wie viele Lehrkräfte arbeiten für die Bildung?
+
+> Schriftliche Kleine Anfrage der Abgeordneten Sabine Boeddinghaus (DIE LINKE) vom 24.08.23 und Antwort des Senats · Drucksache vom 01.09.2023  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/84697) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/84697/22_12746_personalverteilung_an_den_hamburger_schulen_wie_viele_lehrkraefte_arbeiten_fuer_die_bildung)
+
+## Einleitung für die Fragen
+
+Wie im Sommer wiederholt deutlich wurde, ist auch die Lage der Hamburger Lehrkräfte kritisch. Damit wird am Fundament des Schulwesens gesägt: Den Mitarbeiter*innen, die für die Bildung der Kinder und Jugendlichen Sorge tragen sollen. Bei allen einzelnen Maßnahmen, die die Behörde für Schule und Berufsbildung (BSB) unternimmt, um die Situation zu verbessern, bleibt unklar, wie viele Personen konkret an den einzelnen Schulen für den Unterricht zur Verfügung stehen.
+
+Ich frage den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Bundesweit stehen bereits seit einiger Zeit nicht ausreichend ausgebildete Lehrkräfte zur Verfügung, um den bestehenden Einstellungsbedarf zu decken. Führende Bildungswissenschaftlerinnen und Bildungswissenschaftler prognostizieren in den nächsten 15 bis 20 Jahren einen zum Teil erheblichen vor allem demografisch bedingten Fachkräftebedarf insgesamt und somit auch einen Lehrkräftemangel. Auch in Hamburg ist diese Entwicklung spürbar, wenn bislang auch nicht in gleichem Maße wie in anderen Bundesländern.
+
+Dennoch ist grundsätzlich festzuhalten, dass über alle Schulen der vorgesehene Unterricht nach Stundentafel mit den vorhandenen Lehrkräften gesichert ist, siehe auch Drs. 22/10930. Seit 2011 hat der Senat der Freien und Hansestadt Hamburg im Bereich der schulischen Bildung einen ausdrücklichen Schwerpunkt gesetzt und deutlich mehr Stellen zur Verfügung gestellt beziehungsweise mehr Lehrerinnen und Lehrer eingestellt, als es gemessen an dem Schülerzuwachs notwendig gewesen wäre. Insgesamt wurde die Zahl der Stellen für Lehrkräfte an den allgemeinbildenden Schulen in Hamburg im aktuellen Schuljahr um 543 auf 15.773 Stellen erhöht. 5.390 Stellen davon entfallen auf Grundschulen (+234), 795 Stellen auf Sonderschulen (+1), 5.639 Stellen auf Stadtteilschulen (+224) und 3.949 Stellen auf Gymnasien (+84). Darüber hinaus stehen den allgemeinbildenden Schulen 2.211 Stellen (+88) für pädagogisches und therapeutisches Fachpersonal zur Verfügung. Somit gibt es insgesamt 17.984 pädagogische Stellen, das sind im Vergleich zum Vorjahr 631 zusätzliche pädagogische Stellen an den allgemeinbildenden staatlichen Schulen.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
+
+Wie groß ist die numerische Anzahl an Lehrkräften an den einzelnen Hamburger Stadtteilschulen und Gymnasien? (Bitte die numerische Anzahl an Lehrkräften in einer Excel-Tabelle für die Schuljahre 2022/ 2023 und 2023/2024 je Schule mit Schulform und Schulregion einmal gesamt angeben, dann differenzieren nach Geschlecht männlich/
+
+weiblich/divers, Vollzeit/Teilzeit und Altersgruppen 21 bis 30, 31 bis 40, 41 bis 50, 51 bis 60, 61 bis 70.)
+
+#### Antwort zu Frage 1
+
+Die Anzahl der Lehrkräfte zum Schuljahr 2022/2023 kann der Anlage 1 und 2 entnommen werden. Die Daten für das Schuljahr 2023/2024 stehen der für Bildung zuständigen Behörde noch nicht zur Verfügung.
+
+Bürgerschaft der Freien und Hansestadt Hamburg – 22. Wahlperiode Drucksache 22/12746 Anlage 1
+
+59364560314891031010434111776839801088675974 ab
+
+111712151210201118222216212216211216101381822281910201711381517131716148 50-59
+
+1216831281918151722272731263026262722261540242825142940522253325122028324 40-49 Altersgruppen 7315303913162322117403427272211283127634302328282034327182617222023282 30-39
+
+0019125260447488113981009781541114644699100 20-29
+
+3545399195526255408378991008691905683758730108909381608211010766586696071859118 gesamt
+
+14261962622831331244576371565565355737591371585862355465342434732413742559 teilzeit insgesamt
+
+21192029332431222839213629303625212638281737323519252845734223937193443369 vollzeit
+
+00000000000000000000000000000000000000 gesamt
+
+00000000000000000000000000000000000000 diversteilzeit
+
+00000000000000000000000000000000000000 vollzeit
+
+211920526235472223415163616157573456425717616055553957727444056423443526710 gesamt
+
+101312384822262063144475046414326422645845443845274549328323825272530465 teilzeit weiblich2022/23
+
+116814141321217107161115161481416129161617101212234168181771822215 vollzeitSchuljahr 14261939331715331742273639253433222733301347303826212538332253027262833248zum gesamt
+
+41372414651361313162110142291511145261420178916014119714121294 teilzeit männlichGymnasien 101312151911102011291420181520111312221682116189131622318142120121621154 an vollzeit GeorgLehrkräfte St. Studierende Schule Gymnasiumbeschäftigten der AbendschuleHolstentor Johanneums mitdem ausländische des Gymnasium Name VorFinkenwerderKlosterschule Gymnasium für AlleeAltonaBlankeneseHochradOthmarschenRissen BondenwaldCorveystraßeDörpswegHoheluftKaiser-Friedrich-UferOhmoorRotherbaum AlstertalEppendorfHeidbergLerchenfeld Gymnasiumunbefristet Weiss Dönhoff und AbendgymnasiumAbendschuleGymnasiumGymnasiumHelmut-Schmidt-GymnasiumKurt-Körber-GymnasiumLouiseStruenseeStudienkollegChristianeumGoethe-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumLise-Meitner-GymnasiumMarionAlbrecht-Thaer-GymnasiumDeutsch-FranzösischesEmilie-Wüstenfeld-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHelene-Lange-GymnasiumWilhelm-GymnasiumAlbert-Schweitzer-GymnasiumGelehrtenschuleGymnasiumGymnasiumGymnasiumGymnasiumHansa-Kolleg befristet der 31.12.2022 BezirkAnzahlStand: Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-Nord
+
+681037610985951086536310771051212566 ab
+
+1417201615182416221717153222122515112521222025231514131013 50-59
+
+3023272931273620343518202013312424253513172314321724282916 40-49 Altersgruppen 102522293213251419202213111335181035315173119222117302721 30-39
+
+467104111845331026733771784612776 20-29
+
+64798687897596678782695683589079558010156648876867179837962 gesamt
+
+3549485752505434565336305638474734475728315249523847464146 teilzeit insgesamt
+
+2930383037254233312933262720433221334428333627343332373816 vollzeit
+
+00000000000000000000000000000 gesamt
+
+00000000000000000000000000000 diversteilzeit
+
+00000000000000000000000000000 vollzeit
+
+3543525546426236485037285435574531485528405245604144525034 gesamt
+
+2334354137334525373926214230363424363922263733472730333229 teilzeit weiblich 2022/23
+
+12917149917111111117125211171216614151213141419185 vollzeit Schuljahr 2936343243333431393232282923333424324628243631263035312928 zum gesamt
+
+12151316151799191410914811131011186515165111713917 teilzeit männlich Gymnasien 1721211628162522201822191515222114212822192115211918182011 an vollzeit Lehrkräfte
+
+Schule beschäftigten der BergedorfBergedorf Behörde Name BuckhornFarmsenGrootmoorHummelsbüttelMarienthalMeiendorfOberalsterOhlstedtOldenfeldeOsterbekRahlstedt AllermöheBornbrookLohbrügge Süderelbe unbefristet zuständigen und Heilwig-GymnasiumMargaretha-Rothe-GymnasiumCarl-von-Ossietzky-GymnasiumCharlotte-Paulsen-GymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumGymnasiumHeinrich-Heine-GymnasiumJohannes-Brahms-GymnasiumMatthias-Claudius-GymnasiumWalddörfer-GymnasiumGymnasiumGymnasiumGymnasiumHansa-GymnasiumLuisen-GymnasiumAlexander-von-Humboldt-GymnasiumFriedrich-Ebert-GymnasiumGymnasiumHeisenberg-GymnasiumImmanuel-Kant-Gymnasium Bildung für befristet der der 31.12.2022 Daten Bezirk AnzahlStand: Hamburg-NordHamburg-NordWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekBergedorfBergedorfBergedorfBergedorfBergedorfHarburgHarburgHarburgHarburgHarburg Quelle:
+
+Bürgerschaft der Freien und Hansestadt Hamburg – 22. Wahlperiode Drucksache 22/12746 Anlage 2
+
+61 6 18712564915374713764141512888971792710914153 ab
+
+174 30 1231103317129161913311216261423112433132324142123352210132227282419 50-59
+
+216 40 18412332383322184933621938452347174662383445273028364717213634324325 40-49 Altersgruppen 474 34 24341835474637334528473539361138304247284842182824835830515839447040 30-39
+
+163 2 38178239461118101192381210141096105241381414810187 20-29
+
+10718 112 58122591191151208180134881658011112957117701381671051231287398871951496710614011712817094 gesamt
+
+6211 42 28643158595136266554125416981307136711085766795055469181416273567310737 teilzeit insgesamt 457 70 305828615669455469344039424827463467594857492343411046826446761556357 vollzeit
+
+00 0 0000000000000000000000000000000000 gesamt
+
+00 0 0000000000000000000000000000000000 diversteilzeit
+
+00 0 0000000000000000000000000000000000 vollzeit 2022/23 7411 61 48833279777054488257113516591429047879860817560585411895487992688712564 gesamt
+
+478 28 25472045483526204639892948622757295474344753453630615732545939548834 teilzeitSchuljahr weiblich
+
+3 33 23361234293528283618242217291533183324263422152224573816253329333730zum 27 vollzeit
+
+337 51 10392740385027325231522946381527235169454253134033775419274849414530 gesamt
+
+153 14 317111311161061915361221193147173423192651916302498141719193Stadtteilschulen teilzeit männlich an 184 37 722162727341726331616172519121316343522232782117473010193432222627 vollzeit Lehrkräfte Teichweg Stadtteil Weg Alter Altrahlstedt im Hübenerbeschäftigten Hafen Heidberg Schulname VeddelAmFinkenwerderHamburg-MitteHornMümmelmannsbergÖjendorfStübenhoferWilhelmsburg AltonaBahrenfeldBlankeneseFlottbekLurupRissen EidelstedtNiendorfStellingen AmEppendorfHelmuthWinterhude Schule Schule Stadtteilschule Stadtteilschule derunbefristet HafenCity Schule auf und und Kästnerund Krause Ehre Brüder-Grimm-SchuleCampusNelson-Mandela-SchuleKirchdorfSchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGeschwister-Scholl-StadtteilschuleMax-Brauer-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleIdaJulius-Leber-SchuleStadtteilschuleStadtteilschuleStadtteilschuleAlbert-Schweitzer-SchuleEmilFritz-Schumacher-SchuleGrund-Heinrich-Hertz-SchuleIlse-Löwenstein-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleErichGrund-befristet der 31.12.2022 BezirkAnzahlStand: Hamburg-MitteHamburg-Mitte Hamburg-Mitte Hamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteHamburg-MitteAltonaAltonaAltonaAltonaAltonaAltonaAltonaAltonaEimsbüttelEimsbüttelEimsbüttelEimsbüttelEimsbüttelHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordHamburg-NordWandsbekWandsbek
+
+7109161113443121491212118317361913 ab
+
+21281613112219131624322232262116113013163328 50-59
+
+37393759203017223622383639334032254727294416 40-49 Altersgruppen 59414046253416203337393845303336377750264524 30-39
+
+19722121453458616555141219138113 20-29
+
+14312512414681104596393103129121133106110106881901068515284 gesamt
+
+827055704454223550608662725048504211047336022 teilzeit insgesamt
+
+61556976375037284343435961566256468059529262 vollzeit
+
+0000000000000000000000 gesamt
+
+0000000000000000000000 diversteilzeit
+
+0000000000000000000000 vollzeit 2022/23 978172866064424369668882817276656311666569850 gesamt
+
+61533444354117284447655049403236368032234117 teilzeit Schuljahr weiblich zum 36283842252325152519233232324429273634335733 vollzeit
+
+46445260214017202437413952343441257440295434 gesamt
+
+21172126913576132112231016146301510195 Stadtteilschulen teilzeit männlich  
+an  
+25273134122712131824202729241827194425193529 vollzeit  
+Lehrkräfte
+
+Tonndorf beschäftigten Behörde Schule Schulname BergstedtBramfeldMeiendorfOldenfeldePoppenbüttelWalddörfer BergedorfKirchwerderLohbrüggeRichard-Linde-Weg Fischbek-FalkenbergSüderelbe See unbefristet am Maretstraße zuständigen Trebitsch und Bildung GyulaIrena-Sendler-SchuleMax-Schmeling-StadtteilschuleOtto-Hahn-SchuleSchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleGretel-Bergmann-SchuleStadtteilschuleStadtteilschuleStadtteilschuleStadtteilschuleElisabeth-Lange-SchuleGoethe-Schule-HarburgLessing-StadtteilschuleSchuleStadtteilschuleStadtteilschule für befristet der der 31.12.2022 AnzahlStand: Bezirk WandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekWandsbekBergedorfBergedorfBergedorfBergedorfBergedorfHarburgHarburgHarburgHarburgHarburgHarburg DatenQuelle:

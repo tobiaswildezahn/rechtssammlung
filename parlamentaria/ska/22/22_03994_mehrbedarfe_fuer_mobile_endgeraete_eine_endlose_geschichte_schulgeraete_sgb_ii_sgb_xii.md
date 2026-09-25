@@ -1,0 +1,183 @@
+---
+typ: "Schriftliche Kleine Anfrage"
+drucksache: "22/3994"
+wahlperiode: 22
+id: 75316
+titel: "Mehrbedarfe für mobile Endgeräte – eine endlose Geschichte? (Schulgeräte/SGB II/SGB XII)"
+datum_anfrage: "2021-04-15"
+datum_drucksache: "2021-04-23"
+urheber: ["Sabine Boeddinghaus", "Olga Fritzsche"]
+fraktionen: ["Die Linke"]
+vorgang: 68862
+seiten: 14
+fragen: 13
+einzelfragen: 15
+antwortbloecke: 9
+beantwortet: true
+zitierte_drucksachen: ["21/11206", "21/14178", "21/14228", "22/435", "22/980", "22/1058", "22/1472", "22/2097", "22/2224", "22/2523", "22/2715", "22/2899", "22/3003", "22/3266", "22/3339", "22/3441", "22/3747", "22/3257"]
+format_erkannt: true
+quelle: "https://www.buergerschaft-hh.de/parldok/dokument/75316"
+pdf: "https://www.buergerschaft-hh.de/parldok/dokument/75316/22_03994_mehrbedarfe_fuer_mobile_endgeraete_eine_endlose_geschichte_schulgeraete_sgb_ii_sgb_xii"
+abgerufen: "2026-09-24"
+generator: "ska_archiv 1.0"
+---
+
+# Drs. 22/3994: Mehrbedarfe für mobile Endgeräte – eine endlose Geschichte? (Schulgeräte/SGB II/SGB XII)
+
+> Schriftliche Kleine Anfrage der Abgeordneten Sabine Boeddinghaus und Olga Fritzsche (DIE LINKE) vom 15.04.21 und Antwort des Senats · Drucksache vom 23.04.2021  
+> [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/75316) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/75316/22_03994_mehrbedarfe_fuer_mobile_endgeraete_eine_endlose_geschichte_schulgeraete_sgb_ii_sgb_xii)
+
+## Einleitung für die Fragen
+
+Zweimal schon haben die Hamburger Behörden in das Vergabeverfahren von mobilen Endgeräten interveniert, maßgeblich die Schulbehörde. Diese hatte mehrere Zehntausend mobile Endgeräte für die Schüler/-innen angeschafft. Mittlerweile soll es per „abgestimmten“ Verfahren möglich sein, mit einer Bescheinigung der Schule durch formlosen Antrag nach SGB II und XII entsprechende Sonderzuschüsse zur Anschaffung zu erhalten. Dennoch mehren sich Stimmen, dass eben dieses Verfahren, das zwischen Sozialbehörde, Schulbehörde und Jobcenter entwickelt wurde, nicht so reibungslos funktioniert wie beabsichtigt. Dies wirft vor dem Hintergrund bereits stattfindender digital gestützter Beschulung, einer sich verstärkenden Bildungsungerechtigkeit sowie drohender Schulschließungen dringende Fragen auf.
+
+Wir fragen den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Der für Soziales zuständigen Behörde und der für Bildung zuständigen Behörde ist es gelungen, in Abstimmung mit Jobcenter team.arbeit.hamburg (Jobcenter) innerhalb kurzer Zeit ein Verfahren aufzulegen, das allen Beteiligten eine klare Rahmensetzung gibt und insbesondere für die Anspruchsberechtigten benutzerfreundlich ausgestaltet ist.
+
+Im Übrigen wird zur Digitalisierung an den Schulen auf die Drs. 21/11206, 21/14178, 21/14228, 22/435, 22/980, 22/1058, 22/1472, 22/2097, 22/2224, 22/2523, 22/2715, 22/2899, 22/3003, 22/3266, 22/3339, 22/3441 und 22/3747 verwiesen.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf Grundlage von Auskünften von Jobcenter team.arbeit.hamburg (Jobcenter) und der Agentur für Arbeit Hamburg (AA) wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
+
+Wie viele mobile Endgeräte wurden bis dato von den einzelnen Schulen ausgegeben? (Bitte die Schulen mit Schulnummer, Bezirk, Schulregion, Schulform, Sozialindex, SuS-Zahl, Zahl der bestellten, Zahl der erhaltenen und Zahl der ausgegebenen Geräte in einer Excel- Tabelle angeben.)
+
+#### Antwort zu Frage 1
+
+Zu den erfragten Daten siehe Anlage. Zu den Schulnummern siehe https://serviceportal.hamburg.de/HamburgGateway/FVP/FV/BBS/DWHFrontend/?sid=18.
+
+Die Zahl der ausgegebenen Geräte wird nicht zentral erfasst. Eine Abfrage und eine anschließende Qualitätssicherung an allen staatlichen allgemeinbildenden Schulen können unter Berücksichtigung der der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht durchgeführt werden.
+
+Im Übrigen siehe Vorbemerkung.
+
+### Frage 2
+
+Wie viele Bescheinigungen wurden bis dato von den einzelnen Schulen ausgegeben? (Bitte die Schulen mit Schulnummer, Bezirk, Schulregion, Schulform, Sozialindex, SuS-Zahl und Zahl der ausgestellten Bescheinigungen in einer Excel-Tabelle angeben.)
+
+#### Antwort zu Frage 2
+
+Die Zahl der ausgestellten Bescheinigungen wird von der für Bildung zuständigen Behörde nicht zentral erfasst. Im Übrigen siehe Antwort zu 1.
+
+### Frage 3
+
+Wie viele Anträge auf die Gewährung entsprechender Sonderzuschüsse wurden bis dato bei den zuständigen Stellen eingereicht?
+
+#### Antwort zu Frage 3
+
+Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Eine Einzelfallauszählung/-auswertung der Akten von rund 250.000 Leistungsberechtigten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
+
+### Frage 4
+
+Wie viele dieser Anträge wurden positiv beantwortet, wie viele negativ?
+
+#### Antwort zu Frage 4
+
+Aktuell wurden durch die Fachämter für Grundsicherung und Soziales und durch die Behörde für Inneres und Sport für die Rechtskreise Zwölftes Buch Gesetzbuch (SGB XII) und Asylbewerberleistungsgesetz 104 Anträge bewilligt. Für den Rechtskreis SGB II werden die zur Beantwortung benötigten Daten nicht gesondert statistisch erfasst. Eine Einzelfallauszählung/-auswertung von rund 103.000 Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
+
+### Frage 5
+
+Wie viele Widersprüche wurden gegen die Entscheidungen eingereicht?
+
+### Frage 6
+
+Gab es sonstige Beschwerden zu dem Thema in den Grundsicherungsämtern oder Jobcenterstandorten (Kundenreaktionsmanagement)?
+
+#### Antwort zu Fragen 5 und 6
+
+Siehe Antwort zu 3. Darüber hinaus wurden bislang keine Beschwerden von Bürgerinnen und Bürgern an die zuständige Behörde herangetragen.
+
+### Frage 7
+
+Aus welchen sachlichen und fachlichen Gründen wird seitens der Sonderzuschüsse gewährenden Stellen nicht der volle Satz bewilligt?
+
+### Frage 8
+
+Aus welchen sachlichen und fachlichen Gründen wird seitens der Sonderzuschüsse gewährenden Stellen die Vorlage von Kostenvoranschlägen gefordert?
+
+### Frage 9
+
+Welche Maßnahmen hat der Senat bis dato unternommen, um die Beträge zu übernehmen, die zwischen dem maximal zu gewährenden Betrag von 350,00 Euro und den tatsächlichen Kosten für ein Gerät nach Anforderungen der Schulbehörde liegen?
+
+Welche Maßnahmen sieht der Senat in Zukunft vor?
+
+#### Antwort zu Fragen 7, 8 und 9
+
+Maßgeblich ist der von der Schule bescheinigte Bedarf, siehe auch Drs. 22/3257. Insofern können die Leistungen für digitale Endgeräte in Ausnahmefällen auch mehr als 350 Euro betragen, wenn die Schule einen entsprechenden Bedarf bescheinigt. Dies unterliegt jeweils der Einzelfallprüfung.
+
+### Frage 10
+
+Welche Maßnahmen hat der Senat bis dato unternommen, um zu gewährleisten, dass Schülerinnen und Schüler auf den Rechnern die benötigte Software für den Distanzunterricht haben, regelmäßige Wartungen und Updates zu gewährleisten und vor Schad- und Spyware zu schützen?
+
+Welche diesbezüglichen Maßnahmen plant er?
+
+#### Antwort zu Frage 10
+
+Die für den Distanzunterricht erforderlichen Anwendungen, insbesondere das Lernmanagementsystem oder Videokonferenzanwendungen, sind webbasierte Anwendungen. Sie werden für alle Schülerinnen und Schüler angeboten. Diese Anwendungen werden regelmäßig gewartet und durch Updates und Releases auf aktuellem Stand gehalten. Webbasierte Anwendungen können über einen aktuellen Standardbrowser aufgerufen werden. Eine besondere zusätzliche Software ist auf dem Endgerät nicht erforderlich.
+
+Der Betrieb und die Wartung der schulischen Endgeräte, die an Schülerinnen und Schüler ausgeliehen sind, obliegen den jeweiligen Schulen und werden von diesen durchgeführt.
+
+Bei schülereigenen Endgeräten handelt es sich um Privatgeräte, auf die weder die Schule noch die für Bildung zuständige Behörde Zugriff haben. Im Übrigen siehe Vorbemerkung.
+
+### Frage 11
+
+Welche Konsequenzen hat eine nachlässige Bearbeitung der Anträge auf Mehrbedarfe, deren Dringlichkeit und eindeutige Bewilligung in der Weisung des BMAS vom 01.02. klar gegeben wurde?
+
+### Frage 12
+
+Welche Schritte sieht der Senat/sehen die betreffende(n) Behörde(n) vor, um eine sachgerechte, zeitnahe und befürwortende Bearbeitung der Anträge auf Mehrbedarfe sicherzustellen?
+
+#### Antwort zu Fragen 11 und 12
+
+Die Bearbeitung unterscheidet sich nicht von der Bearbeitung anderer Anträge zur Gewährung von existenzsichernden Leistungen. Damit werden alle Anträge sachgerecht und zeitnah bearbeitet und bei gegebenen Voraussetzungen positiv beschieden.
+
+### Frage 13
+
+Welche Schritte sieht der Senat/die zuständige Behörde(n) vor, um die zeitnahe und niedrigschwellige Einrichtung, Ausleihe und Wartung aller mobilen Endgeräte in Schulbesitz sicherzustellen?
+
+#### Antwort zu Frage 13
+
+Siehe Antwort zu 10 und Vorbemerkung.
+
+Anlage
+
+mobiler erhalten* 2280110421202020073401322309050190606242857018823125035480896097803012020550 22801104212064300734017423012450190606242859518823125035480946097803012220550 Endgeräte Anzahl bestellt* 1033005792095373221097329-65683336422193726329919641338889911391146670353333242468324160487385175 AnzahlSchüler-innenundSchüler Sozial-index -1232213--233531251222113112-14- 13122232113122b122b1222b32122213211242 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform SonderschulenGrundschulenGymnasienGrundschulenGymnasienGrundschulenStadtteilschulenGrundschulenGymnasienGymnasienGymnasienGrundschulenGrundschulenGymnasienGrundschulenGrundschulenGrundschulenGymnasienGrundschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenSonderschulenGrundschulenGymnasienSonderschulen erhaltener verliehener bestellter,Schüler Kirchdorf und StudierendeAnzahl Stadtteil im Holstentor Park Damm ausländischedem Hamburg-MitteHornÖjendorf Burgweide Finkenwerder Gymnasium fürVor MümmelmannsbergLandwehr Archenholzstraße Kirchdorf Pachthof Klosterschule Finkenwerder SchleemerGymnasium Finkenwerder der MarckmannstraßeRotenhäuserWeissBonhoefferstraße Fuchsbergredder Speckenreye Beim an HoheMitteAm Billstedt Schulname SchuleSchuleLouiseSchuleKurt-Körber-GymnasiumGrundschuleNelson-Mandela-SchuleSchuleStudienkollegAbendschuleHelmut-Schmidt-GymnasiumHeinrich-Wolgast-SchuleAueschuleGymnasiumWesterschuleFritz-Köhne-SchuleSchuleGymnasiumGrundschuleBrüder-Grimm-SchuleStadtteilschuleStadtteilschuleStadtteilschuleSchuleRudolf-Roß-GrundschuleSchuleGrundschuleSchuleReBBZSchuleStruenseeReBBZ Bezirk Hamburg-Mitte
+
+mobiler erhalten* 6070301177548851001001981072201327653038015590362609812035113401372201801124228285 1107030117754885100100198107220132975303801551253626098120581134013722018011242282126 Endgeräte Anzahl bestellt* 51524920658323527232439237858653711153072901050100323719610222374615534284809266587710058993231485313 AnzahlSchüler-innenundSchüler Sozial-index 1223114111-11111-2466343-4456653 32122b1212231332213346674456746644 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform StadtteilschulenGrundschulenGrundschulenStadtteilschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienStadtteilschulenGrundschulenGrundschulenStadtteilschulenStadtteilschulenSonderschulenStadtteilschulenGymnasienGrundschulenGrundschulenStadtteilschulenGrundschulenGrundschulenSonderschulenStadtteilschulenGymnasienGymnasienGymnasienGrundschulenStadtteilschulenGrundschulen erhaltener verliehener Georgbestellter,Schüler St. Anzahlund Weg Hafencity Au Abendschule der Straße Hafen in mit Fährstraße Gymnasium Veddel Finkenwerder Glinder Wilhelmsburg MümmelmannsbergAm Stübenhofer Flottbek Rissen HornSt.Pauli Osterbrook Rahewinkel Thadenstraße Allee Altona der der Grundschule auf An Stengelestraße Sterntalerstraße Wilhelmsburg Bahrenfelder Altona-West DönhoffSchulkamp Schulname SchuleGrundschuleGrundschuleStadtteilschuleGrundschuleSchuleKatharinenschuleSchuleGrundschuleElbinselschuleAbendgymnasiumStadtteilschuleGanztagsschuleSchuleStadtteilschuleStadtteilschuleReBBZStadtteilschuleGymnasiumElbkinderGorch-Fock-SchuleStadtteilschuleSchuleGrundschuleReBBZStadtteilschuleLise-Meitner-GymnasiumGymnasiumMarionSchuleMax-Brauer-SchuleTheodor-Haubach-Schule
+
+Bezirk Altona
+
+mobiler erhalten* 4890751112251751891096067200608860135901751121213370902001602001451904054 142122 4890881112251752051096067200608860135902101121213370902001602001451904060 142122 Endgeräte Anzahl bestellt* 22934333445510269639384282573891152235345227540423696458492156259314957763986634998179253 718452 AnzahlSchüler-innenundSchüler Sozial-index 1364236545551332355-1264666-- 16
+
+55675467666655445444547576744 57 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform GrundschulenGrundschulenGrundschulenGrundschulenStadtteilschulenStadtteilschulenGymnasienGrundschulenGrundschulenGrundschulenStadtteilschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenSonderschulenGrundschulenGrundschulenGymnasienGymnasienGymnasienGymnasienGymnasienSonderschulenSonderschulen StadtteilschulenGrundschulen erhaltener verliehener Kommunikationbestellter,Schüler und Anzahlund Landstraße Hauptstraße Hören Flottbek Schule LurupBahrenfeld Blankenese Franzosenkoppel Groß Luruper Arnkielstraße Blankenese OthmarschenRissenHochrad Bildungszentrum Kroonhorst MarschwegWesperloh SchenefelderIserbarg IserbrookBarlsheide Schroeder TrenknerwegRothestraßeKielkampLangbargheideMendelssohnstraße Hirtenweg Windmühlenweg Schulname SchuleGrundschuleSchuleSchuleStadtteilschuleStadtteilschuleGymnasiumGrundschuleSchuleSchuleStadtteilschuleSchuleSchuleGrundschuleLouiseGrundschuleFridtjof-Nansen-SchuleSchuleSchuleSchuleSchuleSchuleChristianeumGoethe-GymnasiumGymnasiumGymnasiumGymnasiumSchuleElbschule Geschwister-Scholl-StadtteilschuleSchule
+
+Bezirk
+
+mobiler erhalten* 2614710713615030105702004945301301149065100835221131040183200105***1641849012484149 261471071361503010570200494530130116118651001205221131064183200105***1943839012484149 Endgeräte Anzahl bestellt* 1125424153576297932831312272381856057547313601803813282349611650257953965422-8271108345439330236 AnzahlSchüler-innenundSchüler Sozial-index -2442266332556554135425256553554 4474446789118981011111098119101191011101110810 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform SonderschulenGrundschulenGrundschulenGrundschulenStadtteilschulenGrundschulenGrundschulenGrundschulenStadtteilschulenGrundschulenGrundschulenGymnasienGymnasienGymnasienGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienStadtteilschulenGrundschulenGymnasienStadtteilschulenGrundschulenGymnasienGymnasienStadtteilschulenGrundschulenGrundschulenGrundschulenGrundschulen erhaltener verliehener bestellter,Schüler Elbe Weg GymnasiumAnzahlund Sternschanze der Lieth Straße an Altona Eidelstedt Niendorf der Hoheluft Goosacker Flottbeker Hoheluft Kaiser-Friedrich-Ufer Corveystraße Dörpsweg Schule Altona LehmkuhlenwegKlein WegenkampRöthmoorweg HinterRönnkampFrohmestraßeVizelinstraßeMolkenbuhrstraße Brehmweg Rellinger FurtwegDöhrnstraße Moorflagen Ehre Schulname ReBBZGanztagsgrundschuleGrundschuleLoki-Schmidt-SchuleStadtteilschuleGanztagsschuleSchuleSchuleIdaSchuleSchuleGymnasiumAlbrecht-Thaer-GymnasiumWilhelm-GymnasiumSchuleSchuleSchuleSchuleSchuleGymnasiumJulius-Leber-SchuleSchuleGymnasiumStadtteilschuleSchuleDeutsch-FranzösischesGymnasiumStadtteilschuleSchuleSchuleGrundschuleSchule Bezirk Eimsbüttel
+
+mobiler erhalten* 709215096721029317523174601001296020060813061175025515159135112822007293358092 709215096721029317533174601001296020060813091175025515159135112822907293358092 Endgeräte Anzahl bestellt* 3193705664182564013359599942432203774352139662041791101352145128414786911336390928446413107319378 AnzahlSchüler-innenundSchüler Sozial-index 5565344655245552236-644453455-35 108810119111081011118108119981010913141214131212121313 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienGymnasienGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienGrundschulenGrundschulenStadtteilschulenGrundschulenSonderschulenGymnasienGrundschulenGymnasienStadtteilschulenGrundschulenGrundschulenGymnasienGrundschulenGrundschulenSonderschulenGrundschulenGrundschulen erhaltener verliehener bestellter,Schüler Anzahlund Bindfeldweg Sachsenweg Lohkampstraße Bondenwald StellingenIsebek Ohmoor Lerchenfeld Damm der SethwegTornquiststraßeTurmwegBurgunderwegRungwischLutterothstraßeHeidacker Anna-Susanna-StiegKielortallee Eduardstraße AnEimsbüttel Neubergerweg ForsmannstraßeLokstedterGenslerstraßeHumboldtstraße Schulname SchuleSchuleSchuleSchuleSchuleSchuleSchuleGymnasiumEmilie-Wüstenfeld-GymnasiumGrundschuleMax-Traeger-SchuleSchuleSchuleGrundschuleHelene-Lange-GymnasiumGrundschuleSchuleStadtteilschuleSchuleReBBZGymnasiumWolfgang-Borchert-SchuleMargaretha-Rothe-GymnasiumFritz-Schumacher-SchuleCarl-Götze-SchuleSchuleGymnasiumMarie-Beschütz-SchuleSchuleSchuleSchuleSchule Bezirk Hamburg-Nord
+
+mobiler erhalten* 1207026154923040801058086105110125147130507315024030055407014720321321150310100450 1207026154923040801058086105110125147152507316024040055407014720321321150310100450 Endgeräte Anzahl bestellt* 8902771257693621521623004083113513784146238738731681975601446113125023229653810158699074012399851537 AnzahlSchüler-innenundSchüler Sozial-index 23-55-1355445566--345664465-6442 1314121213131314141212141414121214121312121212141214141214121413 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform StadtteilschulenGrundschulenSonderschulenGymnasienGrundschulenGymnasienGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienGymnasienGymnasienSonderschulenSonderschulenGrundschulenStadtteilschulenStadtteilschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienGymnasienSonderschulenStadtteilschulenStadtteilschulenStadtteilschulenStadtteilschulen erhaltener verliehener bestellter,Schüler und Sehbehinderte TeichwegAnzahl und Alter Johanneums Blinde Straße Heidberg des für Nikolai Winterhude EppendorfAm Uhlenhorst Heidberg St. Am SchuleBallerstaedtweg Alstertal Eppendorf Heidberg Stadtteilschule der Nord auf LämmersiethEberhofwegOhkampAlsterdorfer Ratsmühlendamm Winterhude Knauerstraße Stockflethweg und Schulname EmilKrauseGrundschuleReBBZHeilwig-GymnasiumSchuleHansa-KollegSchuleSchuleSchuleSchuleGoldbek-SchuleSchuleGrundschuleGymnasiumGelehrtenschuleGymnasiumReBBZBildungszentrumAdolph-Schönfelder-SchuleHeinrich-Hertz-SchuleStadtteilschuleSchuleGrundschuleSchuleCarl-Cohn-SchuleAlbert-Schweitzer-GymnasiumGymnasiumKurt-Juster-SchuleAlbert-Schweitzer-SchuleStadtteilschuleStadtteilschuleGrund-
+
+Bezirk
+
+mobiler erhalten* 6920037240155195130102276147120046131125180672210292404614380252201356091123210190 7020038240155195130102276147135056131125180672210292604614380252201956091123260320 Endgeräte Anzahl bestellt* 25951911422908951375465385105915735598723065462777931810847342422319871336395514065127943359911981084 AnzahlSchüler-innenundSchüler Sozial-index 44233345423533455-64-6464-415552 1413131615161519171916191616161918191719161817181516191516161815 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform GrundschulenStadtteilschulenStadtteilschulenGrundschulenGymnasienStadtteilschulenGrundschulenGrundschulenStadtteilschulenGrundschulenGrundschulenGymnasienGrundschulenStadtteilschulenGymnasienGymnasienGrundschulenSonderschulenGrundschulenGrundschulenSonderschulenGrundschulenGymnasienGrundschulenGymnasienSonderschulenStadtteilschulenGrundschulenGrundschulenGymnasienStadtteilschulenStadtteilschulen erhaltener verliehener bestellter,Schüler Anzahlund Zweigstelle Hübener mit Markt Straße Helmuth Bramfeld Meiendorf Walddörfer Schule Marienthal GroßloheringBramfeld Neurahlstedt Karlshöhe Marienthal Rahlstedt Oldenfelde Hummelsbüttel Osterbek Krohnstieg Eenstock Bekassinenau Surenland DuvenstedterParacelsusstraßeAlsterredder Wandsbek-NordWaldeam Lemsahl-Mellingstedt Tegelweg Potsdamer Kästner Schulname SchuleIlse-Löwenstein-SchuleStadtteilschuleSchuleGymnasiumErichGrundschuleSchuleIrena-Sendler-SchuleGrundschuleGrundschuleGymnasiumSchuleStadtteilschuleJohannes-Brahms-GymnasiumGymnasiumSchuleSchuleSchuleGrundschuleReBBZSchuleGymnasiumSchuleMatthias-Claudius-GymnasiumSchuleStadtteilschuleSchuleGrundschuleGymnasiumStadtteilschuleMax-Schmeling-Stadtteilschule Bezirk Wandsbek
+
+mobiler erhalten* 35296647590604590105807560115105586068841851129290171219170462506017010278100 352966475906045921118075601151055860688418511292901712191984625060176103107100 Endgeräte Anzahl bestellt* 1526428260292347266212362438326301224459407233218287337103642334434385310978442071255234796348346369 AnzahlSchüler-innenundSchüler Sozial-index 46125235556335442436545654235455 1517151116151517171819191716191611917161615181715151917191719 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform StadtteilschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenStadtteilschulenGrundschulenGrundschulenGrundschulenGymnasienGymnasienGymnasienGrundschulenStadtteilschulenGrundschulenStadtteilschulenGrundschulenGrundschulenGrundschulen erhaltener verliehener bestellter,Schüler Anzahlund Altrahlstedt Tonndorf Weg Damm Höhe Straße Schule Teichwiesen Poppenbüttel Edwin-Scharff-Ring Hasenweg Eckerkoppel Tonndorf NydamerPoppenbüttel Stadtteilschule BuckhornOberalster den Sooren StrengeÖjendorferHasselbrookRichardstraße BandwirkerstraßeBovestraße HinsbleekAnWildschwanbrookRahlstedterMüssenredderTraberwegAmAppelhoffWielandstraßeundRedderFahrenkrön Kamminer Brockdorffstraße Trebitsch Schulname GyulaSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleSchuleGrund-SchuleSchuleGrundschuleCharlotte-Paulsen-GymnasiumGymnasiumGymnasiumGrundschuleOtto-Hahn-SchuleSchuleStadtteilschuleGrundschuleGrundschuleSchule
+
+Bezirk
+
+mobiler erhalten* 4010072117101106881501281101402202501551501913045130299422142822255049104341605460140 40100721171011068815012813014025625015515019130451303068721428222518749104341605460140 Endgeräte Anzahl bestellt* 2403184042703154092685453523966669721212755867933140173532117025380110755461132192415140955244189463 AnzahlSchüler-innenundSchüler Sozial-index 1663641464656465--351362424-6554 15181815181915151817181916161717151516181519181620b20a20a20a20a20b20b20a SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform GrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienGymnasienGymnasienGymnasienGymnasienGymnasienSonderschulenSonderschulenGrundschulenStadtteilschulenGrundschulenStadtteilschulenGymnasienStadtteilschulenStadtteilschulenGrundschulenGrundschulenSonderschulenGymnasienGrundschulenGrundschulenGrundschulen erhaltener verliehener bestellter,Schüler Anzahlund Straße Weg Bergedorf Straße Straße Gartenstadt SeebekBergstedt Oldenfelde Kirchwerder Islandstraße OhlstedtMeiendorfGrootmoorFarmsen Eichtalpark der der See OppelnerBergstedtAhrensburgeramEulenkrugstraße JenfelderAnBuckhornGrützmühlenweg BekkampWandsbek-SüdAn Charlottenburger am Friedrich-Frank-BogenNettelnburgWeidemoor OchsenwerderZollenspiekerMax-Eichholz-Ring Schulname SchuleSchuleSchuleSchuleSchuleGrundschuleSchuleSchuleSchuleSchuleGymnasiumGymnasiumGymnasiumGymnasiumHeinrich-Heine-GymnasiumCarl-von-Ossietzky-GymnasiumSchuleReBBZSchuleStadtteilschuleSchuleStadtteilschuleWalddörfer-GymnasiumSchuleStadtteilschuleSchuleSchuleSchuleLuisen-GymnasiumSchuleSchuleSchule Bezirk Bergedorf
+
+mobiler erhalten* 84160508450802267110452411515042932159015036029131017607516515030312185224946 84160508450802267110452411516542932159015036029131018607516515045312185224946 Endgeräte Anzahl bestellt* 83578318731825433487256499179110410972179308111734362797411181416568218753826744168758736681225213 AnzahlSchüler-innenundSchüler Sozial-index 4533525435545-23242245255543432- 20a20a20a20a20b20a20b20a20a20b20b20b20a20a20b20a20b20b20a20b20a2122a21212121212122a2121 SEPL-Region SchülerinnenEndgeräte an und mobiler Schulform GymnasienGymnasienGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenGymnasienSonderschulenGrundschulenStadtteilschulenGrundschulenGymnasienStadtteilschulenStadtteilschulenStadtteilschulenGymnasienGrundschulenGymnasienGymnasienGymnasienStadtteilschulenGrundschulenGrundschulenGrundschulenGrundschulenSonderschulen erhaltener verliehener bestellter,Schüler Anzahlund Bergedorf Allermöhe Kehre Kiefernberg Landweg Straße Lohbrügge Richard-Linde-Weg Bergedorf Mendelstraße Heidhorst am Bornbrook Lohbrügge Allermöhe LeuschnerstraßeSanderCurslack-Neuengamme Mittlerer Fünfhausen-WarwischAltengamme-DeichErnst-Henning-Straße Bergedorf Ohrnsweg ScheeßelerCranzDempwolffstraßeElfenwiese Schulname GymnasiumHansa-GymnasiumSchuleSchuleSchuleGrundschuleSchuleGrundschuleAnton-Rée-SchuleSchuleSchuleSchuleGymnasiumReBBZAdolph-Diesterweg-SchuleStadtteilschuleClara-Grunwald-SchuleGymnasiumStadtteilschuleGretel-Bergmann-SchuleStadtteilschuleImmanuel-Kant-GymnasiumSchuleFriedrich-Ebert-GymnasiumHeisenberg-GymnasiumAlexander-von-Humboldt-GymnasiumGoethe-Schule-HarburgGrundschuleSchuleSchuleSchuleSchule
+
+Bezirk Harburg
+
+mobiler erhalten* 23861948930023010560127 138192201364010074752122551100400 23862378930023010560127 138192201364010074752122551100401 Endgeräte längeren Anzahl bestellt* - 89 Zeitpunkt 4128383541655923672244448 499995 699134388296320636115226404907 AnzahlSchüler-innenundSchüler diesem 321442232 55-252155--23 zu den Sozial-index und 2121212122a22a2122a22a 2122a22a212122a2122a21212122a21 SEPL-Region NachbestellungenSchülerinnenEndgeräte ausan und mobiler Schulform GrundschulenGrundschulenStadtteilschulenGrundschulenStadtteilschulenStadtteilschulenGrundschulenGrundschulenGrundschulen GrundschulenGymnasienSonderschulenStadtteilschulenGrundschulenGrundschulenGrundschulenGrundschulenGrundschulenSonderschulenSonderschulenGrundschulenStadtteilschulen resultieren erhaltener Endgeräte verliehener bestellter,Schüler erhaltender Ganztagsgrundschule und Anzahlund Offene Weg Johannisland bestellter
+
+- Weg Am Haake Anzahl Behörde Forst der der Fischbek-FalkenbergSüderelbe Ehestorfer in Sinstorfer Neugraben Alten An Süderelbe Notebooks. zuständigen der von KapellenwegMaretstraßeRönneburg GrumbrechtstraßeArp-Schnitger-Stieg Marmstorf Süderelbe Neuland SchnuckendriftInNymphenwegHarburg Differenzen Bildung für 2021. Schulname GrundschuleSchuleSchuleSchuleStadtteilschuleStadtteilschuleSchuleSchuleGrundschule(GBS) SchuleGymnasiumReBBZStadtteilschuleSchuleGanztagsgrundschuleGeorg-Kerschensteiner-GrundschuleSchuleSchuleSchuleReBBZGrundschuleLessing-Stadtteilschule der Aprilinsbesondere
+16. Daten Stand Bezirk *Lieferzeiten Quelle:
